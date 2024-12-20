@@ -12,6 +12,7 @@ PROCEDURE POUR METTRE EN LIGNE UN NOUVEAU NUMERO
 - enlever si nécessaires les "leading zeros" sur les numéros de page
 - enlever si nécessaires les retour chariot dans titre / rubrique / citation
 - traiter les PDF manuellement s'il le faut 
+- modifier le répertoire dans le script "process_newissue.sh"
 - lancer le script "process_newissue.sh numero année pageRM" où pageRM est le numéro de page des Résumés Climatiques
 - modifier les xml si besoin en particulier si deux Echos démarrent sur meme page (ajouter b au deuxième écho)
 - positionner manuellement les articles en libre accès avec open_access = 0 dans le fichier xml destiné à RVT (River Valley Technology)
@@ -33,8 +34,8 @@ Onglet "Upload Issues": Browse, Upload, Process
 
 2/ UPDATE DIRECTORIES ON WEB SITE 
 - updater l'année de fin (yrend) dans le script saison.py quand on commence une nouvelle année des saisons cycloniques
-- générer les répertoires avec ./process.sh
-- uploader les répertoires sur le site
+- générer les répertoires avec ./process.sh => les répertoires se retrouvent dans output
+- uploader un par un les répertoires (fichiers *xml uniquement) sur le site
 weblink: https://lameteorologie.fr/admin/
 User name: meteo_admin
 Password: meteoclim@
