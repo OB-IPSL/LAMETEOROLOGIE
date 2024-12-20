@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Exlibris>
+<EXLIBRIS>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Boucher, Olivier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051975</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 1</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Editorial</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051975__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 1</MF_PAGE>
+<MF_RUBRIQUE>Éditorial</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>105</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258430</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Sylvestre-Baron, Annick</DOC_AUTEUR>
+<DOC_AUTEUR>Tavernier, Gilles</DOC_AUTEUR>
+<DOC_AUTEUR>Bonnefond, Pascal</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>océanographie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Mission spatiale</DOC_DC>
+<DOC_DC>Altimétrie satellitaire</DOC_DC>
+<DOC_DEE>Océanographie</DOC_DEE>
+<DOC_DEE>Niveau de la mer</DOC_DEE>
+<DOC_DEE>Surveillance du climat</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051976</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 2-3</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Sentinel-6, vers une quatrième décennie d&apos;observation du niveau des océans</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051976__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 2-3</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>562</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258431</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Fischer, Claude</DOC_AUTEUR>
+<DOC_AUTEUR>Pottier, Patricia</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Coopération internationale</DOC_DC>
+<DOC_DC>Phénomènes extrêmes</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Recherche scientifique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Consortium Accord</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051977</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 4-5</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un accord international historique en prévision numérique du temps</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051977__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 4-5</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>451</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258432</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Cloppet, Emmanuel</DOC_AUTEUR>
+<DOC_AUTEUR>Caroff, Philippe</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>information, alerte</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Information météorologique</DOC_DC>
+<DOC_DEE>Océan indien sud-ouest</DOC_DEE>
+<DOC_DEE>Alerte</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Prévision</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051978</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 6-7</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Mise en place du projet Crews Océan Indien</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051978__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 6-7</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>DIROI/D</MF_SERVICE>
+<MF_SERVICE>DIROI/PREVI</MF_SERVICE>
+<MF_TAILLE>1257</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258433</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michaël</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DEE>Record climatique</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>Réchauffement climatique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051979</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 8-9</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>2020, année la plus chaude en France depuis 1900</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051979__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 8-9</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE</MF_SERVICE>
+<MF_TAILLE>522</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258434</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>André, Jean-Claude</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>organisation météorologique</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Prix scientifique</DOC_DC>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051980</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 9</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Serge Planton lauréat du prix Gérard Mégie</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051980__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 9</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>151</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258435</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Renaut, Didier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>organisation météorologique</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Eumetsat</DOC_DC>
+<DOC_DEE>Organisation météorologique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051981</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 10</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Changement à la tête d&apos;Eumetsat</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051981__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 10</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>267</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258436</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Kerdoncuff, Mary</DOC_AUTEUR>
+<DOC_AUTEUR>Tocquer, Flore</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Services climatiques</DOC_DC>
+<DOC_DC>Projections climatiques</DOC_DC>
+<DOC_DC>Modélisation régionale</DOC_DC>
+<DOC_DC>Site internet</DOC_DC>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051982</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 10-11</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Le portail Drias fait peau neuve</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051982__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 10-11</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>DCSC/D</MF_SERVICE>
+<MF_SERVICE>DCSC/AVH</MF_SERVICE>
+<MF_TAILLE>432</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258437</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Bouniol, Dominique</DOC_AUTEUR>
+<DOC_AUTEUR>Couvreux, Fleur</DOC_AUTEUR>
+<DOC_AUTEUR>Hourdin, Frédéric</DOC_AUTEUR>
+<DOC_AUTEUR>Redelsperger, Jean-Luc</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DC>Mousson africaine</DOC_DC>
+<DOC_DC>Phénomènes convectifs</DOC_DC>
+<DOC_DC>Afrique de l&apos;Ouest</DOC_DC>
+<DOC_DEE>Carrière scientifique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>AMMA</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051983</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 12-13</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>En mémoire de Françoise Guichard-Kergoat</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051983__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 12-13</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>579</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258438</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Biographie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051984</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 13</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Hommage à Georges Dhonneur</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051984__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 13</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_TAILLE>260</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258439</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_CLASS2>météorologie générale et phénomènes météorologiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Turbulence de sillage</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Corse</DOC_DEE>
+<DOC_DEE>Nuage</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Prévision Arome</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051987</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 14</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Jeux de vents et de nuages autour de la Corse</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051987__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 14</MF_PAGE>
+<MF_RUBRIQUE>La photo du trimestre</MF_RUBRIQUE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258441</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Daudier, Morgane</DOC_AUTEUR>
+<DOC_AUTEUR>Gady, Sonia</DOC_AUTEUR>
+<DOC_AUTEUR>Vannier, Christian</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Remise de prix</DOC_DC>
+<DOC_DC>Transition écologique</DOC_DC>
+<DOC_DC>Changement climatique</DOC_DC>
+<DOC_DEE>Education</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051988</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 15-18</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Forum international de la météo et du climat 2020 : Une finale du prix de l&apos;éducation pour le climat dans un contexte inédit</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051988__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 15-18</MF_PAGE>
+<MF_RUBRIQUE>La vie de Météo et Climat</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>4814</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258442</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Marquet, Pascal</DOC_AUTEUR>
+<DOC_AUTEUR>Bro&#x017E;kov&#x00E1;, Radmila</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051989</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 19-20</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Jean-François Geleyn et la prévision numérique du temps</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051989__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 19-20</MF_PAGE>
+<MF_RUBRIQUE>Introduction</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>769</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258443</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Moch, Olivier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051990</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 21-22</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Oui, il faut honorer Jean-François Geleyn</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051990__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 21-22</MF_PAGE>
+<MF_RUBRIQUE>Préambule</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>364</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258444</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>La carrière scientifique de Jean-François Geleyn débute à l&apos;université de Mayence, où il acquit une formation complémentaire sur le rayonnement atmosphérique, après sa formation à l&apos;École nationale de la météorologie. À son retour à Paris, il enseigna son premier cours de rayonnement et expérimenta un premier schéma vertical de paramétrisations physiques. Recruté par le CEPMMT, il intégra la première équipe qui développa avec succès les paramétrisations physiques du modèle du Centre. Grâce à sa polyvalence sur tous les aspects de la prévision numérique, à ses qualités d&apos;analyse et de synthèse, il contribua très activement aux développements du modèle du Centre.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Rousseau, Daniel</DOC_AUTEUR>
+<DOC_AUTEUR>Jarraud, Michel</DOC_AUTEUR>
+<DOC_AUTEUR>Marquet, Pascal</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Paramétrisation physique</DOC_DC>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DEE>CEPMMT</DOC_DEE>
+<DOC_DEE>Rayonnement atmosphérique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051991</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 23-28</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les débuts de Jean-François Geleyn : Mayence, Paris et son expérience au CEPMMT</DOC_TITRE>
+<DOC_TITRE3>Jean-François Geleyn&apos;s beginnings: Mainz, Paris and his adventure at the ECMWF</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051991__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Jean-François Geleyn&apos;s scientific career began at the University of Mainz, where he received further training in atmospheric radiation, after his training at the National Meteorological School. On his return to Paris, he taught his first radiation course and experimented a first vertical scheme of physical parameterizations. Recruited by the ECMWF, he joined the first team who successfully developed the physical parameterizations of the ECMWF model. Thanks to his versatility in all aspects of numerical forecasting, his analytical and synthesis skills, he contributed very actively to the development of the ECMWF model.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>daniel.rousseau.met@orange.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 23-28</MF_PAGE>
+<MF_RUBRIQUE>Histoire</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>638</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258445</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>À la Météorologie nationale, trois modèles de prévision du projet Améthyste étaient opérationnels en 1980. Des innovations scientifiques, des échanges avec le Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) et l&apos;arrivée d&apos;un calculateur Cray-1 en 1983 incitèrent à développer de nouveaux modèles. Au début de l&apos;année 1985, le modèle spectral Émeraude et le modèle sur domaine limité Péridot remplacèrent les anciens modèles. L&apos;enthousiasme et la compétence de Jean-François Geleyn, permirent de renouveler en profondeur les paramétrisations physiques. Ces nouveaux modèles améliorèrent les prévisions jusqu&apos;au temps sensible. Enfin de nouvelles techniques de prévision numérique tant pour les modèles de prévision que pour l&apos;assimilation de données allaient ouvrir la voie aux projets Arpège et Aladin.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Coiffier, Jean</DOC_AUTEUR>
+<DOC_AUTEUR>Juvanon du Vachat, Régis</DOC_AUTEUR>
+<DOC_AUTEUR>Pailleux, Jean</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Paramétrisation physique</DOC_DC>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Sisyphe</DOC_DL>
+<DOC_DL>Emeraude</DOC_DL>
+<DOC_DL>Péridot</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051992</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 29-34</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>De Émeraude/Péridot à Arpège/Aladin</DOC_TITRE>
+<DOC_TITRE3>From the Émeraude/Péridot to Arpège/Aladin projects</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051992__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>At the Météorologie nationale, at the beginning of the 1980&apos;s, there were three operational models. Scientific innovation, fruitful exchanges with scientists at the European Centre for Medium Range Weather Forecasts (ECMWF) and the arrival of a Cray-1 computer in 1983 prompted to develop new models. At the beginning of year 1985 the Émeraude spectral model and the Péridot limited area model replaced the old models. The enthusiasm and the competence of Jean-François Geleyn enabled to deeply renew the physical parameterizations. These new models led to a substantial improvement of the forecasts including local screen level values. Finally new numerical weather prediction techniques both in numerical models and data assimilation were going to open the way for the new Arpège and Aladin projects.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean.coiffier@free.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 29-34</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>934</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258446</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>À Météo-France, la décennie 1985-1995 a vu une profonde transformation de la prévision numérique du temps (PNT) qui a d&apos;abord conduit au remplacement des modèles de prévision opérationnels Émeraude et Péridot par Arpège et Aladin. Dans la même période, un vaste programme de recherche et de développement a été lancé conjointement avec le CEPMMT concernant l&apos;initialisation des modèles par des techniques d&apos;assimilation de données dites « variationnelles ». Cette période a été aussi marquée par un virage vers beaucoup plus de coopération entre institutions travaillant sur la PNT dans les différents pays européens. Jean-François Geleyn s&apos;est trouvé en première ligne de cette profonde transformation, toujours impliqué dans les décisions stratégiques, mais aussi souvent impliqué comme expert dans les études et développements touchant plusieurs aspects scientifiques.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Pailleux, Jean</DOC_AUTEUR>
+<DOC_AUTEUR>Coiffier, Jean</DOC_AUTEUR>
+<DOC_AUTEUR>Courtier, Philippe</DOC_AUTEUR>
+<DOC_AUTEUR>Legrand, Emmanuel</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DEE>Méthode variationnelle d'assimilation</DOC_DEE>
+<DOC_DEE>Données satellitaires</DOC_DEE>
+<DOC_DEE>Maille variable</DOC_DEE>
+<DOC_DEE>Modèle spectral</DOC_DEE>
+<DOC_DEE>Organisation météorologique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>COMPAS</DOC_DL>
+<DOC_DL>GMAP</DOC_DL>
+<DOC_DL>Arpège-IFS</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051993</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 35-40</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La naissance du projet Arpège-IFS à Météo-France et au CEPMMT</DOC_TITRE>
+<DOC_TITRE3>The birth of the Arpège-IFS project at Météo-France and at ECMWF</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051993__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>At Météo-France, the 1985-1995 decade was marked by a complete transformation of Numerical Weather Prediction (NWP) which led first to the replacement of the operational models Émeraude and Péridot by Arpège and Aladin. In the same period, a large research and development programme was initiated jointly with ECMWF on model initialisation through so-called &apos;variational&apos; assimilation techniques. This period was also marked by an important change towards closer cooperation between the different institutions working on NWP in European countries. Jean-François Geleyn was instrumental in this complete transformation of NWP. He was always involved in the strategic decisions, but also as an expert in the studies and developments on several scientific aspects.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean.pailleux@free.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 35-40</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CM</MF_SERVICE>
+<MF_TAILLE>768</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258447</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Jean-François Geleyn a joué un rôle central dans la création et le fonctionnement de la coopération Aladin sur la prévision numérique du temps (PNT). Le projet Aladin a non seulement développé des outils de prévision numérique du temps à court terme, qui pouvaient être utilisés pour la prévision numérique opérationnelle, mais a également instauré un lien durable entre ses participants. Dans cet article, nous rendons hommage à Jean-François avec notre récit historique et parfois personnel des premières années de la coopération. Nous reconnaissons et soulignons que Jean-François n&apos;a pas seulement créé et façonné la coopération elle-même, mais qu&apos;il a également influencé la carrière et la vie de beaucoup des scientifiques appartenant aux instituts participant à ce projet.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Horányi, András</DOC_AUTEUR>
+<DOC_AUTEUR>Bro&#x017E;kov&#x00E1;, Radmila</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Modèle à aire limitée</DOC_DC>
+<DOC_DC>Coopération internationale</DOC_DC>
+<DOC_DC>Europe de l&apos;Est</DOC_DC>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Aladin</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051994</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 41-46</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Naissances du modèle et de la coopération Aladin</DOC_TITRE>
+<DOC_TITRE3>Birth of the Aladin model and cooperation</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051994__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Jean-François Geleyn had a pivotal role in the creation and running of the Aladin Numerical Weather Prediction (NWP) cooperation. The Aladin project not only developed short-range NWP tools, which could be used for operational numerical forecasting, but also instilled a long-lasting bond among its participants. In this article we pay tribute to Jean-François with our historical and sometimes personal account of the early years of the cooperation. We acknowledge and stress that Jean-François not only created and shaped the cooperation itself, but also influenced the career and life of many scientists from the participating institutes.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 41-46</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1382</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258448</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Au cours de ses années à la direction du Groupe de modélisation et d&apos;assimilation pour la prévision (Gmap), Jean-François Geleyn dirigea avec enthousiasme, dynamisme, efficacité et une grande expertise la préparation de toutes les évolutions des systèmes opérationnels de prévision numérique du temps Arpège et Aladin. Plusieurs évolutions majeures furent implémentées en opérationnel au cours de cette période. La contribution de Jean-François Geleyn fut notamment remarquable sur le noyau dynamique, le post-traitement des prévisions, leur évaluation et tout particulièrement les paramétrisations physiques des modèles de prévision. Il coordonna en effet tous les travaux de recherche et développement sur les paramétrisations physiques des modèles Arpège et Aladin et sur les paramétrisations physiques linéarisées développées pour l&apos;analyse 4D-Var dans son groupe et chez les partenaires Aladin.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Bouyssel, François</DOC_AUTEUR>
+<DOC_AUTEUR>Janisková, Marta</DOC_AUTEUR>
+<DOC_AUTEUR>Bazile, Éric</DOC_AUTEUR>
+<DOC_AUTEUR>Bouteloup, Yves</DOC_AUTEUR>
+<DOC_AUTEUR>Piriou, Jean-Marcel</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Paramétrisation physique</DOC_DC>
+<DOC_DC>Schéma de rayonnement</DOC_DC>
+<DOC_DC>Physique linéarisée</DOC_DC>
+<DOC_DC>Carrière scientifique</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Arpège</DOC_DL>
+<DOC_DL>Cycora</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051995</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 47-54</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>L&apos;évolution opérationnelle du modèle Arpège et de ses paramétrisations physiques</DOC_TITRE>
+<DOC_TITRE3>The operational evolution of the Arpège model and its physical parameterisations</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051995__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Over the years when Jean-François Geleyn was the head of GMAP he led with great enthusiasm, dynamism, efficiency and expertise the preparation of all the evolutions of operational numerical weather prediction (NWP) systems of Arpège and Aladin. Several major changes were implemented operationally during this period. Jean-François Geleyn&apos;s contribution was remarkable in several topics such as the dynamical core, the post-processing of weather predictions, their validation, and especially the physical parameterizations of the numerical weather predictions models. In principle, he coordinated all the research and development activities on physical parameterizations for Arpège and Aladin NWP models and on the linearized physical parameterizations developed for the 4D-Var analysis in his group and among the Aladin partners.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>francois.bouyssel@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 47-54</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>1258</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258449</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Un aspect relativement peu connu de l&apos;implication de Jean-François Geleyn pour les progrès de la prévision numérique du temps est sa participation active à l&apos;ensemble des travaux ayant permis de s&apos;affranchir de l&apos;hypothèse hydrostatique dans les équations gouvernant la dynamique du fluide atmosphérique utilisées dans les modèles de prévision. Il se trouve être l&apos;un des contributeurs de ce qui deviendra le modèle Arome actuel, pour ce qui est de la dynamique. Les étapes pour parvenir à ces avancées et contourner les écueils rencontrés tour à tour sont décrites ici.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Bénard, Pierre</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DEE>Modèle non-hydrostatique</DOC_DEE>
+<DOC_DEE>Modèle Méso-NH</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Aladin-NH</DOC_DL>
+<DOC_DL>Arome</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051996</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 55-62</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les aspects non hydrostatiques pour Aladin, Arome et Arpège</DOC_TITRE>
+<DOC_TITRE3>Non-hydrostatic aspects for Aladin, Arome and Arpège</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051996__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>A relatively little-known facet of Jean-François Geleyn&apos;s implication in the progress of numerical weather prediction is his active participation to works which led to relaxing the hydrostatic approximation in governing equations of the atmospheric fluid as used in forecast models. He thus appears to be one of the contributors of what will become the currently-used Arome model&apos;s dynamic. The steps to reach this goal and avoid various pitfalls on the path are described here.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>pierre.benard@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 55-62</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>243</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258450</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Jean-François Geleyn a dirigé le consortium international d&apos;Aladin de 1990 à 2010, d&apos;abord de manière informelle, puis, plus tard, en tant que directeur du programme. Ce consortium était une collaboration de 16 instituts météorologiques nationaux européens et nord-africains qui ont développé et maintenu le système de prévision météorologique numérique d&apos;Aladin. Bien que de nombreuses personnes aient contribué à cette collaboration, son succès exceptionnel est le résultat des efforts inlassables de Jean-François Geleyn, de ses facultés intellectuelles exceptionnelles et de son dévouement humain unique pour ce programme. Ses efforts ont constitué la base de la collaboration avec le consortium Hirlam, qui a finalement abouti à un nouveau consortium de 26 pays pour la prévision météorologique numérique.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Termonia, Piet</DOC_AUTEUR>
+<DOC_AUTEUR>Pottier, Patricia</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Afrique du Nord</DOC_DC>
+<DOC_DC>Coopération internationale</DOC_DC>
+<DOC_DC>Modèle à aire limitée</DOC_DC>
+<DOC_DC>Zone grise</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DEE>Europe</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Hirlam</DOC_DL>
+<DOC_DL>Aladin</DOC_DL>
+<DOC_DL>Alaro</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051997</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 63-67</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Jean-François Geleyn, fondateur et premier directeur de programme d&apos;Aladin</DOC_TITRE>
+<DOC_TITRE3>Jean-François Geleyn, founder and first programme director of Aladin</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051997__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Jean-François Geleyn has been leading the international Aladin consortium from 1990 until 2010, first informally and then later, as the Program Manager. This consortium was a collaboration of 16 European and North-African national meteorological institutes that developed and maintained the Aladin numerical-weather prediction system. While many people contributed to this collaboration, its outstanding success was the result of Jean-François Geleyn&apos;s tireless efforts, his exceptional intellect and his unique human dedication to the program. His efforts formed the basis for the collaboration with the Hirlam consortium that ultimately led to a new consortium of 26 countries for numerical weather prediction.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>piet.termonia@meteo.be</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 63-67</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>698</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258451</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Cet article résume les activités de Jean-François Geleyn qui ont abouti à un schéma de rayonnement de pointe adapté à la prévision numérique du temps. L&apos;objectif principal - traiter les interactions nuage-rayonnement - a été atteint grâce à une amélioration considérable de l&apos;approche à bandes larges (la vision avec deux seuls intervalles spectraux, l&apos;un pour les courtes longueurs d&apos;onde pour le rayonnement solaire, l&apos;autre pour les grandes longueurs d&apos;onde pour le rayonnement thermique), en ouvrant la voie à un appel intermittent du schéma dans le temps. Le schéma qui en résulte offre une alternative compétitive par rapport aux approches traditionnelles en « k-distribution corrélée » utilisant des méthodes plus précises mais plus coûteuses, méthodes qui ne permettent pas la mise à jour en temps réel des effets radiatifs des nuages.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Ma&#x0161;ek, Ján</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Schéma de rayonnement</DOC_DC>
+<DOC_DC>Interaction nuage-rayonnement</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Acraneb2</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051998</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 68-78</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les travaux de Jean-François Geleyn sur la paramétrisation du rayonnement atmosphérique</DOC_TITRE>
+<DOC_TITRE3>The work of Jean-François Geleyn on the parameterisation of atmospheric radiation</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051998__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The paper summarizes the activities of Jean-François Geleyn leading to a state-of-the-art radiation scheme tailored for numerical weather prediction. The main goal - dealing with cloud-radiation interactions - was reached thanks to significant improvements to the broadband approach allowing for single shortwave and single longwave intervals, opening a way to selective intermittency. The resulting scheme offers an alternative competitive to the mainstream approach that uses very accurate but expensive correlated k-distribution method, not allowing for timely update of cloud radiative effects.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jan.masek@chmi.cz</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 68-78</MF_PAGE>
+<MF_RUBRIQUE>Physique atmosphérique</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>573</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258452</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Le schéma de turbulence Toucans est utilisé dans la configuration opérationnelle Alaro du modèle Aladin depuis début 2015. Son développement a été initié, guidé et en grande partie conçu par Jean-François Geleyn. Ce développement a commencé avec le prédécesseur du schéma Toucans, le schéma « pseudo-pronostique » en énergie cinétique turbulente, lui-même basé sur l&apos;ancien schéma de turbulence de Louis, mais étendu dans Toucans à un schéma pronostique.
+Le schéma Toucans a pour objectif de traiter de manière cohérente les fonctions qui dépendent de la stabilité verticale de l&apos;atmosphère, de l&apos;influence de l&apos;humidité et des échelles de longueur de la turbulence (de mélange et de dissipation). De plus, de nouvelles caractéristiques ont été ajoutées : une représentation améliorée pour les stratifications très stables (absence de nombre de Richardson critique), une meilleure représentation de l&apos;anisotropie, un paramétrage unifié de la turbulence et des nuages par l&apos;ajout d&apos;une deuxième énergie turbulente pronostique et la paramétrisation des moments du troisième ordre.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Ba&#x0161;ták &#x010E;urán, Ivan</DOC_AUTEUR>
+<DOC_AUTEUR>Marquet, Pascal</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Paramétrisation physique</DOC_DC>
+<DOC_DC>Schéma de turbulence</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Toucans</DOC_DL>
+<DOC_DL>Alaro</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051999</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 79-86</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les travaux sur la turbulence : les origines, Toucans, Cost-ES0905 et influence de l&apos;entropie</DOC_TITRE>
+<DOC_TITRE3>The works on turbulence: the origins, Toucans, Cost-ES0905 and the influence of entropy</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051999__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The Toucans turbulence scheme is a turbulence scheme that is used in the operational Alaro configuration of the Aladin model since early 2015. Its development was initiated, guided and to a large extend authored by Jean-François Geleyn. The development started with the predecessor of the Toucans scheme, the &quot;pseudo-prognostic&quot; turbulent kinetic energy scheme which itself was built on the &quot;Louis&quot; turbulence scheme, but extended to a prognostic scheme. The Toucans scheme aims for a consistent treatment of stability dependency functions, influence of moisture, and turbulence length scales. Additionally, new features were added to the turbulence scheme: improved representation of turbulence in very stable stratification (absence of critical gradient Richardson number), better representation of anisotropy, unified parameterization of turbulence and clouds via addition of second prognostic turbulence energy, and parameterization of third order moments.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 79-86</MF_PAGE>
+<MF_RUBRIQUE>Physique atmosphérique</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>478</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258453</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Jean-François Geleyn s&apos;est intéressé durant des décennies à la prévision de la convection atmosphérique, et particulièrement à la façon de la paramétriser dans les modèles de prévision numérique du temps. Il s&apos;y est intéressé tant au niveau des concepts que des équations et de l&apos;algorithmique permettant de résoudre celles-ci de façon stable et efficace. Aux qualités scientifiques de Jean-François Geleyn s&apos;ajoutait un caractère enthousiaste et communicatif, de sorte qu&apos;il a embarqué dans son aventure des générations d&apos;étudiants et de développeurs.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Piriou, Jean-Marcel</DOC_AUTEUR>
+<DOC_AUTEUR>Bro&#x017E;kov&#x00E1;, Radmila</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Paramétrisation de la convection</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DEE>Histoire de la météorologie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Schéma 3MT</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052000</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 87-93</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les travaux de Jean-François Geleyn sur la convection</DOC_TITRE>
+<DOC_TITRE3>The work of Jean-François Geleyn on convection</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052000__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Jean-François Geleyn has been interested for decades in forecasting atmospheric convection, and particularly in how to parameterize it in numerical weather prediction models. He has been interested in the concepts, equations and algorithms to solve them in a stable and efficient way. He was also enthusiastic and communicative, so that generations of students and developers have embarked on his adventure.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean-marcel.piriou@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 87-93</MF_PAGE>
+<MF_RUBRIQUE>Physique atmosphérique</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1047</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258454</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-09</DATM>
+<DOC_AB>Jean-François Geleyn avait un lien fort avec la Belgique à travers les activités du consortium Aladin. Lorsque l&apos;université de Gand a lancé un programme de troisième cycle sur la météorologie et la prévision numérique du temps en 2007, il est devenu professeur invité et l&apos;un des principaux moteurs de la création de ce programme  universitaire. Plus tard, ce programme a été étendu à la modélisation du climat. De nombreux experts de l&apos;Institut royal météorologique de Belgique ont suivi ses cours. Récemment, les activités de l&apos;université de Gand ont servi de base à la création de l&apos;Unité de physique de l&apos;atmosphère dans le Département de physique et d&apos;astronomie.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Caluwaerts, Steven</DOC_AUTEUR>
+<DOC_AUTEUR>Degrauwe, Daan</DOC_AUTEUR>
+<DOC_AUTEUR>Termonia, Piet</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Enseignement de la météorologie</DOC_DC>
+<DOC_DC>Modélisation de l&apos;atmosphère</DOC_DC>
+<DOC_DC>Hommage</DOC_DC>
+<DOC_DEE>Belgique</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052001</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 94-96</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Jean-François Geleyn, professeur à l&apos;université de Gand</DOC_TITRE>
+<DOC_TITRE3>Jean-François Geleyn, professor at Ghent university</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052001__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Jean-François Geleyn had a strong link with Belgium through the activities of the ALADIN consortium. When Ghent university started a postgraduate program on meteorology and numerical weather prediction in 2007 he became a guest professor and one of the main driving forces of the creation of this academic program. Later the curriculum of this program was extented to include climate modeling. Many experts at the Royal Meteorological Institute of Belgium followed his courses. Recently, the activities at Ghent university formed the basis for the creation of the Atmospheric Physics Unit within the Department of Physics and Astronomy.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>Piet.Termonia@UGent.be</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 94-96</MF_PAGE>
+<MF_RUBRIQUE>Histoire</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>436</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258455</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Javelle, Jean-Pierre</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COMMENT>OUVRAGES : 
+Les révoltes du ciel : histoire du changement climatique (XVe-XXe siècle). Par Jean-Baptiste Fressoz et Fabien Locher / 
+Introduction au rayonnement solaire. Par Lucien Wald / 
+Adaptation au changement climatique et projet urbain. Sous la direction de Solène Marry / 
+Réparer le climat. Sous la direction d&apos;Éric Fottorino / 
+Chaud devant ! Bobards et savoirs sur le climat. Par Jean-François Viot / 
+Clouds and climate: climate science&apos;s greatest challenge. Sous la direction de A. Pier Siebesma, Sandrine Bony, Christian Jakob et Blorn Stevens / 
+Beyond global warming: how numerical models revealed the secrets of climate change. Par Syukuro Manabe et Anthony J. Broccoli / 
+REVUES : 
+L&apos;observatoire météorologique de Magny-les-Hameaux : quarante ans de recherches en instrumentation et en physique de l&apos;atmosphère. Par Marc Gillet, Philippe Garnier, Claude Niclot, Nadine Cénac, Jean-Louis Champeaux et Guy Sennequier. Arc-en-ciel, numéro spécial n° 13, octobre 2020 / 
+La correspondance entre Léon Philippe Teisserenc de Bort et Hugo Hildebrand Hildebrandsson : fin XIXe, début du XXe siècle : fascicule 1. Par Michel Beaurepaire. Arc-en-ciel, numéro spécial n° 12, septembre 2020 /
+THESES : 
+Marylou Athanase : On the recent evolution of Atlantic Water at the entrance to the Arctic Ocean. Thèse de Sorbonne Université /
+Damien Specq : Prévisibilité des fortes précipitations aux échéances infra-saisonnières sur le Pacifique Sud-Ouest tropical. Thèse de l&apos;université de Toulouse / 
+Mohamed Saadi : Représentation de l&apos;urbanisation dans la modélisation hydrologique à l&apos;échelle du bassin-versant. Thèse de Sorbonne Université / 
+Victor Rousseau : Étude des interactions océan-atmosphère sur le Gulf Stream : apport de la haute résolution sur la représentation des mécanismes physiques et des impacts climatiques. Thèse de l&apos;université de Toulouse / 
+Clément Soufflet : Étude des interactions des ondes de montagne piégées avec la couche limite. Thèse de l&apos;université Paris Sciences &amp; Lettres / 
+Thurian Le Du : Observations multi-instrumentales pour l&apos;étude de la dynamique atmosphérique dans la haute atmosphère. Thèse de l&apos;université Paris-Saclay / 
+Erik Höjgård-Olsen : Observations du cycle de l&apos;eau atmosphérique tropicale et de ses variations avec la température de surface de la mer, à l&apos;aide d&apos;une constellation de satellites. Thèse de l&apos;université Paris-Saclay / 
+Yamina Hamidi : Détection de la texture des précipitations et des nébulosités avec des méthodes d&apos;apprentissage statistique : application aux prévisions du modèle Arome. Thèse de l&apos;université de Toulouse / 
+Nicolas Blanchard : Convection dans une bande transporteuse d&apos;air chaud : caractérisation et impacts sur la dynamique d&apos;altitude. Thèse de l&apos;université de Toulouse / 
+Zied Sassi : Apport de la synergie des observations satellitaires pour la définition de la température de surface en prévision numérique. Thèse de l&apos;université de Toulouse / 
+Marc Mandement : Apport des données d&apos;objets connectés pour l&apos;étude de la convection profonde à fine échelle. Thèse de l&apos;université de Toulouse / 
+Ivana Aleksova : Améliorer les prévisions à court et moyen termes des modèles agronomiques en prenant mieux en compte l&apos;incertitude des prévisions météorologiques. Thèse de l&apos;université de Toulouse / 
+Félix Erdmann : Préparation à l&apos;utilisation des observations de l&apos;imageur d&apos;éclairs de Météosat Troisième Génération pour la prévision numérique à courte échéance. Thèse de l&apos;université de Toulouse / 
+Matthias Rocher : Évaluation des pratiques agricoles comme levier d&apos;action contre le réchauffement climatique : apport de la modélisation à l&apos;échelle globale. Thèse de l&apos;université de Toulouse / 
+Bich Ngoc Trinh : Cycles de l&apos;eau, de la chaleur et du sel en Mer de Chine Méridionale, de la variation saisonnière à la variabilité interannuelle : modélisation océanique à haute résolution et à bilan fermé. Thèse de l&apos;université de Toulouse / 
+Clément Strauss : Quelle turbulence sur les bords des nuages convectifs ? Thèse de l&apos;université de Toulouse / 
+Bertrand Cluzet : Assimilation de réflectances optiques satellitaires et de hauteurs de neige in situ dans des simulations d&apos;ensemble spatialisées du manteau neigeux saisonnier. Thèse de l&apos;université de Toulouse / 
+Daniel Shamambo : Assimilation de données satellitaires pour le suivi des ressources en eau dans la zone Euro-Méditerranée. Thèse de l&apos;université de Toulouse / 
+Stavros Dafis : Contribution of deep convection in the intensification of Mediterranean tropical-like cyclones. Thèse de l&apos;Institut polytechnique de Paris / 
+Duc Dung Tran : Study of the absorption spectrum of oxygen in the near infrared and application to greenhouse gases remote sensing in the atmosphere. Thèse de Sorbonne Université / 
+Mayeul Destouches : Prise en compte des hydrométéores dans un schéma d&apos;assimilation variationnel ensembliste appliqué au modèle de prévision Arome. Thèse de l&apos;université de Toulouse / 
+Laurent Bigaignon : Étude de l&apos;impact de la variabilité climatique et de la pression anthropique liée à l&apos;agriculture sur les émissions de N2O. Thèse de l&apos;université de Toulouse / 
+Michel Le Page : Une contribution pour l&apos;utilisation de la télédétection spatiale à la gestion de l&apos;eau agricole. Thèse de l&apos;université de Toulouse.</DOC_COMMENT>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052003</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 97-99</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Vient de paraître</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052003__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 97-99</MF_PAGE>
+<MF_RUBRIQUE>Vient de paraître</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1047</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258456</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Tempête tropicale</DOC_DC>
+<DOC_DC>Bilan saisonnier</DOC_DC>
+<DOC_DEE>Océan indien sud-ouest</DOC_DEE>
+<DOC_DEE>Océan indien sud-est</DOC_DEE>
+<DOC_DEE>La Réunion</DOC_DEE>
+<DOC_DEE>Madagascar</DOC_DEE>
+<DOC_DEE>Maurice</DOC_DEE>
+<DOC_DEE>Seychelles</DOC_DEE>
+<DOC_DEE>Australie</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Trajectoire</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052004</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 100-108</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Océan Indien sud 2019-2020 : Une saison peu active malgré un nombre de phénomènes dans les normes</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052004__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 100-108</MF_PAGE>
+<MF_RUBRIQUE>Saison cyclonique</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>2068</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258457</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Médicane</DOC_DC>
+<DOC_DC>Sédiments marins</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052005</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 109-110</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Septembre 2020 : Medicane Ianos ; Les couleurs de la baie James</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052005__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 109-110</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>934</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258458</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Episode méditerranéen</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Nuage</DOC_DEE>
+<DOC_DEE>Australie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_DL>Morning glory</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052006</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 111-112</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Octobre 2020 : La tempête Alex ; Gloire du matin</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052006__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 111-112</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>1012</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258459</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Afrique de l&apos;Est</DOC_DC>
+<DOC_DC>Cellules orageuses</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Somalie</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052007</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 113-114</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Novembre 2020 : Cyclone Gati ; Un soir d&apos;orages</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052007__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 113-114</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>853</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258460</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AB>Durant cet automne 2020, la France est concernée par trois phénomènes météorologiques exceptionnels. Tout d&apos;abord, le 19 septembre, un épisode cévenol intense apporte 700 mm en 12 heures sur la région de Valleraugue. Puis, le 1er octobre, la tempête Alex traverse le nord-ouest de la France, où les rafales atteignent 186 km/h à Belle-Île-en-Mer en raison de la présence d&apos;un sting jet. Le lendemain, un nouvel épisode fortement précipitant déverse localement 500 mm de pluie sur les Alpes-Maritimes. Ces trois phénomènes ont tous relevé d&apos;une vigilance rouge.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michaël</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>étude de situation météorologique</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Episode méditerranéen</DOC_DC>
+<DOC_DC>Fortes précipitations</DOC_DC>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Prévisibilité d'un événement</DOC_DEE>
+<DOC_DEE>Carte analysée</DOC_DEE>
+<DOC_DEE>Etude d'événement particulier</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052008</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 115-124</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Trois phénomènes météorologiques exceptionnels durant l&apos;automne 2020</DOC_TITRE>
+<DOC_TITRE3>Three exceptional weather events in autumn 2020</DOC_TITRE3>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052008__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>During fall 2020, France is concerned by three extreme weather events. First, on september 19th, an intense cévenol event brings 700 mm in 12 hours over Valleraugue area. Then, on October the 1 st, Alex windstorm crosses northwestern France where gusts reach 186 km/h over Belle-Île-en-Mer because of the occurrence of a sting jet. The day after, a new heavy precipitation event spills a 500 mm rainfall locally over Alpes-Maritimes. All those three events received a red warning.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 115-124</MF_PAGE>
+<MF_RUBRIQUE>Retour sur...</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE</MF_SERVICE>
+<MF_TAILLE>6119</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258461</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2021-02-08</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2021</DOC_AN_EDIT>
+<DOC_AUTFN3>-</DOC_AUTFN3>
+<DOC_AUTFN3>-</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France/DCSC</DOC_AUTMORAL>
+<DOC_AUTMORAL>Mercator Océan</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2021-02-08</DOC_DAT_CREAT>
+<DOC_DC>Régime de temps</DOC_DC>
+<DOC_DC>Anomalie climatique</DOC_DC>
+<DOC_DC>Oscillations océaniques</DOC_DC>
+<DOC_DC>Température de surface de la mer</DOC_DC>
+<DOC_DC>Extension de la banquise</DOC_DC>
+<DOC_DC>Bilan climatique</DOC_DC>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>externe</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2021-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>112</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2021</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00052009</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 125-133</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Septembre à novembre 2020</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2021-02-08</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00052009__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 125-133</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_TAILLE>4525</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>258462</FT_CID>
+</NOTICE>
+</EXLIBRIS>

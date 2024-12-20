@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="125">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2024</annee>
+  <mois>05</mois>
+  <numero>125</numero>
+  <url_pdf>meteo_2024_125_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2024-0022</doi>
+  <url_pdf>meteo_2024_125_1.pdf</url_pdf>
+  <citation>Soula, Serge. Éditorial. La Météorologie, 125, 1, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La mission spatiale C³IEL pour l'étude des nuages convectifs</titre>
+  <auteur>Cornet, Céline</auteur>
+  <auteur>Defer, Eric</auteur>
+  <auteur>Ricard, Didier</auteur>
+  <auteur>Cheymol, Céline</auteur>
+  <auteur>Deschamps, Adrien</auteur>
+  <auteur>Gillot, Laurène</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>2</pages>
+  <doi>10.37053/lameteorologie-2024-0023</doi>
+  <url_pdf>meteo_2024_125_2.pdf</url_pdf>
+  <citation>Cornet, Céline ; Defer, Eric ; Ricard, Didier ; Cheymol, Céline ; Deschamps, Adrien ; Gillot, Laurène. La mission spatiale C³IEL pour l'étude des nuages convectifs. La Météorologie, 125, 2, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Observation météorologique, Télédétection satellitaire, Nuage convectif, Contenu intégré de vapeur d'eau, Mission spatiale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Snapo-CO2 : une nouvelle base de données océaniques d'alcalinité et de carbone inorganique dissous dans l'océan</titre>
+  <auteur>Metzl, Nicolas</auteur>
+  <auteur>Lo Monaco, Claire</auteur>
+  <auteur>Mignon, Claude</auteur>
+  <auteur>Fin, Jonathan</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>3</pages>
+  <doi>10.37053/lameteorologie-2024-0024</doi>
+  <url_pdf>meteo_2024_125_3.pdf</url_pdf>
+  <citation>Metzl, Nicolas ; Lo Monaco, Claire ; Mignon, Claude ; Fin, Jonathan. Snapo-CO2 : une nouvelle base de données océaniques d'alcalinité et de carbone inorganique dissous dans l'océan. La Météorologie, 125, 3, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Base de données, Campagne de mesure océanographique, CO2 océanique, Acidification des océans, Puits de carbone</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Chaleurs extrêmes en Europe de l'Ouest : une évolution qui intrigue</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>4-6</pages>
+  <doi>10.37053/lameteorologie-2024-0025</doi>
+  <url_pdf>meteo_2024_125_4.pdf</url_pdf>
+  <citation>Altendorf, Damien. Chaleurs extrêmes en Europe de l'Ouest : une évolution qui intrigue. La Météorologie, 125, 4-6, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Vague de chaleur, Changement climatique, Europe de l'ouest, Évènement extrême, Circulation atmosphérique, Variabilité naturelle, Fréquence des dépressions</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>S'il pleut à la Saint-Médard, pleut-il vraiment 40 jours plus tard ?</titre>
+  <auteur>Jean, Florianne</auteur>
+  <auteur>Mittelberger, Simon</auteur>
+  <auteur>Sorel, Matthieu</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2024-0026</doi>
+  <url_pdf>meteo_2024_125_7.pdf</url_pdf>
+  <citation>Jean, Florianne ; Mittelberger, Simon ; Sorel, Matthieu. S'il pleut à la Saint-Médard, pleut-il vraiment 40 jours plus tard ?. La Météorologie, 125, 7-8, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Dicton météorologique, Précipitations, Statistiques climatiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>L'observatoire du mont Aigoual devient le Climatographe</titre>
+  <auteur>Salas y Mélia, David</auteur>
+  <auteur>Bonnard, Laurent</auteur>
+  <auteur>Lachaud, Guy</auteur>
+  <auteur>Vimpère, Chantal</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>8-10</pages>
+  <doi>10.37053/lameteorologie-2024-0027</doi>
+  <url_pdf>meteo_2024_125_8.pdf</url_pdf>
+  <citation>Salas y Mélia, David ; Bonnard, Laurent ; Lachaud, Guy ; Vimpère, Chantal. L'observatoire du mont Aigoual devient le Climatographe. La Météorologie, 125, 8-10, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Diffusion scientifique, Exposition, Changement climatique, Mont Aigoual, Observatoire météorologique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Activité orageuse exceptionnelle à l'automne 2023 en Nouvelle-Aquitaine</titre>
+  <auteur>Pédeboy, Stéphane</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>11-13</pages>
+  <doi>10.37053/lameteorologie-2024-0028</doi>
+  <url_pdf>meteo_2024_125_11.pdf</url_pdf>
+  <citation>Pédeboy, Stéphane. Activité orageuse exceptionnelle à l'automne 2023 en Nouvelle-Aquitaine. La Météorologie, 125, 11-13, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Orage, Étude d'évènement particulier, Foudre, Record climatique, Décharge électrique, Dipôle négatif</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Sécheresse dans les Pyrénées-Orientales : un hiver toujours aussi sec</titre>
+  <auteur>Mittelberger, Simon</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>13-15</pages>
+  <doi>10.37053/lameteorologie-2024-0029</doi>
+  <url_pdf>meteo_2024_125_13.pdf</url_pdf>
+  <citation>Mittelberger, Simon. Sécheresse dans les Pyrénées-Orientales : un hiver toujours aussi sec. La Météorologie, 125, 13-15, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Sécheresse, Humidité du sol, Ressources en eau, Pyrénées-Orientales, Languedoc-Roussillon</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Pluie verglaçante</titre>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>16</pages>
+  <doi>10.37053/lameteorologie-2024-0030</doi>
+  <url_pdf>meteo_2024_125_16.pdf</url_pdf>
+  <citation>Pluie verglaçante. La Météorologie, 125, 16, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Pluie verglaçante</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>L'Assemblée générale 2024 de Météo et Climat</titre>
+  <auteur>Gady, Sonia</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>17-18</pages>
+  <doi>10.37053/lameteorologie-2024-0031</doi>
+  <url_pdf>meteo_2024_125_17.pdf</url_pdf>
+  <citation>Gady, Sonia. L'Assemblée générale 2024 de Météo et Climat. La Météorologie, 125, 17-18, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Activités, Bilan annuel, SMF, Météo et Climat</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Les océans au bord de la crise d'asthme</titre>
+  <titre_en>The oceans on the verge of an asthma attack</titre_en>
+  <auteur>Aloisi, Giovanni</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>19-26</pages>
+  <doi>10.37053/lameteorologie-2024-0032</doi>
+  <url_pdf>meteo_2024_125_19.pdf</url_pdf>
+  <citation>Aloisi, Giovanni. Les océans au bord de la crise d'asthme. La Météorologie, 125, 19-26, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Vulgarisation scientifique, Histoire des sciences, Communication, Changement climatique, Émissions de CO2, Acidification des océans, Désoxygénation des océans, Analogie océan - corps humain</mots_cles>
+  <resume_fr>L'acidification et la désoxygénation des océans sont des conséquences des émissions anthropiques de CO2 qui restent largement méconnues du grand public. Cela s'explique par la complexité des processus physiques et chimiques mis en jeu. Communiquer sur ces enjeux nécessite d'utiliser un langage simple et psychologiquement efficace. Ici, je propose de revisiter la tradition philosophique ancienne qui conceptualise la Terre (macrocosme) comme étant une copie à grande échelle du corps humain (microcosme). Un système unique d'équations mathématiques existe permettant de calculer à la fois la composition chimique du corps humain et de l'océan, fournissant des bases solides à cette analogie. L'acidification et la désoxygénation des océans peuvent ainsi être expliquées comme étant le résultat d'une attaque d'asthme à l'échelle planétaire, fournissant aux communicateurs un outil qui introduit des processus océaniques complexes utilisant un vocabulaire accessible au grand public.</resume_fr>
+  <resume_en>Ocean acidification and deoxygenation are consequences of anthropogenic CO2 emissions that remain largely unknown to the general public. This is due to the complexity of the physical and chemical processes involved. Communicating these issues requires simple, psychologically effective language. I revisited the ancient philosophical tradition that conceptualizes the Earth (macrocosm) as a large-scale copy of the human body (microcosm). A unique system of mathematical equations exists that calculates the chemical composition of both the human body and the ocean, providing a solid foundation for this analogy. Ocean acidification and deoxygenation can thus be explained as the result of a planetary-scale asthma attack, providing communicators with a tool that introduces these complex oceanic processes using a vocabulary accessible to the general public.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Pollution atmosphérique</rubrique>
+  <titre>Origine anthropique des composés terpénoïdes en atmosphère urbaine</titre>
+  <titre_en>Anthropogenic origin of terpenoids compounds in the urban atmosphere</titre_en>
+  <auteur>Borbon, Agnès</auteur>
+  <auteur>Farhat, Mariana</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>27-35</pages>
+  <doi>10.37053/lameteorologie-2024-0033</doi>
+  <url_pdf>meteo_2024_125_27.pdf</url_pdf>
+  <citation>Borbon, Agnès ; Farhat, Mariana. Origine anthropique des composés terpénoïdes en atmosphère urbaine. La Météorologie, 125, 27-35, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Pollution atmosphérique, Campagne de mesure, Hiver, Chimie de l'atmosphère, Pollution urbaine, Trafic routier, Composés organiques volatiles (COV), Ozone troposphérique, Émissions anthropiques, Terpénoïdes, projet Database</mots_cles>
+  <resume_fr>Les terpénoïdes (isoprène et monoterpènes) sont des composés organiques volatils précurseurs gazeux de pollution secondaire, longtemps reconnus pour leur origine biogénique. La réanalyse de 14 ensembles d'observations recueillies aux latitudes moyennes et subtropicales depuis 2010, montre leur origine anthropique systématique dans l'atmosphère urbaine et identifie le trafic comme une des sources potentielles. Ces émissions ont été quantifiées pour la première fois. Elles dominent d'un à trois ordres de grandeur celles des autres précurseurs anthropiques en matière de réactivité vis-à-vis des deux oxydants atmosphériques majeurs, le radical nitrate et l'ozone. Cette étude questionne l'implication de ces émissions sur la pollution hivernale et nocturne.</resume_fr>
+  <resume_en>Terpenoids (isoprene and monoterpenes) are volatile organic compounds (VOC), gaseous precursors of secondary pollution, recognised as biogenic VOCs for a long time. We reanalyzed 14 VOC datasets from mid latitudes to subtropical urban areas since 2010. We showed their systematic anthropogenic origin and identified traffic as a potential emitter. Anthropogenic emissions of terpenoids were quantified for the first time. They dominate by three orders of magnitude the ones of other anthropogenic precursors regarding their reactivity with two major oxidants, ozone and nitrate. This study raises the question of the implication of their anthropogenic emissions in nighttime and wintertime pollution.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>La prévision à moyenne échéance de la tempête Ciaràn par intelligence artificielle</titre>
+  <titre_en>Medium Range forecast of Ciaràn storm using artificial intelligence</titre_en>
+  <auteur>Pardé, Mickaël</auteur>
+  <auteur>Raynaud, Laure</auteur>
+  <auteur>Mounier, Arnaud</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>36-40</pages>
+  <doi>10.37053/lameteorologie-2024-0034</doi>
+  <url_pdf>meteo_2024_125_36.pdf</url_pdf>
+  <citation>Pardé, Mickaël ; Raynaud, Laure ; Mounier, Arnaud. La prévision à moyenne échéance de la tempête Ciaràn par intelligence artificielle. La Météorologie, 125, 36-40, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Modèle de prévision, Prévision moyenne échéance, Évaluation de modèles, Comparaison de modèles, Intelligence artificielle, Réseaux de neurones, Deep learning (apprentissage profond), GraphCast, AIFS, Pangu-Weather, FourCastNet, Tempête Ciarán</mots_cles>
+  <resume_fr>Depuis un an environ, les performances des modèles de prévision du temps basés sur les réseaux de neurones sont devenues suffisamment intéressantes pour que les prévisionnistes commencent à les considérer. À l'occasion du passage de la tempête Ciaràn sur l'ouest de la France, nous évaluons les qualités et les défauts de quatre d'entre eux : GraphCast (Google Deepmind), Pangu-Weather (Huawei), AIFS (Centre européen pour les prévisions météorologiques à moyen terme, CEPMMT) et FourCastNet (Nvidia). Nous montrons que, loin encore de la prévision opérationnelle, les modèles de prévision par intelligence artificielle proposent des informations très pertinentes pour anticiper les tempêtes violentes.</resume_fr>
+  <resume_en>Over the past year or so, the performance of neural network-based weather forecasting models has progressed significantly and began to attract the interest of forecasters. At the occasion of the passage of the Ciaràn storm over western France, we evaluate the strengths and shortcomings of four of them: GraphCast (Google Deepmind), Pangu-Weather (Huawei), AIFS (European Center for Medium-Range Weather Forecasts, ECMWF) and FourCastNet (NvIDIA). We show that, although far from being operational, artificial intelligence-based forecasting models are able to propose useful information to anticipate damaging storms.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>2023, année la plus chaude dans le monde</titre>
+  <auteur>Blanchet, Guy</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>41-47</pages>
+  <doi>10.37053/lameteorologie-2024-0035</doi>
+  <url_pdf>meteo_2024_125_41.pdf</url_pdf>
+  <citation>Blanchet, Guy. 2023, année la plus chaude dans le monde. La Météorologie, 125, 41-47, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Vague de chaleur, Sécheresse, Record climatique, Température de l'air, Température de la surface de l'océan, Inondations, Feux de forêts, Évènement extrême, Fonte de la banquise, Bilan annuel</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Quand l'intelligence artificielle s'attaque aux prévisions météorologiques : évolution ou révolution ?</titre>
+  <auteur>Nurel, Romain</auteur>
+  <auteur>Noumbissi, Nelson</auteur>
+  <auteur>Champeaux, Jean-Louis</auteur>
+  <auteur>Hoffman, Joël</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>48-51</pages>
+  <doi>10.37053/lameteorologie-2024-0036</doi>
+  <url_pdf>meteo_2024_125_48.pdf</url_pdf>
+  <citation>Nurel, Romain ; Noumbissi, Nelson ; Champeaux, Jean-Louis ; Hoffman, Joël. Quand l'intelligence artificielle s'attaque aux prévisions météorologiques : évolution ou révolution ?. La Météorologie, 125, 48-51, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Modèle de prévision, Recherche scientifique, Intelligence artificielle, Réseaux de neurones, Deep learning (apprentissage profond), Automatisation, Jeux de données</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Les rafales orageuses exceptionnelles du 18 août 2022 en Corse. Analyse de la situation météorologique</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>52-59</pages>
+  <doi>10.37053/lameteorologie-2024-0037</doi>
+  <url_pdf>meteo_2024_125_52.pdf</url_pdf>
+  <citation>Kreitz, Michaël. Les rafales orageuses exceptionnelles du 18 août 2022 en Corse. Analyse de la situation météorologique. La Météorologie, 125, 52-59, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Étude d'évènement particulier, Orage, Rafale, Corse, Méditerranée, Analyse synoptique, Température de la mer, Supercellule orageuse, Cut-off, Jet d'afflux arrière, Courant de densité, Écho arqué</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>Joseph Conrad, au coeur du cyclone</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>60-62</pages>
+  <doi>10.37053/lameteorologie-2024-0038</doi>
+  <url_pdf>meteo_2024_125_60.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Joseph Conrad, au coeur du cyclone. La Météorologie, 125, 60-62, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Littérature, Extraits, Cyclone tropical, Navigation maritime, Typhon</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>El Niño. Histoire et géopolitique d'une bombe climatique / par Laurent Testot et Jean-Michel Valantin</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>63</pages>
+  <doi>10.37053/lameteorologie-2024-0039</doi>
+  <url_pdf>meteo_2024_125_63.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. El Niño. Histoire et géopolitique d'une bombe climatique / par Laurent Testot et Jean-Michel Valantin. La Météorologie, 125, 63, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>El Niño, Interaction ocean-atmosphère, Histoire, Géopolitique, Changement climatique, Influence du climat</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>L'écologie n'est pas un consensus. Dépasser l'indignation / par François Gemenne</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>64</pages>
+  <doi>10.37053/lameteorologie-2024-0040</doi>
+  <url_pdf>meteo_2024_125_64.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. L'écologie n'est pas un consensus. Dépasser l'indignation / par François Gemenne. La Météorologie, 125, 64, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Écologie, Politique climatique, Action politique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Nuages Nuages. L'Atlas / par Sarah Zambello et Susy Zanella</titre>
+  <auteur>Rochas, Michel J.</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>65</pages>
+  <doi>10.37053/lameteorologie-2024-0041</doi>
+  <url_pdf>meteo_2024_125_65.pdf</url_pdf>
+  <citation>Rochas, Michel J.. Nuages Nuages. L'Atlas / par Sarah Zambello et Susy Zanella. La Météorologie, 125, 65, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Atlas de nuages, Ouvrage jeunesse, Volutus</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>66-68</pages>
+  <doi>10.37053/lameteorologie-2024-0042</doi>
+  <url_pdf>meteo_2024_125_66.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 125, 66-68, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES :Sans transition - Une nouvelle histoire de l'énergie. Par Jean-Baptiste Fressoz /Dernières limites - Apprendre à vivre dans un monde fini. Par Audrey Boehly /L'homme à l'épreuve du climat. Par Lucien Dorize /Le Ministère du Futur. Par Kim Stanley Robinson /Accélérer la transition climatique avec un système alimentaire résilient et juste. Résumé grand public du rapport thématique du Haut conseil pour le climat /Livre blanc Paléoclimats et paléoenvironnements. Coordonné par Pascale Braconnot, Anne Brès, Julie Amblard /Satellites for atmospheric sciences. Meteorology, climate and atmospheric composition. Coordonné par Thierry Phulpin, Didier Renaut, Hervé Roquet, Claude Camy-Peyret /INTERNET :Changements climatiques et dynamiques sociales, perspectives historiques sur le grand défi. Par Kyle Harper /Quand l'intelligence artificielle s'attaque aux prévisions météo, évolution ou révolution. AAM et ENM Alumni, 2023 /THESES :Yohanna Michau : Changements climatiques et événements extrêmes dans les villes françaises par une approche de modélisation couplée à haute résolution. Thèse de l'université de Toulouse /Cécile Caillaud : Sensibilité climatique des systèmes précipitants intenses : approche par la modélisation climatique à très haute résolution sur le nord-ouest de la Méditerranée. Thèse de l'université de Toulouse /Ethel Villeneuve : Vers une synergie multi-missions infrarouge et micro-ondes pour l'assimilation d'observations nuageuses. Thèse de l'université de Toulouse /Maya Costantini : Étude de l'évolution de la ressource mondiale en eau dans un contexte de changement climatique. Thèse de l'université de Toulouse /Victor van Aalderen : Modéliser l'évolution du climat global et de la calotte eurasienne pendant la dernière déglaciation. Thèse de l'université Paris-Saclay /Adrian Wahiba Lfarh : Les processus de fine échelle responsables du transport des vents forts dans la tempête méditerranéenne. Thèse de l'université de Toulouse /William Dulac : Méthodes pour l'évaluation de l'activité cyclonique tropicale en changement climatique. Thèse de l'université de Toulouse /Marion Bocquet : Observation et analyse des variations de volume des banquises arctique et antarctique par altimétrie spatiale entre 1994 et 2023. Thèse de l'université de Toulouse /Émilie Launay : Modélisation inverse pour la dispersion atmosphérique de polluants suite à un incendie de grande ampleur à l'échelle urbaine. Thèse de l'École des Ponts Paris Tech /Gabriel Chesnoiu : Environnement solaire et pollutions atmosphériques particulaires en région Hauts-de-France : évolution récente et scénarios futurs. Thèse de l'université de Lille /Raphaël Peron : Télédétection du contenu en vapeur d'eau au-dessus et autour de nuages convectifs. Thèse de l'université de Lille /Stella Bourdin : Cyclones tropicaux et méditerranéens dans le modèle de climat de l'IPSL : détection et évaluation. Thèse de l'université Paris-Saclay /Matthew Heberger : Improved observation of the global water cycle with satellite remote sensing and neural network modeling. Thèse de Sorbonne Université /Eliott Lumet : Évaluation et réduction des incertitudes pour la simulation numérique de la dispersion atmosphérique à microéchelle. Thèse de l'université de Toulouse /Audrey Minière : Une perspective océanique du déséquilibre énergétique de la Terre au cours des soixante dernières années. Thèse de l'université de Toulouse /Safae Oumami : Impact d'un climat à +2 °C sur les émissions des composés biogéniques volatiles et sur la qualité de l'air. Thèse de l'université de Toulouse /Mathieu Ratynski : Étude des caractéristiques globales des ondes de gravité atmosphérique à l'aide des mesures de vent du satellite de l'ESA Aeolus. Thèse de l'université Paris-Saclay /Clémantyne Aubry : Synergie d'observations actives et passives pour l'évaluation des impacts radiatifs des aérosols. Application à la campagne de terrain AEROCLO-sA en Namibie multiplateforme pour nuages liquides et de phase mixte. Thèse de l'université Paris-Saclay /Ange Haddjeri : Modélisation de l'évolution de la neige soufflée et évaluation de la variabilité spatiale induite. Thèse de l'université de Toulouse /Diego Monteiro : Caractérisation et modélisation de l'évolution des conditions météorologiques et d'enneigement dans les Alpes européennes. Thèse de l'université de Toulouse.</description>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Décembre 2023 : Rivière atmosphérique ; L'Etna dans une mer de nuages</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Coste, Rudy</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>69-70</pages>
+  <doi>10.37053/lameteorologie-2024-0043</doi>
+  <url_pdf>meteo_2024_125_69.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Coste, Rudy. Décembre 2023 : Rivière atmosphérique ; L'Etna dans une mer de nuages. La Météorologie, 125, 69-70, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Etna, Mer de nuages, Rivière atmosphérique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Janvier 2024 : Dépression scandinave ; Les lacets de la Seine</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Coste, Rudy</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>71-72</pages>
+  <doi>10.37053/lameteorologie-2024-0044</doi>
+  <url_pdf>meteo_2024_125_71.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Coste, Rudy. Janvier 2024 : Dépression scandinave ; Les lacets de la Seine. La Météorologie, 125, 71-72, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Neige, Seine, Perturbation, Traine</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Février 2024 : Éruption en Islande ; Après le passage de Louis</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>73-74</pages>
+  <doi>10.37053/lameteorologie-2024-0045</doi>
+  <url_pdf>meteo_2024_125_73.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Février 2024 : Éruption en Islande ; Après le passage de Louis. La Météorologie, 125, 73-74, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Islande, Panache volcanique, Traine, Tempête Louis</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Décembre 2023 à février 2024</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2024</annee>
+  <numero>125</numero>
+  <pages>75-83</pages>
+  <doi>10.37053/lameteorologie-2024-0046</doi>
+  <url_pdf>meteo_2024_125_75.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Décembre 2023 à février 2024. La Météorologie, 125, 75-83, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

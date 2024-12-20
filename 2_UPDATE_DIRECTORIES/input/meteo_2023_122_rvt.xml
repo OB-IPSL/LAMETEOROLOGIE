@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="122">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2023</annee>
+  <mois>08</mois>
+  <numero>122</numero>
+  <url_pdf>meteo_2023_122_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2023-0055</doi>
+  <url_pdf>meteo_2023_122_1.pdf</url_pdf>
+  <citation>Soula, Serge. Éditorial. La Météorologie, 122, 1, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Vers un El Niño de grande ampleur pour l'hiver 2023-2024 ?</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>2-4</pages>
+  <doi>10.37053/lameteorologie-2023-0056</doi>
+  <url_pdf>meteo_2023_122_2.pdf</url_pdf>
+  <citation>Altendorf, Damien. Vers un El Niño de grande ampleur pour l'hiver 2023-2024 ?. La Météorologie, 122, 2-4, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>ENSO, El Niño, Impact, Prévision du climat, Réchauffement climatique, Température moyenne, Couplage océan - atmosphère</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Nouvelles du spatial</titre>
+  <auteur>Renaut, Didier</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>4-5</pages>
+  <doi>10.37053/lameteorologie-2023-0057</doi>
+  <url_pdf>meteo_2023_122_4.pdf</url_pdf>
+  <citation>Renaut, Didier. Nouvelles du spatial. La Météorologie, 122, 4-5, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Observation météorologique, Télédétection satellitaire, Mission spatiale, Intensité des cyclones, Radar précipitations, Aeolus-2, Meteosat Troisième Génération, Cubesats, Tropics, Tomorrow-R1, R2, Calipso</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Campagne océanographique Apero dans l'Atlantique Nord-Est</titre>
+  <auteur>Memery, Laurent</auteur>
+  <auteur>Guidi, Lionel</auteur>
+  <auteur>Tamburini, Christian</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>5-6</pages>
+  <doi>10.37053/lameteorologie-2023-0058</doi>
+  <url_pdf>meteo_2023_122_5.pdf</url_pdf>
+  <citation>Memery, Laurent ; Guidi, Lionel ; Tamburini, Christian. Campagne océanographique Apero dans l'Atlantique Nord-Est. La Météorologie, 122, 5-6, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Campagne de mesure océanographique, Atlantique nord-est, Mesure à bord d'un navire, Océan profond, Stockage du CO2, Pompe biologique, Jetzon</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Mise à jour de certains chiffres clés du 6e rapport du groupe I du Giec</titre>
+  <auteur>Ribes, Aurélien</auteur>
+  <auteur>Friedlingstein, Pierre</auteur>
+  <auteur>Masson-Delmotte, Valérie</auteur>
+  <auteur>Szopa, Sophie</auteur>
+  <auteur>Von Schuckmann, Karina</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2023-0059</doi>
+  <url_pdf>meteo_2023_122_7.pdf</url_pdf>
+  <citation>Ribes, Aurélien ; Friedlingstein, Pierre ; Masson-Delmotte, Valérie ; Szopa, Sophie ; Von Schuckmann, Karina. Mise à jour de certains chiffres clés du 6e rapport du groupe I du Giec. La Météorologie, 122, 7-8, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Indicateurs, Changement climatique, GIEC</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Celeste Saulo élue Secrétaire générale de l'Organisation météorologique mondiale</titre>
+  <auteur>Frachon, Laurence</auteur>
+  <auteur>Magnouloux, Alyette</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>8-9</pages>
+  <doi>10.37053/lameteorologie-2023-0060</doi>
+  <url_pdf>meteo_2023_122_8.pdf</url_pdf>
+  <citation>Frachon, Laurence ; Magnouloux, Alyette. Celeste Saulo élue Secrétaire générale de l'Organisation météorologique mondiale. La Météorologie, 122, 8-9, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Organisation météorologique, OMM, Congrès, Coopération internationale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Liz Bentley élue présidente de la Société météorologique européenne</titre>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>10</pages>
+  <doi>10.37053/lameteorologie-2023-0061</doi>
+  <url_pdf>meteo_2023_122_10.pdf</url_pdf>
+  <citation>Liz Bentley élue présidente de la Société météorologique européenne. La Météorologie, 122, 10, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Organisation météorologique, Société météorologique européenne (EMS)</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Avis du comité d'éthique du CNRS : « Intégrer les enjeux environnementaux à la conduite de la recherche - Une responsabilité éthique »</titre>
+  <auteur>Guilyardi, Éric</auteur>
+  <auteur>Leclerc, Olivier</auteur>
+  <auteur>Noiville, Christine</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>10-11</pages>
+  <doi>10.37053/lameteorologie-2023-0062</doi>
+  <url_pdf>meteo_2023_122_10.pdf</url_pdf>
+  <citation>Guilyardi, Éric ; Leclerc, Olivier ; Noiville, Christine. Avis du comité d'éthique du CNRS : « Intégrer les enjeux environnementaux à la conduite de la recherche - Une responsabilité éthique ». La Météorologie, 122, 10-11, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Recherche scientifique, Éthique, Impact environnemental, Réduction des émissions, Transition écologique, Recommandations, COMETS</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La météo des forêts : un nouvel outil de prévention destiné au grand public</titre>
+  <auteur>Robert, Catherine</auteur>
+  <auteur>Regimbeau, Mathieu</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>11-14</pages>
+  <doi>10.37053/lameteorologie-2023-0063</doi>
+  <url_pdf>meteo_2023_122_11.pdf</url_pdf>
+  <citation>Robert, Catherine ; Regimbeau, Mathieu. La météo des forêts : un nouvel outil de prévention destiné au grand public. La Météorologie, 122, 11-14, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Incendie de forêt, Prévention des risques, Information météorologique, Carte des départements, Indice de danger intégré, Outil de prévention, Feux de forêts</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Deux écoles d'été sur le changement climatique</titre>
+  <auteur>Lebel, Thierry</auteur>
+  <auteur>Tramblay, Yves</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>14-16</pages>
+  <doi>10.37053/lameteorologie-2023-0064</doi>
+  <url_pdf>meteo_2023_122_14.pdf</url_pdf>
+  <citation>Lebel, Thierry ; Tramblay, Yves. Deux écoles d'été sur le changement climatique. La Météorologie, 122, 14-16, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Impact, Santé, Hydrologie, Recherche scientifique, Diffusion scientifique, Groupe de travail, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Médailles et récompenses pour les scientifiques français</titre>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>16-18</pages>
+  <doi>10.37053/lameteorologie-2023-0065</doi>
+  <url_pdf>meteo_2023_122_16.pdf</url_pdf>
+  <citation>Médailles et récompenses pour les scientifiques français. La Météorologie, 122, 16-18, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Recherche scientifique, Prix scientifique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Un arcus au-dessus d'Ajaccio</titre>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>19</pages>
+  <doi>10.37053/lameteorologie-2023-0066</doi>
+  <url_pdf>meteo_2023_122_19.pdf</url_pdf>
+  <citation>Un arcus au-dessus d'Ajaccio. La Météorologie, 122, 19, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Corse, Orage, Arcus, Courant de densité</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Remise du prix Prud'homme 2022 à Audrey Delpech</titre>
+  <auteur>André, Jean-Claude</auteur>
+  <auteur>Daudier, Morgane</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>20-21</pages>
+  <doi>10.37053/lameteorologie-2023-0067</doi>
+  <url_pdf>meteo_2023_122_20.pdf</url_pdf>
+  <citation>André, Jean-Claude ; Daudier, Morgane. Remise du prix Prud'homme 2022 à Audrey Delpech. La Météorologie, 122, 20-21, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Océanographie, Remise de prix, Courants-jets sous-marins</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Remise du prix Perrin de Brichambaut 2023</titre>
+  <auteur>Blanchet, Guy</auteur>
+  <auteur>Berthelot-Huby, Noémie</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>22</pages>
+  <doi>10.37053/lameteorologie-2023-0068</doi>
+  <url_pdf>meteo_2023_122_22.pdf</url_pdf>
+  <citation>Blanchet, Guy ; Berthelot-Huby, Noémie. Remise du prix Perrin de Brichambaut 2023. La Météorologie, 122, 22, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Éducation, Remise de prix</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Changement climatique</rubrique>
+  <titre>Mesurer le déséquilibre énergétique de la planète pour évaluer la sensibilité du climat aux émissions de gaz à effet de serre</titre>
+  <titre_en>Measuring the planet's energy imbalance to assess the climate's sensitivity to greenhouse gas emissions</titre_en>
+  <auteur>Meyssignac, Benoît</auteur>
+  <auteur>Chenal, Jonathan</auteur>
+  <auteur>Guillaume-Castel, Robin</auteur>
+  <auteur>Blazquez, Alejandro</auteur>
+  <auteur>Fourest, Sébastien</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>23-30</pages>
+  <doi>10.37053/lameteorologie-2023-0069</doi>
+  <url_pdf>meteo_2023_122_23.pdf</url_pdf>
+  <citation>Meyssignac, Benoît ; Chenal, Jonathan ; Guillaume-Castel, Robin ; Blazquez, Alejandro ; Fourest, Sébastien. Mesurer le déséquilibre énergétique de la planète pour évaluer la sensibilité du climat aux émissions de gaz à effet de serre. La Météorologie, 122, 23-30, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Méthode de mesure, Sensibilité climatique, Bilan d'énergie de la Terre, Émissions anthropiques, Absorption océanique, Changement climatique, Déséquilibre radiatif, Altimétrie satellitaire, Réseau Argo</mots_cles>
+  <resume_fr>La sensibilité climatique à l'équilibre (SCE) est définie comme le réchauffement de la surface terrestre en réponse à un doublement de la concentration du CO2 dans l'atmosphère par rapport au climat préindustriel. Estimer la SCE revient à estimer au premier ordre la réponse du bilan d'énergie de la planète aux émissions de gaz à effet de serre, ce qui permet ensuite de caractériser le changement climatique actuel. Pour cette raison, l'évaluation de la SCE est devenue depuis 40 ans un des objectifs majeurs de la recherche sur le climat. Face à un tel enjeu, il est apparu nécessaire d'utiliser les observations actuelles du bilan d'énergie pour contraindre de manière indépendante les estimations de la SCE qui jusqu'à récemment étaient essentiellement tirées des simulations des modèles de climat et des observations paléoclimatiques. Nous retraçons ici les progrès récents qui permettent désormais de déterminer la SCE grâce aux observations du bilan d'énergie de la Terre du réseau de profileurs océaniques Argo, l'altimétrie satellitaire et la gravimétrie spatiale.</resume_fr>
+  <resume_en>The equilibrium climate sensitivity (ECS) is defined as the equilibrium annual global mean temperature response to a doubling of atmospheric CO2 from preindustrial level. Estimating the ECS amounts to estimating the first-order response of the global energy balance to greenhouse gases emissions, which characterizes current climate change. For this reason, the assessment of the ECS has become one of the major objectives of climate research over the last 40 years. Faced with such a challenge, it appeared necessary to use current energy balance observations to independently constrain ECS estimates, which until recently were mainly derived from climate model simulations and paleoclimate observations. We trace here the recent progress which now makes it possible to determine the SCE thanks to the observations of the Earth energy imbalance with Argo oceanic profilers, satellite altimetry and space gravimetry.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Hydrologie</rubrique>
+  <titre>Modélisation des surcotes marines cycloniques dans le golfe du Bengale</titre>
+  <titre_en>Chasing the super cyclone Amphan: a brief history of surge modeling in the Bay of Bengal</titre_en>
+  <auteur>Testut, Laurent</auteur>
+  <auteur>Khan, Jamal Uddin</auteur>
+  <auteur>Durand, Fabien</auteur>
+  <auteur>Krien, Yann</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>31-36</pages>
+  <doi>10.37053/lameteorologie-2023-0070</doi>
+  <url_pdf>meteo_2023_122_31.pdf</url_pdf>
+  <citation>Testut, Laurent ; Khan, Jamal Uddin ; Durand, Fabien ; Krien, Yann. Modélisation des surcotes marines cycloniques dans le golfe du Bengale. La Météorologie, 122, 31-36, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Océan Indien nord-est, Golfe du Bengale, Prévision en temps réel, Inondation - risque, Bangladesh, Submersion marine, Surcote cyclonique, Modélisation hydrodynamique, Schism-WWM, Projet Band-SOS, Cyclone Amphan</mots_cles>
+  <resume_fr>Le golfe du Bengale, au nord-est de l'océan Indien, est le siège tristement célèbre des cyclones tropicaux parmi les plus meurtriers de l'Histoire. Dans sa partie nord baigne le delta du Bengale, plus vaste région deltaïque de la planète. Malgré des avancées récentes, la morphologie et l'hydrodynamique complexes de ce grand delta, combinées au coût numérique de la modélisation hydrodynamique, ont empêché la prévision des surcotes marines sur cette région très vulnérable. Nous présentons ici un système de prévision des surcotes cycloniques fondé sur la plateforme de modélisation Schism-WWM, qui est à la fois efficace numériquement, cohérente physiquement et utilisable en temps réel avec des ressources informatiques limitées. Ce système de modélisation a permis de simuler en temps quasi réel le cyclone Amphan en mai 2020.</resume_fr>
+  <resume_en>The Bay of Bengal is a well-known birth region to some of the deadliest cyclones in history. In its northern part lies the largest deltaic region, the Bengal delta. Despite recent advancements, the complex morphology and hydrodynamics of this large delta and the associated modeling computational costs impede the storm surge forecasting in this highly vulnerable region. Here we present a proof of concept of a physically consistent and computationally efficient storm surge forecasting system tractable in real-time with limited resources. With a state-of-the-art wave-coupled hydrodynamic numerical modeling system, we forecast the 2020 super-cyclone Amphan in real-time.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Observation</rubrique>
+  <titre>StatIC : un réseau d'observation au service d'une information de proximité et de vulgarisation scientifique</titre>
+  <titre_en>StatIC: an observation network at the service of local information and scientific popularization</titre_en>
+  <auteur>Garcelon, Laurent</auteur>
+  <auteur>Brana, Sébastien</auteur>
+  <auteur>Didez, Julien</auteur>
+  <auteur>Ameye, Frédéric</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>37-46</pages>
+  <doi>10.37053/lameteorologie-2023-0071</doi>
+  <url_pdf>meteo_2023_122_37.pdf</url_pdf>
+  <citation>Garcelon, Laurent ; Brana, Sébastien ; Didez, Julien ; Ameye, Frédéric. StatIC : un réseau d'observation au service d'une information de proximité et de vulgarisation scientifique. La Météorologie, 122, 37-46, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réseau climatologique, Station automatique, Réseau d'observation, Climat local, Qualité des mesures, Partage des données, Valorisation des données, Partenariat, Observateur bénévole, Association loi 1901, Infoclimat</mots_cles>
+  <resume_fr>Depuis 20 ans, l'association Infoclimat développe un réseau de stations normalisées en complément de l'observation visuelle réalisée par ses passionnés. Ces observations, qui s'inscrivent dans la durée et sont pour certaines dans la continuité des postes du Réseau climatologique d'État précédemment exploités par Météo-France, sont les témoins d'un changement climatique de plus en plus prégnant et rapide. La mine d'or qu'elles représentent aujourd'hui permet la réalisation d'outils pédagogiques au service de la vulgarisation scientifique.</resume_fr>
+  <resume_en>For 20 years, Infoclimat, a non-profit organization, has developed a network of standardized weather stations across France in addition to the visual observation carried by its enthusiasts. These observations are complementary of the official network operated by Météo-France and many of them are the continuity of the State climatological network. Year after year, they are recording the impact of climate change in France. Nowadays, the network of Infoclimat is used as a tool for education and vulgarization.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>Les tempêtes d'octobre 1859 vues par Jules Michelet</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>47-48</pages>
+  <doi>10.37053/lameteorologie-2023-0072</doi>
+  <url_pdf>meteo_2023_122_47.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Les tempêtes d'octobre 1859 vues par Jules Michelet. La Météorologie, 122, 47-48, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Littérature, Extraits, Histoire de la météorologie, Royaume-Uni, Tempête historique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Le Giec - Urgence climat. Le rapport incontestable expliqué à tous / par Sylvestre Huet</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>49</pages>
+  <doi>10.37053/lameteorologie-2023-0073</doi>
+  <url_pdf>meteo_2023_122_49.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Le Giec - Urgence climat. Le rapport incontestable expliqué à tous / par Sylvestre Huet. La Météorologie, 122, 49, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Rapport du GIEC, Risque climatique, Vulnerabilité</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>L'Anthropocène / par Michel Magny</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>50</pages>
+  <doi>10.37053/lameteorologie-2023-0074</doi>
+  <url_pdf>meteo_2023_122_50.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. L'Anthropocène / par Michel Magny. La Météorologie, 122, 50, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Paléoclimatologie, Préhistoire, Histoire, Société, Politique, Changement climatique, Anthropocène, Crise écologique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>51-53</pages>
+  <doi>10.37053/lameteorologie-2023-0075</doi>
+  <url_pdf>meteo_2023_122_51.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 122, 51-53, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Climat. Par Jean Jouzel et Hervé Le Treut / 
+Le Giec Urgence climat - Le rapport incontestable expliqué à tous. Par Sylvestre Huet / 
+La théorie du chaos. Par Étienne Ghys / 
+Principes de la télédétection - Applications à l'observation de la Terre et son climat. Par Hélène Chepfer, Laurence Picon, Marine Bonazzola, Hélène Brogniez, Marjolaine Chiriaco et Solène Turquety / 
+Désir de printemps - Histoire sensible d'une saison. Par François Walter / 
+Penser la menace climatique - Le temps des solutions. Par Jean-Michel Vincent / 
+REVUES : 
+Paléoclimats. La Recherche, 573, 2023 / 
+THESES : 
+Gaëtan Noual : Occupation des terres et climat régional : impact des surfaces forestières sur l'ennuagement dans le Sud-Ouest de la France. Thèse de l'université de Bordeaux / 
+Malak Sadki : Amélioration de la représentation des écoulements en rivière par l'intégration des barrages-réservoirs et l'apport de la mission altimétrique Swot. Thèse de l'université de Toulouse / 
+Maureen Beaudor : Modélisation globale des émissions d'ammoniac par l'agriculture et impact sur la chimie atmosphérique. Thèse de l'université Paris-Saclay / 
+Salomé Antoine : Amélioration de la prévision du brouillard à l'échelle hectométrique dans le modèle Arome. Thèse de l'université de Toulouse / 
+Alizée Chemison : Impacts d'une déstabilisation des calottes polaires sur le climat et les maladies vectorielles au XXIe siècle. Thèse de l'université Versailles Saint-Quentin-en-Yvelines / 
+Anna Karas : Télédétection spatiale de dépôts d'avalanche pour le suivi de zones à risque avalancheux. Thèse de l'Institut national polytechnique de Toulouse / 
+Pedro Felipe Arboleda Obando : Rétroactions des eaux souterraines et de l'irrigation sur le climat passé et futur. Thèse de Sorbonne Université / 
+Nicolas Gonzalez : Multi-scale modelling of the Strait of Gibraltar and its role as a regulator of the Mediterranean climate. Thèse de l'université de Toulouse / 
+Taos Benoussaïd : Analyse socio-spatiale de l'exposition des populations à la pollution atmosphérique en zone urbaine, par une approche de modélisation dynamique basée sur l'individu, intégrant les comportements de mobilité. Thèse de l'université Paris-Est / 
+Antoine Bernard : Étude multi-échelle de la transition ductile-fragile dans la neige. Thèse de l'université Grenoble Alpes / 
+Flavien Cornut : Capacités à améliorer la caractérisation des aérosols par le futur lidar à haute résolution spectrale de la mission AOS (the Atmosphere Observing System). Thèse de l'université de Toulouse / 
+Leïla Simon : Détermination des sources de composés organiques (gazeux et particulaires) en Île-de-France. Thèse de l'université Paris-Saclay / 
+Adrien Finance : Observation et quantification du bilan radiatif terrestre à partir du satellite UVSQ-SAT. Thèse de l'université Paris-Saclay / 
+Francesca Vittorioso : Apport de l'assimilation des luminances de MTG/IRS pour caractériser la composition chimique de l'atmosphère. Thèse de l'université de Toulouse / 
+Elie Almarj : Effets de la pollution atmosphérique sur la santé : développement de protocoles innovants de simulation d'atmosphères urbaines et d'exposition de modèles précliniques. Thèse de l'université Paris Cité / 
+Assia Arouf : Surface longwave cloud radiative effect derived from space lidar observations: An application to the Arctic. Thèse de Sorbonne Université / 
+Hérizo Narivelo : Étude de l'impact des espèces halogénées émises par les volcans sur la chimie troposphérique. Thèse de l'université de Toulouse / 
+Zhizhao Wang : Influence of anthropogenic emissions on organic aerosol formation depending on the physico-chemical characteristics of the environment. Thèse de l'École des Ponts Paris Tech / 
+Victoria Gallardo Fernandez : Impacts de l'augmentation des extrêmes de hautes températures sur la performance du décollage des avions dans la région Euro-Méditerranéenne. Thèse de l'université de Toulouse / 
+Meriem Krouma : Prévision météorologique d'ensemble avec un générateur de temps stochastique basé en analogues de circulation. Thèse de l'université Paris-Saclay / 
+Yunyi Wang : Estimations de la qualité de l'air a&amp;#768; des échelles locales tenant compte des émissions de polluants intérieurs et extérieurs. Thèse de l'École des Ponts Paris Tech / 
+Thibaud Sarica : Modélisation de l'impact du trafic routier sur les concentrations de polluants en zone urbaine. Thèse de l'École des Ponts Paris Tech / 
+Dilek Savas : Inverse modeling of nitrogen oxides emissions in urbanized areas of the Northern Hemisphere: application of the Cif-Chimere inversion system to Omi and Tropomi Observations. Thèse de l'université Paris Cité / 
+Antoine Sobaga : Observations et modélisations de la recharge des aquifères dans le Grand-Est de la France à l'aide de données lysimétriques. Thèse de l'université Paris Sciences &amp; Lettres.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Atlantique Nord, 2022 : Une saison proche de la normale malgré un mois de septembre très actif</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>54-62</pages>
+  <doi>10.37053/lameteorologie-2023-0076</doi>
+  <url_pdf>meteo_2023_122_54.pdf</url_pdf>
+  <citation>Thibord, Corinne. Atlantique Nord, 2022 : Une saison proche de la normale malgré un mois de septembre très actif. La Météorologie, 122, 54-62, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Atlantique nord, Cyclone tropical, Formation tropicale, Tempête, Classification, Trajectoire, Golfe du Mexique, U.S.A., Mer des Caraïbes, Antilles, Bermudes, Bilan saisonnier, Ouragan, Ian, Fiona</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Océan Indien nord, 2022 : Une saison sans que le stade de cyclone ne soit atteint</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>63-67</pages>
+  <doi>10.37053/lameteorologie-2023-0077</doi>
+  <url_pdf>meteo_2023_122_63.pdf</url_pdf>
+  <citation>Thibord, Corinne. Océan Indien nord, 2022 : Une saison sans que le stade de cyclone ne soit atteint. La Météorologie, 122, 63-67, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Cyclone tropical, Trajectoire, Golfe du Bengale, Océan Indien nord, Mer d'Arabie, Tempête cyclonique, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Mars 2023 : Première image de MTG-I1 ; Un ballon sur un volcan</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>68-69</pages>
+  <doi>10.37053/lameteorologie-2023-0078</doi>
+  <url_pdf>meteo_2023_122_68.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Mars 2023 : Première image de MTG-I1 ; Un ballon sur un volcan. La Météorologie, 122, 68-69, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Nuage lenticulaire, Volcan, Meteosat Troisième Génération</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Avril 2023 : La tempête Ilina ; Tempête de poussières</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>70-71</pages>
+  <doi>10.37053/lameteorologie-2023-0079</doi>
+  <url_pdf>meteo_2023_122_70.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Avril 2023 : La tempête Ilina ; Tempête de poussières. La Météorologie, 122, 70-71, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Tempête, Méditerranée, Tempête de poussière, Chine, Cumulus</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Mai 2023 : Effets orographiques ; Ambiance vaporeuse</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>72-73</pages>
+  <doi>10.37053/lameteorologie-2023-0080</doi>
+  <url_pdf>meteo_2023_122_72.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Mai 2023 : Effets orographiques ; Ambiance vaporeuse. La Météorologie, 122, 72-73, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Australie, Stratocumulus, Russie, Lac, Brouillard, Sillage, Interférence, Ondes orographiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Les rafales orageuses exceptionnelles du 18 août 2022 en Corse</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>74-80</pages>
+  <doi>10.37053/lameteorologie-2023-0081</doi>
+  <url_pdf>meteo_2023_122_74.pdf</url_pdf>
+  <citation>Kreitz, Michaël. Les rafales orageuses exceptionnelles du 18 août 2022 en Corse. La Météorologie, 122, 74-80, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Corse, Orage, Étude d'évènement particulier, Imagerie radar, Rafale, Record climatique, Multicellule orageuse, Grain en arc (Bow echo), Derecho, Jet d'afflux arrière, Overshoot</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Mars à mai 2023</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2023</annee>
+  <numero>122</numero>
+  <pages>81-89</pages>
+  <doi>10.37053/lameteorologie-2023-0082</doi>
+  <url_pdf>meteo_2023_122_81.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Mars à mai 2023. La Météorologie, 122, 81-89, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

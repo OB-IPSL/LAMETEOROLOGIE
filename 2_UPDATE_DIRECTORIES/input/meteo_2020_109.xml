@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE Exlibris>
+<EXLIBRIS>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-22</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Boucher, Olivier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050597</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 1</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Editorial</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050597__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 1</MF_PAGE>
+<MF_RUBRIQUE>EDITORIAL</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>52</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257195</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Blanchet, Guy</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Activité cyclonique</DOC_DC>
+<DOC_DC>Fonte de la banquise</DOC_DC>
+<DOC_DC>Inondations</DOC_DC>
+<DOC_DC>Feux de forêts</DOC_DC>
+<DOC_DEE>Réchauffement climatique</DOC_DEE>
+<DOC_DEE>Record climatique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050599</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 2-4</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>2019, deuxième année la plus chaude dans le monde</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050599__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 2-4</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>791</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257197</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Clerbaux, Cathy</DOC_AUTEUR>
+<DOC_AUTEUR>Boynard, Anne</DOC_AUTEUR>
+<DOC_AUTEUR>Viatte, Camille</DOC_AUTEUR>
+<DOC_AUTEUR>George, Maya</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>pollution, aérosol, prévision de la qualité de l'air</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Qualité de l'air</DOC_DC>
+<DOC_DEE>Pollution atmosphérique</DOC_DEE>
+<DOC_DEE>Télédétection satellitaire</DOC_DEE>
+<DOC_DEE>Santé publique</DOC_DEE>
+<DOC_DEE>Chine</DOC_DEE>
+<DOC_DEE>Europe</DOC_DEE>
+<DOC_DEE>Paris</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Impact du confinement</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050600</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 5-6</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Amélioration de la qualité de l'air durant le confinement</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050600__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 5-6</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>2400</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257198</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>-</DOC_AUTFN3>
+<DOC_AUTMORAL>ECMWF</DOC_AUTMORAL>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COMMENT>Cet article est une version traduite et adaptée d'un article d'abord publié sur le site web du CEPMMT le 24 mars 2020. Il est republié avec l'accord du CEPMMT.
+&lt;a href="https://www.ecmwf.int/en/about/media-centre/news/2020/drop-aircraft-observations-could-have-impact-weather-forecasts" target = "_blank"&gt;https://www.ecmwf.int/en/about/media-centre/news/2020/drop-aircraft-observations-could-have-impact-weather-forecasts&lt;/a&gt;</DOC_COMMENT>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Trafic aérien</DOC_DC>
+<DOC_DC>Qualité des prévisions</DOC_DC>
+<DOC_DEE>Observations météorologiques</DOC_DEE>
+<DOC_DEE>Mesure aéroportée</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Impact du confinement</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050602</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 7-8</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La réduction du trafic aérien affecterait la qualité des prévisions météorologiques</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050602__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 7-8</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_TAILLE>2057</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257200</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Risi, Camille</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Changement climatique</DOC_DC>
+<DOC_DC>Simulation climatique</DOC_DC>
+<DOC_DC>Logiciel informatique</DOC_DC>
+<DOC_DEE>Education</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050603</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 9-10</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Une nouvelle version de SimClimat pour ordinateurs et smartphones</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050603__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 9-10</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1154</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257201</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>organisation météorologique</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Prix scientifique</DOC_DC>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050604</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 10-11</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Prix et récompenses pour les scientifiques français</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050604__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 10-11</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_TAILLE>445</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257202</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>glaciologie, manteau neigeux</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DEE>Iceberg</DOC_DEE>
+<DOC_DEE>Antarctique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050605</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 12</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Iceberg strié</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050605__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 12</MF_PAGE>
+<MF_RUBRIQUE>La photo du trimestre</MF_RUBRIQUE>
+<MF_TAILLE>220</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257203</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Daudier, Morgane</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DC>Bilan annuel</DOC_DC>
+<DOC_DC>SMF</DOC_DC>
+<DOC_DEE>Activités</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050606</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 13-15</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>L'assemblée générale 2020 de Météo et Climat</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050606__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 13-15</MF_PAGE>
+<MF_RUBRIQUE>LA VIE DE METEO ET CLIMAT</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>624</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257204</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AB>Les glaciers noirs, dont la langue est couverte de débris rocheux, ont un équilibre avec le climat qui diffère de celui des glaciers blancs, en raison du caractère isolant de leur couverture détritique. L'objectif est ici d'observer les changements récents (sur des périodes de 3 à 16 ans) de certains glaciers noirs pour mieux comprendre les processus qui déterminent leur fonte et pour comparer leur évolution à celle des glaciers blancs.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Brun, Fanny</DOC_AUTEUR>
+<DOC_AUTEUR>Berthier, Etienne</DOC_AUTEUR>
+<DOC_AUTEUR>Wagnon, Patrick</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>glaciologie, manteau neigeux</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-22</DOC_DAT_CREAT>
+<DOC_DEE>Glacier de montagne</DOC_DEE>
+<DOC_DEE>Réchauffement climatique</DOC_DEE>
+<DOC_DEE>Fonte des glaciers</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Débris rocheux</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050607</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 16-22</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les glaciers noirs à l'épreuve du climat (Prix Prud'homme 2019)</DOC_TITRE>
+<DOC_TITRE3>Influence of debris on the mass balance of high mountain Asia glaciers</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-22</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050607__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Debris covered glaciers respond differently from debris-free glaciers to climate change, due to the insulation properties of debris. Here we observe recent and short (3 to 16 years) changes of selected debris-covered glaciers. We aim to better understand melting processes and compare the evolution of debris-free and debris-covered glacier changes.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>fanny.brun@univ-grenoble-alpes.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 16-22</MF_PAGE>
+<MF_RUBRIQUE>NEIGE ET GLACE</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1069</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257205</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AB>Comprendre la dynamique de soulèvement d'une chaîne de montagne nécessite d'en estimer l'altitude passée. C'est le but de la paléoaltimétrie. La méthode la plus répandue utilise la composition isotopique en oxygène des roches carbonatées formées dans les sols et à partir des sédiments lacustres. Celle-ci reflète la composition de la pluie passée qui, dans le monde actuel et dans la plupart des chaînes de montagnes, s'appauvrit progressivement en isotopes lourds avec l'altitude. En supposant que cet appauvrissement reste valide dans le passé, l'altitude du plateau tibétain à l'Éocène (il y a environ 42 millions d'années) est estimée à 4 000 m environ. Mais d'autres marqueurs de l'altitude passée indiquent au contraire des altitudes inférieures à 2 000 m. La relation entre composition isotopique des pluies et altitude observée aujourd'hui s'applique-t-elle à l'Éocène ? C'est ce que nous avons essayé de vérifier en utilisant un modèle de circulation générale atmosphérique, LMDZ-iso. On trouve qu'à l'Éocène la circulation atmosphérique et les processus hydrologiques étaient tellement différents de l'actuel que les observations isotopiques dans les roches carbonatées se trouvent finalement être cohérentes avec des altitudes relativement faibles. Les différentes méthodes de paléo-altimétrie se retrouvent ainsi réconciliées et en accord avec un soulèvement récent (post-Éocène) du plateau tibétain.
+</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Botsyun, Svetlana</DOC_AUTEUR>
+<DOC_AUTEUR>Sepulchre, Pierre</DOC_AUTEUR>
+<DOC_AUTEUR>Risi, Camille</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>géologie, géographie, géophysique, cartographie, etc</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Composition isotopique</DOC_DC>
+<DOC_DC>Altimétrie</DOC_DC>
+<DOC_DEE>Paléoclimatologie</DOC_DEE>
+<DOC_DEE>Altitude</DOC_DEE>
+<DOC_DEE>Chaîne de montagnes</DOC_DEE>
+<DOC_DEE>Plateau du tibet</DOC_DEE>
+<DOC_DEE>Précipitations</DOC_DEE>
+<DOC_DEE>Modèle de circulation générale</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>LMDZ-iso</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050608</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 23-28</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Comprendre la dynamique atmosphérique pour mieux reconstituer l'altitude passée des chaînes de montagnes</DOC_TITRE>
+<DOC_TITRE3>Understanding atmospheric dynamics to better reconstruct past mountain elevation</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050608__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Understanding the uplift dynamics of a mountain range requires estimating past altitude. This is the purpose of the paleo-altimetry. The most commonly applied paleo-altimetry method is based on the isotopic oxygen composition of the carbonate archives. It reflects the composition of past rain, which at present-day and in the most mountain ranges becomes progressively more depleted in heavy isotopes with altitude. Assuming that this depletion remains valid in the past, the elevation of the Tibetan Plateau in the Eocene (about 42 millions years ago) is estimated to be about 4 000 m. However, other proxy data indicate on the contrary low altitudes. Is the relationship between the rain isotopic composition and the altitude that is observed today applicable to the Eocene? This is what we tried to verify using an atmospheric general circulation model, LMDZ-iso. We find that in the Eocene, the atmospheric circulation and hydrological processes were so different to the present-day that the isotopic observations in the Eocene carbonates are actually consistent with relatively low altitudes of the Plateau. This allows us to reconcile different methods of paleo-altimetry in agreement with more recent (post-Eocene) uplift of the Tibetan Plateau.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>svetlana.botsyun@uni-tuebingen.de</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 23-28</MF_PAGE>
+<MF_RUBRIQUE>Paléoclimatologie</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>3386</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257206</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AB>La salinité de surface de la mer (SSS : Sea Surface Salinity) influence la dynamique océanique et porte la signature du cycle de l'eau à l'interface océan-atmosphère. Pour mieux comprendre ses variations, le Service national d'observation SSS (SNO SSS) du Laboratoire d'études en géophysique et océanographie spatiales (Legos, Toulouse) gère un réseau global de navires d'opportunité équipés de thermosalinographes, initié il y a 50 ans. La maintenance des instruments est effectuée aux ports de Nouméa et du Havre par l'Institut de recherche pour le développement (IRD). Les données sont transmises en temps réel pour la surveillance des instruments et l'océanographie opérationnelle. Après correction des dérives instrumentales en temps différé, les données sont mises à disposition de la communauté scientifique internationale, et permettent d'étudier des processus océaniques et climatiques d'échelle régionale à globale, ou de valider modèles et données satellitaires.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Alory, Gaël</DOC_AUTEUR>
+<DOC_AUTEUR>Téchiné, Philippe</DOC_AUTEUR>
+<DOC_AUTEUR>Delcroix, Thierry</DOC_AUTEUR>
+<DOC_AUTEUR>Diverrès, Denis</DOC_AUTEUR>
+<DOC_AUTEUR>Varillon, David</DOC_AUTEUR>
+<DOC_AUTEUR>Donguy, Jean-René</DOC_AUTEUR>
+<DOC_AUTEUR>Reverdin, Gilles</DOC_AUTEUR>
+<DOC_AUTEUR>Morrow, Rosemary</DOC_AUTEUR>
+<DOC_AUTEUR>Grelet, Jacques</DOC_AUTEUR>
+<DOC_AUTEUR>Gouriou, Yves</DOC_AUTEUR>
+<DOC_AUTEUR>Jacquin, Stéphane</DOC_AUTEUR>
+<DOC_AUTEUR>Kestenare, Elodie</DOC_AUTEUR>
+<DOC_AUTEUR>Bachelier, Céline</DOC_AUTEUR>
+<DOC_AUTEUR>DiMattéo, Angelo</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>océanographie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Surface de la mer</DOC_DC>
+<DOC_DC>Mesures à bord d'un navire</DOC_DC>
+<DOC_DC>Traitement des données</DOC_DC>
+<DOC_DC>Validation de mesures</DOC_DC>
+<DOC_DEE>Salinité de l'eau</DOC_DEE>
+<DOC_DEE>Interaction océan-atmosphère</DOC_DEE>
+<DOC_DEE>Réseau de mesures</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Modélisation d'ENSO</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050609</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 29-39</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Le Service national d'observation de la salinité de surface de la mer : 50 ans de mesures océaniques globales</DOC_TITRE>
+<DOC_TITRE3>The French Sea Surface Salinity Observation Service: 50 years of measurements in the global ocean</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050609__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Sea Surface Salinity (SSS) affects the ocean dynamics and bears the signature of the water cycle at the ocean-atmosphere interface. To better understand its variations, the French SSS Observation Service from the Laboratory for Studies in Geophysics and Spatial Oceanography (LEGOS, Toulouse, France) manages a global network of voluntary observing ships equipped with thermosalinographs (TSG), initiated 50 years ago. The instruments are regularly serviced at harbour calls in New Caledonia and mainland France by the French National Research Institute for Sustainable Development (IRD). Data are transmitted in real time for instrument monitoring and operational oceanography. After correction of instrumental drifts in delayed time, data are freely distributed to the international research community, and used for process-oriented climate studies from regional to global scale, or for validation of models and satellite data.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>gael.alory@legos.obs-mip.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 29-39</MF_PAGE>
+<MF_RUBRIQUE>Océanographie</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>5188</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257207</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AB>L'utilisation de voiliers comme pourvoyeurs de données océanographiques et météorologiques de qualité scientifique a été testée dans le cadre du programme OceanoScientific et en particulier lors de la navigation péri-antarctique en solitaire du voilier OceanoScientific Explorer Boogaloo début 2017. Les caractéristiques du système et les données océanographiques recueillies (température, salinité, fluorescence de la chlorophylle A, pression partielle de dioxyde de carbone) sont présentées, illustrant le succès de l'approche, malgré quelques contraintes qui sont évoquées.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Reverdin, Gilles</DOC_AUTEUR>
+<DOC_AUTEUR>Metzl, Nicolas</DOC_AUTEUR>
+<DOC_AUTEUR>Reynaud, Thierry</DOC_AUTEUR>
+<DOC_AUTEUR>Poli, Paul</DOC_AUTEUR>
+<DOC_AUTEUR>Griboval, Yvan</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>océanographie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DEE>Campagne de mesures</DOC_DEE>
+<DOC_DEE>Navigation à voile</DOC_DEE>
+<DOC_DEE>Données océanographiques</DOC_DEE>
+<DOC_DEE>Antarctique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050610</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 40-47</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Le voilier OceanoScientific Explorer Boogaloo : Une campagne péri-antarctique en 2017</DOC_TITRE>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050610__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Using sailing vessels to provide surface oceanographic and meteorological data for operational and scientific use has been promoted in the OceanoScientific programme. It has been tested during the circum-Antarctic sailing of the Explorer OceanoScientific Boogaloo in early 2017. The instrumentation, data acquisition, processing and transmission characteristics are described. Then, the ocean data collected (temperature, salinity, fluorescence of Chlorophyll-A, partial pressure of carbon dioxide) are presented, illustrating the success of the approach, but also some constraints that were encountered.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>gilles.reverdin@locean-ipsl.upmc.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 40-47</MF_PAGE>
+<MF_RUBRIQUE>Océanographie</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>DSO/CMM/Brest</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>2130</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257208</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AB>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base Dumont-d'Urville, située en Terre Adélie. C'est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020. Ce deuxième article est consacré à l'organisation de la base.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Gourand, François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie polaire</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Témoignage</DOC_DC>
+<DOC_DC>Hivernage</DOC_DC>
+<DOC_DEE>Antarctique</DOC_DEE>
+<DOC_DEE>Terre Adélie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Base Dumont d'Urville</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050611</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 48-51</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un an en Terre Adélie (2)</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050611__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 48-51</MF_PAGE>
+<MF_RUBRIQUE>RECIT</MF_RUBRIQUE>
+<MF_SERVICE>TAAF/DUMONT</MF_SERVICE>
+<MF_TAILLE>660</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257209</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Hontarrède, Michel</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie marine, météorologie aéronautique, agrométéorologie et autres applications de la météorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Météorologie marine</DOC_DC>
+<DOC_DC>Jet-stream</DOC_DC>
+<DOC_DC>Vagues scélérates</DOC_DC>
+<DOC_DEE>Navigation maritime</DOC_DEE>
+<DOC_DEE>Récit</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050612</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 52-53</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Cap Horn à la voile et La Longue route / par Bernard Moitessier</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050612__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 52-53</MF_PAGE>
+<MF_RUBRIQUE>LU POUR VOUS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>104</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257210</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Javelle, Jean-Pierre</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COMMENT>OUVRAGES : 
+Le jardin météorologique. Par Philippe Rahm / 
+Dumont d'Urville. Par François Bellec / 
+Louis Pouzin, l'un des pères de l'Internet. Par Chantal Lebrument et Fabien Soyez / 
+Climatiser le monde. Par Stefan Aykut / 
+Un monde sans rivage. Par Hélène Gaudy / 
+Air-écologie : la démocratie a échoué, l'heure de la dictature est venue. Par Bertil Scali et Raphaël De Andreis / 
+REVUES : 
+Climat-Océan, les grands défis Arcades en Nouvelle-Aquitaine, numéro spécial, novembre 2019 / 
+THESES : 
+Aurore Dupré : Sizing of a short term wind forecasting system. Thèse de l'Institut polytechnique de Paris / 
+Jan Vatant d'Ollone : Modélisation numérique des variations saisonnières de l'atmosphère de Titan. Thèse de Sorbonne Université / 
+Ludivine Conte : Émissions océaniques de gaz d'intérêt pour la chimie atmosphérique : modélisation des dynamiques océaniques du CO, de l'isoprène et du DMS. Thèse de l'université Paris-Saclay / 
+Kristan Cuny-Guirriec : Le rapport Li-Mg dans les coraux scléractiniaires : un nouveau et puissant traceur des paléotempératures des océans ? Thèse de l'université Paris-Saclay / 
+Mathis Neuhauser : Étude des lois d'échelle multifractales caractérisant les observations satellitaires des surfaces continentales. Thèse de l'université de Toulouse / 
+Yuan Zhang : Impacts of anthropogenic aerosols on the terrestrial carbon cycle. Thèse de Sorbonne Université.</DOC_COMMENT>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050614</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 54-55</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Vient de paraître</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050614__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 54-55</MF_PAGE>
+<MF_RUBRIQUE>VIENT DE PARAITRE</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>251</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257211</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Pacifique central</DOC_DC>
+<DOC_DC>Bilan saisonnier</DOC_DC>
+<DOC_DEE>Pacifique nord-est</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Trajectoire</DOC_DEE>
+<DOC_DEE>Incidence humaine</DOC_DEE>
+<DOC_DEE>Dégâts dus au vent</DOC_DEE>
+<DOC_DEE>Dégâts dus aux inondations</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050615</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 56-62</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Pacifique Nord-Est et central, 2019</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050615__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 56-62</MF_PAGE>
+<MF_RUBRIQUE>SAISON CYCLONIQUE</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>1330</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257212</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Bilan saisonnier</DOC_DC>
+<DOC_DC>Typhon</DOC_DC>
+<DOC_DEE>Pacifique nord-ouest</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Trajectoire</DOC_DEE>
+<DOC_DEE>Incidence humaine</DOC_DEE>
+<DOC_DEE>Dégâts dus au vent</DOC_DEE>
+<DOC_DEE>Dégâts dus aux inondations</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050616</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 63-70</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Pacifique Nord-Ouest, 2019</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050616__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 63-70</MF_PAGE>
+<MF_RUBRIQUE>Saison cyclonique</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>1247</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257213</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Glace</DOC_DC>
+<DOC_DC>Feux de forêts</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Australie</DOC_DEE>
+<DOC_DEE>Vague de chaleur</DOC_DEE>
+<DOC_DEE>Kazakhstan</DOC_DEE>
+<DOC_DEE>Lac</DOC_DEE>
+<DOC_DEE>Manteau neigeux</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050617</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 71-72</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Décembre 2019 : Au feu ! ; La glace du lac Balkhach</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050617__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 71-72</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>528</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257214</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DC>Episode méditerranéen</DOC_DC>
+<DOC_DC>Stratocumulus marins</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Océan indien</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Nuage actiniforme</DOC_DL>
+<DOC_DL>Gloria</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050618</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 73-74</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Janvier 2020 : Gloria ! ; Nuages actiniformes</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050618__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 73-74</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>703</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257215</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>Fonte des neiges</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Atlantique</DOC_DEE>
+<DOC_DEE>Cyclogénèse explosive</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Dennis</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050619</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 75-76</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Février 2020 : Comme neige au soleil... ; Tempête Dennis</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050619__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 75-76</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>609</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257216</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050620</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 77-79</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Décembre 2019</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050620__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 77-79</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_TAILLE>1079</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257217</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050621</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 80-82</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Janvier 2020</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050621__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 80-82</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_TAILLE>1036</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257218</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-06-23</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-06-23</DOC_DAT_CREAT>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-05-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>109</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Mai 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050622</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 83-85</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Février 2020</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-06-23</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050622__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 83-85</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_TAILLE>2000</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257219</FT_CID>
+</NOTICE>
+</EXLIBRIS>

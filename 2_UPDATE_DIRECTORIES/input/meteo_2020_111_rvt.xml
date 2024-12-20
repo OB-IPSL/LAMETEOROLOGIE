@@ -1,0 +1,519 @@
+<?xml version="1.0" ?>
+<notices_simples numero="111">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2020</annee>
+  <mois>11</mois>
+  <numero>111</numero>
+  <url_pdf>meteo_2020_111_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Guillaume, Anne</auteur>
+  <auteur>Boucher, Olivier</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2020-0079</doi>
+  <url_pdf>meteo_2020_111_1.pdf</url_pdf>
+  <citation>Guillaume, Anne ; Boucher, Olivier. Éditorial. La Météorologie, 111, 1, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Vers une prévision collaborative des orages pour le trafic aérien européen</titre>
+  <auteur>Héreil, Philippe</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>2</pages>
+  <doi>10.37053/lameteorologie-2020-0080</doi>
+  <url_pdf>meteo_2020_111_2.pdf</url_pdf>
+  <citation>Héreil, Philippe. Vers une prévision collaborative des orages pour le trafic aérien européen. La Météorologie, 111, 2, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Prévision, Orage, Europe, Transport aérien, Météorologie aéronautique, Collaboration internationale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Le Sirta, une nouvelle infrastructure pour renforcer les services dédiés à la recherche et à l'enseignement</titre>
+  <auteur>Dupont, Jean-Charles</auteur>
+  <auteur>Haeffelin, Martial</auteur>
+  <auteur>Gros, Valérie</auteur>
+  <auteur>Petit, Jean-Eudes</auteur>
+  <auteur>Favez, Olivier</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>3-5</pages>
+  <doi>10.37053/lameteorologie-2020-0081</doi>
+  <url_pdf>meteo_2020_111_3.pdf</url_pdf>
+  <citation>Dupont, Jean-Charles ; Haeffelin, Martial ; Gros, Valérie ; Petit, Jean-Eudes ; Favez, Olivier. Le Sirta, une nouvelle infrastructure pour renforcer les services dédiés à la recherche et à l'enseignement. La Météorologie, 111, 3-5, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Observation météorologique, Campagne de mesure, Recherche scientifique, Enseignement, Site instrumental</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>54,4 °C : la vallée de la Mort mérite bien son nom</titre>
+  <auteur>Renaut, Didier</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>6-7</pages>
+  <doi>10.37053/lameteorologie-2020-0082</doi>
+  <url_pdf>meteo_2020_111_6.pdf</url_pdf>
+  <citation>Renaut, Didier. 54,4 °C : la vallée de la Mort mérite bien son nom. La Météorologie, 111, 6-7, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>U.S.A., Vague de chaleur, Record climatique, Température de l'air, Vallée de la mort</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Changement climatique et Cévennes</titre>
+  <auteur>Simonet, Guillaume</auteur>
+  <auteur>Nicault, Antoine</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>7</pages>
+  <doi>10.37053/lameteorologie-2020-0083</doi>
+  <url_pdf>meteo_2020_111_7.pdf</url_pdf>
+  <citation>Simonet, Guillaume ; Nicault, Antoine. Changement climatique et Cévennes. La Météorologie, 111, 7, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Changement climatique, Adaptation climatique, Parc national des Cévennes</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Prix Cristal Seligman pour Catherine Ritz</titre>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>8</pages>
+  <doi>10.37053/lameteorologie-2020-0084</doi>
+  <url_pdf>meteo_2020_111_8.pdf</url_pdf>
+  <citation>Prix Cristal Seligman pour Catherine Ritz. La Météorologie, 111, 8, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Glaciologie, Prix scientifique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Trombe et foudre simultanées</titre>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>9-10</pages>
+  <doi>10.37053/lameteorologie-2020-0085</doi>
+  <url_pdf>meteo_2020_111_9.pdf</url_pdf>
+  <citation>Trombe et foudre simultanées. La Météorologie, 111, 9-10, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Trombe, Foudre</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>17e Forum international de la Météo et du Climat : Colloque international « Changement climatique : anticiper pour s'adapter »</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Vannier, Christian</auteur>
+  <auteur>Delsol, Geneviève</auteur>
+  <auteur>Magnan, Alexandre</auteur>
+  <auteur>Dépoues, Vivian</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>11-16</pages>
+  <doi>10.37053/lameteorologie-2020-0086</doi>
+  <url_pdf>meteo_2020_111_11.pdf</url_pdf>
+  <citation>Daudier, Morgane ; Vannier, Christian ; Delsol, Geneviève ; Magnan, Alexandre ; Dépoues, Vivian. 17e Forum international de la Météo et du Climat : Colloque international « Changement climatique : anticiper pour s'adapter ». La Météorologie, 111, 11-16, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Ressources en eau, Changement climatique, Adaptation climatique, Vulnérabilité, Colloque, Communication</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Un nouveau site web pour la revue La Météorologie</titre>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>16-17</pages>
+  <doi>10.37053/lameteorologie-2020-0087</doi>
+  <url_pdf>meteo_2020_111_16.pdf</url_pdf>
+  <citation>Un nouveau site web pour la revue La Météorologie. La Météorologie, 111, 16-17, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Revue périodique, Site internet</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>La naissance de la paléoclimatologie</titre>
+  <titre_en>The birth of paleoclimatology</titre_en>
+  <auteur>Foucault, Alain</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>18-23</pages>
+  <doi>10.37053/lameteorologie-2020-0088</doi>
+  <url_pdf>meteo_2020_111_18.pdf</url_pdf>
+  <citation>Foucault, Alain. La naissance de la paléoclimatologie. La Météorologie, 111, 18-23, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Histoire des sciences, Paléoclimatologie, Glacier de montagne, Louis Agassiz, Jean de Charpentier</mots_cles>
+  <resume_fr>C'est dans une vallée suisse qu'est née la paléoclimatologie. À cette naissance, on associe généralement le nom du célèbre naturaliste et paléontologue Louis Agassiz. Il a été certes le promoteur de cette science, mais a bénéficié d'une chaîne d'observations effectuées successivement par un paysan, Jean Pierre Perraudin, un ingénieur, Ignace Venetz, et un géologue, Jean de Charpentier, qui en est le vrai père.</resume_fr>
+  <resume_en>Paleoclimatology was born in a Swiss valley. This birth is usually associated with the name of the famous naturalist and paleontologist Louis Agassiz. He was certainly the promoter of this science, but benefited from a chain of observations made successively by a peasant, Jean Pierre Perraudin, an engineer, Ignace Venetz, and a geologist, Jean de Charpentier, who is the real father of it.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océan et atmosphère</rubrique>
+  <titre>Prévoir les variations saisonnières de la glace de mer arctique et leurs impacts sur le climat</titre>
+  <titre_en>Predicting seasonal variations of Arctic sea ice and its climate impacts</titre_en>
+  <auteur>Msadek, Rym</auteur>
+  <auteur>Garric, Gilles</auteur>
+  <auteur>Fleury, Sara</auteur>
+  <auteur>Garnier, Florent</auteur>
+  <auteur>Batté, Lauriane</auteur>
+  <auteur>Bushuk, Mitchell</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>24-33</pages>
+  <doi>10.37053/lameteorologie-2020-0089</doi>
+  <url_pdf>meteo_2020_111_24.pdf</url_pdf>
+  <citation>Msadek, Rym ; Garric, Gilles ; Fleury, Sara ; Garnier, Florent ; Batté, Lauriane ; Bushuk, Mitchell. Prévoir les variations saisonnières de la glace de mer arctique et leurs impacts sur le climat. La Météorologie, 111, 24-33, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, Arctique, Epaisseur de la glace, Télédétection satellitaire, Modèle de prévision, SST, Extension de la banquise, Prévision saisonnière, Prévisibilité, Latitudes moyennes</mots_cles>
+  <resume_fr>L'Arctique est la région du globe qui s'est réchauffée le plus vite au cours des trente dernières années, avec une augmentation de la température de surface environ deux fois plus rapide que pour la moyenne globale. Le déclin de la banquise arctique observé depuis le début de l'ère satellitaire et attribué principalement à l'augmentation de la concentration des gaz à effet de serre aurait joué un rôle important dans cette amplification des températures au pôle. Cette fonte importante des glaces arctiques, qui devrait s'accélérer dans les décennies à venir, pourrait modifier les vents en haute altitude et potentiellement avoir un impact sur le climat des moyennes latitudes. L'étendue de la banquise arctique varie considérablement d'une saison à l'autre, d'une année à l'autre, d'une décennie à l'autre. Améliorer notre capacité à prévoir ces variations nécessite de comprendre, observer et modéliser les interactions entre la banquise et les autres composantes du système Terre, telles que l'océan, l'atmosphère ou la biosphère, à différentes échelles de temps. La réalisation de prévisions saisonnières de la banquise arctique est très récente comparée aux prévisions du temps ou aux prévisions saisonnières de paramètres météorologiques (température, précipitation). Les résultats ayant émergé au cours des dix dernières années mettent en évidence l'importance des observations de l'épaisseur de la glace de mer pour prévoir l'évolution de la banquise estivale plusieurs mois à l'avance.</resume_fr>
+  <resume_en>Surface temperatures over the Arctic region have been increasing twice as fast as global mean temperatures, a phenomenon known as arctic amplification. One main contributor to this polar warming is the large decline of Arctic sea ice observed since the beginning of satellite observations, which has been attributed to the increase of greenhouse gases. The acceleration of Arctic sea ice loss that is projected for the coming decades could modify the upper level atmospheric circulation yielding climate impacts up to the mid-latitudes. There is considerable variability in the spatial extent of ice cover on seasonal, interannual and decadal time scales. Better understanding, observing and modelling the interactions between sea ice and the other components of the climate system is key for improved predictions of Arctic sea ice in the future. Running operational-like seasonal predictions of Arctic sea ice is a quite recent effort compared to weather predictions or seasonal predictions of atmospheric fields like temperature or precipitation. Recent results stress the importance of sea ice thickness observations to improve seasonal predictions of Arctic sea ice conditions during summer.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Neige et glace</rubrique>
+  <titre>Évolution des parois rocheuses gelées de haute montagne sous forçage climatique</titre>
+  <titre_en>Frozen high-mountain rock walls response to climate change</titre_en>
+  <auteur>Ravanel, Ludovic</auteur>
+  <auteur>Magnin, Florence</auteur>
+  <auteur>Gallach, Xavi</auteur>
+  <auteur>Deline, Philip</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>34-40</pages>
+  <doi>10.37053/lameteorologie-2020-0090</doi>
+  <url_pdf>meteo_2020_111_34.pdf</url_pdf>
+  <citation>Ravanel, Ludovic ; Magnin, Florence ; Gallach, Xavi ; Deline, Philip. Évolution des parois rocheuses gelées de haute montagne sous forçage climatique. La Météorologie, 111, 34-40, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, Haute montagne, Permafrost alpin, Ecroulement, Eboulement, Modélisation, Mont Blanc</mots_cles>
+  <resume_fr>Avec le réchauffement du climat, la dégradation du permafrost est à l'origine d'une intensification des processus géomorphologiques sur les versants de haute montagne. Dans les parois rocheuses, les écroulements se multiplient et leur volume augmente, posant des problèmes de sécurité non seulement à haute altitude (infrastructures, alpinistes), mais également pour les fonds de vallée. Cet article présente les travaux récemment menés dans le massif du Mont-Blanc sur la relation entre climat et écroulements à différentes échelles de temps, les effets des épisodes caniculaires et la répartition et l'évolution du permafrost de paroi.
+</resume_fr>
+  <resume_en>Under global warming, permafrost degradation tends to intensify geomorphological processes on high mountain slopes. In the perennially frozen rock walls, the number and volume of rockfalls is increasing, causing safety problems not only at high altitude (infrastructure, mountaineers) but also for the valleys. This article summarizes recent work carried out in the Mont-Blanc massif on the climate-rockfall relationship at different time scales, the effects of heat waves, and the distribution/evolution of rock wall permafrost.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Chimie de l'atmosphère</rubrique>
+  <titre>La photocatalyse pour purifier l'air ambiant - mythe ou réalité ?</titre>
+  <titre_en>Photocatalysis to clean ambient air: myth or reality?</titre_en>
+  <auteur>George, Christian</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>41-44</pages>
+  <doi>10.37053/lameteorologie-2020-0091</doi>
+  <url_pdf>meteo_2020_111_41.pdf</url_pdf>
+  <citation>George, Christian. La photocatalyse pour purifier l'air ambiant - mythe ou réalité ?. La Météorologie, 111, 41-44, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Pollution atmosphérique, Ville, NOx, Qualité de l'air, Purification, Rayonnement UV, projet PhotoPAQ</mots_cles>
+  <resume_fr>Afin d'améliorer la qualité de l'air en milieu urbain, il convient en premier lieu de réduire les émissions polluantes. Cependant, différentes solutions techniques ont été proposées afin de dégrader certains polluants comme les oxydes d'azote (NOx ) ou les composés organiques volatils (COV). L'une d'entre elles repose sur l'emploi du bâti urbain recouvert de matériaux ou enduits photocatalytiques, lui conférant une certaine réactivité de manière à induire un puits chimique pour ces polluants. Différents tests, dont certains d'ampleur, ont été menés, aboutissant parfois à des résultats contradictoires. Les atouts mais aussi les limitations de cette solution technique sont brièvement discutées.</resume_fr>
+  <resume_en>To improve urban air quality, it is obviously necessary to reduce the underlying emissions of pollutants. However, a number of technical solutions have also been suggested in order to induce sinks for various harmful compounds such as nitrogen oxides (NOx ) or volatile organic compounds (VOCs). One of those solutions aims at using built surfaces in the urban environment covered with a photocatalytic layer in order to induce a chemical loss for those pollutants. This has led to several test cases, leading to partly contradictory results. We briefly discuss here the benefits and limitations of this solution.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Retours sur le colloque Capteurs et sciences participatives</titre>
+  <titre_en>Sensors and citizen science: insights from the SENCIS seminar, April 2019</titre_en>
+  <auteur>Payan, Sébastien</auteur>
+  <auteur>Turcati, Laure</auteur>
+  <auteur>Hornung, Jeremy</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>45-51</pages>
+  <doi>10.37053/lameteorologie-2020-0092</doi>
+  <url_pdf>meteo_2020_111_45.pdf</url_pdf>
+  <citation>Payan, Sébastien ; Turcati, Laure ; Hornung, Jeremy. Retours sur le colloque Capteurs et sciences participatives. La Météorologie, 111, 45-51, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Surveillance environnement, Instrument, Transition écologique, Observation participative, projet Caspa</mots_cles>
+  <resume_fr>Les projets Caspa (Capteurs et sciences participatives) représentent un nouveau type de projets pluridisciplinaires, au croisement de la recherche scientifique, de la démocratie participative et de l'innovation technologique. Ces projets proposent des modalités d'actions concrètes en faveur d'une meilleure surveillance de l'environnement et d'une transition écologique inclusive (qui n'exclue personne). Cet article, issu d'une réflexion collective amorcée en avril 2019 lors d'un colloque dédié, présente les différentes étapes du cycle de vie d'un projet Caspa et en souligne les problématiques inédites, les défis singuliers et les aspects qu'il est utile de prendre en compte pour en assurer le bon déroulement.</resume_fr>
+  <resume_en>SENCIS (Sensors and citizen science) projects represent a new kind of multidisciplinary projects, at the crossroads between scientific research, participatory democracy, and technological innovation. These projects offer tangible solutions towards better environmental monitoring, and inclusive ecological transition. This paper, which stems from a seminar held in April 2019 dedicated to this topic, highlights the distinctive steps of a SENCIS project lifecycle, and underlines its specific issues, challenges, and aspects which are to be taken into account in order to ensure its success.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Récit</rubrique>
+  <titre>Un an en Terre Adélie (4)</titre>
+  <auteur>Gourand, François</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>52-55</pages>
+  <doi>10.37053/lameteorologie-2020-0093</doi>
+  <url_pdf>meteo_2020_111_52.pdf</url_pdf>
+  <citation>Gourand, François. Un an en Terre Adélie (4). La Météorologie, 111, 52-55, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Antarctique, Terre Adélie, Faune, Manchot, Témoignage, Hivernage, Base Dumont d'Urville</mots_cles>
+  <resume_fr>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base Dumont-d'Urville, située en Terre Adélie. C'est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020. Ce quatrième article est consacré à la faune que l'on rencontre autour de la base.</resume_fr>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>L'Étranger et La Peste par Albert Camus</titre>
+  <auteur>Boucher, Olivier</auteur>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>56-58</pages>
+  <doi>10.37053/lameteorologie-2020-0094</doi>
+  <url_pdf>meteo_2020_111_56.pdf</url_pdf>
+  <citation>Boucher, Olivier ; Javelle, Jean-Pierre. L'Étranger et La Peste par Albert Camus. La Météorologie, 111, 56-58, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Littérature, Philosophie, Extraits, Biographie, Episodes météorologiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Météorologie de l'Afrique de l'Ouest tropicale : Le manuel du prévisionniste / Édité par Douglas J. Parker, Mariane Diop-Kane et Jean-Philippe Lafore</titre>
+  <auteur>Lefort, Thierry</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>59</pages>
+  <doi>10.37053/lameteorologie-2020-0095</doi>
+  <url_pdf>meteo_2020_111_59.pdf</url_pdf>
+  <citation>Lefort, Thierry. Météorologie de l'Afrique de l'Ouest tropicale : Le manuel du prévisionniste / Édité par Douglas J. Parker, Mariane Diop-Kane et Jean-Philippe Lafore. La Météorologie, 111, 59, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Météorologie tropicale, Prévision, Mousson africaine, Afrique de l'Ouest, programme AMMA</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>60-61</pages>
+  <doi>10.37053/lameteorologie-2020-0096</doi>
+  <url_pdf>meteo_2020_111_60.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 111, 60-61, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>Ouvrages : 
+L'aéro-manuel de la météo. Par Arnaud Campredon /
+Météo extrême, au coeur des phénomènes climatiques spectaculaires. Par Guillaume Séchet / 
+Des signes qui ne trompent pas, 300 dessins pour le climat. Par Pierre Kroll / 
+La Terre inhabitable, vivre avec 4 °C de plus. Par David Wallace-Wells / 
+Quand la forêt brûle, penser la nouvelle catastrophe écologique. Par Joëlle Zask / 
+Terra incognita, une histoire de l'ignorance. Par Alain Corbin / 
+Histoire de la pluie en 40 épisodes. Par Jean-Louis Hue / 
+Eugène Boudin les ciels, « prodigieuses magies de l'air et de l'eau ». Par Sylvie Patin / 
+THESES : 
+Rouba Yaacoub : Résonance optique par effet tunnel en optique atmosphérique ; application aux observations par satellite des gouttelettes de nuages. Thèse de l'université de Lille / 
+Émilien Jolly : Effets de l'amplification arctique sur la circulation atmosphérique des moyennes latitudes et les vagues de froid en hiver à partir de modélisation numérique idéalisée. Thèse de l'université Paris Sciences et Lettres
+Alejandro Blazquez : Caractérisation par satellite des échanges d'eau entre l'océan et les continents aux échelles interannuelles à décennales. Thèse de l'université de Toulouse / 
+Clément Alibert : Contrôles physiques, chimiques et biologiques des flux de gaz à l'interface sol-atmosphère. Thèse de l'université Paris Sciences et Lettres / 
+Alexandre Siméon : Modélisation régionale et télédétection spatiale des propriétés d'absorption des aérosols de feux de biomasse dans la région de l'Atlantique Sud-Est. Thèse de l'université de Lille.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Sud 2019-2020 : Une saison classique dans son déroulement</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>62-67</pages>
+  <doi>10.37053/lameteorologie-2020-0097</doi>
+  <url_pdf>meteo_2020_111_62.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Sud 2019-2020 : Une saison classique dans son déroulement. La Météorologie, 111, 62-67, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique sud, Cyclone tropical, Formation tropicale, Tempête, Trajectoire, Australie, Nouvelle Calédonie, Fidji, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juin 2020 : Langue de sable ; Tourbillons et gloire</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>68-69</pages>
+  <doi>10.37053/lameteorologie-2020-0098</doi>
+  <url_pdf>meteo_2020_111_68.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Juin 2020 : Langue de sable ; Tourbillons et gloire. La Météorologie, 111, 68-69, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Gloire, Tourbillon de Karman, Poussières sahariennes, Transport à longue distance</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juillet 2020 : L'arc de glace de Nares ; Une colombe en plein vol</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Bedossa, Emma</auteur>
+  <auteur>Goldnadel, Eva</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>70-71</pages>
+  <doi>10.37053/lameteorologie-2020-0099</doi>
+  <url_pdf>meteo_2020_111_70.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Bedossa, Emma ; Goldnadel, Eva. Juillet 2020 : L'arc de glace de Nares ; Une colombe en plein vol. La Météorologie, 111, 70-71, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Nuage, Paréidolie, Glace arctique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Août 2020 : Spirale volcanique ; Incendies de Californie</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>72-73</pages>
+  <doi>10.37053/lameteorologie-2020-0100</doi>
+  <url_pdf>meteo_2020_111_72.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Août 2020 : Spirale volcanique ; Incendies de Californie. La Météorologie, 111, 72-73, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Panache volcanique, Feux de forêt, Californie</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Juin à août 2020</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>74-82</pages>
+  <doi>10.37053/lameteorologie-2020-0101</doi>
+  <url_pdf>meteo_2020_111_74.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Juin à août 2020. La Météorologie, 111, 74-82, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques (ancienne formule)</rubrique>
+  <titre>Juin à août 2020</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>111</numero>
+  <pages>S1-S9</pages>
+  <doi>10.37053/lameteorologie-2020-0102</doi>
+  <url_pdf>meteo_2020_111_S1.pdf</url_pdf>
+  <citation>Météo-France DClim. Juin à août 2020. La Météorologie, 111, S1-S9, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France</mots_cles>
+ </notice>
+</notices_simples>

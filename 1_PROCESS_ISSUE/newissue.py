@@ -27,7 +27,7 @@ else:
 print("Dealing with issue",num)
 
 #--location of data
-dir="/data/obolmd/LAMETEO_PDF/num"+num+"/"
+dir="/data/oboucher/LAMETEO_PDF/num"+num+"/"
 
 #--output files
 file_rvt=dir+'meteo_'+annee+'_'+num+'_rvt.xml'
@@ -438,21 +438,21 @@ for file in files:
       message_html=message_html + '<b>' + rubrique_print + ' : </b> ' + '<a href="'+link_article+'">'+titre_print+'</a><br>\n'
 ##page_beg + '-' + page_end + 
   #--insert PDF element in rvt xml
-  nbindex=nbindex+1
-  element = Element("notice")
-  SubElement(element,"type").text='Numéro complet'
-  SubElement(element,"rubrique").text='Numéro complet'
-  SubElement(element,"annee").text=annee
-  SubElement(element,"mois").text=mois
-  SubElement(element,"numero").text=num
-  SubElement(element,"pages").text='999'
-  SubElement(element,"open_access").text='2'
-  pdffile='MTO_'+num+'_optimise.pdf'
-  if not os.path.isfile(dir+'/'+pdffile): 
-     print('HOUSTON we have a problem with',pdffile)
-  else: 
-     SubElement(element,"url_pdf").text=pdffile
-  root_rvt.insert(nbindex,element)
+  #nbindex=nbindex+1
+  #element = Element("notice")
+  #SubElement(element,"type").text='Numéro complet'
+  #SubElement(element,"rubrique").text='Numéro complet'
+  #SubElement(element,"annee").text=annee
+  #SubElement(element,"mois").text=mois
+  #SubElement(element,"numero").text=num
+  #SubElement(element,"pages").text='999'
+  #SubElement(element,"open_access").text='2'
+  #pdffile='MTO_'+num+'_optimise.pdf'
+  #if not os.path.isfile(dir+'/'+pdffile): 
+  #   print('HOUSTON we have a problem with',pdffile)
+  #else: 
+  #   SubElement(element,"url_pdf").text=pdffile
+  #root_rvt.insert(nbindex,element)
 
 #--finalize crossref xml with body
 root_crossref.insert(1,body)
@@ -503,8 +503,8 @@ gmail_user='ob.consulting.jo@gmail.com'
 #print(message_html)
 #s.send_message(msg)
 #--new way to send email
-conn = SMTP(gmail_user, oauth2_file="/home/oboucher/LAMETEO/client_secret.json")
-conn.send(to=check_email,subject="Publication du n° "+num+" de La Météorologie",contents=[image_file,message_html])
+#conn = SMTP(gmail_user, oauth2_file="/home/oboucher/LAMETEO/client_secret.json")
+#conn.send(to=check_email,subject="Publication du n° "+num+" de La Météorologie",contents=[image_file,message_html])
 f=open('email_a_envoyer.html','w')
 f.write(message_html)
 f.close()

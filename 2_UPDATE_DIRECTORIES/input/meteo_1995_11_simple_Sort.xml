@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="11">
+	<notice pagedebut="1">
+		<titre>Éditorial</titre>
+		<auteur>Morin, René</auteur>
+		<handle>http://hdl.handle.net/2042/51977</handle>
+		<doi>10.4267/2042/51977</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51977/meteo_1995_11_1.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>1-3</pages>
+		<citation>Morin, René ; Éditorial, La Météorologie, 1995, N° 11 ; p. 1-3</citation>
+		<rubrique>Éditorial</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="4">
+		<titre>Les 70 ans de « La Météorologie »</titre>
+		<auteur>Javelle, Jean-Pierre</auteur>
+		<handle>http://hdl.handle.net/2042/51978</handle>
+		<doi>10.4267/2042/51978</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51978/meteo_1995_11_4.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>4-6</pages>
+		<citation>Javelle, Jean-Pierre ; Les 70 ans de « La Météorologie », La Météorologie, 1995, N° 11 ; p. 4-6</citation>
+		<rubrique>La vie de la SMF</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="7">
+		<titre>Pascal Marquet, lauréat du prix Prud'homme 1995</titre>
+		<auteur>André, Jean-Claude</auteur>
+		<handle>http://hdl.handle.net/2042/51979</handle>
+		<doi>10.4267/2042/51979</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51979/meteo_1995_11_7.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>7</pages>
+		<citation>André, Jean-Claude ; Pascal Marquet, lauréat du prix Prud'homme 1995, La Météorologie, 1995, N° 11 ; p. 7</citation>
+		<rubrique>La vie de la SMF</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="8">
+		<titre>Hommage à Christian Perrin de Brichambaut</titre>
+		<handle>http://hdl.handle.net/2042/51980</handle>
+		<doi>10.4267/2042/51980</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51980/meteo_1995_11_8.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>8-9</pages>
+		<citation>Hommage à Christian Perrin de Brichambaut, La Météorologie, 1995, N° 11 ; p. 8-9</citation>
+		<rubrique>La vie de la SMF</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="10">
+		<titre>Les nouveaux programmes européens de satellites météororologiques</titre>
+		<auteur>Gillet, Marc</auteur>
+		<handle>http://hdl.handle.net/2042/51981</handle>
+		<doi>10.4267/2042/51981</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51981/meteo_1995_11_10.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>10-35</pages>
+		<citation>Gillet, Marc ; Les nouveaux programmes européens de satellites météororologiques, La Météorologie, 1995, N° 11 ; p. 10-35</citation>
+		<rubrique>Météorologie spatiale</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="36">
+		<titre>Interpolation spatiale à maille fine des températures journalières</titre>
+		<auteur>Fury, René</auteur>
+		<auteur>Joly, Daniel</auteur>
+		<handle>http://hdl.handle.net/2042/51982</handle>
+		<doi>10.4267/2042/51982</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51982/meteo_1995_11_36.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>36-43</pages>
+		<citation>Fury, René ; Joly, Daniel ; Interpolation spatiale à maille fine des températures journalières, La Météorologie, 1995, N° 11 ; p. 36-43</citation>
+		<rubrique>Climatologie</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="44">
+		<titre>Le chaos ignoré</titre>
+		<auteur>Elsner, James B.</auteur>
+		<auteur>Honoré, J. C</auteur>
+		<handle>http://hdl.handle.net/2042/51983</handle>
+		<doi>10.4267/2042/51983</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51983/meteo_1995_11_44.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>44-45</pages>
+		<citation>Elsner, James B. ; Honoré, J. C ; Le chaos ignoré, La Météorologie, 1995, N° 11 ; p. 44-45</citation>
+		<rubrique>Météorologie théorique</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="46">
+		<titre>Le grand pas en avant - Pour le 125e anniversaire du Weather Service, un regard sur l'invention qui a permis son démarrage</titre>
+		<auteur>Hughes, Patrick</auteur>
+		<handle>http://hdl.handle.net/2042/51984</handle>
+		<doi>10.4267/2042/51984</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51984/meteo_1995_11_46.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>46-51</pages>
+		<citation>Hughes, Patrick ; Le grand pas en avant - Pour le 125e anniversaire du Weather Service, un regard sur l'invention qui a permis son démarrage, La Météorologie, 1995, N° 11 ; p. 46-51</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="52">
+		<titre>Débat sur le changement climatique</titre>
+		<auteur>Cariolle, Daniel</auteur>
+		<auteur>L'actualité chimique</auteur>
+		<handle>http://hdl.handle.net/2042/51985</handle>
+		<doi>10.4267/2042/51985</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51985/meteo_1995_11_52.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>52-60</pages>
+		<citation>Cariolle, Daniel ; Débat sur le changement climatique, La Météorologie, 1995, N° 11 ; p. 52-60</citation>
+		<rubrique>Débat</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="61">
+		<titre>Le XXIXe congrès de la Société canadienne météorologie et d'océanographie</titre>
+		<auteur>Renaut, Didier</auteur>
+		<handle>http://hdl.handle.net/2042/51986</handle>
+		<doi>10.4267/2042/51986</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51986/meteo_1995_11_61.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>61-68</pages>
+		<citation>Renaut, Didier ; Le XXIXe congrès de la Société canadienne météorologie et d'océanographie : Kelowna, Canada, 29 mai - 2 juin 1995, La Météorologie, 1995, N° 11 ; p. 61-68</citation>
+		<rubrique>Dossier</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="69">
+		<titre>Annonces</titre>
+		<handle>http://hdl.handle.net/2042/51987</handle>
+		<doi>10.4267/2042/51987</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51987/meteo_1995_11_69.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>69-71</pages>
+		<citation>Annonces, La Météorologie, 1995, N° 11 ; p. 69-71</citation>
+		<rubrique>Annonces</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="72">
+		<titre>Echange international des données météorologiques : l'OMM parvient à un accord. Le comité des ouragans s'est réuni en Guadeloupe. Appel de trois cents scientifiques pour la protection de la couche d'ozone. La conférence METEOHYTEC 21. Le nouveau siège d'EUMETSAT inauguré à Darmstat.Qualité de l'air : le dossier s'alourdit. Pascale Delecluse et son équipe à l'honneur. Appel de l'Académie des sciences en faveur de la Francophonie scientifique.</titre>
+		<auteur>Renaut, Didier</auteur>
+		<handle>http://hdl.handle.net/2042/51988</handle>
+		<doi>10.4267/2042/51988</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51988/meteo_1995_11_72.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>72-79</pages>
+		<citation>Renaut, Didier ; Echange international des données météorologiques : l'OMM parvient à un accord. Le comité des ouragans s'est réuni en Guadeloupe. Appel de trois cents scientifiques pour la protection de la couche d'ozone. La conférence METEOHYTEC 21. Le nouveau siège d'EUMETSAT inauguré à Darmstat. Qualité de l'air : le dossier s'alourdit. Pascale Delecluse et son équipe à l'honneur. Appel de l'Académie des sciences en faveur de la Francophonie scientifique., La Météorologie, 1995, N° 11 ; p. 72-79</citation>
+		<rubrique>Échos</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="80">
+		<titre>Les objets fragiles  - Par Pierre-Gilles de Gennes et Jacques Badoz</titre>
+		<auteur>De Moor, Gérard</auteur>
+		<handle>http://hdl.handle.net/2042/51989</handle>
+		<doi>10.4267/2042/51989</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51989/meteo_1995_11_80.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>80-81</pages>
+		<citation>De Moor, Gérard ; Les objets fragiles, La Météorologie, 1995, N° 11 ; p. 80-81</citation>
+		<rubrique>Lu pour vous</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="82">
+		<titre>Les catastrophes naturelles en France  - Par Bruno Ledoux</titre>
+		<auteur>Roux, Frank</auteur>
+		<handle>http://hdl.handle.net/2042/51990</handle>
+		<doi>10.4267/2042/51990</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51990/meteo_1995_11_82.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>82-83</pages>
+		<citation>Roux, Franck ; Les catastrophes naturelles en France, La Météorologie, 1995, N° 11 ; p. 82-83</citation>
+		<rubrique>Lu pour vous</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="84">
+		<titre>La météorologie. La prévision numérique du temps et du climat  - Par Michel Rochas et Jean-Pierre Javelle</titre>
+		<auteur>Soulan, Alain</auteur>
+		<handle>http://hdl.handle.net/2042/51991</handle>
+		<doi>10.4267/2042/51991</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51991/meteo_1995_11_84.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>84-85</pages>
+		<citation>Soulan, Alain ; La météorologie. La prévision numérique du temps et du climat, La Météorologie, 1995, N° 11 ; p. 84-85</citation>
+		<rubrique>Lu pour vous</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="86">
+		<titre>Vient de paraître</titre>
+		<handle>http://hdl.handle.net/2042/51992</handle>
+		<doi>10.4267/2042/51992</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51992/meteo_1995_11_86.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>86-87</pages>
+		<citation>Vient de paraître, La Météorologie, 1995, N° 11 ; p. 86-87</citation>
+		<rubrique>Vient de paraître</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="88">
+		<titre>Mars 1995</titre>
+		<auteur>Donguy, Patrick</auteur>
+		<handle>http://hdl.handle.net/2042/51993</handle>
+		<doi>10.4267/2042/51993</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51993/meteo_1995_11_88.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>88</pages>
+		<citation>Donguy, Patrick ; Les photos du mois - mars 1995, La Météorologie, 1995, N° 11 ; p. 88</citation>
+		<rubrique>Les photos du mois</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="89">
+		<titre>Mars 1995</titre>
+		<auteur>Bourgary, André</auteur>
+		<auteur>SCEM/Prévi</auteur>
+		<auteur>SCEM/CBD</auteur>
+		<handle>http://hdl.handle.net/2042/51994</handle>
+		<doi>10.4267/2042/51994</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51994/meteo_1995_11_89.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>89-94</pages>
+		<citation>Bourgary, André ; Résumé climatique - mars 1995, La Météorologie, 1995, N° 11 ; p. 89-94</citation>
+		<rubrique>Résumé climatique</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="95">
+		<titre>Avril 1995</titre>
+		<auteur>Donguy, Patrick</auteur>
+		<handle>http://hdl.handle.net/2042/51995</handle>
+		<doi>10.4267/2042/51995</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51995/meteo_1995_11_95.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>95</pages>
+		<citation>Donguy, Patrick ; Les photos du mois - avril 1995, La Météorologie, 1995, N° 11 ; p. 95</citation>
+		<rubrique>Les photos du mois</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="96">
+		<titre>Avril 1995</titre>
+		<handle>http://hdl.handle.net/2042/51996</handle>
+		<doi>10.4267/2042/51996</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51996/meteo_1995_11_96.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>96-101</pages>
+		<citation>Résumé climatique - avril 1995, La Météorologie, 1995, N° 11 ; p. 96-101</citation>
+		<rubrique>Résumé climatique</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="102">
+		<titre>Mai 1995</titre>
+		<auteur>Donguy, Patrick</auteur>
+		<handle>http://hdl.handle.net/2042/51997</handle>
+		<doi>10.4267/2042/51997</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51997/meteo_1995_11_102.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>102</pages>
+		<citation>Donguy, Patrick ; Les photos du mois - mai 1995, La Météorologie, 1995, N° 11 ; p. 102</citation>
+		<rubrique>Les photos du mois</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="103">
+		<titre>Mai 1995</titre>
+		<auteur>Bourgary, André</auteur>
+		<auteur>SCEM/Prévi</auteur>
+		<auteur>SCEM/CBD</auteur>
+		<handle>http://hdl.handle.net/2042/51998</handle>
+		<doi>10.4267/2042/51998</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/51998/meteo_1995_11_103.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>11</numero>
+		<pages>103-113</pages>
+		<citation>Bourgary, André ; Résumé climatique - mai 1995, La Météorologie, 1995, N° 11 ; p. 103-113</citation>
+		<rubrique>Résumé climatique</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+</notices_simples>

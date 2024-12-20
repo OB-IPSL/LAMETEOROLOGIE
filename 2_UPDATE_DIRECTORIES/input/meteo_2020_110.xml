@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE Exlibris>
+<EXLIBRIS>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-21</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>-</DOC_AUTFN3>
+<DOC_AUTFN3>-</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France/DCSC</DOC_AUTMORAL>
+<DOC_AUTMORAL>Mercator Océan</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-21</DOC_DAT_CREAT>
+<DOC_DC>Régime de temps</DOC_DC>
+<DOC_DC>Anomalie climatique</DOC_DC>
+<DOC_DC>Oscillations océaniques</DOC_DC>
+<DOC_DC>Température de surface de la mer</DOC_DC>
+<DOC_DC>Extension de la banquise</DOC_DC>
+<DOC_DC>Bilan climatique</DOC_DC>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051099</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 103-111</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Mars à mai 2020</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-21</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051099__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 103-111</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_TAILLE>14835</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257658</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michael</DOC_AUTEUR>
+<DOC_AUTEUR>Salas y Mélia, David</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Oscillations océaniques</DOC_DC>
+<DOC_DC>Régime de temps</DOC_DC>
+<DOC_DC>Température de surface de la mer</DOC_DC>
+<DOC_DC>Extension de la banquise</DOC_DC>
+<DOC_DC>Bilan climatique</DOC_DC>
+<DOC_DEE>Variation du climat</DOC_DEE>
+<DOC_DEE>Climatologie</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051080</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 94-102</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La rubrique des résumés climatiques fait peau neuve !</DOC_TITRE>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051080__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 94-102</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE/PAM</MF_SERVICE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_TAILLE>6983</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257640</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>La fin de l'hiver 2019-2020 est marquée par la succession de tempêtes. Les zones de vents forts répondent à des schémas conceptuels très différent : jet de basses couches, jet en air froid, sting jet, forte instabilité et tempête de pente aval.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michael</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie générale et phénomènes météorologiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Hiver</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>Analyse synoptique</DOC_DEE>
+<DOC_DEE>Modèle conceptuel</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051079</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 89-93</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les tempêtes de fin d'hiver 2020</DOC_TITRE>
+<DOC_TITRE3>Late winter 2020 windstorms</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051079__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The end of winter 2019-2020 is characterised by successive windstorms. The areas of severe winds correspond to various conceptual models: warm jet, cold jet, sting jet, deep convection and downslope windstorm.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DATEVNEMT>Hiver 2020</MF_DATEVNEMT>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 89-93</MF_PAGE>
+<MF_RUBRIQUE>Retour sur...</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE/PAM</MF_SERVICE>
+<MF_TAILLE>7141</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257639</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Hernandez, Jean-Baptiste</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Perturbation</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Atlantique sud</DOC_DEE>
+<DOC_DEE>Onde de gravité</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051078</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 87-88</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Mai 2020 : Des ondes sur l'Atlantique ; Que d'eau !</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051078__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 87-88</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>644</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257638</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Océan austral</DOC_DC>
+<DOC_DC>Afrique de l'ouest</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Iceberg</DOC_DEE>
+<DOC_DEE>Orage</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051077</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 85-86</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Avril 2020 : Convection africaine ; La lente dérive d'A-68 A</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051077__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 85-86</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>542</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257637</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Hernandez, Jean-Baptiste</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Perturbation</DOC_DC>
+<DOC_DEE>Image satellitaire</DOC_DEE>
+<DOC_DEE>Mer d'Aral</DOC_DEE>
+<DOC_DEE>Tempête de sable</DOC_DEE>
+<DOC_DEE>Pacifique nord</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051076</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 83-84</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Mars 2020 : Un Pacifique agité ; Tempête en mer d'Aral</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051076__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 83-84</MF_PAGE>
+<MF_RUBRIQUE>Les photos du mois</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>568</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257636</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Océan Indien nord</DOC_DC>
+<DOC_DC>Mer d'Arabie</DOC_DC>
+<DOC_DC>Tempête cyclonique</DOC_DC>
+<DOC_DC>Bilan saisonnier</DOC_DC>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Trajectoire</DOC_DEE>
+<DOC_DEE>Golfe du Bengale</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051075</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 77-82</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Océan Indien nord, 2019 : Une saison plus active que la moyenne</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051075__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 77-82</MF_PAGE>
+<MF_RUBRIQUE>Saison cyclonique</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>1709</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257635</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Mer des Caraïbes</DOC_DC>
+<DOC_DC>Antilles</DOC_DC>
+<DOC_DC>Bermudes</DOC_DC>
+<DOC_DC>Bilan saisonnier</DOC_DC>
+<DOC_DC>Ouragan</DOC_DC>
+<DOC_DEE>Atlantique nord</DOC_DEE>
+<DOC_DEE>Cyclone tropical</DOC_DEE>
+<DOC_DEE>Formation tropicale</DOC_DEE>
+<DOC_DEE>Tempête</DOC_DEE>
+<DOC_DEE>Classification</DOC_DEE>
+<DOC_DEE>Trajectoire</DOC_DEE>
+<DOC_DEE>Golfe du Mexique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051074</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 70-76</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Atlantique Nord, 2019 : Encore une saison plus active que la moyenne</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051074__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 70-76</MF_PAGE>
+<MF_RUBRIQUE>Saison cyclonique</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>1933</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257634</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-19</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Javelle, Jean-Pierre</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COMMENT>OUVRAGES : 
+Le climat en 8 leçons. Par Kerry Emanuel / 
+Réparons le monde ; humains, animaux, nature. Par Corine Pelluchon / 
+10 idées reçues sur l'écologie ; tout ce qu'il faut savoir pour démêler le vrai du faux. Ouvrage collectif / 
+Le climat entre nos mains, océan et cryosphère, manuel à destination des enseignants du primaire et du secondaire. Sous la direction de Mariana Rocha, David Wilgenbus, Mathilde Tricoire / 
+THESES : 
+Beyrem Jebri : Attribution et reconstruction du rôle de la variabilité interne et des forçages externes sur le climat passé récent et du dernier millénaire. Thèse de Sorbonne Université / 
+Pierre Vanderbecken : Apport des infrasons pour l'assimilation de données dans un modèle global de prévision numérique du temps. Thèse de l'université de Toulouse / 
+Alix Rigal : Déformation des cycles saisonniers de variables climatiques. Thèse de l'université de Toulouse / 
+Audrey Brouillet : Évolution des extrêmes de température et de stress thermique au XXIe siècle ; cooccurrence, vitesses relatives et implications sur la perception du réchauffement climatique. Thèse de l'université Versailles Saint-Quentin-en-Yvelines / 
+Linh Nhat Luu : The role of human-induced climate change on extreme convective precipitation events in the South of France ; a high-resolution model simulation approach. Thèse de l'université Versailles Saint-Quentin-en-Yvelines / 
+Sara Shamekh : L'impact des températures de surface de la mer sur l'agrégation des nuages convectifs profonds. Thèse de l'université Paris Sciences et Lettres.</DOC_COMMENT>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051073</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 69</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Vient de paraître</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051073__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 69</MF_PAGE>
+<MF_RUBRIQUE>Vient de paraître</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>117</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257633</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base Dumont-d'Urville, située en Terre Adélie. C'est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020. Ce troisième article est consacré au travail de météorologue sur la base.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Gourand, François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie polaire</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Témoignage</DOC_DC>
+<DOC_DC>Hivernage</DOC_DC>
+<DOC_DC>Métiers de la météorologie</DOC_DC>
+<DOC_DEE>Antarctique</DOC_DEE>
+<DOC_DEE>Terre Adélie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Base Dumont d'Urville</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051072</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 65-68</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un an en Terre Adélie (3)</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051072__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 65-68</MF_PAGE>
+<MF_RUBRIQUE>Récit</MF_RUBRIQUE>
+<MF_SERVICE>TAAF/DUMONT</MF_SERVICE>
+<MF_TAILLE>2627</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257632</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>Dans la nuit du 14 au 15 octobre 2018, un épisode méditerranéen se déclenche sur le département de l'Aude, déversant jusqu'à 300 mm en un peu moins de 10 heures dans la région de Carcassonne, générant des crues meurtrières sur le bassin moyen de l'Aude et de ses affluents. Les ingrédients météorologiques typiques d'un tel événement sont bien présents : entrée droite d'un jet de sud en altitude, jet de basses couches méditerranéen chaud et humide alimentant une ligne de convergence. Le paroxysme de l'épisode s'étant produit à l'est immédiat de Carcassonne, région habituellement située à la périphérie des épisodes les plus intenses, les durées de retour des précipitations sur 6 heures sont au final d'ordre centennal. Même si la prévisibilité d'un épisode méditerranéen est relativement bonne à grande échelle, les modèles déterministes et leurs ensembles, qu'ils soient globaux ou à aire limitée, montrent une grande variabilité d'un réseau à l'autre, rendant très difficile la localisation précise du paroxysme pluvieux.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michaël</DOC_AUTEUR>
+<DOC_AUTEUR>Calas, Christophe</DOC_AUTEUR>
+<DOC_AUTEUR>Baille, Sébastien</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Inondations</DOC_DC>
+<DOC_DC>Episode méditerranéen</DOC_DC>
+<DOC_DEE>Etude d'évènement particulier</DOC_DEE>
+<DOC_DEE>Analyse synoptique</DOC_DEE>
+<DOC_DEE>Crue</DOC_DEE>
+<DOC_DEE>Modèle de prévision</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Arome-CEP</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051071</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 46-64</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Inondations de l'Aude du 15 octobre 2018 : analyse météorologique, conséquences hydrologiques et prévisibilité</DOC_TITRE>
+<DOC_TITRE3>Floods over Aude the 15th October 2018: weather analysis, hydrological consequences and predictability</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051071__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>During the night of 14th October 2018 a Mediterranean Heavy Precipitation Event occurred over the Aude département in Southern France, bringing up to 300 mm of rain in about 10 hours over the Carcassonne area, and generating deadly floods in the Aude River catchment. Typical meteorological ingredients were involved: an upper-jet right-entrance region, and a warm and wet low-level jet feeding a convergence line. As the peak of the event occurs around Carcassonne which is less familiar to such events, the return period for 6-hour rainfall was close to one-hundred years. The predictability of such events is rather good on a synoptic scale. However, when it comes to precise localisation and intensities, numerical weather prediction (NWP) models (be they deterministic or ensembles, global or limited-area ones) show a great variability between consecutive runs, making the exercise very challenging for forecasters.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>michael.kreitz@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 46-64</MF_PAGE>
+<MF_RUBRIQUE>Prévision</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE/PAM</MF_SERVICE>
+<MF_SERVICE>ENM/DE/PAM</MF_SERVICE>
+<MF_SERVICE>DIRSE</MF_SERVICE>
+<MF_TAILLE>6550</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257631</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>Devant l'importance des enjeux en termes de climat, de santé publique ou d'activités économiques, la brume de poussières fait l'objet d'un intérêt croissant avec de nombreuses recherches menées depuis maintenant plusieurs décennies. Les régions ultramarines françaises des Antilles et de la Guyane sont particulièrement exposées aux poussières désertiques issues du Sahara. Celles-ci sont composées de divers éléments, notamment minéraux, pouvant favoriser les impacts sanitaires néfastes de certains virus et bactéries. La brume de poussières revêt un intérêt particulier dans la prévision opérationnelle, en raison de son rôle sur la convection atmosphérique, dont la compréhension, l'observation et la modélisation nécessitent d'être approfondies. Nous mettons en exergue la fréquence de ce phénomène aux Antilles et en Guyane, dépendant majoritairement de la variabilité naturelle du climat et des oscillations climatiques, mais pouvant également être en partie lié à l'impact de certaines activités humaines (comme la désertification).</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Cottereau, Julien</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>pollution, aérosol, prévision de la qualité de l'air</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Concentration d'aérosols</DOC_DC>
+<DOC_DC>Poussières sahariennes</DOC_DC>
+<DOC_DC>Antilles</DOC_DC>
+<DOC_DC>Guyane</DOC_DC>
+<DOC_DEE>Prévision opérationnelle</DOC_DEE>
+<DOC_DEE>Convection</DOC_DEE>
+<DOC_DEE>Statistique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051070</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 34-45</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La brume de poussières sahariennes aux Antilles françaises et en Guyane</DOC_TITRE>
+<DOC_TITRE3>Saharan dust haze in the French West Indies and French Guyana</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051070__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Given its importance in terms of climate, public health or economic activities, dust haze is subject to a growing interest with a lot of research carried out for several decades now. The French overseas regions of the Antilles and Guyana are particularly exposed to desert dust from the Sahara, which carries various elements, in particular minerals, and can favour the harmful health impacts of certain viruses and bacteria. Dust haze is of particular interest in operational forecasting because of its role in convection, which requires further understanding, observation and modeling. Through this article, we highlight the frequency of this phenomenon in the French West Indies and Guyana, depending mainly on the natural variability of climate and the climate oscillations, but which can also be partly linked to the impact of certain human activities (such as desertification).</MF_AB_ANGLAIS>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>julien.cottereau@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 34-45</MF_PAGE>
+<MF_RUBRIQUE>Nuages et aérosols</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>3832</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257630</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>Nous avons analysé les variations des cumuls (moyenne) annuels des précipitations et températures (maximales et minimales) observées à Niamey (1961-2014) et à Nguigmi (1960-2015). À partir des anomalies des précipitations et des températures (maximales, moyennes et minimales), nous avons cherché l'existence des tendances et/ou des périodes de stationnarité par l'identification des points de rupture. L'évolution des anomalies des précipitations à la station de Niamey montre une période nettement humide au cours des années 1960, suivie d'une période très sèche dans les années 1970-1980. Cette station est ainsi marquée par deux périodes de stationnarité (1961-1967 et 1968-2014), indiquant des changements majeurs dans les séries des précipitations, avec une tendance décroissante non significative. Ces observations sont quelque peu différentes de celles de la station de Nguigmi, qui n'indique pas de période de rupture avec une tendance croissante non significative. Concernant les températures, les résultats mettent en évidence deux années de rupture déterminant trois périodes de stationnarité pour les températures maximales et moyennes au niveau des deux stations. Aussi, les variations des températures indiquent un taux de réchauffement journalier à Nguigmi qui dépasse le double de celui observé à Niamey, mais le réchauffement nocturne est plus important à Niamey qu'à Nguigmi. Les données de température montrent des tendances croissantes et significatives au niveau des deux stations.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Boubacar, Garba</DOC_AUTEUR>
+<DOC_AUTEUR>Saley, Moussa Mounkaila </DOC_AUTEUR>
+<DOC_AUTEUR>Saley, Inoussa Abdou</DOC_AUTEUR>
+<DOC_AUTEUR>Mouhaimouni, Moussa</DOC_AUTEUR>
+<DOC_AUTEUR>Fodé, Madé</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Sahel</DOC_DC>
+<DOC_DEE>Réchauffement climatique</DOC_DEE>
+<DOC_DEE>Analyse statistique</DOC_DEE>
+<DOC_DEE>Niger</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051069</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 28-33</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Analyses statistiques des variations des températures et précipitations observées à Niamey et à Nguigmi</DOC_TITRE>
+<DOC_TITRE3>Statistical analysis of temperatures and precipitations variations observed in Niamey and Nguigmi</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051069__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>We analyzed the variations in cumulative (average) annual precipitations and temperatures (maximum and minimum) observed over Niamey (1961-2014) and Nguigmi (1960-2015). Based on the precipitations and temperatures (maximum, average and minimum) anomalies, the existence of trends and/or periods of stationarity were analyzed to identify breaking points. The variability of precipitations anomalies at the Niamey station shows a clearly wet period during the 1960s followed by a very dry period in the 1970s and 1980s. Thus, this station is marked by two periods of stationarity (1961-1967 and 1968-2014) indicating major changes in the precipitation series with non-significant decreasing trend. These observations are somewhat different from those of the Nguigmi station that shows an increasing trend non-significant with any breaking period. The results regarding temperatures show two years of breaks determining three periods of stationarity for the maximum and average temperatures at the two stations. The temperatures variations indicate also a daily warming rate in Nguigmi which is more than the double of that observed in Niamey but the night warming is more important in Niamey than in Nguigmi. At both stations, the temperatures data show increasing and significant trends.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 28-33</MF_PAGE>
+<MF_RUBRIQUE>Climatologie</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1722</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257629</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AB>Les glaces en Antarctique et au Groenland sont une archive de premier plan pour reconstruire le climat du Quaternaire. Une datation précise est nécessaire pour exploiter cette archive. Les méthodes de datation peuvent être tirées de l'analyse de la glace, des bulles d'air piégées, de la comparaison à d'autres archives ou aux variations des paramètres orbitaux de la Terre, ou de la modélisation du processus de sédimentation glaciaire. Ces méthodes étant complémentaires, un modèle probabiliste a été développé pour les combiner de manière optimale.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Parrenin, Frédéric</DOC_AUTEUR>
+<DOC_AUTEUR>Landais, Amaëlle</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>glaciologie, manteau neigeux</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Méthodes de datation</DOC_DC>
+<DOC_DEE>Paléoclimatologie</DOC_DEE>
+<DOC_DEE>Carotte glaciaire</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051067</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 18-27</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La datation des archives glaciaires</DOC_TITRE>
+<DOC_TITRE3>The dating of glacial archives</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051067__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Ice samplings from Antarctica or Greenland form an exceptional archive to reconstruct the Quaternary climate. An accurate chronology is necessary to exploit this archive. Dating methods can be derived from the analysis of ice, or enclosed air bubbles, from the comparison to other archives or to variations of orbital parameters of the Earth, or from the modelling of the glacial sedimentation process. These methods being complementary, a probabilistic model has been developed to combine them in an optimal manner.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 18-27</MF_PAGE>
+<MF_RUBRIQUE>Paléoclimatologie</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>2600</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257627</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Risi, Camille</DOC_AUTEUR>
+<DOC_AUTEUR>Roux, Frank</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Supercellule orageuse</DOC_DC>
+<DOC_DC>Expérience pédagogique</DOC_DC>
+<DOC_DEE>Education</DOC_DEE>
+<DOC_DEE>Orage</DOC_DEE>
+<DOC_DEE>Grêle</DOC_DEE>
+<DOC_DEE>Grêlon</DOC_DEE>
+<DOC_DEE>Surfusion</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051066</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 12-17</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Comment se forme la grêle ? Une activité avec de la pâte à modeler</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-20</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051066__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 12-17</MF_PAGE>
+<MF_RUBRIQUE>Enseignement</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>1607</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257626</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>météorologie générale et phénomènes météorologiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Arcus</DOC_DC>
+<DOC_DEE>Photographie de phénomène</DOC_DEE>
+<DOC_DEE>Cumulonimbus</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051065</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 11</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Arcus sur le Bugey</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051065__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 11</MF_PAGE>
+<MF_RUBRIQUE>La photo du trimestre</MF_RUBRIQUE>
+<MF_TAILLE>207</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257625</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Kreitz, Michaël</DOC_AUTEUR>
+<DOC_AUTEUR>Doudelle, Isabelle</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>information, alerte</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Information météorologique</DOC_DC>
+<DOC_DC>Site internet</DOC_DC>
+<DOC_DC>Carte de vigilance</DOC_DC>
+<DOC_DEE>Alerte</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051064</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 7-10</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Nouveau site « Vigilance » de Météo-France</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051064__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 7-10</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>ENM/DE/PAM</MF_SERVICE>
+<MF_SERVICE>DIRCOM</MF_SERVICE>
+<MF_TAILLE>2214</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257624</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Tanré, Didier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie spatiale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Mission spatiale</DOC_DC>
+<DOC_DEE>Télédétection satellitaire</DOC_DEE>
+<DOC_DEE>Surveillance [environnement]</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>EOS (programme d'observation de la Terre)</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051063</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 6</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La mission Terra d'observation de la Terre : 20 ans après</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051063__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 6</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>881</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257623</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Jacobi, Hans-Werner</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie polaire</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>Changement climatique</DOC_DC>
+<DOC_DC>Expédition polaire</DOC_DC>
+<DOC_DEE>Arctique</DOC_DEE>
+<DOC_DEE>Recherche scientifique</DOC_DEE>
+<DOC_DEE>Glace de mer</DOC_DEE>
+<DOC_DEE>Campagne de mesure</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Mosaic</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051062</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 4-5</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un brise-glace dérivant pour étudier l'Arctique</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051062__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 4-5</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>289</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257622</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Metzl, Nicolas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DC>CO2 océanique</DOC_DC>
+<DOC_DC>Puits de carbone</DOC_DC>
+<DOC_DC>Acidification des océans</DOC_DC>
+<DOC_DEE>Base de données</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051061</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 2-3</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Socat, la base de données internationale sur le CO2 océanique</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051061__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 2-3</MF_PAGE>
+<MF_RUBRIQUE>Échos</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>313</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257621</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-19</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Boucher, Olivier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-19</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00051060</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 1</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Editorial</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-19</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00051060__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 1</MF_PAGE>
+<MF_RUBRIQUE>Éditorial</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>50</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257620</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-08-20</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-08-20</DOC_DAT_CREAT>
+<DOC_DEE>Climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>0</DOC_NEW>
+<DOC_PER_DPAR>2020-08-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>110</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Août 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00050620</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. S1-S9</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Mars à mai 2020</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-08-20</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00050620__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. S1-S9</MF_PAGE>
+<MF_RUBRIQUE>Résumés climatiques (ancienne formule)</MF_RUBRIQUE>
+<MF_TAILLE>1079</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>257217</FT_CID>
+</NOTICE>
+</EXLIBRIS>

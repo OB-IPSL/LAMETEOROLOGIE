@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="108">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2020</annee>
+  <mois>02</mois>
+  <numero>108</numero>
+  <url_pdf>meteo_2020_108_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Editorial</rubrique>
+  <titre>Editorial</titre>
+  <auteur>Renaut, Didier</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2020-0001</doi>
+  <url_pdf>meteo_2020_108_1.pdf</url_pdf>
+  <citation>Renaut, Didier. Editorial. La Météorologie, 108, 1, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Fin de la Conférence mondiale des radiocommunications 2019</titre>
+  <auteur>Allaix, Éric</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>2-3</pages>
+  <doi>10.37053/lameteorologie-2020-0002</doi>
+  <url_pdf>meteo_2020_108_2.pdf</url_pdf>
+  <citation>Allaix, Éric. Fin de la Conférence mondiale des radiocommunications 2019. La Météorologie, 108, 2-3, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>télécommunications, équipements radioélectriques, transmission de l'information météorologique, partage des fréquences, 5G</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Forum mesurera l'infrarouge lointain émis par la Terre</titre>
+  <auteur>Libois, Quentin</auteur>
+  <auteur>C.-Labonnote, Laurent</auteur>
+  <auteur>Camy-Peyret, Claude</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>4-6</pages>
+  <doi>10.37053/lameteorologie-2020-0003</doi>
+  <url_pdf>meteo_2020_108_4.pdf</url_pdf>
+  <citation>Libois, Quentin ; C.-Labonnote, Laurent ; Camy-Peyret, Claude. Forum mesurera l'infrarouge lointain émis par la Terre. La Météorologie, 108, 4-6, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>télédetection satellitaire, bilan radiatif, instrument rayonnement, infrarouge lointain, système Terre, mission spatiale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>École de météorologie de l'espace - Université de Thiès du 15 au 25 octobre 2019</titre>
+  <auteur>Gaye, Idrissa</auteur>
+  <auteur>Amory-Mazaudier, Christine</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>6-7</pages>
+  <doi>10.37053/lameteorologie-2020-0004</doi>
+  <url_pdf>meteo_2020_108_6.pdf</url_pdf>
+  <citation>Gaye, Idrissa ; Amory-Mazaudier, Christine. École de météorologie de l'espace - Université de Thiès du 15 au 25 octobre 2019. La Météorologie, 108, 6-7, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>coopération scientifique, enseignement supérieur, géomagnetisme, perturbations solaires, météorologie de l'espace</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Stratéole-2 : des ballons longue durée pour étudier la tropopause tropicale</titre>
+  <auteur>Hertzog, Albert</auteur>
+  <auteur>Plougonven, Riwal</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>8</pages>
+  <doi>10.37053/lameteorologie-2020-0005</doi>
+  <url_pdf>meteo_2020_108_8.pdf</url_pdf>
+  <citation>Hertzog, Albert ; Plougonven, Riwal. Stratéole-2 : des ballons longue durée pour étudier la tropopause tropicale. La Météorologie, 108, 8, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>campagne de mesure, observation météorologique, ballon pressurisé, couplage troposphère-stratosphère, TTL (tropical tropopause layer)</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>MedLab : un portail dédié aux épisodes méditerranéens intenses</titre>
+  <auteur>Delannoy, Ludovic</auteur>
+  <auteur>Orti, Thomas</auteur>
+  <auteur>Amm, Tristan</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>9-10</pages>
+  <doi>10.37053/lameteorologie-2020-0006</doi>
+  <url_pdf>meteo_2020_108_9.pdf</url_pdf>
+  <citation>Delannoy, Ludovic ; Orti, Thomas ; Amm, Tristan. MedLab : un portail dédié aux épisodes méditerranéens intenses. La Météorologie, 108, 9-10, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>base de données, données en temps réel, précipitations, produits de prévision, épisodes méditerraneens, pluies intenses, site internet, Hymex</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Un mât émerge de la forêt</titre>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>11</pages>
+  <doi>10.37053/lameteorologie-2020-0007</doi>
+  <url_pdf>meteo_2020_108_11.pdf</url_pdf>
+  <citation>Un mât émerge de la forêt. La Météorologie, 108, 11, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>interaction vegetation-atmosphère, mât instrumenté</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Journée scientifique 2019 - Changement climatique, gestion durable des terres et sécurité alimentaire</titre>
+  <auteur>Guillaume, Anne</auteur>
+  <auteur>Noblet-Ducoudré, Nathalie de</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>12-18</pages>
+  <doi>10.37053/lameteorologie-2020-0008</doi>
+  <url_pdf>meteo_2020_108_12.pdf</url_pdf>
+  <citation>Guillaume, Anne ; Noblet-Ducoudré, Nathalie de. Journée scientifique 2019 - Changement climatique, gestion durable des terres et sécurité alimentaire. La Météorologie, 108, 12-18, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>réchauffement climatique, impact, sécurite alimentaire, utilisation des sols, développement durable, stratégie d'attenuation, colloque, GIEC</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Journée scientifique Occitanie 2019 - Du rapport du Giec sur le réchauffement à 1,5 °C à sa traduction dans les territoires</titre>
+  <auteur>Planton, Serge</auteur>
+  <auteur>Phulpin, Thierry</auteur>
+  <auteur>Pailleux, Jean</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>19-20</pages>
+  <doi>10.37053/lameteorologie-2020-0009</doi>
+  <url_pdf>meteo_2020_108_19.pdf</url_pdf>
+  <citation>Planton, Serge ; Phulpin, Thierry ; Pailleux, Jean. Journée scientifique Occitanie 2019 - Du rapport du Giec sur le réchauffement à 1,5 °C à sa traduction dans les territoires. La Météorologie, 108, 19-20, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>réchauffement climatique, diffusion scientifique, Occitanie, politique d'atténuation, transition énergetique, transition écologique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>L'enquête sur La Météorologie : les résultats</titre>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>22-23</pages>
+  <doi>10.37053/lameteorologie-2020-0010</doi>
+  <url_pdf>meteo_2020_108_22.pdf</url_pdf>
+  <citation>L'enquête sur La Météorologie : les résultats. La Météorologie, 108, 22-23, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>SMF, sondage d'opinion</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Numero spécial interactions surfaces continentales-atmosphère</rubrique>
+  <titre>Introduction</titre>
+  <auteur>Mahfouf, Jean-François</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>24-25</pages>
+  <doi>10.37053/lameteorologie-2020-0011</doi>
+  <url_pdf>meteo_2020_108_24.pdf</url_pdf>
+  <citation>Mahfouf, Jean-François. Introduction. La Météorologie, 108, 24-25, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>recherche scientifique, prévision, hydrologie, modèle de surface continentale, interaction sol-atmosphère, hommage</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>Joël Noilhan (1953-2010), une carrière scientifique consacrée à la micrométéorologie et à l'hydrologie</titre>
+  <titre_en>Joël Noilhan (1953-2010): a scientific career devoted to micrometeorology and hydrology</titre_en>
+  <auteur>Bougeault, Philippe</auteur>
+  <auteur>André, Jean-Claude</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>26-30</pages>
+  <doi>10.37053/lameteorologie-2020-0012</doi>
+  <url_pdf>meteo_2020_108_26.pdf</url_pdf>
+  <citation>Bougeault, Philippe ; André, Jean-Claude. Joël Noilhan (1953-2010), une carrière scientifique consacrée à la micrométéorologie et à l'hydrologie. La Météorologie, 108, 26-30, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>recherche scientifique, biographie, campagne de mesure, micrométéorologie, modélisation hydrologique, hommage, historique, Hapex-Mobilhy, Isba</mots_cles>
+  <resume_fr>Cet article décrit la riche mais trop brève carrière scientifique de Joël Noilhan. Après une première expérience en micrométéorologie, Joël Noilhan fut recruté par Météo-France pour valoriser les mesures de la campagne Hapex-Mobilhy dans les modèles numériques de prévision et de climat. Ces premiers résultats l'amenèrent à définir un programme de recherche ambitieux en hydrologie, qui a fédéré et inspire encore une partie des acteurs français de cette science. Plusieurs modèles de prévision et produits opérationnels de Météo-France bénéficient aujourd'hui de ces avancées. Tant par ses qualités humaines que par la profondeur de sa vision scientifique, Joël Noilhan a eu une influence considérable sur la recherche en environnement.</resume_fr>
+  <resume_en>This paper describes the rich but too short scientific career of Joël Noilhan. After a start in micrometeorology, he was hired by Météo-France to insure that observations acquired during the Hapex-Mobilhy field campaign would serve to improve numerical models of weather and climate. Initial results led him to design an ambitious research programme in hydrology, which attracted and still inspires many French actors of this science. Several operational models and products of Météo-France still benef it today from these developments. Due to his human qualities and his deep science insight, Joël Noilhan exerted a considerable influence on environmental research.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Agrométéorologie</rubrique>
+  <titre>Les représentations des surfaces continentales dans les modèles atmosphériques : aperçu historique</titre>
+  <titre_en>Early land surface schemes in atmospheric models: historical perspective</titre_en>
+  <auteur>Beljaars, Anton</auteur>
+  <auteur>Mahfouf, Jean-François</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>31-37</pages>
+  <doi>10.37053/lameteorologie-2020-0013</doi>
+  <url_pdf>meteo_2020_108_31.pdf</url_pdf>
+  <citation>Beljaars, Anton ; Mahfouf, Jean-François. Les représentations des surfaces continentales dans les modèles atmosphériques : aperçu historique. La Météorologie, 108, 31-37, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>modèle de surfaces continentales, historique, interaction sol-atmosphère, évaporation de surface</mots_cles>
+  <resume_fr>Cet article décrit les représentations des surfaces continentales dans les modèles atmosphériques disponibles jusque dans les années 1990. Après avoir présenté les concepts de base de l'évaporation de surface, on montre les limitations du « modèle baquet ». Afin de modéliser les effets des désertifications et déforestations, des représentations plus réalistes, décrivant notamment les effets de la végétation (transpiration des plantes et interception de la pluie), ont été développées. On conclut en résumant les besoins en jeux de données (campagnes de mesures, cartographies globales des sols et de la végétation) pour mieux contraindre et valider ces représentations de surface.</resume_fr>
+  <resume_en>This paper describes land surface schemes available in atmospheric models until the 90's. After a presentation of the basic concepts on surface evaporation, the limitations of the bucket model are shown. In order to model desertif ications and deforestations, more realistic schemes, including vegetation effects (plant transpiration and rainfall interception) have been developed. One concludes by a summary on the need of data sets (field campaigns, global vegetation and land cover maps) in order to constrain and validate such surface schemes.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>Une nouvelle description des surfaces continentales pour les modèles de Météo-France : les origines du schéma Isba</titre>
+  <titre_en>A new description of land surfaces for Météo-France models: origin of the Isba scheme</titre_en>
+  <auteur>Planton, Serge</auteur>
+  <auteur>Mahfouf, Jean-François</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>38-45</pages>
+  <doi>10.37053/lameteorologie-2020-0014</doi>
+  <url_pdf>meteo_2020_108_38.pdf</url_pdf>
+  <citation>Planton, Serge ; Mahfouf, Jean-François. Une nouvelle description des surfaces continentales pour les modèles de Météo-France : les origines du schéma Isba. La Météorologie, 108, 38-45, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>campagne de mesure, interaction sol-vegetation-atmosphère, schéma de surface, historique, ISBA, Hapex-Mobilhy</mots_cles>
+  <resume_fr>Le schéma de surface Isba a été conçu pour représenter aussi simplement que possible des processus complexes d'interactions entre le sol, la végétation et l'atmosphère. Les choix méthodologiques adoptés pour sa construction ont été guidés par son implémentation future dans des modèles atmosphériques de moyenne échelle, de prévision météorologique et de climat. Son développement initial a été grandement facilité par la disponibilité des données d'observation de la campagne Hapex-Mobilhy, permettant de valider les choix méthodologiques et d'ajuster certains des paramètres du schéma. Cette approche de développement s'appuyant sur les données de campagnes de mesures ne s'est pas démentie par la suite.
+</resume_fr>
+  <resume_en>The Isba surface scheme was designed to represent as simply as possible complex interaction process between the soil, the vegetation and the atmosphere. The methodological choices adopted to construct it were guided by its future implementation in mesoscale, weather and climate models. Its initial development was greatly facilitated by the availability of observational data from the Hapex-Mobilhy field, enabling the methodological choices to be validated and some parameters of the scheme to be adjusted. This development approach, based on field campaign data, was maintained later.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Campagne expérimentale</rubrique>
+  <titre>Apport des campagnes de mesures pour la compréhension des interactions sol-végétation-atmosphère</titre>
+  <titre_en>Soil-vegetation-atmosphere interactions: experimental field campaigns contributions</titre_en>
+  <auteur>Bergot, Thierry</auteur>
+  <auteur>Bessemoulin, Pierre</auteur>
+  <auteur>Sarrat, Claire</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>46-51</pages>
+  <doi>10.37053/lameteorologie-2020-0015</doi>
+  <url_pdf>meteo_2020_108_46.pdf</url_pdf>
+  <citation>Bergot, Thierry ; Bessemoulin, Pierre ; Sarrat, Claire. Apport des campagnes de mesures pour la compréhension des interactions sol-végétation-atmosphère. La Météorologie, 108, 46-51, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>campagne de mesure, interaction sol-végétation-atmosphère, modélisation, prévision du brouillard, historique, Hapex-Mobilhy, Carbo-Europe</mots_cles>
+  <resume_fr>La synergie entre campagnes de mesures et modélisation numérique a permis de faire fortement progresser notre compréhension des interactions sol-végétation-atmosphère. Ces progrès ont conduit à l'élaboration du modèle de surface Isba développé par Joël Noilhan et utilisé aujourd'hui encore dans les modèles de prévision opérationnelle de Météo-France. Cet article vise à illustrer l'apport des campagnes de mesures dans l'amélioration de nos connaissances des processus en surface à travers trois exemples, Hapex-Mobilhy pour l'étude du bilan hydrique, Carbo-Europe pour l'étude du bilan en carbone et l'étude du brouillard sur l'aéroport Paris-CdG pour l'influence des conditions de surface sur les nuages bas.</resume_fr>
+  <resume_en>The synergy between field experiments and numerical modeling has allowed to significantly advance our understanding of soil-vegetation-atmosphere interactions. This progress led to the ISBA surface model developed by Joël Noilhan and used today in Météo-France's operational forecasting models. This article aims to illustrate the contribution of field experiments in improving our knowledge of surface processes through three examples: Hapex-Mobilhy, Carbo-Europe, and the study of fog at Paris-CdG airport.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Ecosystèmes</rubrique>
+  <titre>L'apport de la télédétection spatiale à la modélisation des surfaces continentales</titre>
+  <titre_en>Remote sensing inputs to land surface modelling</titre_en>
+  <auteur>Calvet, Jean-Christophe</auteur>
+  <auteur>Champeaux, Jean-Louis</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>52-58</pages>
+  <doi>10.37053/lameteorologie-2020-0016</doi>
+  <url_pdf>meteo_2020_108_52.pdf</url_pdf>
+  <citation>Calvet, Jean-Christophe ; Champeaux, Jean-Louis. L'apport de la télédétection spatiale à la modélisation des surfaces continentales. La Météorologie, 108, 52-58, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>télédetection satellitaire, assimilation des données, cartographie, modèle de surfaces continentales, historique, interaction sol-végétation-atmosphère, occupation des sols, ISBA, Ecoclimap</mots_cles>
+  <resume_fr>Cet article présente les différentes étapes des développements réalisés au CNRM des années 1990 à nos jours pour spatialiser à diverses échelles les simulations du modèle Isba des surfaces terrestres. Une attention particulière est portée sur l'intégration, dans le modèle, de données satellitaires permettant de caractériser la végétation. Deux façons complémentaires d'introduire de l'information géographique dans Isba sont présentées : cartographie de paramètres statiques et intégration au fil de l'eau dans le modèle de variables observables depuis l'espace.</resume_fr>
+  <resume_en>This paper presents successive steps in developments made at CNRM from the 1990s to the present-day in order to spatialize the simulations of the Isba land surface model at various scales. The focus is on the integration in the model of satellite data informative about vegetation. Two complementary ways to integrate geographic information in Isba are presented: mapping of static model parameters and sequential assimilation of variables observable from space.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>La représentation des surfaces continentales pour la prévision numérique du temps</titre>
+  <titre_en>Land surface schemes in numerical weather prediction models</titre_en>
+  <auteur>Bélair, Stéphane</auteur>
+  <auteur>Boone, Aaron</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>59-66</pages>
+  <doi>10.37053/lameteorologie-2020-0017</doi>
+  <url_pdf>meteo_2020_108_59.pdf</url_pdf>
+  <citation>Bélair, Stéphane ; Boone, Aaron. La représentation des surfaces continentales pour la prévision numérique du temps. La Météorologie, 108, 59-66, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>prévision numérique, assimilation des données, couche limite planétaire, modèle de surfaces continentales, interaction sol-végétation-atmosphère, historique, ISBA, prévision canadienne</mots_cles>
+  <resume_fr>La représentation des processus physiques associés aux surfaces continentales, incluant les échanges de chaleur, d'humidité et de quantité de mouvement avec l'atmosphère, ainsi que l'analyse des conditions initiales pour ses principales variables influencent de manière substantielle la prévision atmosphérique près de la surface, en plus d'avoir un impact sur la production de nuages et des précipitations. Comment les surfaces continentales sont-elles représentées dans les modèles de prévision numérique du temps ? Quelles sont les problématiques propres à la prévision numérique du temps dans cette représentation ? Ces questions sont examinées dans cet article en utilisant des exemples tirées du modèle Isba (Interactions solbiosphère-atmosphère) développé à Météo-France et du système d'assimilation de surface du Service météorologique du Canada.</resume_fr>
+  <resume_en>The representation of physical processes over land, including heat, humidity, and momentum exchanges with the atmosphere, as well as accurate initialisation of its main prognostic variables, has a substantial influence on numerical prediction of the near-surface atmosphere and on the formation of clouds and precipitation. How are continental surfaces represented in numerical weather prediction (NWP) models? What are the scientific issues specif ic to NWP for this representation? These are questions examined in this study using examples from the Isba (Interactions Soil-Biosphere-Atmosphere) land surface scheme developed at Météo-France and the land data assimilation system from the Meteorological Service of Canada.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Changement climatique</rubrique>
+  <titre>La représentation des surfaces continentales dans la modélisation du climat à Météo-France</titre>
+  <titre_en>Land surface schemes for climate modelling at Météo-France</titre_en>
+  <auteur>Decharme, Bertrand</auteur>
+  <auteur>Delire, Christine</auteur>
+  <auteur>Boone, Aaron</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>67-76</pages>
+  <doi>10.37053/lameteorologie-2020-0018</doi>
+  <url_pdf>meteo_2020_108_67.pdf</url_pdf>
+  <citation>Decharme, Bertrand ; Delire, Christine ; Boone, Aaron. La représentation des surfaces continentales dans la modélisation du climat à Météo-France. La Météorologie, 108, 67-76, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>modèle climatique, hydrométéorologie, systeme Terre, modèle de surfaces continentales, interaction sol-végétation-atmosphère, historique, ISBA</mots_cles>
+  <resume_fr>Les surfaces continentales jouent un rôle non négligeable dans le système climatique de la Terre. Elles occupent d'ailleurs une place majeure dans les cycles globaux de l'eau et du carbone. Elles ont été prises en compte dès les premiers modèles numériques de climat et, avec l'évolution des connaissances, des capacités de calcul et de la demande sociétale, leur représentation s'est aujourd'hui considérablement complexifiée. Nous présentons ici une brève histoire de l'évolution du modèle de surfaces Isba (Interactions sol-biosphère-atmosphère) de Météo-France dans son utilisation à l'échelle du globe en la replaçant dans le contexte international de la modélisation climatique.</resume_fr>
+  <resume_en>Land surfaces play a significant role in the Earth climate system, and they are a major component of the global carbon and water cycles. The first numerical climate models took them into account in very simple ways. Through time the complexity of their representation has increased a lot owing to improved knowledge, larger computational resources and changing societal demands. We present here a brief history of the ISBA (Interactions Soil-Biosphere-Atmosphere) land surface model developed at Météo-France when used at the global scale and how it evolved in the context of international climate modelling.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Environnement</rubrique>
+  <titre>Les schémas de surface continentale pour le suivi et la prévision du système Terre au CEPMMT</titre>
+  <titre_en>Land surface schemes for Earth system monitoring and prediction at ECMWF</titre_en>
+  <auteur>Decharme, Bertrand</auteur>
+  <auteur>Mahfouf, Jean-François</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>77-81</pages>
+  <doi>10.37053/lameteorologie-2020-0019</doi>
+  <url_pdf>meteo_2020_108_77.pdf</url_pdf>
+  <citation>Decharme, Bertrand ; Mahfouf, Jean-François. Les schémas de surface continentale pour le suivi et la prévision du système Terre au CEPMMT. La Météorologie, 108, 77-81, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>prévision, réanalyse, hydrologie, manteau neigeux, lac, végétation, urbanisation, système Terre, schéma de surface, historique, ISBA, H-Tessel, CEPMMT</mots_cles>
+  <resume_fr>Cet article présente les développements récents au Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) concernant la représentation des surfaces continentales pour la modélisation globale en prévision du temps à diverses échelles (de quelques jours à la saison), ainsi que pour les réanalyses de l'atmosphère. Les représentations de l'hydrologie, de la végétation, de la neige et des lacs ont été améliorées en s'appuyant sur des mesures in situ et des observations de télédétection spatiale. Les progrès récents en vue d'une initialisation réaliste des différentes composantes sont décrits. Plusieurs défis posés par la modélisation du système Terre sont finalement exposés.</resume_fr>
+  <resume_en>This paper describes recent developments undertaken at the European Centre for Medium Range Weather Forecasts (ECMWF) regarding the description of land surfaces at global scale for numerical weather prediction at various forecast ranges (from few days to several months) including atmospheric reanalyses. As a result, physical processes describing hydrology, vegetation snow and lakes have been revised and improved using in-situ measurements and space observations. The importance of a realistic initialisation of the various components of the land surface is underlined, including recent progress in this area. Finally, a number of challenges raised by the Earth System Modelling are presented.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>Surfex : une plateforme pour simuler les flux des surfaces océaniques et continentales</titre>
+  <titre_en>Surfex: a modelling platform to simulate fluxes over oceanic and continental surfaces</titre_en>
+  <auteur>Le Moigne, Patrick</auteur>
+  <auteur>Minvielle, Marie</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>82-87</pages>
+  <doi>10.37053/lameteorologie-2020-0020</doi>
+  <url_pdf>meteo_2020_108_82.pdf</url_pdf>
+  <citation>Le Moigne, Patrick ; Minvielle, Marie. Surfex : une plateforme pour simuler les flux des surfaces océaniques et continentales. La Météorologie, 108, 82-87, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>prévision numérique, modèles couplés, interaction sol-atmosphère, paramétrisation physique, occupation des sols, SURFEX, ISBA, Ecoclimap, TEB (Town Energy Balance)</mots_cles>
+  <resume_fr>Dans les modèles atmosphériques de prévision numérique du temps et de climat, la surface constitue la condition à la limite inférieure. La grande variété des paysages présents sur l'ensemble du globe et les spécificités de chacun des types de surface rendent complexe sa description dans les modèles. Par ailleurs, l'augmentation constante de la résolution horizontale des modèles nécessite une description fine des surfaces ainsi que des processus mis en jeu lorsqu'atmosphère et surface interagissent. Cet article décrit la plateforme de modélisation Surfex, en particulier comment la grande variété des types de surface est prise en compte, quelles sont les principales paramétrisations physiques et enfin comment est réalisé le couplage à un modèle atmosphérique.</resume_fr>
+  <resume_en>Surface is the lower boundary condition of numerical weather prediction and climate atmospheric models. Its representation in models is complicated by the large diversity in landscapes over the Earth, and the specificities of each surface type. In addition, the continuous increase in model horizontal resolution requires an accurate description of surfaces as well as the processes involved when surface and atmosphere are coupled. This article describes the Surfex modelling platform, particularly how the large amount of surface types are accounted for, which are the main physical processes represented and how the coupling to an atmospheric model can be achieved.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Hydrologie</rubrique>
+  <titre>La représentation des surfaces continentales pour la prévision hydrologique</titre>
+  <titre_en>Land surface schemes for hydrological forecasting</titre_en>
+  <auteur>Habets, Florence</auteur>
+  <auteur>Etchevers, Pierre</auteur>
+  <auteur>Le Moigne, Patrick</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>88-92</pages>
+  <doi>10.37053/lameteorologie-2020-0021</doi>
+  <url_pdf>meteo_2020_108_88.pdf</url_pdf>
+  <citation>Habets, Florence ; Etchevers, Pierre ; Le Moigne, Patrick. La représentation des surfaces continentales pour la prévision hydrologique. La Météorologie, 108, 88-92, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>modèle de prévision hydrométéorologique, débit fluvial, ressources en eau, flux hydrologiques, interaction sol-atmosphère, projection climatique, historique, SIM (chaîne SAFRAN / ISBA / MODCOU)</mots_cles>
+  <resume_fr>La modélisation hydrométéorologique initiée par Joël Noilhan permet aujourd'hui d'anticiper les risques de crues sur plusieurs jours, l'évolution de la ressource en eau en France sur plusieurs mois et de projeter les tendances sur le XXIe siècle. Pour cela, il a fallu intégrer des processus sous mailles dans le schéma de surface Isba, car ils sont à l'origine de la genèse d'écoulements préférentiels, et affiner la description de la physiographie. Un des co-bénéfices les plus marquants a été la production d'une réanalyse des variables météorologiques de surface sur la France, aujourd'hui disponible sur plus de 60 ans. Les collaborations initiées avec les hydrologues et acteurs de l'eau se sont encore renforcées, afin de co-construire les modèles de prévisions hydrométéorologiques de demain.</resume_fr>
+  <resume_en>The hydrometeorological modeling initiated by Joël Noilhan leads today to short- and medium-range forecast of flood risks, seasonal forecasts of the evolution of the water resource in France and projection of its evolution during the 21st century. To do so, it was necessary to integrate subgrid processes in the land surface scheme ISBA, as they generate preferential flow, and to refine physiographic datasets. One of the most significant co-benef its is the production of a reanalysis of near-surface meteorological variables over France now available over more than 60 years. The initial collaboration with hydrologists and stakeholders has now been strengthened in order to co-design future hydrometeorological forecast models.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Environnement</rubrique>
+  <titre>Comment Joël Noilhan a influencé la modélisation et les études en climat urbain</titre>
+  <titre_en>How Joël Noilhan influenced modelling and studies on urban climate</titre_en>
+  <auteur>Masson, Valéry</auteur>
+  <auteur>Lemonsu, Aude</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>93-97</pages>
+  <doi>10.37053/lameteorologie-2020-0022</doi>
+  <url_pdf>meteo_2020_108_93.pdf</url_pdf>
+  <citation>Masson, Valéry ; Lemonsu, Aude. Comment Joël Noilhan a influencé la modélisation et les études en climat urbain. La Météorologie, 108, 93-97, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>campagne de mesure, climatologie urbaine, hommage, TEB (Town Energy Balance)</mots_cles>
+  <resume_fr>Bien que ce fait soit peu connu, Joël Noilhan a commencé sa carrière non pas dans l'étude de la végétation, mais dans celle du climat urbain. Ses résultats de thèse sur les échanges radiatifs entre les différentes faces d'un bâtiment, le ciel et le sol sont encore utilisés comme hypothèses dans la plupart des modèles de canopée urbaine, comme celui développé au CNRM, Town Energy Balance (TEB). Joël a contribué dans les années 2000 à l'essor de la météorologie urbaine au CNRM. Il a notamment encouragé les collaborations internationales avec l'équipe canadienne du professeur Tim Oke, spécialiste mondial du climat urbain, et initié un volet expérimental dédié à l'urbain sur la ville de Marseille, lors de la campagne Escompte en 2001.</resume_fr>
+  <resume_en>This is not well known, but Joël Noilhan did not start his career by studying vegetation processes, but rather urban climate. His PhD results on radiative exchanges around a building still form the basis of radiative processes in most urban canopy models such as the Town Energy Balance (TEB) developed at CNRM. In the 2000s, he contributed to the urban climate studies at CNRM. He encouraged an international collaboration with the team of Tim Oke, in Canada, an international expert in urban climate. He also initiated an experimental component dedicated to urban environment over the city of Marseille, during the Escompte campaign in 2001.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Terminologie</rubrique>
+  <titre>Glossaire</titre>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>98-99</pages>
+  <doi>10.37053/lameteorologie-2020-0023</doi>
+  <url_pdf>meteo_2020_108_98.pdf</url_pdf>
+  <citation>Glossaire. La Météorologie, 108, 98-99, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>vocabulaire météorologique, interaction sol-atmosphère</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Récit</rubrique>
+  <titre>Un an en Terre Adélie</titre>
+  <auteur>Gourand, François</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>100-103</pages>
+  <doi>10.37053/lameteorologie-2020-0024</doi>
+  <url_pdf>meteo_2020_108_100.pdf</url_pdf>
+  <citation>Gourand, François. Un an en Terre Adélie. La Météorologie, 108, 100-103, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Antarctique, Terre Adélie, témoignage, hivernage, Base Dumont d'Urville</mots_cles>
+  <resume_fr>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base de Dumont d'Urville, située en Terre Adélie. C'est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020.</resume_fr>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Justice pour le climat / par Judith Rochfeld</titre>
+  <auteur>Guilyardi, Eric</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>104</pages>
+  <doi>10.37053/lameteorologie-2020-0025</doi>
+  <url_pdf>meteo_2020_108_104.pdf</url_pdf>
+  <citation>Guilyardi, Eric. Justice pour le climat / par Judith Rochfeld. La Météorologie, 108, 104, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>réchauffement climatique, droit, affaires judiciaires, politique climatique, Bien commun</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>105-107</pages>
+  <doi>10.37053/lameteorologie-2020-0026</doi>
+  <url_pdf>meteo_2020_108_105.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 108, 105-107, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+L'Anthropocène décodé pour les humains. Par Nathanaël Wallenhorst / 
+Le tic-tac de l'horloge climatique. Par Christian de Perthuis / 
+La fureur du temps, enquête au coeur du changement climatique. Par Friederike Otto / 
+Agriculture et qualité de l'air, comprendre, évaluer, agir. Sous la direction de Carole Bedos, Sophie Génermont, Jean-François Castell et Pierre Cellier / 
+3 minutes pour comprendre 50 composantes essentielles du climat. Sous la direction de Joanna D. Haigh / 
+Météo 2050, alimentation, santé, transports, habitat, comment vivrons-nous le changement climatique ? Par Laurent Romejko / 
+La météo devient-elle folle ? Enquête au coeur des phénomènes météorologiques extrêmes. Par Chloé Nabédian / 
+Arctique nouvelle frontière. Par Yuri Kozyrev et Kadir van Lohuizen / 
+INTERNET : 
+Édition 2019 du rapport sur l'environnement en France. / 
+La lettre Recherche de l'Ademe. / 
+THESES : 
+Coraline Mattei : Réactivité hétérogène de pesticides adsorbés sur des particules atmosphériques : influence des paramètres environnementaux sur les cinétiques. Thèse de l'université d'Aix-Marseille / 
+Xiaolei Pang : Transport de chaleur et de salinité à travers l'archipel indonésien au cours des 270 000 dernières années : nouveaux enregistrements de
+la dynamique orbitale etmillénaire du flux indonésien et de la zone de convergence intertropicale. Thèse de l'université Paris-Sud / 
+Iris Amata Dion : Glace injectée dans la tropopause par convection profonde. Thèse de l'université de Toulouse / 
+Najda Villefranque : Les effets radiatifs des nuages de couche limite : de leur simulation explicite à leur paramétrisation. Thèse de l'université de Toulouse / 
+Alexane Lovat : Prévision à très courte échéance des crues rapides méditerranéennes. Thèse de l'université de Toulouse / 
+Thomas Drugé : Contribution des aérosols aux scénarios climatiques en Méditerranée pour le 21e siècle à l'échelle régionale. Thèse de l'université de Toulouse / 
+Léo Ducongé : Étude du cycle de vie du brouillard radiatif durant la campagne Lanfex : impact de la dynamique en terrain vallonné et des processus microphysiques. Thèse de l'université de Toulouse / 
+Axel Bouquety : Étude morphométrique de la cryosphère ancienne de Mars : implications paléoclimatiques. Thèse de l'université Paris-Saclay / 
+Margaux Vals : Modélisation numérique des cycles de l'eau et des poussières de la planète Mars et de leurs couplages. Thèse de Sorbonne Université / 
+Baptiste Languille : Caractérisation des variabilités temporelle et spatiale de la pollution en Île-de-France : de la mesure de l'exposition individuelle à la définition des sources. Thèse de l'université Versailles Saint-Quentin-en-Yvelines / 
+Florentin Lemonnier : Les précipitations en Antarctique, observées à l'aide de radars etmodélisées par LMDz dans le cadre du projet APRES3 (Antarctic precipitation Remote sensing from surface and space). Thèse de Sorbonne Université / 
+Henda Guermazi : Télédétection des aérosols sulfatés d'origine volcanique dans l'infrarouge thermique. Thèse de l'université Paris Sciences et Lettres / 
+Marine Goret : Étude des interactions entre le climat urbain et le CO2 : modélisation des flux de CO2 et application à l'échelle d'une ville. Thèse de l'université de Toulouse / 
+César Sauvage : Prévision couplée océanatmosphère des épisodesméditerranéens : impact d'unemeilleure prise en compte des débits des fleuves et de l'état de mer. Thèse de l'université de Toulouse / 
+Sandy Bsaibes : Caractérisation des composés organiques volatils biogéniques (COVB) et leur réactivitéOH dans divers agro-écosystèmes. Thèse de l'université Versailles Saint-Quentin-en-Yvelines / 
+Matteo Ponzano : Prévisibilité des épisodesméditerranéens de pluies intenses à l'aide d'un jeu de données de 30 ans de prévisions rétrospectives. Thèse de l'université de Toulouse / 
+Pierre-Antoine Joulin : Modélisation à fine échelle des interactions entre parcs éoliens etmétéorologie locale. Thèse de l'université de Toulouse / 
+Léo Edel : Vers une meilleure connaissance des précipitations en Arctique : utilisation de la télédétection spatiale micro-ondes. Thèse de l'université Paris-Saclay / 
+Alexandre Devers : Vers une réanalyse hydrométéorologique à l'échelle de la France sur les 150 dernières années par assimilation de données dans des reconstructions ensemblistes. Thèse de l'université Grenoble Alpes / 
+Alice Carret : Étude de la variabilité spatiotemporelle de la circulation en Méditerranée Nord-Occidentale : apport de l'altimétrie spatiale. Thèse de l'université de Toulouse / 
+Quentin Fumière : Impact du changement climatique sur les précipitations extrêmes dans le sud-est de la France : apport des modèles résolvant la convection profonde. Thèse de l'université de Toulouse / 
+Tony Le Bastard : Utilisation des données radar volumiques et d'un modèle de PNT à haute résolution pour une meilleure estimation quantitative des précipitations en plaine et sur les massifs montagneux. Thèse de l'université de Toulouse.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Océan Indien sud 2018-2019 : Une saison exceptionnelle à l'ouest</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>108-117</pages>
+  <doi>10.37053/lameteorologie-2020-0027</doi>
+  <url_pdf>meteo_2020_108_108.pdf</url_pdf>
+  <citation>Thibord, Corinne. Océan Indien sud 2018-2019 : Une saison exceptionnelle à l'ouest. La Météorologie, 108, 108-117, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>océan Indien sud-ouest, océan Indien sud-est, La Réunion, Madagascar, Australie, Indonésie, cyclone tropical, trajectoire, tempête tropicale, bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Septembre 2019 : Altocumulus lenticularis; Panaches de sable namibien</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>118-119</pages>
+  <doi>10.37053/lameteorologie-2020-0028</doi>
+  <url_pdf>meteo_2020_108_118.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Septembre 2019 : Altocumulus lenticularis; Panaches de sable namibien. La Météorologie, 108, 118-119, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>image satellitaire, nuage lenticulaire, poussières de sable</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Octobre 2019 : Phénomènes variés ! ; Traînées de condensation</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>120-121</pages>
+  <doi>10.37053/lameteorologie-2020-0029</doi>
+  <url_pdf>meteo_2020_108_120.pdf</url_pdf>
+  <citation>Le Moal, Sylvain. Octobre 2019 : Phénomènes variés ! ; Traînées de condensation. La Météorologie, 108, 120-121, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>image satellitaire, onde de gravité, fumée, traînée de condensation, poussières de sable</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Novembre 2019 : Tempête Amélie; Baie d'Hudson</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>122-123</pages>
+  <doi>10.37053/lameteorologie-2020-0030</doi>
+  <url_pdf>meteo_2020_108_122.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Novembre 2019 : Tempête Amélie; Baie d'Hudson. La Météorologie, 108, 122-123, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>image satellitaire, tempête, France, vague de froid, Canada, effet de lac</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Septembre 2019</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>124-126</pages>
+  <doi>10.37053/lameteorologie-2020-0031</doi>
+  <url_pdf>meteo_2020_108_124.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Septembre 2019. La Météorologie, 108, 124-126, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>climatologie d'un lieu, France</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Octobre 2019</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>127-129</pages>
+  <doi>10.37053/lameteorologie-2020-0032</doi>
+  <url_pdf>meteo_2020_108_127.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Octobre 2019. La Météorologie, 108, 127-129, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>climatologie d'un lieu, France</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Novembre 2019</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>108</numero>
+  <pages>130-132</pages>
+  <doi>10.37053/lameteorologie-2020-0033</doi>
+  <url_pdf>meteo_2020_108_130.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Novembre 2019. La Météorologie, 108, 130-132, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>climatologie d'un lieu, France</mots_cles>
+ </notice>
+</notices_simples>

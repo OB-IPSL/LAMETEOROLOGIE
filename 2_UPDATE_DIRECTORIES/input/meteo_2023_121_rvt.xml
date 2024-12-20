@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="121">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2023</annee>
+  <mois>05</mois>
+  <numero>121</numero>
+  <url_pdf>meteo_2023_121_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Editorial</rubrique>
+  <titre>Editorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2023-0026</doi>
+  <url_pdf>meteo_2023_121_1.pdf</url_pdf>
+  <citation>Soula, Serge. Editorial. La Météorologie, 121, 1, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La dépression extratropicale la plus creuse des temps modernes ?</titre>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>2-3</pages>
+  <doi>10.37053/lameteorologie-2023-0027</doi>
+  <url_pdf>meteo_2023_121_2.pdf</url_pdf>
+  <citation>La dépression extratropicale la plus creuse des temps modernes ?. La Météorologie, 121, 2-3, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique sud, Étude d'évènement particulier, Record climatique, Glace de mer, Rugosité de la mer, Minimum de pression, Réanalyse ERA5, Tempête Pierre 1er</mots_cles>
+  <description>Traduction de &quot;The deepest extratropical cyclone of modern times?&quot; publié en anglais par Tim Hewson, Jonathan Day et Hans Hersbach, dans ECMWF Newsletter n° 174, 2023. Traduction et encadré par la rédaction de La Météorologie.</description>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Freddy, une première place au marathon des cyclones tropicaux</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>4-5</pages>
+  <doi>10.37053/lameteorologie-2023-0028</doi>
+  <url_pdf>meteo_2023_121_4.pdf</url_pdf>
+  <citation>Altendorf, Damien. Freddy, une première place au marathon des cyclones tropicaux. La Météorologie, 121, 4-5, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Cyclone tropical, Océan Indien sud-ouest, Étude d'évènement particulier, Madagascar, Mozambique, Impact, Record climatique, Longévité, Trajectoire zonale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>2022, année la plus chaude en France et au 5e ou 6e rang mondial</titre>
+  <auteur>Blanchet, Guy</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>6-10</pages>
+  <doi>10.37053/lameteorologie-2023-0029</doi>
+  <url_pdf>meteo_2023_121_6.pdf</url_pdf>
+  <citation>Blanchet, Guy. 2022, année la plus chaude en France et au 5e ou 6e rang mondial. La Météorologie, 121, 6-10, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Vague de chaleur, Sécheresse, Niveau de la mer, Banquise, Record climatique, Température maximale, Écart à la normale, Évènement extrême, Bilan annuel</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Les nouveaux modèles de prévision météorologique basés sur l'intelligence artificielle : opportunité ou menace ?</titre>
+  <auteur>Lguensat, Redouane</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>11-15</pages>
+  <doi>10.37053/lameteorologie-2023-0030</doi>
+  <url_pdf>meteo_2023_121_11.pdf</url_pdf>
+  <citation>Lguensat, Redouane. Les nouveaux modèles de prévision météorologique basés sur l'intelligence artificielle : opportunité ou menace ?. La Météorologie, 121, 11-15, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Prévision numérique, Modèles d'intelligence artificielle, Réseau de neurones, Performance, Coût économique, Coût environnemental, Deep learning (apprentissage profond), Réanalyse ERA5</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Publication du 6e rapport de synthèse du Giec</titre>
+  <auteur>Krinner, Gerhard</auteur>
+  <auteur>Guivarch, Céline</auteur>
+  <auteur>Hourcade, Jean-Charles</auteur>
+  <auteur>Masson-Delmotte, Valérie</auteur>
+  <auteur>Szopa, Sophie</auteur>
+  <auteur>Saheb, Yamina</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>16-18</pages>
+  <doi>10.37053/lameteorologie-2023-0031</doi>
+  <url_pdf>meteo_2023_121_16.pdf</url_pdf>
+  <citation>Krinner, Gerhard ; Guivarch, Céline ; Hourcade, Jean-Charles ; Masson-Delmotte, Valérie ; Szopa, Sophie ; Saheb, Yamina. Publication du 6e rapport de synthèse du Giec. La Météorologie, 121, 16-18, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Adaptation climatique, Atténuation, Politique climatique, Rapport du GIEC, Processus d'approbation</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Résultats du dernier rapport d'évaluation sur l'état de la couche d'ozone</titre>
+  <auteur>Godin-Beekmann, Sophie</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>19-21</pages>
+  <doi>10.37053/lameteorologie-2023-0032</doi>
+  <url_pdf>meteo_2023_121_19.pdf</url_pdf>
+  <citation>Godin-Beekmann, Sophie. Résultats du dernier rapport d'évaluation sur l'état de la couche d'ozone. La Météorologie, 121, 19-21, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Couche d'ozone, Trou d'ozone, Influence sur le climat, CFC, Gaz à effet de serre, Aérosol stratosphérique, Géo-ingénierie solaire, Protocole de Montréal</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Médaille d'argent du CNRS pour Mehrez Zribi</titre>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>21</pages>
+  <doi>10.37053/lameteorologie-2023-0033</doi>
+  <url_pdf>meteo_2023_121_21.pdf</url_pdf>
+  <citation>Médaille d'argent du CNRS pour Mehrez Zribi. La Météorologie, 121, 21, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Radar, Prix scientifique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>En mémoire de Claude Lorius</titre>
+  <auteur>Jouzel, Jean</auteur>
+  <auteur>Chappellaz, Jérôme</auteur>
+  <auteur>Petit, Jean-Robert</auteur>
+  <auteur>Raynaud, Dominique</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>22-25</pages>
+  <doi>10.37053/lameteorologie-2023-0034</doi>
+  <url_pdf>meteo_2023_121_22.pdf</url_pdf>
+  <citation>Jouzel, Jean ; Chappellaz, Jérôme ; Petit, Jean-Robert ; Raynaud, Dominique. En mémoire de Claude Lorius. La Météorologie, 121, 22-25, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Antarctique, Paléoclimatologie, Effet de serre, Glaciologie polaire, Forage glaciaire, Hommage, Carrière scientifique, Thermomètre isotopique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Une séquence sèche inédite de 32 jours cet hiver</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <auteur>Mittelberger, Simon</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>25-27</pages>
+  <doi>10.37053/lameteorologie-2023-0035</doi>
+  <url_pdf>meteo_2023_121_25.pdf</url_pdf>
+  <citation>Kreitz, Michaël ; Mittelberger, Simon. Une séquence sèche inédite de 32 jours cet hiver. La Météorologie, 121, 25-27, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Hiver, France, Quantité des précipitations, Sécheresse, Humidité du sol, Record climatique, Anticyclone de blocage, Régimes de temps</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Cinquième édition de l'école Imao en Côte d'Ivoire</titre>
+  <auteur>Komenan, Zaka</auteur>
+  <auteur>Obrou, Olivier</auteur>
+  <auteur>Amory-Mazaudier, Christine</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>28-29</pages>
+  <doi>10.37053/lameteorologie-2023-0036</doi>
+  <url_pdf>meteo_2023_121_28.pdf</url_pdf>
+  <citation>Komenan, Zaka ; Obrou, Olivier ; Amory-Mazaudier, Christine. Cinquième édition de l'école Imao en Côte d'Ivoire. La Météorologie, 121, 28-29, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Côte d'Ivoire, Coopération internationale, Enseignement de la météorologie, Météorologie de l'espace</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Colloque de prospective Océan-Atmosphère de l'Insu</titre>
+  <auteur>Chiapello, Isabelle</auteur>
+  <auteur>Dubuisson, Philippe</auteur>
+  <auteur>Parol, Frédéric</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>29-31</pages>
+  <doi>10.37053/lameteorologie-2023-0037</doi>
+  <url_pdf>meteo_2023_121_29.pdf</url_pdf>
+  <citation>Chiapello, Isabelle ; Dubuisson, Philippe ; Parol, Frédéric. Colloque de prospective Océan-Atmosphère de l'Insu. La Météorologie, 121, 29-31, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Interaction océan-atmosphère, Recherche scientifique, Prospective, Innovation instrumentalE, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Évolutions majeures du service Vigilance de Météo-France</titre>
+  <auteur>Tabary, Pierre</auteur>
+  <auteur>Jauffret, Céline</auteur>
+  <auteur>Ducrocq, Véronique</auteur>
+  <auteur>Doudelle, Isabelle</auteur>
+  <auteur>Mondon, Sylvain</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>32-33</pages>
+  <doi>10.37053/lameteorologie-2023-0038</doi>
+  <url_pdf>meteo_2023_121_32.pdf</url_pdf>
+  <citation>Tabary, Pierre ; Jauffret, Céline ; Ducrocq, Véronique ; Doudelle, Isabelle ; Mondon, Sylvain. Évolutions majeures du service Vigilance de Météo-France. La Météorologie, 121, 32-33, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Prévision, Alerte, Information météorologique, Carte de vigilance, Vigilance météorologique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Aurore boréale pourpre en France</titre>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>34</pages>
+  <doi>10.37053/lameteorologie-2023-0039</doi>
+  <url_pdf>meteo_2023_121_34.pdf</url_pdf>
+  <citation>Aurore boréale pourpre en France. La Météorologie, 121, 34, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Aurore boréale, France</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>L'Assemblée générale 2023 de Météo et Climat</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>35-38</pages>
+  <doi>10.37053/lameteorologie-2023-0040</doi>
+  <url_pdf>meteo_2023_121_35.pdf</url_pdf>
+  <citation>Daudier, Morgane. L'Assemblée générale 2023 de Météo et Climat. La Météorologie, 121, 35-38, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Activités, Bilan annuel, SMF, Météo et Climat</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Neige et glace</rubrique>
+  <titre>Disparition anticipée du glacier de Saint-Sorlin vers 2050</titre>
+  <titre_en>Anticipated disappearance of the Saint-Sorlin glacier during the 21st century</titre_en>
+  <auteur>Vincent, Christian</auteur>
+  <auteur>Six, Delphine</auteur>
+  <auteur>Laarman, Olivier</auteur>
+  <auteur>Jourdain, Bruno</auteur>
+  <auteur>Cusicanqui, Diego</auteur>
+  <auteur>Morin, Samuel</auteur>
+  <auteur>Verfaillie, Deborah</auteur>
+  <auteur>Le Meur, Emmanuel</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>39-47</pages>
+  <doi>10.37053/lameteorologie-2023-0041</doi>
+  <url_pdf>meteo_2023_121_39.pdf</url_pdf>
+  <citation>Vincent, Christian ; Six, Delphine ; Laarman, Olivier ; Jourdain, Bruno ; Cusicanqui, Diego ; Morin, Samuel ; Verfaillie, Deborah ; Le Meur, Emmanuel. Disparition anticipée du glacier de Saint-Sorlin vers 2050. La Météorologie, 121, 39-47, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, Alpes, Fonte des glaciers, Simulation numérique, Vitesse de fonte, Extension, Bilan de masse glaciaire, Projection climatique, Scénarios d'émission</mots_cles>
+  <resume_fr>Nos simulations numériques du glacier de Saint-Sorlin (massif des Grandes Rousses) indiquent que ce glacier devrait disparaître vers 2050, quels que soient les scénarios climatiques envisagés. La comparaison de ces résultats avec les projections réalisées dans des études précédentes il y a une quinzaine d'années montre que l'évolution est beaucoup plus rapide que le scénario médian qui avait été envisagé auparavant. Étant donné que la grande majorité (environ 75 %) des glaciers des Alpes françaises a une zone d'accumulation qui ne dépasse pas 3 400 mètres d'altitude, similaire au glacier de Saint-Sorlin, nos résultats tendent ainsi à montrer que tous ces glaciers pourraient disparaître vers 2050.</resume_fr>
+  <resume_en>Numerical modelling of the evolution of Saint-Sorlin glacier (massif des Grandes Rousses) shows that the glacier should disappear by 2050, regardless of the climatic scenario taken into account. These results, compared to those obtained from previous studies carried out 15 years ago, show that the evolution is much faster than the median of the previous projections. Given that about 75 % of French alpine glaciers have an accumulation zone below 3 400 m a.s.l., similarly to Saint-Sorlin glacier, it means that all these glaciers will be gone by 2050.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Changement climatique</rubrique>
+  <titre>Les scénarios les plus extrêmes considérés par le Giec sont-ils réalistes ?</titre>
+  <titre_en>Are the most extreme scenarios considered by the IPCC realistic?</titre_en>
+  <auteur>Treiner, Jacques</auteur>
+  <auteur>Bréon, François-Marie</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>48-54</pages>
+  <doi>10.37053/lameteorologie-2023-0042</doi>
+  <url_pdf>meteo_2023_121_48.pdf</url_pdf>
+  <citation>Treiner, Jacques ; Bréon, François-Marie. Les scénarios les plus extrêmes considérés par le Giec sont-ils réalistes ?. La Météorologie, 121, 48-54, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Changement climatique, Scénarios d'émission, Émission de CO2, Réserves de combustibles fossiles, Rapport du GIEC</mots_cles>
+  <resume_fr>L'anticipation du changement climatique et le choix des politiques climatiques reposent en partie sur les scénarios d'émissions de gaz à effet de serre utilisés par le Groupe d'experts intergouvernemental sur l'évolution du climat (Giec). Dans le présent article, nous évaluons les émissions possibles de dioxyde de carbone au cours du XXIe siècle à l'aune des réserves mondiales de combustibles fossiles provenant de deux sources : d'une part, le World energy outlook de l'Agence internationale de l'énergie et le Statistical review of world energy de British Petroleum ; d'autre part, l'extrapolation des données de production passées à l'aide du modèle de Hubbert. Dans les deux cas, le volume de ces réserves n'est pas compatible avec les trajectoires les plus émissives considérées par le Giec et limite le réchauffement global à un maximum d'environ 3 °C d'ici à 2100. En outre, la diminution attendue de la disponibilité en pétrole et en gaz naturel rend crucial, du point de vue de la dynamique économique de nos sociétés, le développement de ressources énergétiques non carbonées.</resume_fr>
+  <resume_en>The anticipation of climate change as well as climate policies are partly based on the greenhouse gas emission scenarios used by the Intergovernmental Panel on Climate Change (IPCC). In this study, we assess the potential emissions of carbon dioxide over the 21st century against the world's fossil fuel reserves coming from two sources: first, International Energy Agency's World energy outlook and BP's Statistical review of world energy; second, an extrapolation of production data using Hubbert's model. In both cases, the volume of these estimated reserves is not compatible with the most emissive trajectories considered by the IPCC and limits global warming to a maximum of about 3 °C by 2100. Besides, the expected decrease in the availability of oil and natural gas makes the development of decarbonated energy resources crucial for the economic dynamics of our societies.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Hydrologie</rubrique>
+  <titre>Estimation des précipitations via les réseaux de téléphonie mobile : exemple en Afrique subsaharienne</titre>
+  <titre_en>Rainfall estimation via mobile phone networks: principle and examples in Sub-Saharan Africa</titre_en>
+  <auteur>Yapi, N'guessan Apolline</auteur>
+  <auteur>Gosset, Marielle</auteur>
+  <auteur>Kacou, Modeste</auteur>
+  <auteur>Zahiri, Éric-Pascal</auteur>
+  <auteur>Alcoba, Matias</auteur>
+  <auteur>Boubacar, Hamadou</auteur>
+  <auteur>Happy, Patrick</auteur>
+  <auteur>Assamoi, Paul</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>55-62</pages>
+  <doi>10.37053/lameteorologie-2023-0043</doi>
+  <url_pdf>meteo_2023_121_55.pdf</url_pdf>
+  <citation>Yapi, N'guessan Apolline ; Gosset, Marielle ; Kacou, Modeste ; Zahiri, Éric-Pascal ; Alcoba, Matias ; Boubacar, Hamadou ; Happy, Patrick ; Assamoi, Paul. Estimation des précipitations via les réseaux de téléphonie mobile : exemple en Afrique subsaharienne. La Météorologie, 121, 55-62, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Afrique, Méthode de mesure, Estimation des précipitations, Réseau de téléphonie mobile, Atténuation des micro-ondes, Rain Cell</mots_cles>
+  <resume_fr>L'étude des événements pluvieux intenses et de leur impact hydrologique nécessite de disposer de données de pluie précises à des résolutions spatio-temporelles que ne permettent pas les densités actuelles des réseaux météorologiques des pays en voie de développement. L'expansion des réseaux de téléphonie mobile et l'estimation de la pluie à partir de tels réseaux offrent la possibilité de combler ce déficit. Cet article présente le principe, les défis et les avantages de cette technique pour de nombreuses applications. Des résultats concrets à partir de données de liens micro-ondes commerciaux obtenues en Afrique illustrent le propos.</resume_fr>
+  <resume_en>The study of intense rainfall events and their hydrological impact requires accurate rainfall estimation with fine space-time resolution. The current density of meteorological networks in developing countries is inadequate for these needs. This gap could be filled based on a new and promising rainfall estimation technique which exploits the mobile phone networks which are currently expanding worldwide. This article introduces the principle, discuss the challenges and advantages of rainfall measurement from mobile telecommunication networks. Some examples from commercial microwave link data obtained in Africa illustrate the technique.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Bilan orageux de l'année 2022</titre>
+  <titre_en>Storm report for the year 2022</titre_en>
+  <auteur>Royet, Joris</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>63-66</pages>
+  <doi>10.37053/lameteorologie-2023-0044</doi>
+  <url_pdf>meteo_2023_121_63.pdf</url_pdf>
+  <citation>Royet, Joris. Bilan orageux de l'année 2022. La Météorologie, 121, 63-66, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Foudre, Fréquence, Record climatique, France, Europe, Grêle, Activité électrique des orages, Densité de foudroiement, Changement climatque, Bilan annuel, Météorage, Derecho, Hélicité</mots_cles>
+  <resume_fr>2022 se révèle être une année particulièrement orageuse pour l'ensemble des pays européens, notamment pour la France (8e année la plus foudroyée depuis le début des relevés de Météorage en 1989), l'Espagne (2e) ou encore l'Italie (5e). En France, deux records notables de foudroiement relevés par Météorage ont marqué 2022, une année de tous les extrêmes selon Météo-France : les mois de juin et de septembre 2022 apparaissent comme les mois de juin et de septembre les plus foudroyés jamais observés en France depuis 1989. Les observations de ce bilan orageux 2022 soulèvent la question de l'évolution de la distribution spatio-temporelle des orages dans le contexte du changement climatique.</resume_fr>
+  <resume_en>2022 proved to be a particularly stormy year for all European countries, especially for France (8th most stormy year since the beginning of Meteorage records in 1989), Spain (2nd) and Italy (5th). In France, two notable records for lightning strikes recorded by Météorage marked 2022, a year of extremes according to Météo-France: the months of June and September 2022 appear to be the most lightning-struck June and September ever observed in France since 1989. The observations of this storm record for 2022 raise the question of the evolution of the spatio-temporal distribution of thunderstorms in the context of climate change.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Les paysans face au chaos climatique / par Gilles Luneau</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>67</pages>
+  <doi>10.37053/lameteorologie-2023-0045</doi>
+  <url_pdf>meteo_2023_121_67.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Les paysans face au chaos climatique / par Gilles Luneau. La Météorologie, 121, 67, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Agriculture, Élevage, Ressources en eau, Changement climatique, Sécurite alimentaire</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Vin : le grand bouleversement. Quelle vigne pour quel climat ? / par Yves Leers, avec la participation de Valéry Laramée de Tannenberg</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>68</pages>
+  <doi>10.37053/lameteorologie-2023-0046</doi>
+  <url_pdf>meteo_2023_121_68.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Vin : le grand bouleversement. Quelle vigne pour quel climat ? / par Yves Leers, avec la participation de Valéry Laramée de Tannenberg. La Météorologie, 121, 68, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Viticulture, Vignoble, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>69-70</pages>
+  <doi>10.37053/lameteorologie-2023-0047</doi>
+  <url_pdf>meteo_2023_121_69.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 121, 69-70, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Le grand livre du climat. Sous la direction de Greta Thunberg / 
+L'écologie n'est pas un consensus - Dépasser l'indignation. Par François Gemenne / 
+La guerre chaude - Enjeux stratégiques du changement climatique. Sous la direction de Nicolas Regaud, Bastien Alex et François Gemenne / 
+Un monde qui fond - Le vivant en montagne. Par Camille Belsoeur / 
+Le vent - « Cela qui ne peut être peint ». Par Pascale Dubus, Jean-Christian Fleury, Annette Haudiguet, Daniel Kunth, François-René Martin, Jacqueline Salmon, Gilles A. Tiberghien et Benjamin Thomas / 
+REVUES : 
+Climat et environnement. Dix-huitième siècle, 54, 2022 / 
+THESES : 
+Eva Marquès : Étude à fine échelle de l'îlot de chaleur urbain par modélisation bayésienne à partir de données opportunes. Thèse de l'Institut national polytechnique de Toulouse / 
+Omar Regaieg : Modélisation du transfert radiatif de la fluorescence induite par le soleil, de l'émission thermique et du bilan radiatif des couverts végétaux 3D : vers un modèle SIF complet. Thèse de l'université de Toulouse / 
+Sophie Wittig : Estimating methane sources and sinks in the Arctic using atmospheric data assimilation. Thèse de l'université Paris-Saclay / 
+Ronan Houel : Structure des zones de charges électriques et propriétés de l'activité électrique des orages en Méditerranée nord-occidentale. Thèse de l'université de Toulouse / 
+Bastien Nony : Modèles réduits en présence d'incertitudes pour la dispersion atmosphérique micro-échelle de polluant en milieu urbain : exploration de méthodes d'apprentissage pour l'émulation de modèles haute-fidélité. Thèse de l'université de Toulouse / 
+Florent Tencé : Apport de la mesure lidar dans l'étude des aérosols et nuages stratosphériques polaires et de leurs perturbations climatiques. Thèse de l'université Paris-Saclay / 
+Vincent Caillé : Analyse de données et modélisation méso-échelle des nuages de CO2 dans les nuits polaires martiennes. Thèse de Sorbonne Université / 
+Léo Rogel : Représentation de la turbulence dans des couches stables d'altitude par les modèles météorologiques. Thèse de l'Institut national polytechnique de Toulouse / 
+Gaëlle Leloup : Climate of the next million years: which scenarios for the future? Thèse de l'université Paris-Saclay / 
+Adrien Renaud : Compréhension du fonctionnement hydrologique et géochimique d'une zone humide riparienne : cas du marais de Jarcy (Essonne, France). Thèse de l'université Paris-Saclay / 
+Marco Larrañaga : Gulf of Mexico ocean dynamics and its modulation by air-sea interactions. Thèse de l'université de Toulouse / 
+Maria Tsivlidou : L'ozone et le monoxyde de carbone dans la troposphère tropicale, vus par les données aériennes (Iagos) et satellitaires (Iasi). Thèse de l'université de Toulouse / 
+Milena Corcos : Processes affecting cirrus cloud life cycle at the tropical tropopause layer: contributions from the Stratéole-2 campaigns. Thèse de Sorbonne Université.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Nord-Est et central, 2022 : Une saison modérément active</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>71-78</pages>
+  <doi>10.37053/lameteorologie-2023-0048</doi>
+  <url_pdf>meteo_2023_121_71.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Nord-Est et central, 2022 : Une saison modérément active. La Météorologie, 121, 71-78, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique nord-est, Cyclone tropical, Tempête, Trajectoire, Incidence humaine, Inondations, Pacifique central, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Nord-Ouest, 2022 : Une saison modérément active</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>79-86</pages>
+  <doi>10.37053/lameteorologie-2023-0049</doi>
+  <url_pdf>meteo_2023_121_79.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Nord-Ouest, 2022 : Une saison modérément active. La Météorologie, 121, 79-86, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique nord-ouest, Cyclone tropical, Tempête, Trajectoire, Incidence humaine, Inondations, Bilan saisonnier, Typhon</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Décembre 2022 : Dépression du Bodélé ; Dakota du Sud</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>87-88</pages>
+  <doi>10.37053/lameteorologie-2023-0050</doi>
+  <url_pdf>meteo_2023_121_87.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Mauss, Adrien. Décembre 2022 : Dépression du Bodélé ; Dakota du Sud. La Météorologie, 121, 87-88, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, U.S.A., Afrique, Sol enneigé, Poussières sahariennes, Dépression topographique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du moiS</rubrique>
+  <titre>Janvier 2023 : Cotras et cavum ; Un vert émeraude</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>89-90</pages>
+  <doi>10.37053/lameteorologie-2023-0051</doi>
+  <url_pdf>meteo_2023_121_89.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Mauss, Adrien. Janvier 2023 : Cotras et cavum ; Un vert émeraude. La Météorologie, 121, 89-90, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Image satellitaire, Traînée de condensation, Cavum, Baie de Saint-Malo, Côte d'Émeraude</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Février 2023 : Bancs de sargasses ; L'été à Kerguelen</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>91-92</pages>
+  <doi>10.37053/lameteorologie-2023-0052</doi>
+  <url_pdf>meteo_2023_121_91.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Hernandez, Jean-Baptiste ; Mauss, Adrien. Février 2023 : Bancs de sargasses ; L'été à Kerguelen. La Météorologie, 121, 91-92, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Kerguelen, Algues brunes, Antilles</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Un mois de mars très orageux</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <auteur>Schmitt, Stéphane</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>93-102</pages>
+  <doi>10.37053/lameteorologie-2023-0053</doi>
+  <url_pdf>meteo_2023_121_93.pdf</url_pdf>
+  <citation>Kreitz, Michaël ; Schmitt, Stéphane. Un mois de mars très orageux. La Météorologie, 121, 93-102, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Record climatique, France, Étude d'évènement particulier, Analyse synoptique, Convection, Tornade, Activité électrique des orages, Giboulées</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Décembre 2022 à février 2023</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2023</annee>
+  <numero>121</numero>
+  <pages>103-111</pages>
+  <doi>10.37053/lameteorologie-2023-0054</doi>
+  <url_pdf>meteo_2023_121_103.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Décembre 2022 à février 2023. La Météorologie, 121, 103-111, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- pour ce numéro, selon instructions d'Anne-Marie Clavayrac, les notices avec la rubrique "Histoire" ont un type "Artile" (et non "évalué par les pairs") -->
+
+<notices_simples numero="NS Histoire">
+	<notice pagedebut="1">
+		<titre>Présentation du colloque</titre>
+		<auteur>Javelle, Jean-Pierre</auteur>
+		<handle>http://hdl.handle.net/2042/52016</handle>
+		<doi>10.4267/2042/52016</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52016/meteo_1995_SP_1.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>1-3</pages>
+		<citation>Javelle, Jean-Pierre ; Présentation du colloque, La Météorologie, 1995, N° spécial ; p. 1-3</citation>
+		<rubrique>Éditorial</rubrique>
+		<type>Rubrique régulière dans publication en série</type>
+	</notice>
+	<notice pagedebut="4">
+		<titre>Allocution d'André Lebeau</titre>
+		<auteur>Lebeau, André</auteur>
+		<handle>http://hdl.handle.net/2042/52017</handle>
+		<doi>10.4267/2042/52017</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52017/meteo_1995_SP_4.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>4-5</pages>
+		<citation>Lebeau, André  ; Allocution d'André Lebeau, La Météorologie, 1995, N° spécial ; p. 4-5</citation>
+		<rubrique>Allocution</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="6">
+		<titre>La météorologie en France à la fin du XVIIIe siècle à travers les publications de la Société royale d'agriculture de Paris</titre>
+		<auteur>Pueyo, Guy</auteur>
+		<handle>http://hdl.handle.net/2042/52018</handle>
+		<doi>10.4267/2042/52018</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52018/meteo_1995_SP_6.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>6-10</pages>
+		<citation>Pueyo, Guy ; La météorologie en France à la fin du XVIIIe siècle à travers les publications de la Société royale d'agriculture de Paris, La Météorologie, 1995, N° spécial ; p. 6-10</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="11">
+		<titre>La mise en place des réseaux d'observation météorologique par les instituteurs des Écoles normales (1864-1871)</titre>
+		<auteur>Noël, Marie-France</auteur>
+		<handle>http://hdl.handle.net/2042/52019</handle>
+		<doi>10.4267/2042/52019</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52019/meteo_1995_SP_11.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>11-16</pages>
+		<citation>Noël, Marie-France ; La mise en place des réseaux d'observation météorologique par les instituteurs des Écoles normales (1864-1871), La Météorologie, 1995, N° spécial ; p. 11-16</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="17">
+		<titre>1880-1910 : l'âge d'or de la météorologie à Limoges</titre>
+		<auteur>Galliot, Michel</auteur>
+		<handle>http://hdl.handle.net/2042/52020</handle>
+		<doi>10.4267/2042/52020</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52020/meteo_1995_SP_17.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>17-21</pages>
+		<citation>Galliot, Michel ; 1880-1910 : l'âge d'or de la météorologie à Limoges, La Météorologie, 1995, N° spécial ; p. 17-21</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="22">
+		<titre>Histoire de l'Observatoire du pic du Midi</titre>
+		<auteur>Davoust, Emmanuel</auteur>
+		<auteur>Damiens, Jacques</auteur>
+		<handle>http://hdl.handle.net/2042/52021</handle>
+		<doi>10.4267/2042/52021</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52021/meteo_1995_SP_22.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>22-27</pages>
+		<citation>Davoust, Emmanuel ; Damiens, Jacques ; Histoire de l'Observatoire du pic du Midi, La Météorologie, 1995, N° spécial ; p. 22-27</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="28">
+		<titre>La météorologie française au Levant (1921-1929)</titre>
+		<auteur>Damiens, Jacques</auteur>
+		<handle>http://hdl.handle.net/2042/52022</handle>
+		<doi>10.4267/2042/52022</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52022/meteo_1995_SP_28.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>28-34</pages>
+		<citation>Damiens, Jacques ; La météorologie française au Levant (1921-1929), La Météorologie, 1995, N° spécial ; p. 28-34</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="35">
+		<titre>La genèse des Services météorologiques pour l'aviation en Belgique</titre>
+		<auteur>Godart, Odon</auteur>
+		<handle>http://hdl.handle.net/2042/52023</handle>
+		<doi>10.4267/2042/52023</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52023/meteo_1995_SP_35.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>35-42</pages>
+		<citation>Godart, Odon ; La genèse des Services météorologiques pour l'aviation en Belgique, La Météorologie, 1995, N° spécial ; p. 35-42</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="43">
+		<titre>Équations météorologiques en coordonnées isobariques</titre>
+		<auteur>Godart, Odon</auteur>
+		<handle>http://hdl.handle.net/2042/52024</handle>
+		<doi>10.4267/2042/52024</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52024/meteo_1995_SP_43.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>43-45</pages>
+		<citation>Godart, Odon ; Équations météorologiques en coordonnées isobariques, La Météorologie, 1995, N° spécial ; p. 43-45</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="46">
+		<titre>Le Service météorologique colonial</titre>
+		<auteur>Duvergé, Pierre</auteur>
+		<handle>http://hdl.handle.net/2042/52025</handle>
+		<doi>10.4267/2042/52025</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52025/meteo_1995_SP_46.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>46-51</pages>
+		<citation>Duvergé, Pierre ; Le Service météorologique colonial, La Météorologie, 1995, N° spécial ; p. 46-51</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="52">
+		<titre>Météorologie médiévale ou météorologie populaire ?</titre>
+		<auteur>Ducos, Joëlle</auteur>
+		<handle>http://hdl.handle.net/2042/52026</handle>
+		<doi>10.4267/2042/52026</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52026/meteo_1995_SP_52.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>52-57</pages>
+		<citation>Ducos, Joëlle ; Météorologie médiévale ou météorologie populaire ?, La Météorologie, 1995, N° spécial ; p. 52-57</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="58">
+		<titre>Histoire de la modification artificielle du temps</titre>
+		<auteur>Chalon, Jean-Pierre</auteur>
+		<handle>http://hdl.handle.net/2042/52027</handle>
+		<doi>10.4267/2042/52027</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52027/meteo_1995_SP_58.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>58-64</pages>
+		<citation>Chalon, Jean-Pierre ; Histoire de la modification artificielle du temps, La Météorologie, 1995, N° spécial ; p. 58-64</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="65">
+		<titre>Éléments d'histoire de l'agrométéorologie</titre>
+		<auteur>Choisnel, Emmanuel</auteur>
+		<auteur>Payen, Denis</auteur>
+		<handle>http://hdl.handle.net/2042/52028</handle>
+		<doi>10.4267/2042/52028</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52028/meteo_1995_SP_65.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>65-70</pages>
+		<citation>Choisnel, Emmanuel ; Payen, Denis ; Éléments d'histoire de l'agrométéorologie, La Météorologie, 1995, N° spécial ; p. 65-70</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="71">
+		<titre>Le médecin italien Sanctorius Sanctorius invente le thermomètre à air en 1608</titre>
+		<auteur>Beaurepaire, Michel</auteur>
+		<handle>http://hdl.handle.net/2042/52029</handle>
+		<doi>10.4267/2042/52029</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52029/meteo_1995_SP_71.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>71-77</pages>
+		<citation>Beaurepaire, Michel ; Le médecin italien Sanctorius Sanctorius invente le thermomètre à air en 1608, La Météorologie, 1995, N° spécial ; p. 71-77</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="78">
+		<titre>Histoire de la théorie de l'arc-en-ciel</titre>
+		<auteur>Ricard, Jean-Louis</auteur>
+		<handle>http://hdl.handle.net/2042/52030</handle>
+		<doi>10.4267/2042/52030</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52030/meteo_1995_SP_78.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>78-87</pages>
+		<citation>Ricard, Jean-Louis ; Histoire de la théorie de l'arc-en-ciel, La Météorologie, 1995, N° spécial ; p. 78-87</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="88">
+		<titre>Préoccupations environnementales au début du XIXe siècle : La circulaire n° 18 du 25 avril 1821</titre>
+		<auteur>Bainville, Vincent</auteur>
+		<auteur>Ladoy, Philippe</auteur>
+		<handle>http://hdl.handle.net/2042/52031</handle>
+		<doi>10.4267/2042/52031</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52031/meteo_1995_SP_88.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>88-94</pages>
+		<citation>Bainville, Vincent ; Ladoy, Philippe ; Préoccupations environnementales au début du XIXe siècle : La circulaire n° 18 du 25 avril 1821, La Météorologie, 1995, N° spécial ; p. 88-94</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="95">
+		<titre>L'invention du thermomètre</titre>
+		<auteur>Beaurepaire, Michel</auteur>
+		<handle>http://hdl.handle.net/2042/52032</handle>
+		<doi>10.4267/2042/52032</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52032/meteo_1995_SP_95.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>95-100</pages>
+		<citation>Beaurepaire, Michel ; L'invention du thermomètre, La Météorologie, 1995, N° spécial ; p. 95-100</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="101">
+		<titre>Trente années de météorologie spatiale</titre>
+		<auteur>Hamon, Jean</auteur>
+		<handle>http://hdl.handle.net/2042/52033</handle>
+		<doi>10.4267/2042/52033</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52033/meteo_1995_SP_101.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>101-106</pages>
+		<citation>Hamon, Jean ; Trente années de météorologie spatiale, La Météorologie, 1995, N° spécial ; p. 101-106</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="107">
+		<titre>De la mer à l'océan, petite histoire de la météorologie maritime</titre>
+		<auteur>Gérard, François</auteur>
+		<handle>http://hdl.handle.net/2042/52034</handle>
+		<doi>10.4267/2042/52034</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52034/meteo_1995_SP_107.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>107-115</pages>
+		<citation>Gérard, François ; De la mer à l'océan, petite histoire de la météorologie maritime, La Météorologie, 1995, N° spécial ; p. 107-115</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="116">
+		<titre>Le météorographe du père A. Secchi</titre>
+		<auteur>Brenni, Paolo</auteur>
+		<handle>http://hdl.handle.net/2042/52035</handle>
+		<doi>10.4267/2042/52035</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52035/meteo_1995_SP_116.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>116-117</pages>
+		<citation>Brenni, Paolo ; Le météorographe du père A. Secchi, La Météorologie, 1995, N° spécial ; p. 116-117</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="118">
+		<titre>La rose des vents segmentaire de Léon Brault (1839-1885)</titre>
+		<auteur>Court, Arnold</auteur>
+		<handle>http://hdl.handle.net/2042/52036</handle>
+		<doi>10.4267/2042/52036</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52036/meteo_1995_SP_118.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>118-125</pages>
+		<citation>Court, Arnold ; La rose des vents segmentaire de Léon Brault (1839-1885), La Météorologie, 1995, N° spécial ; p. 118-125</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="126">
+		<titre>Les débuts de la prévision météorologique automatique en Algérie</titre>
+		<auteur>Coiffier, Jean</auteur>
+		<handle>http://hdl.handle.net/2042/52037</handle>
+		<doi>10.4267/2042/52037</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52037/meteo_1995_SP_126.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>126-128</pages>
+		<citation>Coiffier, Jean ; Les débuts de la prévision météorologique automatique en Algérie, La Météorologie, 1995, N° spécial ; p. 126-128</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="129">
+		<titre>Vingt-cinq ans de prévision numérique du temps à échelle fine (1968-1993) - De l'adaptation dynamique à maille fine au modèle Péridot</titre>
+		<auteur>Rousseau, Daniel</auteur>
+		<auteur>Pham, Hong-Le</auteur>
+		<auteur>Juvanon du Vachat, Régis</auteur>
+		<handle>http://hdl.handle.net/2042/52038</handle>
+		<doi>10.4267/2042/52038</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52038/meteo_1995_SP_129.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>129-134</pages>
+		<citation>Rousseau, Daniel ; Pham, Hong-Le ; Juvanon du Vachat, Régis ; Vingt-cinq ans de prévision numérique du temps à échelle fine (1968-1993) - De l'adaptation dynamique à maille fine au modèle Péridot, La Météorologie, 1995, N° spécial ; p. 129-134</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="135">
+		<titre>Les débuts de la prévision numérique : l'intégration grapho-analytique</titre>
+		<auteur>Besleaga, Nicolas</auteur>
+		<handle>http://hdl.handle.net/2042/52039</handle>
+		<doi>10.4267/2042/52039</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52039/meteo_1995_SP_135.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>135-138</pages>
+		<citation>Besleaga, Nicolas ; Les débuts de la prévision numérique : l'intégration grapho-analytique, La Météorologie, 1995, N° spécial ; p. 135-138</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="139">
+		<titre>Élaboration des concepts en météorologie</titre>
+		<auteur>Calvayrac, Anne-Marie</auteur>
+		<handle>http://hdl.handle.net/2042/52040</handle>
+		<doi>10.4267/2042/52040</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52040/meteo_1995_SP_139.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>139-144</pages>
+		<citation>Calvayrac, Anne-Marie ; Élaboration des concepts en météorologie, La Météorologie, 1995, N° spécial ; p. 139-144</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="145">
+		<titre>Histoire des sciences, muséologie scientifique, culture scientifique - Le projet d'exposition « Climatologie et météorologie »</titre>
+		<auteur>Charles, Lionel</auteur>
+		<handle>http://hdl.handle.net/2042/52041</handle>
+		<doi>10.4267/2042/52041</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52041/meteo_1995_SP_145.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>145-155</pages>
+		<citation>Charles, Lionel  ; Histoire des sciences, muséologie scientifique, culture scientifique - Le projet d'exposition « Climatologie et météorologie », La Météorologie, 1995, N° spécial ; p. 145-155</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+	<notice pagedebut="156">
+		<titre>La mécanique des fluides turbulents avec Dedebant et Wehrlé à l'Office national météorologique (1934-1939)</titre>
+		<auteur>Juvanon du Vachat, Régis</auteur>
+		<handle>http://hdl.handle.net/2042/52042</handle>
+		<doi>10.4267/2042/52042</doi>
+		<url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/52042/meteo_1995_SP_156.pdf</url_pdf>
+		<annee>1995</annee>
+		<numero>NS Histoire</numero>
+		<pages>156-168</pages>
+		<citation>Juvanon du Vachat, Régis ; La mécanique des fluides turbulents avec Dedebant et Wehrlé à l'Office national météorologique (1934-1939), La Météorologie, 1995, N° spécial ; p. 156-168</citation>
+		<rubrique>Histoire</rubrique>
+		<type>Article</type>
+	</notice>
+</notices_simples>

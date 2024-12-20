@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="116">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2022</annee>
+  <mois>02</mois>
+  <numero>116</numero>
+  <url_pdf>meteo_2022_116_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2022-0001</doi>
+  <url_pdf>meteo_2022_116_1.pdf</url_pdf>
+  <citation>Soula, Serge. Éditorial. La Météorologie, 116, 1, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>ICE-Genesis : une campagne d'observation des nuages à forts contenus en neige</titre>
+  <auteur>Vié, Benoît</auteur>
+  <auteur>Dezitter, Fabien</auteur>
+  <auteur>Berne, Alexis</auteur>
+  <auteur>Calas, Christophe</auteur>
+  <auteur>Peyrat, Adrien</auteur>
+  <auteur>Delanoë, Julien</auteur>
+  <auteur>Schwarzenboek, Alfons</auteur>
+  <auteur>Seurat, Guillaume</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>2</pages>
+  <doi>10.37053/lameteorologie-2022-0002</doi>
+  <url_pdf>meteo_2022_116_2.pdf</url_pdf>
+  <citation>Vié, Benoît ; Dezitter, Fabien ; Berne, Alexis ; Calas, Christophe ; Peyrat, Adrien ; Delanoë, Julien ; Schwarzenboek, Alfons ; Seurat, Guillaume. ICE-Genesis : une campagne d'observation des nuages à forts contenus en neige. La Météorologie, 116, 2, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Campagne de mesure, Mesure aéroportée, Simulation numérique, Neige, Givrage sur les aéronefs, Radar à nuages</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Retour sur la COP26 de Glasgow</titre>
+  <auteur>Boucher, Olivier</auteur>
+  <auteur>Thuelin, Clara</auteur>
+  <auteur>Ciais, Philippe</auteur>
+  <auteur>Tanaka, Katsumasa</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>3-4</pages>
+  <doi>10.37053/lameteorologie-2022-0003</doi>
+  <url_pdf>meteo_2022_116_3.pdf</url_pdf>
+  <citation>Boucher, Olivier ; Thuelin, Clara ; Ciais, Philippe ; Tanaka, Katsumasa. Retour sur la COP26 de Glasgow. La Météorologie, 116, 3-4, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réduction des émissions, Accord international, Politique climatique, Neutralité carbone, COP26</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Incus : une mission spatiale pour comprendre le rôle des orages dans le changement climatique</titre>
+  <auteur>Roca, Rémy</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>4-5</pages>
+  <doi>10.37053/lameteorologie-2022-0004</doi>
+  <url_pdf>meteo_2022_116_4.pdf</url_pdf>
+  <citation>Roca, Rémy. Incus : une mission spatiale pour comprendre le rôle des orages dans le changement climatique. La Météorologie, 116, 4-5, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Convection profonde, Orage, Flux de masse, Mission spatiale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Campagne internationale sur les interactions de la surface terrestre avec l'atmosphère</titre>
+  <auteur>Boone, Aaron</auteur>
+  <auteur>Canut-Rocafort, Guylaine</auteur>
+  <auteur>Le Moigne, Patrick</auteur>
+  <auteur>Bellvert, Joaquim</auteur>
+  <auteur>Best, Martin</auteur>
+  <auteur>Brooke, Jennifer</auteur>
+  <auteur>Price, Jeremy</auteur>
+  <auteur>Cuxart, Joan</auteur>
+  <auteur>Hartogensis, Oscar</auteur>
+  <auteur>Miró, Josep Ramon</auteur>
+  <auteur>Polcher, Jan</auteur>
+  <auteur>Quintana-Seguí, Pere</auteur>
+  <auteur>Wooster, Martin</auteur>
+  <auteur>Lothon, Marie</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>5-7</pages>
+  <doi>10.37053/lameteorologie-2022-0005</doi>
+  <url_pdf>meteo_2022_116_5.pdf</url_pdf>
+  <citation>Boone, Aaron ; Canut-Rocafort, Guylaine ; Le Moigne, Patrick ; Bellvert, Joaquim ; Best, Martin ; Brooke, Jennifer ; Price, Jeremy ; Cuxart, Joan ; Hartogensis, Oscar ; Miró, Josep Ramon ; Polcher, Jan ; Quintana-Seguí, Pere ; Wooster, Martin ; Lothon, Marie. Campagne internationale sur les interactions de la surface terrestre avec l'atmosphère. La Météorologie, 116, 5-7, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Campagne de mesure, Mesure aéroportée, Hydrologie, Influence de l'irrigation, Interactions surface-atmosphère, Climat semi-aride, Projet Liaise</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Un épisode orageux hivernal sur la côte nord espagnole</titre>
+  <auteur>Pédeboy, Stéphane</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2022-0006</doi>
+  <url_pdf>meteo_2022_116_7.pdf</url_pdf>
+  <citation>Pédeboy, Stéphane. Un épisode orageux hivernal sur la côte nord espagnole. La Météorologie, 116, 7-8, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Orage, Hiver, Etude d'évènement particulier, Golfe de Gascogne, Eclair ascendant</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Energy4Climate : un centre pour lutter contre le changement climatique et accélérer la transition énergétique</titre>
+  <auteur>Drobinski, Philippe</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>9-10</pages>
+  <doi>10.37053/lameteorologie-2022-0007</doi>
+  <url_pdf>meteo_2022_116_9.pdf</url_pdf>
+  <citation>Drobinski, Philippe. Energy4Climate : un centre pour lutter contre le changement climatique et accélérer la transition énergétique. La Météorologie, 116, 9-10, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Institut de recherche, Energie renouvelable, Réduction des émissions, Changement climatique, Transition énergétique, Bâtiment intelligent</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Cristal de glace</titre>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>11</pages>
+  <doi>10.37053/lameteorologie-2022-0008</doi>
+  <url_pdf>meteo_2022_116_11.pdf</url_pdf>
+  <citation>Cristal de glace. La Météorologie, 116, 11, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Cristaux de glace, Photographie</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Journée scientifique Toulouse-Occitanie : Quelles transitions pour l'eau face au changement climatique ?</titre>
+  <auteur>Planton, Serge</auteur>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Gady, Sonia</auteur>
+  <auteur>Soubeyroux, Jean-Michel</auteur>
+  <auteur>Cuisset, Antoine</auteur>
+  <auteur>Dimnet, Nathan</auteur>
+  <auteur>Dandoy, Arthur</auteur>
+  <auteur>Ducongé, Léo</auteur>
+  <auteur>Grenier, Bastien</auteur>
+  <auteur>Lauret, Julien</auteur>
+  <auteur>Le-Baron, Gwenaël</auteur>
+  <auteur>Loyant, Léo</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>12-16</pages>
+  <doi>10.37053/lameteorologie-2022-0009</doi>
+  <url_pdf>meteo_2022_116_12.pdf</url_pdf>
+  <citation>Planton, Serge ; Daudier, Morgane ; Gady, Sonia ; Soubeyroux, Jean-Michel ; Cuisset, Antoine ; Dimnet, Nathan ; Dandoy, Arthur ; Ducongé, Léo ; Grenier, Bastien ; Lauret, Julien ; Le-Baron, Gwenaël ; Loyant, Léo. Journée scientifique Toulouse-Occitanie : Quelles transitions pour l'eau face au changement climatique ?. La Météorologie, 116, 12-16, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Diffusion scientifique, Ressources en eau, Prévention des risques, Changement climatique, Adaptation climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Environnement</rubrique>
+  <titre>Augmentation d'ozone troposphérique dans l'hémisphère Nord observée grâce aux mesures Iagos</titre>
+  <titre_en>Tropospheric ozone increase in the Northern Hemisphere observed with Iagos measurements</titre_en>
+  <auteur>Gaudel, Audrey</auteur>
+  <auteur>Cooper, Owen R.</auteur>
+  <auteur>Chang, Kai-Lan</auteur>
+  <auteur>Granier, Claire</auteur>
+  <auteur>Thouret, Valérie</auteur>
+  <auteur>Nédélec, Philippe</auteur>
+  <auteur>Blot, Romain</auteur>
+  <auteur>Bourgeois, Ilann</auteur>
+  <auteur>Ziemke, Jerry R.</auteur>
+  <auteur>Strode, Sarah A.</auteur>
+  <auteur>Oman, Luke D.</auteur>
+  <auteur>Sellitto, Pasquale</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>17-26</pages>
+  <doi>10.37053/lameteorologie-2022-0010</doi>
+  <url_pdf>meteo_2022_116_17.pdf</url_pdf>
+  <citation>Gaudel, Audrey ; Cooper, Owen R. ; Chang, Kai-Lan ; Granier, Claire ; Thouret, Valérie ; Nédélec, Philippe ; Blot, Romain ; Bourgeois, Ilann ; Ziemke, Jerry R. ; Strode, Sarah A. ; Oman, Luke D. ; Sellitto, Pasquale. Augmentation d'ozone troposphérique dans l'hémisphère Nord observée grâce aux mesures Iagos. La Météorologie, 116, 17-26, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Télédétection satellitaire, Mesure aéroportée, Hémisphère nord, Ozone troposphérique, Tendance, Modèle de chimie-climat</mots_cles>
+  <resume_fr>L'ozone troposphérique est un gaz à effet de serre, nocif pour la santé humaine, les cultures et la productivité des écosystèmes. Il contrôle la capacité oxydante de la troposphère. Du fait de sa grande variabilité spatiale et temporelle et d'observations en nombre limité, il n'avait pas encore été possible de quantifier les tendances de l'ozone troposphérique dans l'hémisphère Nord sur des échelles de temps de deux décennies. Cette étude montre, grâce à l'infrastructure de recherche Iagos installée à bord d'avions commerciaux, que l'ozone troposphérique a augmenté au-dessus de onze régions de l'hémisphère Nord depuis le milieu des années 1990. Ces observations sont cohérentes avec les observations effectuées par l'instrument OMI/MLS embarqué sur satellite. La modification de la répartition spatiale des émissions anthropiques de précurseurs d'ozone, comme les oxydes d'azote (NOx), a conduit à une augmentation de l'ozone et du forçage radiatif associé au-dessus des 11 régions d'étude, malgré les réductions des émissions de NOx aux latitudes moyennes.</resume_fr>
+  <resume_en>Tropospheric ozone is an important greenhouse gas, is detrimental to human health and crop and ecosystem productivity, and controls the oxidizing capacity of the troposphere. Because of its high spatial and temporal variability and limited observations, quantifying net tropospheric ozone changes across the Northern Hemisphere on time scales of two decades had not been possible. Here, we show, using 2 decades of observations from the IAGOS Research Infrastructure using commercial aircraft, that tropospheric ozone has increased above 11 regions of the Northern Hemisphere since the mid-1990s, consistent with the OMI/MLS satellite product. The net result of shifting anthropogenic ozone precursor emissions has led to an increase of ozone and its radiative forcing above all 11 study regions of the Northern Hemisphere, despite nitrogen oxides emission reductions at midlatitudes.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Physique atmosphérique</rubrique>
+  <titre>Analyse de 10 ans d'accidentologie humaine par la foudre en France et en Europe</titre>
+  <titre_en>Analysis of 10 years of human related accidents due to lightning over France and Europe</titre_en>
+  <auteur>Schmitt, Stéphane</auteur>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>27-36</pages>
+  <doi>10.37053/lameteorologie-2022-0011</doi>
+  <url_pdf>meteo_2022_116_27.pdf</url_pdf>
+  <citation>Schmitt, Stéphane ; Kreitz, Michaël. Analyse de 10 ans d'accidentologie humaine par la foudre en France et en Europe. La Météorologie, 116, 27-36, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Orage, Foudre, Prévention des risques, Prévisibilité, Accident, Etude statistique</mots_cles>
+  <resume_fr>Une étude de 215 accidents humains par la foudre au cours des dix dernières années est menée sur vingt pays d'Europe. Près de 3 victimes sur 5 pratiquaient une activité de loisirs, et 1 cas sur 5 s'est produit dans le domaine professionnel. Une étude approfondie est menée sur les 56 cas français. Les résultats de l'étude de leur prévisibilité montrent que la plupart des orages ayant causé des accidents peuvent être anticipés, et ne sont que très rarement soudains ou imprévisibles. Par ailleurs, ce sont majoritairement les orages d'intensité faible à modérée et au déplacement relativement lent qui en sont la cause. Ainsi, l'écrasante majorité des situations s'est produite par vigilance de couleur jaune. Afin de réduire le risque de façon efficace, il convient d'évaluer le danger réel, y compris en cas de vigilance de premier niveau, et d'appliquer des comportements adaptés pour réduire le risque en période d'orage.</resume_fr>
+  <resume_en>A study of 215 human related accidents due to lightning is conducted in twenty European countries over the last ten years. Nearly 3 victims out of 5 are engaged in a leisure activity, and 1 case out of 5 occurs in the professional field. An in-depth study is also conducted on the 56 French cases. The results in terms of their predictability show that most of the thunderstorms that caused accidents can be anticipated and are rarely sudden or unpredictable. Furthermore, it is mostly thunderstorms of low to moderate intensity with relatively slow movement that are the cause. Thus, most of them occur by 'yellow' meteorological vigilance. In order to mitigate the risk efficiently, it is necessary to be able to assess the real danger, even in the case of a first-level warning, and to apply appropriate behaviours to reduce the risk in case of approaching thunderstorms.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Changement climatique</rubrique>
+  <titre>Le changement climatique en France illustré par la classification de Köppen</titre>
+  <titre_en>Climate change in France illustrated by the Köppen classification</titre_en>
+  <auteur>Dubreuil, Vincent</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>37-47</pages>
+  <doi>10.37053/lameteorologie-2022-0012</doi>
+  <url_pdf>meteo_2022_116_37.pdf</url_pdf>
+  <citation>Dubreuil, Vincent. Le changement climatique en France illustré par la classification de Köppen. La Météorologie, 116, 37-47, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>France, Carte climatologique, Classification de Köppen, Changement climatique, Projection climatique, Drias</mots_cles>
+  <resume_fr>L'objectif de cet article est de décrire simplement la manière dont s'opère le changement climatique en France entre 1950 et 2100 au moyen de la classification de Köppen. La méthode est utilisée pour caractériser les types moyens mais aussi chacune des années prises individuellement afin de tenir compte de la variabilité interannuelle du climat. Les projections sont extraites du portail Drias en utilisant le modèle CNRM avec les scénarios RCP4.5 et 8.5. Les résultats montrent la poursuite au XXIe siècle de la tendance à la diminution des climats tempérés frais au profit des climats chauds. Ces tendances sont exacerbées par le scénario RCP8.5 en fin de siècle où le type méditerranéen prédominerait largement au sud comme à l'ouest du pays !</resume_fr>
+  <resume_en>The aim of this paper is to simply describe how climate change takes place in France between 1950 and 2100 using the Köppen classification. The method is used to characterize the average types but also each of the years taken individually in order to take into account the interannual variability of the climate. The projections are extracted from the Drias portal using the CNRM model with the RCP4.5 and 8.5 scenarios. The results show the continuation in the 21st Century of the tendency to decrease in cool temperate climates in favor of warm climates. These trends are exacerbated by the RCP8.5 scenario at the end of the century, where the Mediterranean type would largely predominate in the south and west of the country!</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Pollution atmosphérique</rubrique>
+  <titre>Pollution atmosphérique dans la ville de Dakar, Sénégal</titre>
+  <titre_en>Atmospheric pollution in the city of Dakar, Senegal</titre_en>
+  <auteur>Sow, Baïdy</auteur>
+  <auteur>Tchanche, Bertrand</auteur>
+  <auteur>Fall, Ibrahima</auteur>
+  <auteur>Souare, Saliou</auteur>
+  <auteur>Mbow-Diokhane, Aminata</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>48-59</pages>
+  <doi>10.37053/lameteorologie-2022-0013</doi>
+  <url_pdf>meteo_2022_116_48.pdf</url_pdf>
+  <citation>Sow, Baïdy ; Tchanche, Bertrand ; Fall, Ibrahima ; Souare, Saliou ; Mbow-Diokhane, Aminata. Pollution atmosphérique dans la ville de Dakar, Sénégal. La Météorologie, 116, 48-59, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Pollution atmosphérique, Polluant atmosphérique, Sénégal, Risque sanitaire, Indice de qualité de l'air, Particules fines, Variation interannuelle</mots_cles>
+  <resume_fr>La pollution atmosphérique est une menace pour la santé humaine et l'environnement avec des conséquences économiques et sociales considérables. Elle fait l'objet de nombreuses études à travers le monde, et en particulier dans les pays développés où des politiques de réduction des émissions de polluants sont progressivement mises en place. Les pays en développement, à l'instar du Sénégal, sont en retard et peinent à s'organiser pour préserver la qualité de l'air. L'absence de données relatives au suivi de la qualité de l'air et la faible prise en compte des émissions de polluants dans les secteurs des transports et de l'industrie ont amené le gouvernement du Sénégal à mettre en place en 2009 le centre de gestion de la qualité de l'air (CGQA). Les particules en suspension (PM10 et PM2.5) sont les polluants les plus importants observés à Dakar et leurs concentrations dépassent les seuils annuels fixés par l'Organisation mondiale de la santé (OMS) (PM10 : 20 &amp;#956;g m-3 et PM2.5 : 10 &amp;#956;g m-3) avec un facteur de 6 à 9 pour les PM10 et un facteur de 2 à 5 pour les PM2.5. Comme conséquence, l'indice de la qualité de l'air (IQA) varie de mauvais (100 &amp;#8804; IQA &lt; 200) à très mauvais (IQA &amp;#8805; 200) durant la saison sèche (novembre à mai) qui occupe la majeure partie de l'année. Les indices favorables, bon (IQA &lt; 50) à moyen (50 &amp;#8804; IQA &lt; 100), sont obtenus durant la période de juin à octobre. En particulier l'IQA est en général bon durant la saison des pluies (août et septembre).</resume_fr>
+  <resume_en>Air pollution is a threat to human health and the environment with significant economic and social consequences. It is the subject of numerous studies throughout the world, and particularly in developed countries where policies to reduce pollutant emissions are being progressively implemented. Developing countries, like Senegal, are lagging behind and struggling to organize to preserve air quality. The lack of data on air quality monitoring and the low coverage of pollutant emissions in the transport sector and industry led the Government of Senegal to establish the Air Quality Management Center (CGQA0 : Centre de Gestion de la Qualité de l'Air) in 2009. PM10 and PM2.5 are the most important pollutants observed in Dakar and their concentrations exceed the annual thresholds set by the World Health Organization (WHO) (PM10 : 20 &amp;#956;g m-3 and PM2.50 : 10 &amp;#956;g m-3) with a factor of 6 to 9 for PM10 and a factor of 2 to 5 for PM2.5. As a result, the air quality index (AQI) varies from the bad (100 &amp;#8804;AQI &lt; 200) to the very bad (AQI&amp;#8805;200) during the main dry season (November to May) part of the year. The favourable, good (AQI &lt; 50) to moderate (50 &amp;#8804; AQI &lt; 100) indices are obtained during the period from June to October. In particular, the AQI is globally good during the rainy season (August to September).</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>Marcel Proust, le Temps, le temps, et rien d'autre... (2) : Marcel Proust et la science (notamment météorologique)</titre>
+  <auteur>De Moor, Gérard</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>60-62</pages>
+  <doi>10.37053/lameteorologie-2022-0014</doi>
+  <url_pdf>meteo_2022_116_60.pdf</url_pdf>
+  <citation>De Moor, Gérard. Marcel Proust, le Temps, le temps, et rien d'autre... (2) : Marcel Proust et la science (notamment météorologique). La Météorologie, 116, 60-62, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Littérature française, Extraits, Littérature et science, Relativité d'Einstein</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Climat : comment éviter un désastre / par Bill Gates</titre>
+  <auteur>Moch, Olivier</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>63-64</pages>
+  <doi>10.37053/lameteorologie-2022-0015</doi>
+  <url_pdf>meteo_2022_116_63.pdf</url_pdf>
+  <citation>Moch, Olivier. Climat : comment éviter un désastre / par Bill Gates. La Météorologie, 116, 63-64, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Réduction des émissions de carbone, Politique climatique, Transition énergétique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Le climat en 8 leçons / par Kerry Emanuel</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>64</pages>
+  <doi>10.37053/lameteorologie-2022-0016</doi>
+  <url_pdf>meteo_2022_116_64.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Le climat en 8 leçons / par Kerry Emanuel. La Météorologie, 116, 64, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Impact, Effet de serre, Prévision du climat, Influence des activités humaines, Politique climatique, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>65-66</pages>
+  <doi>10.37053/lameteorologie-2022-0017</doi>
+  <url_pdf>meteo_2022_116_65.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 116, 65-66, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Neige et avalanches : connaître et comprendre pour limiter le risque. Par Frédéric Cabot / 
+Transition(s) 2050. Choisir maintenant, agir pour le climat. Ademe / 
+2054, voyage en transition. Dessins de Cendrine Bonami-Redler et textes de Marc Verdier et Régis Wojciechowski / 
+Urgence climatique, il est encore temps ! Par Étienne Lécroart et Ivar Ekelandt / 
+Les émotions du dérèglement climatique, l'impact des catastrophes écologiques sur notre bien-être et comment y faire face ! Par Célie Massini et Antoine Pelissolo / 
+L'énergie racontée à travers quelques destins tragiques. Par Jacques Percebois / 
+La démocratie a-t-elle besoin de la science ? Par Pierre Papon / 
+Au milieu de l'été, un invincible hiver. Par Virginie Troussier / 
+REVUES : 
+2101, une rétrospective du climat : le XXIe siècle revisité. Par David Salas y Mélia. Futuribles n° 444 / 
+THESES : 
+Anthony Mucia : Assimilation de données satellitaires pour le suivi et la prévision des sécheresses agricoles et des ressources en eau. Thèse de l'université de Toulouse / 
+Consuelo Marínez Fontaine : Utilization of radiocarbon and tephrochronology to constraint the oceanic circulation in the Southeast Pacific Ocean during the last 20 000 years. Thèse de l'université Paris-Saclay / 
+Samuel Favrichon : Avancées méthodologiques dans l'estimation de la température de surface continentale par des observations micro-ondes passives. Thèse de Sorbonne Université / 
+Marie Bouillon : Températures atmosphériques homogènes dérivées des observations satellitaires Iasi ; restitution, variations spatio-temporelles et événements extrêmes. Thèse de Sorbonne Université / 
+Marie Sicard : Modéliser l'évolution du climat de l'Arctique et de la calotte groenlandaise pendant le dernier interglaciaire pour en comprendre les mécanismes. Thèse de l'université Paris-Saclay / 
+Sakine Takache : Towards multi-scale transport of sharp plumes. Thèse de l'Institut polytechnique de Paris / 
+Meryl Wimmer : Représentation des erreurs de modélisation dans le système de prévision d'ensemble régional Pearo. Thèse de l'université de Toulouse / 
+Audrey Lecouffe : Évolution et persistance des vortex stratosphériques polaires Arctique et Antarctique sur la période 1979-2021. Thèse de Sorbonne Université / 
+Julien Lahyani : Lidar 2µm à source hybride fibrée solide pour la télédétection du CO2 atmosphérique. Thèse de l'Institut polytechnique de Paris / 
+Jean Wurtz : Étude et simulation des conditions météorologiques favorables au givrage par cristaux de glace à l'aide du modèle Arome et de la campagne HAIC. Thèse de l'Institut national polytechnique de Toulouse / 
+Émile Bernard : Réponse hydro-climatique de Paris et sa petite couronne. Thèse de l'université de Toulouse / 
+Camille Besombes : Paramétrisation avec réseaux générateurs antagonistes pour la réduction des espaces de contrôles en assimilation de données. Thèse de l'Institut national polytechnique de Toulouse / 
+Claire Lamotte : Étude de l'impact des émissions de SO2 volcanique aux échelles globale et régionale avec le modèle de chimie-transport Mocage. Thèse de l'université de Toulouse / 
+Pierre Le Petit : Méthodes d'apprentissage profond pour l'estimation de paramètres météorologiques à partir d'images webcam ; applications au suivi des épisodes de neige en plaine. Thèse de l'université Paris-Saclay / 
+Ludovic Berard-Chenu : Trajectoires d'évolution des stations de sports d'hiver des Alpes françaises ; la place de la production de la neige. Thèse de l'université Grenoble Alpes / 
+Stéphane Van-Hyfte : Mise en oeuvre et évaluation d'un nouveau système de réanalyse des paramètres de surface à haute résolution sur la France. Thèse de l'Institut national polytechnique de Toulouse / 
+Yoann Tellier : Apport du sondeur infrarouge Iasi à la détermination des flux radiatifs et du taux de chauffage vertical à grande longueur d'onde. Thèse de l'Institut polytechnique de Paris.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Océan Indien sud 2020-2021 : Une activité géographiquement déséquilibrée</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>67-75</pages>
+  <doi>10.37053/lameteorologie-2022-0018</doi>
+  <url_pdf>meteo_2022_116_67.pdf</url_pdf>
+  <citation>Thibord, Corinne. Océan Indien sud 2020-2021 : Une activité géographiquement déséquilibrée. La Météorologie, 116, 67-75, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Océan indien sud-ouest, Océan indien sud-est, La Réunion, Madagascar, Mozambique, Maurice, Australie, Cocos, Cyclone tropical, Trajectoire, Tempête tropicale, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Septembre 2021 : Drôle de lac ! ; Sam et Victor</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>76-77</pages>
+  <doi>10.37053/lameteorologie-2022-0019</doi>
+  <url_pdf>meteo_2022_116_76.pdf</url_pdf>
+  <citation>Le Moal, Sylvain. Septembre 2021 : Drôle de lac ! ; Sam et Victor. La Météorologie, 116, 76-77, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Cyclone tropical, Atlantique, Lac Maracaibo</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Octobre 2021 : Le Cumbre Vieja ; Bel après-midi printanier</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Membrive, Olivier</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>78-79</pages>
+  <doi>10.37053/lameteorologie-2022-0020</doi>
+  <url_pdf>meteo_2022_116_78.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Membrive, Olivier. Octobre 2021 : Le Cumbre Vieja ; Bel après-midi printanier. La Météorologie, 116, 78-79, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Canaries, Onde de gravité, Mer d'Arafura, Réflexion spéculaire, Panache volcanique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Novembre 2021 : Poussières ouzbèkes ; Farandole nuageuse</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Membrive, Olivier</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>80-81</pages>
+  <doi>10.37053/lameteorologie-2022-0021</doi>
+  <url_pdf>meteo_2022_116_80.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Membrive, Olivier. Novembre 2021 : Poussières ouzbèkes ; Farandole nuageuse. La Météorologie, 116, 80-81, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Ouzbékistan, Tempête de poussière, Hawaï, Banc de nuages</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Deux épisodes orageux extrêmes aux États-Unis en décembre</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>82-91</pages>
+  <doi>10.37053/lameteorologie-2022-0022</doi>
+  <url_pdf>meteo_2022_116_82.pdf</url_pdf>
+  <citation>Kreitz, Michaël. Deux épisodes orageux extrêmes aux États-Unis en décembre. La Météorologie, 116, 82-91, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>U.S.A., Orage, Tornade, Ligne de grains, Etude d'évènement particulier, Imapct</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Septembre à Novembre 2021</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2022</annee>
+  <numero>116</numero>
+  <pages>92-100</pages>
+  <doi>10.37053/lameteorologie-2022-0023</doi>
+  <url_pdf>meteo_2022_116_92.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Septembre à Novembre 2021. La Météorologie, 116, 92-100, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>02</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

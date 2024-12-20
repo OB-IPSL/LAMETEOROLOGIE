@@ -1,0 +1,2532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<saisons_cycloniques>
+<Year id="1961">
+<saison>
+<annee>1961</annee>
+<bassin>ATL1</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones de l'Atlantique en septembre 1961</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237404/doc00027252__PDF.txt#page=29</url>
+</saison>
+<saison>
+<annee>1961</annee>
+<bassin>ATL2</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'océan Atlantique en 1961</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237399/doc00027247__PDF.txt#page=34</url>
+</saison>
+<saison>
+<annee>1961</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Quelques aspects des dépressions et cyclones tropicaux dans le Pacifique sud-ouest (1947-1962)</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237365/doc00027213__PDF.txt#page=52</url>
+</saison>
+<saison>
+<annee>1961</annee>
+<bassin>IS1</bassin>
+<revue>metmar</revue>
+<titre>Cyclones dans l'océan Indien sud saison 1961-1962</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237400/doc00027248__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1961</annee>
+<bassin>IS2</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones de l'océan Indien saison 1961-1962</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237399/doc00027247__PDF.txt#page=40</url>
+</saison>
+</Year>
+<Year id="1960">
+<saison>
+<annee>1960</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones dans le Pacifique sud-ouest (1947-1961)</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237401/doc00027249__PDF.txt#page=45</url>
+</saison>
+</Year>
+<Year id="1962">
+<saison>
+<annee>1962</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'Atlantique nord en 1962</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237364/doc00027212__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>1962</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-ouest en 1962</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237363/doc00027211__PDF.txt#page=29</url>
+</saison>
+<saison>
+<annee>1962</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>La saison 1962-1963 des cyclones dans l'océan Indien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237364/doc00027212__PDF.txt#page=39</url>
+</saison>
+<saison>
+<annee>1962</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>La saison 1962-1963 des cyclones dans l'océan Indien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237364/doc00027212__PDF.txt#page=39</url>
+</saison>
+</Year>
+<Year id="1963">
+<saison>
+<annee>1963</annee>
+<bassin>ATL1</bassin>
+<revue>metmar</revue>
+<titre>Aperçu sur les cyclones tropicaux de l'Atlantique nord en septembre-octobre 1963</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237363/doc00027211__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1963</annee>
+<bassin>ATL2</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'Atlantique nord en 1963</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237360/doc00027208__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1963</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-ouest en 1963</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237359/doc00027207__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1963</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-est (1947-1963)</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237361/doc00027209__PDF.txt#page=41</url>
+</saison>
+</Year>
+<Year id="1964">
+<saison>
+<annee>1964</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'Atlantique nord en 1964</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237357/doc00027205__PDF.txt#page=48</url>
+</saison>
+<saison>
+<annee>1964</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-ouest en 1964</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237355/doc00027203__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1964</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1964-1965 des phénomènes tropicaux dans l'océan Indien sud-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237354/doc00027202__PDF.txt#page=54</url>
+</saison>
+</Year>
+<Year id="1965">
+<saison>
+<annee>1965</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'Atlantique nord en 1965</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237352/doc00027200__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1965</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-ouest en 1965</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237351/doc00027199__PDF.txt#page=29</url>
+</saison>
+<saison>
+<annee>1965</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux du Pacifique nord-est en 1965</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237351/doc00027199__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1965</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>La saison 1965-1966 des cyclones dans l'océan Indien sud</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237352/doc00027200__PDF.txt#page=50</url>
+</saison>
+</Year>
+<Year id="1966">
+<saison>
+<annee>1966</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Les cyclones tropicaux de l'Atlantique nord en 1966</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237350/doc00027198__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1966</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1966 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237348/doc00027196__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1966</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1966 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237348/doc00027196__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1966</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1966-1967 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237347/doc00027195__PDF.txt#page=44</url>
+</saison>
+</Year>
+<Year id="1967">
+<saison>
+<annee>1967</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1967 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237345/doc00027193__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>1967</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saisons des perturbations tropicales dans l'océan Pacifique nord-ouest en 1968</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237343/doc00027191__PDF.txt#page=49</url>
+</saison>
+<saison>
+<annee>1967</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1967 des perturbations tropicales dans le Pacifique oriental du nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237345/doc00027193__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>1967</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Indien du sud-ouest en 1967-1968</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237343/doc00027191__PDF.txt#page=43</url>
+</saison>
+</Year>
+<Year id="1968">
+<saison>
+<annee>1968</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1968 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237342/doc00027190__PDF.txt#page=53</url>
+</saison>
+<saison>
+<annee>1968</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1968 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237340/doc00027188__PDF.txt#page=49</url>
+</saison>
+<saison>
+<annee>1968</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1968 des phénomènes tropicaux dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237341/doc00027189__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1968</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1968-1969 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237339/doc00027187__PDF.txt#page=52</url>
+</saison>
+</Year>
+<Year id="1969">
+<saison>
+<annee>1969</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1969 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237338/doc00027186__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1969</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1969 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237336/doc00027184__PDF.txt#page=54</url>
+</saison>
+<saison>
+<annee>1969</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1969 des phénomènes tropicaux dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237337/doc00027185__PDF.txt#page=58</url>
+</saison>
+<saison>
+<annee>1969</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1969-1970 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237328/doc00027176__PDF.txt#page=59</url>
+</saison>
+</Year>
+<Year id="1970">
+<saison>
+<annee>1970</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1970 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237329/doc00027177__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1970</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1970 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237326/doc00027174__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1970</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1970 des phénomènes tropicaux dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237327/doc00027175__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>1970</annee>
+<bassin>PSE</bassin>
+<revue>metmar</revue>
+<titre>Un cyclone en Polynésie française en 1970</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237330/doc00027178__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1970</annee>
+<bassin>ISO1</bassin>
+<revue>metmar</revue>
+<titre>Saison 1970-1971 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237325/doc00027173__PDF.txt#page=39</url>
+</saison>
+<saison>
+<annee>1970</annee>
+<bassin>ISO2</bassin>
+<revue>metmar</revue>
+<titre>Saison 1970-1971 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237321/doc00027169__PDF.txt#page=48</url>
+</saison>
+</Year>
+<Year id="1971">
+<saison>
+<annee>1971</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Réflexions sur les perturbations tropicales dans l'Atlantique nord en 1971</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237324/doc00027172__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1971</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1971 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237322/doc00027170__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1971</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1971-1972 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237320/doc00027168__PDF.txt#page=40</url>
+</saison>
+</Year>
+<Year id="1972">
+<saison>
+<annee>1972</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1972 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237319/doc00027167__PDF.txt#page=46</url>
+</saison>
+<saison>
+<annee>1972</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1972 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237317/doc00027165__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1972</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1972 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237319/doc00027167__PDF.txt#page=48</url>
+</saison>
+<saison>
+<annee>1972</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1972-1973 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237315/doc00027163__PDF.txt#page=42</url>
+</saison>
+</Year>
+<Year id="1973">
+<saison>
+<annee>1973</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1973 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237314/doc00027162__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1973</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1973 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237311/doc00027159__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1973</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1973 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237312/doc00027160__PDF.txt#page=49</url>
+</saison>
+<saison>
+<annee>1973</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1973-1974 des perturbations tropicales dans le Pacifique sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237307/doc00027155__PDF.txt#page=53</url>
+</saison>
+<saison>
+<annee>1973</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1973-1974 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237310/doc00027158__PDF.txt#page=49</url>
+</saison>
+</Year>
+<Year id="1974">
+<saison>
+<annee>1974</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1974 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237309/doc00027157__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1974</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1974 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237307/doc00027155__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1974</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1974 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237308/doc00027156__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1974</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1974-1975 dans le Pacifique sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245006/doc00036393__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1974</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison 1974-1975 des perturbations tropicales dans l'océan Indien sud</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245005/doc00036390__PDF.txt#page=44</url>
+</saison>
+</Year>
+<Year id="1975">
+<saison>
+<annee>1975</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1975 dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245006/doc00036393__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1975</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1975 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245009/doc00036396__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1975</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1975 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245008/doc00036395__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1975</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1975-1976 dans le Pacifique sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245012/doc00036400__PDF.txt#page=48</url>
+</saison>
+<saison>
+<annee>1975</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1975-1976 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245011/doc00036399__PDF.txt#page=48</url>
+</saison>
+</Year>
+<Year id="1976">
+<saison>
+<annee>1976</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1976 dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245012/doc00036400__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1976</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1976 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245016/doc00036405__PDF.txt#page=46</url>
+</saison>
+<saison>
+<annee>1976</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1976 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245014/doc00036402__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1976</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1976-1977 des perturbations tropicales dans le Pacifique sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237253/doc00027095__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1976</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1976-1977 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/245017/doc00036406__PDF.txt#page=46</url>
+</saison>
+</Year>
+<Year id="1977">
+<saison>
+<annee>1977</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>A propos de la saison 1977 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237254/doc00027096__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1977</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>A propos de la saison 1977 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237253/doc00027095__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>1977</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1977-1978 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237252/doc00027094__PDF.txt#page=56</url>
+</saison>
+</Year>
+<Year id="1978">
+<saison>
+<annee>1978</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1978 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237251/doc00027093__PDF.txt#page=51</url>
+</saison>
+<saison>
+<annee>1978</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1978 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237248/doc00027090__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1978</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1978 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237250/doc00027092__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1978</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1978-1979 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237247/doc00027089__PDF.txt#page=48</url>
+</saison>
+</Year>
+<Year id="1979">
+<saison>
+<annee>1979</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1979 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237246/doc00027088__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1979</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>A propos de la saison 1979 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237244/doc00027086__PDF.txt#page=48</url>
+</saison>
+<saison>
+<annee>1979</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1979 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237245/doc00027087__PDF.txt#page=52</url>
+</saison>
+<saison>
+<annee>1979</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1979-1980 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237222/doc00027059__PDF.txt#page=39</url>
+</saison>
+</Year>
+<Year id="1980">
+<saison>
+<annee>1980</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1980 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237221/doc00027058__PDF.txt#page=34</url>
+</saison>
+<saison>
+<annee>1980</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1980 des perturbations tropicales dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237216/doc00027051__PDF.txt#page=55</url>
+</saison>
+<saison>
+<annee>1980</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1980 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237220/doc00027057__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1980</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1980-1981 des cyclones tropicaux dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237214/doc00027049__PDF.txt#page=59</url>
+</saison>
+</Year>
+<Year id="1981">
+<saison>
+<annee>1981</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1981 des phénomènes tropicaux dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237214/doc00027049__PDF.txt#page=56</url>
+</saison>
+<saison>
+<annee>1981</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Les typhons en 1981 dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237209/doc00027044__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1981</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1981 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237212/doc00027047__PDF.txt#page=60</url>
+</saison>
+<saison>
+<annee>1981</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1981-1982 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237207/doc00027042__PDF.txt#page=59</url>
+</saison>
+</Year>
+<Year id="1982">
+<saison>
+<annee>1982</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1982 des typhons dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237205/doc00027040__PDF.txt#page=46</url>
+</saison>
+<saison>
+<annee>1982</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1982 des perturbations tropicales, dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237206/doc00027041__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>1982</annee>
+<bassin>PS1</bassin>
+<revue>metmar</revue>
+<titre>Cyclones sur la Polynésie française : historique et saison 1982-1983</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237208/doc00027043__PDF.txt#page=16</url>
+</saison>
+<saison>
+<annee>1982</annee>
+<bassin>PS2</bassin>
+<revue>metmar</revue>
+<titre>Cyclones sur la Polynésie française ( 2 ) : saison 1982-1983</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237207/doc00027042__PDF.txt#page=29</url>
+</saison>
+<saison>
+<annee>1982</annee>
+<bassin>PS3</bassin>
+<revue>metmar</revue>
+<titre>Le cyclone "Reva", ses effets sur Tahiti, mars 1983</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237206/doc00027041__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1982</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1982-1983 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237205/doc00027040__PDF.txt#page=49</url>
+</saison>
+</Year>
+<Year id="1983">
+<saison>
+<annee>1983</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1983 des typhons dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237176/doc00027001__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1983</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1983 des cyclones tropicaux dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237202/doc00027037__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1983</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison 1983 des perturbations tropicales dans l'océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237176/doc00027001__PDF.txt#page=57</url>
+</saison>
+<saison>
+<annee>1983</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1983-1984 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237201/doc00027036__PDF.txt#page=40</url>
+</saison>
+</Year>
+<Year id="1984">
+<saison>
+<annee>1984</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1984 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237167/doc00026988__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1984</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1984 des typhons dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237157/doc00026977__PDF.txt#page=36</url>
+</saison>
+<saison>
+<annee>1984</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1984 des cyclones tropicaux dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237159/doc00026979__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>1984</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison 1984 des perturbations tropicales dans l'océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237157/doc00026977__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1984</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1984-1985 - Des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237158/doc00026978__PDF.txt#page=34</url>
+</saison>
+</Year>
+<Year id="1985">
+<saison>
+<annee>1985</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1985 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237155/doc00026975__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>1985</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1985 des typhons dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237153/doc00026973__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1985</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1985-1986 dans le Pacifique central nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237149/doc00026969__PDF.txt#page=54</url>
+</saison>
+<saison>
+<annee>1985</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1985-1986 dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237149/doc00026969__PDF.txt#page=51</url>
+</saison>
+<saison>
+<annee>1985</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>A travers cyclones et tempêtes tropicales dans le Pacifique sud-ouest en 1985-1986</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237151/doc00026971__PDF.txt#page=41</url>
+</saison>
+<saison>
+<annee>1985</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1985-1986 des perturbations tropicales dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237154/doc00026974__PDF.txt#page=34</url>
+</saison>
+</Year>
+<Year id="1986">
+<saison>
+<annee>1986</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1986 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237152/doc00026972__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1986</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison 1986 des typhons dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235715/doc00025320__PDF.txt#page=46</url>
+</saison>
+<saison>
+<annee>1986</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-ouest, 1986-1987</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235708/doc00025312__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1986</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1986-1987 dans l'océan Indien du sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/237149/doc00026969__PDF.txt#page=46</url>
+</saison>
+</Year>
+<Year id="1987">
+<saison>
+<annee>1987</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1987 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235713/doc00025317__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1987 dans le Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235711/doc00025315__PDF.txt#page=39</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison 1987 des perturbations tropicales dans le Pacifique central nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235713/doc00025317__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison 1987 des perturbations tropicales dans le Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235713/doc00025317__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-ouest, 1987-1988</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235707/doc00025311__PDF.txt#page=26</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1987 dans l'océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235711/doc00025315__PDF.txt#page=47</url>
+</saison>
+<saison>
+<annee>1987</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1987-1988 dans l'océan Indien sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235711/doc00025315__PDF.txt#page=44</url>
+</saison>
+</Year>
+<Year id="1988">
+<saison>
+<annee>1988</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison 1988 des perturbations tropicales dans l'Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235709/doc00025313__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1988</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-ouest, 1988</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235705/doc00025309__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>1988</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-est, 1988</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235708/doc00025312__PDF.txt#page=33</url>
+</saison>
+<saison>
+<annee>1988</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-ouest, 1988-1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235704/doc00025308__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>1988</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Indien du sud-ouest, 1988-1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235706/doc00025310__PDF.txt#page=25</url>
+</saison>
+</Year>
+<Year id="1989">
+<saison>
+<annee>1989</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Atlantique nord, 1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235704/doc00025308__PDF.txt#page=23</url>
+</saison>
+<saison>
+<annee>1989</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-ouest, 1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235674/doc00025274__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>1989</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-est et le Pacifique central nord, 1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235674/doc00025274__PDF.txt#page=24</url>
+</saison>
+<saison>
+<annee>1989</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Pacifique sud-ouest, 1989-1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235672/doc00025272__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>1989</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le golfe du Bengale et la mer d'Arabie, 1989</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235674/doc00025274__PDF.txt#page=33</url>
+</saison>
+<saison>
+<annee>1989</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le sud-ouest de l'océan Indien, 1989-1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235673/doc00025273__PDF.txt#page=24</url>
+</saison>
+</Year>
+<Year id="1990">
+<saison>
+<annee>1990</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Atlantique nord, 1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235672/doc00025272__PDF.txt#page=23</url>
+</saison>
+<saison>
+<annee>1990</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Pacifique nord-ouest, 1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235669/doc00025269__PDF.txt#page=26</url>
+</saison>
+<saison>
+<annee>1990</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique central nord, 1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235671/doc00025271__PDF.txt#page=50</url>
+</saison>
+<saison>
+<annee>1990</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-est, 1990</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235671/doc00025271__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1990</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-ouest 1990-1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235670/doc00025270__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1990</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le sud-ouest de l'océan Indien, 1990-1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235671/doc00025271__PDF.txt#page=26</url>
+</saison>
+</Year>
+<Year id="1991">
+<saison>
+<annee>1991</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans l'océan Atlantique nord, 1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235669/doc00025269__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-ouest, 1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235667/doc00025267__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique nord-est et le Pacifique central nord, 1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235668/doc00025268__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>PSE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-est, 1991-1992</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235668/doc00025268__PDF.txt#page=36</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le Pacifique sud-ouest, 1991-1992</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235666/doc00025266__PDF.txt#page=26</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique dans l'océan Indien nord, golfe du Bengale et mer d'Arabie, 1991</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235670/doc00025270__PDF.txt#page=39</url>
+</saison>
+<saison>
+<annee>1991</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales dans le sud-ouest de l'océan Indien, 1991-1992</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235667/doc00025267__PDF.txt#page=50</url>
+</saison>
+</Year>
+<Year id="1992">
+<saison>
+<annee>1992</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saisons des perturbations tropicales dans l'Atlantique nord, 1992</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235666/doc00025266__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1992 - Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235603/doc00025194__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1992 - Pacifique central nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235603/doc00025194__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1992 - Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235603/doc00025194__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>PSE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud-est, 1992-1993</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235600/doc00025191__PDF.txt#page=24</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud-ouest, 1992-1993</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235600/doc00025191__PDF.txt#page=17</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1992 - Océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235606/doc00025197__PDF.txt#page=19</url>
+</saison>
+<saison>
+<annee>1992</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-ouest de l'océan Indien 1992-1993</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235602/doc00025193__PDF.txt#page=19</url>
+</saison>
+</Year>
+<Year id="1993">
+<saison>
+<annee>1993</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1993 - Océan Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235601/doc00025192__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1993 - Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235599/doc00025190__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1993 - Pacifique central nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235599/doc00025190__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1993 - Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235599/doc00025190__PDF.txt#page=39</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales - Pacifique sud-ouest, 1993-1994</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235596/doc00025187__PDF.txt#page=21</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales - Océan Indien nord, 1993 et 1994</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235597/doc00025188__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-est de l'océan Indien 1993-1994</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235597/doc00025188__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1993</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-ouest de l'océan Indien 1993-1994</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235598/doc00025189__PDF.txt#page=20</url>
+</saison>
+</Year>
+<Year id="1994">
+<saison>
+<annee>1994</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1994 - Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235598/doc00025189__PDF.txt#page=16</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1994 - Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235595/doc00025186__PDF.txt#page=23</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>PNC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1994 - Pacifique central nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235595/doc00025186__PDF.txt#page=19</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1994 - Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235595/doc00025186__PDF.txt#page=15</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud-ouest 1994-1995</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235545/doc00025125__PDF.txt#page=43</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales - Océan Indien nord, 1993 et 1994</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235597/doc00025188__PDF.txt#page=45</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-est de l'océan Indien 1994-1995</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235545/doc00025125__PDF.txt#page=48</url>
+</saison>
+<saison>
+<annee>1994</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1994-1995 - Sud-ouest de l'océan Indien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235547/doc00025127__PDF.txt#page=19</url>
+</saison>
+</Year>
+<Year id="1995">
+<saison>
+<annee>1995</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995 - Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235547/doc00025127__PDF.txt#page=26</url>
+</saison>
+<saison>
+<annee>1995</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995 - Pacifique nord-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235540/doc00025117__PDF.txt#page=16</url>
+</saison>
+<saison>
+<annee>1995</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995 - Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235540/doc00025117__PDF.txt#page=13</url>
+</saison>
+<saison>
+<annee>1995</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995-1996 Pacifique sud-ouest</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2551/enm00002550__PDF.txt#page=14</url>
+</saison>
+<saison>
+<annee>1995</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995 - Océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235540/doc00025117__PDF.txt#page=11</url>
+</saison>
+<saison>
+<annee>1995</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1995-1996 sud-ouest de l'océan Indien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2551/enm00002550__PDF.txt#page=18</url>
+</saison>
+</Year>
+<Year id="1996">
+<saison>
+<annee>1996</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996 - Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2514/enm00002513__PDF.txt#page=37</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996 - Pacifique nord-est</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2491/enm00002490__PDF.txt#page=12</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>PNOC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996 - Pacifique nord-ouest et Pacifique nord central, un grand nombre de perturbations</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2459/enm00002458__PDF.txt#page=13</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996-1997, Pacifique sud-ouest, une saison particulièrement longue</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2441/enm00002440__PDF.txt#page=24</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996 - Océan Indien nord, une saison active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2459/enm00002458__PDF.txt#page=19</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-est de l'océan Indien 1996-1997, un rare cyclone d'hiver austral</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2271/enm00002270__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>1996</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1996-1997, sud-ouest de l'océan Indien, une saison précoce et longue</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2404/enm00002403__PDF.txt#page=37</url>
+</saison>
+</Year>
+<Year id="1997">
+<saison>
+<annee>1997</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1997 - Atlantique nord, une année peu active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2376/enm00002375__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est 1997, des ouragans exceptionnels</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2245/enm00002244__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>PNOC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest et nord central 1997, année des super-typhons</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2283/enm00002282__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>PSE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud-est 1997-1998</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2337/enm00002336__PDF.txt#page=19</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>PSO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 1997-1998 une activité importante</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2271/enm00002270__PDF.txt#page=31</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord 1997, une saison plutot calme</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2270/enm00002269__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-est de l'océan Indien 1997-1998, une saison courte et calme</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2271/enm00002270__PDF.txt#page=29</url>
+</saison>
+<saison>
+<annee>1997</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales sud-ouest de l'océan Indien 1997-1998, une saison courte et peu active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2245/enm00002244__PDF.txt#page=36</url>
+</saison>
+</Year>
+<Year id="1998">
+<saison>
+<annee>1998</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 1998, une année riche en ouragans</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2270/enm00002269__PDF.txt#page=26</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest 1998, une amorce tardive</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2237/enm00002236__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est 1998, une saison proche de la normale</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2245/enm00002244__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 1998-1999, sous l'influence de la Niña</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2237/enm00002236__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord 1998, une saison active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2237/enm00002236__PDF.txt#page=36</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1998-1999 et 1999-2000 sud-est de l'océan Indien. des saisons normales à dominante la Niña</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2176/enm00002175__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>1998</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1998-1999 sud-ouest de l'océan Indien, forte activité du bassin</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2211/enm00002210__PDF.txt#page=30</url>
+</saison>
+</Year>
+<Year id="1999">
+<saison>
+<annee>1999</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 1999, une fin de saison exceptionnelle</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/235004/doc00024469__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest. 1999, Hong-Kong sous les typhons</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2207/enm00002206__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est 1999, une saison très peu active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2211/enm00002210__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 1999-2000, une saison normale qui présente cependant quelques originalités</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2176/enm00002175__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord. 1999, une année catastrophique</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2207/enm00002206__PDF.txt#page=24</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 1999-2000 - Nord 2000</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2159/enm00002158__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>1999</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 1998-1999 et 1999-2000 sud-est de l'océan Indien. des saisons normales à dominante la Niña</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2176/enm00002175__PDF.txt#page=35</url>
+</saison>
+</Year>
+<Year id="2000">
+<saison>
+<annee>2000</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 2000</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2186/enm00002185__PDF.txt#page=18</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest 2000</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2181/enm00002180__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>PNE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est 2000</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2186/enm00002185__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 2000-2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2145/enm00002144__PDF.txt#page=34</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 1999-2000 - Nord 2000</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2159/enm00002158__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>ISE</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud-est 2000-2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2129/enm00002128__PDF.txt#page=25</url>
+</saison>
+<saison>
+<annee>2000</annee>
+<bassin>ISO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud-ouest 2000-2001 - Nord 2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2118/enm00002117__PDF.txt#page=38</url>
+</saison>
+</Year>
+<Year id="2001">
+<saison>
+<annee>2001</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2129/enm00002128__PDF.txt#page=22</url>
+</saison>
+<saison>
+<annee>2001</annee>
+<bassin>PN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord 2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2118/enm00002117__PDF.txt#page=33</url>
+</saison>
+<saison>
+<annee>2001</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 2001-2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2104/enm00002103__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>2001</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud-ouest 2000-2001 - Nord 2001</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2118/enm00002117__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>2001</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 2001-2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2103/enm00002102__PDF.txt#page=30</url>
+</saison>
+</Year>
+<Year id="2002">
+<saison>
+<annee>2002</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2103/enm00002102__PDF.txt#page=27</url>
+</saison>
+<saison>
+<annee>2002</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Pacifique nord-ouest 2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2101/enm00002100__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>2002</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Pacifique nord-est et central 2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2101/enm00002100__PDF.txt#page=34</url>
+</saison>
+<saison>
+<annee>2002</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Pacifique sud 2002-2003</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2100/enm00002099__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>2002</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord 2002</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2102/enm00002101__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>2002</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 2002-2003</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2100/enm00002099__PDF.txt#page=33</url>
+</saison>
+</Year>
+<Year id="2003">
+<saison>
+<annee>2003</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 2003 Atlantique nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2099/enm00002098__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>2003</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest 2003</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230709/doc00019009__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>2003</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est et central 2003</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230709/doc00019009__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>2003</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 2003-2004, une saison calme</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230708/doc00019008__PDF.txt#page=40</url>
+</saison>
+<saison>
+<annee>2003</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales 2003 océan Indien nord</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2099/enm00002098__PDF.txt#page=44</url>
+</saison>
+<saison>
+<annee>2003</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 2003-2004. une saison catastrophique pour Madagascar</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2571/enm00002570__PDF.txt#page=36</url>
+</saison>
+</Year>
+<Year id="2004">
+<saison>
+<annee>2004</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Atlantique nord 2004, une saison très active</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2570/enm00002569__PDF.txt#page=31</url>
+</saison>
+<saison>
+<annee>2004</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-ouest 2004</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2574/enm00002573__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>2004</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique nord-est et central 2004, terres et hommes épargnés</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2574/enm00002573__PDF.txt#page=38</url>
+</saison>
+<saison>
+<annee>2004</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Pacifique sud 2004-2005, une saison violente à l'est du 180e méridien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2575/enm00002574__PDF.txt#page=33</url>
+</saison>
+<saison>
+<annee>2004</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord 2004, mer d'Arabie: 4, golfe du Bengale: 1</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2570/enm00002569__PDF.txt#page=28</url>
+</saison>
+<saison>
+<annee>2004</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien sud 2004-2005, une saison précoce</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2580/enm00002579__PDF.txt#page=39</url>
+</saison>
+</Year>
+<Year id="2005">
+<saison>
+<annee>2005</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales Atlantique nord 2005, la saison de tous les records!</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2580/enm00002579__PDF.txt#page=32</url>
+</saison>
+<saison>
+<annee>2005</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique Pacifique nord-ouest 2005</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230705/doc00019005__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>2005</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique Pacifique nord-est et central 2005, pour la sixième année consécutive, la saison a débuté dès le mois de mai</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230705/doc00019005__PDF.txt#page=31</url>
+</saison>
+<saison>
+<annee>2005</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique Pacifique sud 2005-2006, saison agitée dans le Queensland</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2584/enm00002583__PDF.txt#page=34</url>
+</saison>
+<saison>
+<annee>2005</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison des perturbations tropicales océan Indien nord 2005, la mer d'Arabie exempte de tempêtes cycloniques</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/2582/enm00002581__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>2005</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Indien sud 2005-2006, une saison peu active sur le sud-ouest de l'océan Indien</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230702/doc00019002__PDF.txt#page=32</url>
+</saison>
+</Year>
+<Year id="2006">
+<saison>
+<annee>2006</annee>
+<bassin>ATL</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique Atlantique nord 2006, retour au calme ... relatif</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/229530/doc00017643__PDF.txt#page=36</url>
+</saison>
+<saison>
+<annee>2006</annee>
+<bassin>PNO</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Pacifique nord-ouest 2006, une saison cyclonique moyenne comme en 2005</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230704/doc00019004__PDF.txt#page=31</url>
+</saison>
+<saison>
+<annee>2006</annee>
+<bassin>PNEC</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Pacifique nord-est et central 2006, une saison plus active que la moyenne</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230704/doc00019004__PDF.txt#page=35</url>
+</saison>
+<saison>
+<annee>2006</annee>
+<bassin>PS</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Pacifique sud 2006-2007, la Nouvelle-Calédonie et la Polynésie française inquiétées</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230703/doc00019003__PDF.txt#page=30</url>
+</saison>
+<saison>
+<annee>2006</annee>
+<bassin>IN</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Indien nord 2006, cyclone tropical meurtrier en avril</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/229530/doc00017643__PDF.txt#page=42</url>
+</saison>
+<saison>
+<annee>2006</annee>
+<bassin>IS</bassin>
+<revue>metmar</revue>
+<titre>Saison cyclonique océan Indien sud 2006-2007, La Réunion dévastée par le cyclone tropical Gamède</titre>
+<url>http://bibliotheque.meteo.fr/exl-php/docs/ILS_DOC/230703/doc00019003__PDF.txt#page=33</url>
+</saison>
+</Year>
+<Year id="2007">
+<saison>
+<annee>2007</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2007 : Dean frappe la Martinique</titre>
+<url>https://lameteorologie.fr/issues/2008/62/meteo_2008_62_68</url>
+</saison>
+<saison>
+<annee>2007</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2007 : Une saison proche de la normale</titre>
+<url>https://lameteorologie.fr/issues/2008/61/meteo_2008_61_79</url>
+</saison>
+<saison>
+<annee>2007</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2007 : Une saison cyclonique plutôt calme</titre>
+<url>https://lameteorologie.fr/issues/2008/61/meteo_2008_61_77</url>
+</saison>
+<saison>
+<annee>2007</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2007-2008 : Calme des Samoa à la Polynésie française</titre>
+<url>https://lameteorologie.fr/issues/2008/63/meteo_2008_63_61</url>
+</saison>
+<saison>
+<annee>2007</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2007 : Une saison meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2008/62/meteo_2008_62_65</url>
+</saison>
+<saison>
+<annee>2007</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud, 2007-2008 : À la Réunion, plus de pluie que de mal?</titre>
+<url>https://lameteorologie.fr/issues/2009/64/meteo_2009_64_68</url>
+</saison>
+</Year>
+<Year id="2008">
+<saison>
+<annee>2008</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2008 : Une saison active et meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2009/66/meteo_2009_66_65</url>
+</saison>
+<saison>
+<annee>2008</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2008 : Une saison des typhons moins active que la normale mais peurtrière</titre>
+<url>https://lameteorologie.fr/issues/2009/65/meteo_2009_65_68</url>
+</saison>
+<saison>
+<annee>2008</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central, 2008 : L'Amérique centrale touchée</titre>
+<url>https://lameteorologie.fr/issues/2009/65/meteo_2009_65_66</url>
+</saison>
+<saison>
+<annee>2008</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2008-2009 : Début de saison tardif</titre>
+<url>https://lameteorologie.fr/issues/2009/67/meteo_2009_67_64</url>
+</saison>
+<saison>
+<annee>2008</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2008 : Le cyclone Nargis frappe cruellement la Birmanie</titre>
+<url>https://lameteorologie.fr/issues/2009/66/meteo_2009_66_63</url>
+</saison>
+<saison>
+<annee>2008</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2008-2009 : Océan Indien sud-est : 2008-2009, la saison la moins virulente de la décennie</titre>
+<url>https://lameteorologie.fr/issues/2010/68/meteo_2010_68_65</url>
+</saison>
+</Year>
+<Year id="2009">
+<saison>
+<annee>2009</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2009 : Une saison peu active</titre>
+<url>https://lameteorologie.fr/issues/2010/70/meteo_2010_70_63</url>
+</saison>
+<saison>
+<annee>2009</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2009 : Les Philippines cruellement touchées</titre>
+<url>https://lameteorologie.fr/issues/2010/69/meteo_2010_69_68</url>
+</saison>
+<saison>
+<annee>2009</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2009 : Une saison courte mais active</titre>
+<url>https://lameteorologie.fr/issues/2010/69/meteo_2010_69_65</url>
+</saison>
+<saison>
+<annee>2009</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2009-2010 : Une saison courte mais active</titre>
+<url>https://lameteorologie.fr/issues/2010/71/meteo_2010_71_60</url>
+</saison>
+<saison>
+<annee>2009</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2009 : Encore une saison meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2010/70/meteo_2010_70_61</url>
+</saison>
+<saison>
+<annee>2009</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2009-2010 : Dans la continuité de la saison précédente</titre>
+<url>https://lameteorologie.fr/issues/2011/72/meteo_2011_72_64</url>
+</saison>
+</Year>
+<Year id="2010">
+<saison>
+<annee>2010</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2010 : Activité cyclonique supérieure à la normale</titre>
+<url>https://lameteorologie.fr/issues/2011/74/meteo_2011_74_60</url>
+</saison>
+<saison>
+<annee>2010</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2010 : Une saison très peu active</titre>
+<url>https://lameteorologie.fr/issues/2011/73/meteo_2011_73_57</url>
+</saison>
+<saison>
+<annee>2010</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2010 : Peu de baptêmes en 2010</titre>
+<url>https://lameteorologie.fr/issues/2011/73/meteo_2011_73_54</url>
+</saison>
+<saison>
+<annee>2010</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2010-2011 : Vania fait trembler la Nouvelle-Calédonie et Yasi frappe l'Australie</titre>
+<url>https://lameteorologie.fr/issues/2011/75/meteo_2011_75_54</url>
+</saison>
+<saison>
+<annee>2010</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2010 : Des cyclones violents et meurtriers</titre>
+<url>https://lameteorologie.fr/issues/2011/74/meteo_2011_74_58</url>
+</saison>
+<saison>
+<annee>2010</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2010-2011 : Une saison très peu active</titre>
+<url>https://lameteorologie.fr/issues/2012/76/meteo_2012_76_61</url>
+</saison>
+</Year>
+<Year id="2011">
+<saison>
+<annee>2011</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2011 : Encore une saison active</titre>
+<url>https://lameteorologie.fr/issues/2012/78/meteo_2012_78_70</url>
+</saison>
+<saison>
+<annee>2011</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2011 : Saison moins active que la moyenne mais meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2012/77/meteo_2012_77_58</url>
+</saison>
+<saison>
+<annee>2011</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2011 : Onze baptêmes dont dix ouragans !</titre>
+<url>https://lameteorologie.fr/issues/2012/77/meteo_2012_77_55</url>
+</saison>
+<saison>
+<annee>2011</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2011-2012 : Une saison peu active</titre>
+<url>https://lameteorologie.fr/issues/2012/79/meteo_2012_79_67</url>
+</saison>
+<saison>
+<annee>2011</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2011 : Encore une saison cyclonique meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2012/78/meteo_2012_78_68</url>
+</saison>
+<saison>
+<annee>2011</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2011-2012 : Une saison active et meurtrière surtout à l'ouest du bassin</titre>
+<url>https://lameteorologie.fr/issues/2013/80/meteo_2013_80_72</url>
+</saison>
+</Year>
+<Year id="2012">
+<saison>
+<annee>2012</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2012 : Une saison active, pour la troisième année consécutive</titre>
+<url>https://lameteorologie.fr/issues/2013/82/meteo_2013_82_74</url>
+</saison>
+<saison>
+<annee>2012</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2012 : Une saison active et meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2013/81/meteo_2013_81_66</url>
+</saison>
+<saison>
+<annee>2012</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2012 : Une saison proche de la normale</titre>
+<url>https://lameteorologie.fr/issues/2013/81/meteo_2013_81_70</url>
+</saison>
+<saison>
+<annee>2012</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2012-2013 : Une saison dans les normes</titre>
+<url>https://lameteorologie.fr/issues/2013/83/meteo_2013_83_95</url>
+</saison>
+<saison>
+<annee>2012</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2012 : Une saison moins active que la normale</titre>
+<url>https://lameteorologie.fr/issues/2013/82/meteo_2013_82_72</url>
+</saison>
+<saison>
+<annee>2012</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2012-2013 : Une saison dans les normes dans l'ouest du bassin</titre>
+<url>https://lameteorologie.fr/issues/2014/84/meteo_2014_84_64</url>
+</saison>
+</Year>
+<Year id="2013">
+<saison>
+<annee>2013</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2013 : Seulement deux ouragans en 2013</titre>
+<url>https://lameteorologie.fr/issues/2014/86/meteo_2014_86_76</url>
+</saison>
+<saison>
+<annee>2013</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2014 : Une saison plus calme que la saison 2013</titre>
+<url>https://lameteorologie.fr/issues/2015/89/meteo_2015_89_63</url>
+</saison>
+<saison>
+<annee>2013</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central, 2013 : Une saison active</titre>
+<url>https://lameteorologie.fr/issues/2014/85/meteo_2014_85_70</url>
+</saison>
+<saison>
+<annee>2013</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2013-2014 : Une saison active</titre>
+<url>https://lameteorologie.fr/issues/2014/87/meteo_2014_87_59</url>
+</saison>
+<saison>
+<annee>2013</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2013 : Une saison meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2014/86/meteo_2014_86_73</url>
+</saison>
+<saison>
+<annee>2013</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2013-2014 : Une saison plutôt dans les normes</titre>
+<url>https://lameteorologie.fr/issues/2015/88/meteo_2015_88_111</url>
+</saison>
+</Year>
+<Year id="2014">
+<saison>
+<annee>2014</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2014 : Une saison relativement calme</titre>
+<url>https://lameteorologie.fr/issues/2015/90/meteo_2015_90_77</url>
+</saison>
+<saison>
+<annee>2014</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2014 : Une saison plus calme que la saison 2013</titre>
+<url>https://lameteorologie.fr/issues/2015/89/meteo_2015_89_63</url>
+</saison>
+<saison>
+<annee>2014</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2014 : Une saison très active</titre>
+<url>https://lameteorologie.fr/issues/2015/89/meteo_2015_89_68</url>
+</saison>
+<saison>
+<annee>2014</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2014-2015 : Une saison marquée par des cyclones dévastateurs</titre>
+<url>https://lameteorologie.fr/issues/2015/91/meteo_2015_91_63</url>
+</saison>
+<saison>
+<annee>2014</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2014 : Hudhud, un cyclone meurtrier</titre>
+<url>https://lameteorologie.fr/issues/2015/90/meteo_2015_90_74</url>
+</saison>
+<saison>
+<annee>2014</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2014-2015 : Une saison un peu plus active que la normale</titre>
+<url>https://lameteorologie.fr/issues/2016/92/meteo_2016_92_73</url>
+</saison>
+</Year>
+<Year id="2015">
+<saison>
+<annee>2015</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2015 : Une saison précoce, longue et, une fois encore, relativement calme</titre>
+<url>https://lameteorologie.fr/issues/2016/94/meteo_2016_94_61</url>
+</saison>
+<saison>
+<annee>2015</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest, 2015 : Une saison précoce, active et meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2016/93/meteo_2016_93_64</url>
+</saison>
+<saison>
+<annee>2015</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central, 2015 : Une saison record</titre>
+<url>https://lameteorologie.fr/issues/2016/93/meteo_2016_93_69</url>
+</saison>
+<saison>
+<annee>2015</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique sud 2015-2016 : Une saison marquée par le cyclone tropical Winston aux Fidji</titre>
+<url>https://lameteorologie.fr/issues/2016/95/meteo_2016_95_60</url>
+</saison>
+<saison>
+<annee>2015</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2015 : Deux cyclones tropicaux sur le Yémen en novembre</titre>
+<url>https://lameteorologie.fr/issues/2016/94/meteo_2016_94_58</url>
+</saison>
+<saison>
+<annee>2015</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2015-2016 : Une saison peu active mais marquée par le cyclone tropical Fantala</titre>
+<url>https://lameteorologie.fr/issues/2017/96/meteo_2017_96_60</url>
+</saison>
+</Year>
+<Year id="2016">
+<saison>
+<annee>2016</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique nord 2016 : Une saison longue et une activité au-dessus de la moyenne</titre>
+<url>https://lameteorologie.fr/issues/2017/98/meteo_2017_98_58</url>
+</saison>
+<saison>
+<annee>2016</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-ouest 2016 : Un supertyphon pour débuter une saison tardive</titre>
+<url>https://lameteorologie.fr/issues/2017/97/meteo_2017_97_113</url>
+</saison>
+<saison>
+<annee>2016</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique nord-est et central 2016 : Une saison plutôt active</titre>
+<url>https://lameteorologie.fr/issues/2017/97/meteo_2017_97_118</url>
+</saison>
+<saison>
+<annee>2016</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2016-2017 : Un défilé cyclonique exceptionnellement tardif</titre>
+<url>https://lameteorologie.fr/issues/2017/99/meteo_2017_99_64</url>
+</saison>
+<saison>
+<annee>2016</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2016 : Le golfe du Bengale particulièrement visé</titre>
+<url>https://lameteorologie.fr/issues/2017/98/meteo_2017_98_63</url>
+</saison>
+<saison>
+<annee>2016</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2016-2017 : Une saison à nouveau peu active</titre>
+<url>https://lameteorologie.fr/issues/2018/100/meteo_2018_100_143</url>
+</saison>
+</Year>
+<Year id="2017">
+<saison>
+<annee>2017</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2017 : Dix ouragans consécutifs dont Irma, Jose et Maria aux Antilles</titre>
+<url>https://lameteorologie.fr/issues/2018/102/meteo_2018_102_55</url>
+</saison>
+<saison>
+<annee>2017</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2017 : Une saison discrète, mais un final meurtrier aux Philippines</titre>
+<url>https://lameteorologie.fr/issues/2018/101/meteo_2018_101_71</url>
+</saison>
+<saison>
+<annee>2017</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2017 : Une baisse d'activité après trois saisons extrêmement intenses</titre>
+<url>https://lameteorologie.fr/issues/2018/101/meteo_2018_101_66</url>
+</saison>
+<saison>
+<annee>2017</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2017-2018 : Une activité normale, concentrée principalement à l'ouest du bassin</titre>
+<url>https://lameteorologie.fr/issues/2018/103/meteo_2018_103_55</url>
+</saison>
+<saison>
+<annee>2017</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord 2017 : Mer d'Arabie : Ockhi rompt le silence</titre>
+<url>https://lameteorologie.fr/issues/2018/102/meteo_2018_102_62</url>
+</saison>
+<saison>
+<annee>2017</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2017-2018 : Un regain d'activité</titre>
+<url>https://lameteorologie.fr/issues/2019/104/meteo_2019_104_57</url>
+</saison>
+</Year>
+<Year id="2018">
+<saison>
+<annee>2018</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2018 : Une saison mémorable pour les États-Unis avec Florence et Michael</titre>
+<url>https://lameteorologie.fr/issues/2019/106/meteo_2019_106_71</url>
+</saison>
+<saison>
+<annee>2018</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2018 : Recrudescence de supertyphons cette saison</titre>
+<url>https://lameteorologie.fr/issues/2019/105/meteo_2019_105_69</url>
+</saison>
+<saison>
+<annee>2018</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2018 : Retour à une forte activité</titre>
+<url>https://lameteorologie.fr/issues/2019/105/meteo_2019_105_61</url>
+</saison>
+<saison>
+<annee>2018</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2018-2019 : Une saison précoce et une activité un peu en berne</titre>
+<url>https://lameteorologie.fr/issues/2019/107/meteo_2019_107_71</url>
+</saison>
+<saison>
+<annee>2018</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord, 2018 : Une saison particulièrement intense</titre>
+<url>https://lameteorologie.fr/issues/2019/106/meteo_2019_106_78</url>
+</saison>
+<saison>
+<annee>2018</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2018-2019 : Une saison exceptionnelle à l'ouest</titre>
+<url>https://lameteorologie.fr/issues/2020/108/meteo_2020_108_108</url>
+</saison>
+</Year>
+<Year id="2019">
+<saison>
+<annee>2019</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2019 : Encore une saison plus active que la moyenne</titre>
+<url>https://lameteorologie.fr/issues/2020/110/meteo_2020_110_70</url>
+</saison>
+<saison>
+<annee>2019</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2019</titre>
+<url>https://lameteorologie.fr/issues/2020/109/meteo_2020_109_63</url>
+</saison>
+<saison>
+<annee>2019</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2019</titre>
+<url>https://lameteorologie.fr/issues/2020/109/meteo_2020_109_56</url>
+</saison>
+<saison>
+<annee>2019</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2019-2020 : Une saison classique dans son déroulement</titre>
+<url>https://lameteorologie.fr/issues/2020/111/meteo_2020_111_62</url>
+</saison>
+<saison>
+<annee>2019</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord, 2019 : Une saison plus active que la moyenne</titre>
+<url>https://lameteorologie.fr/issues/2020/110/meteo_2020_110_77</url>
+</saison>
+<saison>
+<annee>2019</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2019-2020 : Une saison peu active malgré un nombre de phénomènes dans les normes</titre>
+<url>https://lameteorologie.fr/issues/2021/112/meteo_2021_112_100</url>
+</saison>
+</Year>
+<Year id="2020">
+<saison>
+<annee>2020</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2020 : La saison la plus active jamais enregistrée en Atlantique Nord</titre>
+<url>https://lameteorologie.fr/issues/2021/114/meteo_2021_114_70</url>
+</saison>
+<saison>
+<annee>2020</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2020 : Une saison des typhons peu active</titre>
+<url>https://lameteorologie.fr/issues/2021/113/meteo_2021_113_65</url>
+</saison>
+<saison>
+<annee>2020</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2020 : Une saison peu active</titre>
+<url>https://lameteorologie.fr/issues/2021/113/meteo_2021_113_72</url>
+</saison>
+<saison>
+<annee>2020</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2020-2021 : Une saison délimitée par deux cyclones tropicaux très intenses</titre>
+<url>https://lameteorologie.fr/issues/2021/115/meteo_2021_115_58</url>
+</saison>
+<saison>
+<annee>2020</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord, 2020 : Une saison destructrice marquée par Amphan</titre>
+<url>https://lameteorologie.fr/issues/2021/114/meteo_2021_114_81</url>
+</saison>
+<saison>
+<annee>2020</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2020-2021 : Une activité géographiquement déséquilibrée</titre>
+<url>https://lameteorologie.fr/issues/2022/116/meteo_2022_116_67</url>
+</saison>
+</Year>
+<Year id="2021">
+<saison>
+<annee>2021</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2021 : Retour à une relative normalité malgré l'ouragan meurtrier Ida</titre>
+<url>https://lameteorologie.fr/issues/2022/118/meteo_2022_118_64</url>
+</saison>
+<saison>
+<annee>2021</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2021 : Une saison peu active qui s'achève avec le désastreux typhon Rai</titre>
+<url>https://lameteorologie.fr/issues/2022/117/meteo_2022_117_71</url>
+</saison>
+<saison>
+<annee>2021</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2021 : Encore une saison calme</titre>
+<url>https://lameteorologie.fr/issues/2022/117/meteo_2022_117_63</url>
+</saison>
+<saison>
+<annee>2021</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2021-2022 : Une saison peu intense sous l'égide de la Niña</titre>
+<url>https://lameteorologie.fr/issues/2022/119/meteo_2022_119_87</url>
+</saison>
+<saison>
+<annee>2021</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien Nord 2021 : Une saison peu active mais atypique avec l'impact de Shaheen sur Oman</titre>
+<url>https://lameteorologie.fr/issues/2022/118/meteo_2022_118_75</url>
+</saison>
+<saison>
+<annee>2021</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2021-2022 : Des baptêmes en grand nombre</titre>
+<url>https://lameteorologie.fr/issues/2023/120/meteo_2023_120_60</url>
+</saison>
+</Year>
+<Year id="2022">
+<saison>
+<annee>2022</annee>
+<bassin>ATL</bassin>
+<revue>lameteorologie</revue>
+<titre>Atlantique Nord, 2022 : Une saison proche de la normale malgré un mois de septembre très actif</titre>
+<url>https://lameteorologie.fr/issues/2023/122/meteo_2023_122_54</url>
+</saison>
+<saison>
+<annee>2022</annee>
+<bassin>PNO</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Ouest, 2022 : Une saison modérément active</titre>
+<url>https://lameteorologie.fr/issues/2023/121/meteo_2023_121_79</url>
+</saison>
+<saison>
+<annee>2022</annee>
+<bassin>PNE</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Nord-Est et central, 2022 : Une saison modérément active</titre>
+<url>https://lameteorologie.fr/issues/2023/121/meteo_2023_121_71</url>
+</saison>
+<saison>
+<annee>2022</annee>
+<bassin>PS</bassin>
+<revue>lameteorologie</revue>
+<titre>Pacifique Sud 2022-2023 : Une saison très courte</titre>
+<url>https://lameteorologie.fr/issues/2023/123/meteo_2023_123_73</url>
+</saison>
+<saison>
+<annee>2022</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien nord, 2022 : Une saison sans que le stade de cyclone ne soit atteint</titre>
+<url>https://lameteorologie.fr/issues/2023/122/meteo_2023_122_63</url>
+</saison>
+<saison>
+<annee>2022</annee>
+<bassin>IS</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien sud 2022-2023 : Une saison active, marquée par Freddy</titre>
+<url>https://lameteorologie.fr/issues/2024/124/meteo_2024_124_61</url>
+</saison>
+</Year>
+<Year id="2023">
+<saison>
+<annee>2023</annee>
+<bassin>IN</bassin>
+<revue>lameteorologie</revue>
+<titre>Océan Indien Nord 2023 : Une saison très active et particulièrement meurtrière</titre>
+<url>https://lameteorologie.fr/issues/2024/126/meteo_2024_126_86</url>
+</saison>
+</Year>
+</saisons_cycloniques>

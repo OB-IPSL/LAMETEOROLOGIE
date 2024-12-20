@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="30">
+  <notice pagedebut="3">
+    <titre>Éditorial</titre>
+    <auteur>Rochas, Michel J.</auteur>
+    <handle>http://hdl.handle.net/2042/35879</handle>
+    <doi>10.4267/2042/35879</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/35879/meteo_2000_30_3.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>3</pages>
+    <citation>Rochas, Michel J. ; Éditorial,  La Météorologie, 2000, N° 30 ; p. 3</citation>
+    <rubrique>Éditorial</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="4">
+    <titre>L'assemblée générale 2000 de la SMF</titre>
+    <auteur>Renaut, Didier</auteur>
+    <handle>http://hdl.handle.net/2042/35880</handle>
+    <doi>10.4267/2042/35880</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/35880/meteo_2000_30_4.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>4-6</pages>
+    <citation>Renaut, Didier ; L'assemblée générale 2000 de la SMF,  La Météorologie, 2000, N° 30 ; p. 4-6</citation>
+    <rubrique>La vie de la SMF</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="7">
+    <titre>Le festival international de météo fête ses dix ans</titre>
+    <auteur>Daudier, Morgane</auteur>
+    <handle>http://hdl.handle.net/2042/35881</handle>
+    <doi>10.4267/2042/35881</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/35881/meteo_2000_30_7.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>7-8</pages>
+    <citation>Daudier, Morgane ; Le festival international de météo fête ses dix ans,  La Météorologie, 2000, N° 30 ; p. 7-8</citation>
+    <rubrique>La vie de la SMF</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="9">
+    <titre>Les 50 ans de la prévision numérique célébrés à potsdam</titre>
+    <auteur>Javelle, Jean-Pierre</auteur>
+    <handle>http://hdl.handle.net/2042/35882</handle>
+    <doi>10.4267/2042/35882</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/35882/meteo_2000_30_9.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>9-10</pages>
+    <citation>Javelle, Jean-Pierre ; Les 50 ans de la prévision numérique célébrés à potsdam,  La Météorologie, 2000, N° 30 ; p. 9-10</citation>
+    <rubrique>La vie de la SMF</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="11">
+    <titre>Un demi-siècle de prévision numérique du temps</titre>
+    <auteur>Coiffier, Jean</auteur>
+    <handle>http://hdl.handle.net/2042/36122</handle>
+    <doi>10.4267/2042/36122</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36122/meteo_2000_30_11.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>11-31</pages>
+    <citation>Coiffier, Jean ; Un demi-siècle de prévision numérique du temps,  La Météorologie, 2000, N° 30 ; p. 11-31</citation>
+    <rubrique>Prévision</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="32">
+    <titre>La prévision numérique du temps avec les modèles Arpège et Aladin - Bilan et perspectives</titre>
+    <auteur>Pailleux, Jean</auteur>
+    <auteur>Geleyn, Jean-François</auteur>
+    <auteur>Legrand, Emmanuel</auteur>
+    <handle>http://hdl.handle.net/2042/36123</handle>
+    <doi>10.4267/2042/36123</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36123/meteo_2000_30_32.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>32-60</pages>
+    <citation>Pailleux, Jean ; Geleyn, Jean-François ; Legrand, Emmanuel ; La prévision numérique du temps avec les modèles Arpège et Aladin - Bilan et perspectives,  La Météorologie, 2000, N° 30 ; p. 32-60</citation>
+    <rubrique>Prévision</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="61">
+    <titre>La prévision du temps à moyenne échéance en France</titre>
+    <auteur>Atger, Frédéric</auteur>
+    <handle>http://hdl.handle.net/2042/36124</handle>
+    <doi>10.4267/2042/36124</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36124/meteo_2000_30_61.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>61-86</pages>
+    <citation>Atger, Frédéric ; La prévision du temps à moyenne échéance en France,  La Météorologie, 2000, N° 30 ; p. 61-86</citation>
+    <rubrique>Prévision</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="87">
+    <titre>Une nouvelle technique d'assimilation des données d'observation au CEPMMT : l'assimilation variationnelle quadridimensionnelle</titre>
+    <auteur>Rabier, Florence</auteur>
+    <auteur>Mahfouf, Jean-François</auteur>
+    <auteur>Klinker, Ernst</auteur>
+    <handle>http://hdl.handle.net/2042/36125</handle>
+    <doi>10.4267/2042/36125</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36125/meteo_2000_30_87.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>87-101</pages>
+    <citation>Klinker, Ernst ; Mahfouf, Jean-François ; Rabier, Florence ; Une nouvelle technique d'assimilation des données d'observation au CEPMMT : l'assimilation variationnelle quadridimensionnelle,  La Météorologie, 2000, N° 30 ; p. 87-101</citation>
+    <rubrique>Prévision</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="102">
+    <titre>Glossaire</titre>
+    <handle>http://hdl.handle.net/2042/36126</handle>
+    <doi>10.4267/2042/36126</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36126/meteo_2000_30_102.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>102-104</pages>
+    <citation>Glossaire,  La Météorologie, 2000, N° 30 ; p. 102-104</citation>
+    <rubrique>Glossaire</rubrique>
+    <type>** pas présent dans la source, et rubrique non répertoriée dans la liste **</type>
+  </notice>
+  <notice pagedebut="105">
+    <titre>Les tempêtes de fin d'année - décembre 1999</titre>
+    <auteur>Donguy, Patrick</auteur>
+    <handle>http://hdl.handle.net/2042/36127</handle>
+    <doi>10.4267/2042/36127</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36127/meteo_2000_30_105.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>105</pages>
+    <citation>Donguy, Patrick ; Les tempêtes de fin d'année - décembre 1999,  La Météorologie, 2000, N° 30 ; p. 105</citation>
+    <rubrique>Les photos du mois</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="106">
+    <titre>Décembre 1999</titre>
+    <handle>http://hdl.handle.net/2042/36128</handle>
+    <doi>10.4267/2042/36128</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36128/meteo_2000_30_106.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>106-111</pages>
+    <citation>Résumé climatique - décembre 1999,  La Météorologie, 2000, N° 30 ; p. 106-111</citation>
+    <rubrique>Résumés climatiques</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="112">
+    <titre>L'image du 1er janvier 2000 - janvier 2000</titre>
+    <auteur>Donguy, Patrick</auteur>
+    <handle>http://hdl.handle.net/2042/36129</handle>
+    <doi>10.4267/2042/36129</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36129/meteo_2000_30_112.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>112</pages>
+    <citation>Donguy, Patrick ; L'image du 1er janvier 2000 - janvier 2000,  La Météorologie, 2000, N° 30 ; p. 112</citation>
+    <rubrique>Les photos du mois</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="113">
+    <titre>Janvier 2000</titre>
+    <handle>http://hdl.handle.net/2042/36130</handle>
+    <doi>10.4267/2042/36130</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36130/meteo_2000_30_113.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>113-118</pages>
+    <citation>Résumé climatique - janvier 2000,  La Météorologie, 2000, N° 30 ; p. 113-118</citation>
+    <rubrique>Résumés climatiques</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="119">
+    <titre>La corne de rhinocéros - Le cyclone Eline - Le rayon vert - février 2000</titre>
+    <auteur>Donguy, Patrick</auteur>
+    <handle>http://hdl.handle.net/2042/36131</handle>
+    <doi>10.4267/2042/36131</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36131/meteo_2000_30_119.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>119-120</pages>
+    <citation>Donguy, Patrick ; La corne de rhinocéros - Le cyclone Eline - Le rayon vert - février 2000,  La Météorologie, 2000, N° 30 ; p. 119-120</citation>
+    <rubrique>Les photos du mois</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="121">
+    <titre>Février 2000</titre>
+    <handle>http://hdl.handle.net/2042/36132</handle>
+    <doi>10.4267/2042/36132</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/36132/meteo_2000_30_121.pdf</url_pdf>
+    <annee>2000</annee>
+    <numero>30</numero>
+    <pages>121-126</pages>
+    <citation>Résumé climatique - février 2000,  La Météorologie, 2000, N° 30 ; p. 121-126</citation>
+    <rubrique>Résumés climatiques</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+</notices_simples>

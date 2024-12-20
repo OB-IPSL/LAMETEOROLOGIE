@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Exlibris>
+<EXLIBRIS>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Renaut, Didier</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049902</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 1</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Editorial</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049902__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 1</MF_PAGE>
+<MF_RUBRIQUE>EDITORIAL</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>56</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256546</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Allaix, Éric</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>informatique, technologie, télécommunications</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>équipements radioélectriques</DOC_DC>
+<DOC_DC>transmission de l&apos;information météorologique</DOC_DC>
+<DOC_DEE>télécommunications</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>partage des fréquences</DOC_DL>
+<DOC_DL>5G</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049903</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 2-3</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Fin de la Conférence mondiale des radiocommunications 2019</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049903__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 2-3</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>DSO/Direction</MF_SERVICE>
+<MF_TAILLE>225</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256547</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Libois, Quentin</DOC_AUTEUR>
+<DOC_AUTEUR>C.-Labonnote, Laurent</DOC_AUTEUR>
+<DOC_AUTEUR>Camy-Peyret, Claude</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie spatiale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>infrarouge lointain</DOC_DC>
+<DOC_DC>système Terre</DOC_DC>
+<DOC_DC>mission spatiale</DOC_DC>
+<DOC_DEE>télédetection satellitaire</DOC_DEE>
+<DOC_DEE>bilan radiatif</DOC_DEE>
+<DOC_DEE>instrument rayonnement</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049904</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 4-6</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Forum mesurera l&apos;infrarouge lointain émis par la Terre</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049904__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 4-6</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>327</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256548</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Gaye, Idrissa</DOC_AUTEUR>
+<DOC_AUTEUR>Amory-Mazaudier, Christine</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>enseignement, vulgarisation scientifique, communication</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>perturbations solaires</DOC_DC>
+<DOC_DC>météorologie de l&apos;espace</DOC_DC>
+<DOC_DEE>coopération scientifique</DOC_DEE>
+<DOC_DEE>enseignement supérieur</DOC_DEE>
+<DOC_DEE>géomagnetisme</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049905</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 6-7</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>École de météorologie de l&apos;espace - Université de Thiès du 15 au 25 octobre 2019</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049905__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 6-7</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>229</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256549</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Hertzog, Albert</DOC_AUTEUR>
+<DOC_AUTEUR>Plougonven, Riwal</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>campagnes de mesures, expériences en laboratoire</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>ballon pressurisé</DOC_DC>
+<DOC_DC>couplage troposphère-stratosphère</DOC_DC>
+<DOC_DEE>campagne de mesure</DOC_DEE>
+<DOC_DEE>observation météorologique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>TTL (tropical tropopause layer)</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049906</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 8</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Stratéole-2 : des ballons longue durée pour étudier la tropopause tropicale</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049906__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 8</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>142</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256550</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Delannoy, Ludovic</DOC_AUTEUR>
+<DOC_AUTEUR>Orti, Thomas</DOC_AUTEUR>
+<DOC_AUTEUR>Amm, Tristan</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>produits de prévision</DOC_DC>
+<DOC_DC>épisodes méditerraneens</DOC_DC>
+<DOC_DC>pluies intenses</DOC_DC>
+<DOC_DC>site internet</DOC_DC>
+<DOC_DEE>base de données</DOC_DEE>
+<DOC_DEE>données en temps réel</DOC_DEE>
+<DOC_DEE>précipitations</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Hymex</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049907</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 9-10</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>MedLab : un portail dédié aux épisodes méditerranéens intenses</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049907__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 9-10</MF_PAGE>
+<MF_RUBRIQUE>ECHOS</MF_RUBRIQUE>
+<MF_SERVICE>ENM/ECOLE</MF_SERVICE>
+<MF_SERVICE>ENM/ECOLE</MF_SERVICE>
+<MF_SERVICE>ENM/ECOLE</MF_SERVICE>
+<MF_TAILLE>1572</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256551</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>instruments et méthodes de mesures, télédétection</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>interaction vegetation-atmosphère</DOC_DC>
+<DOC_DC>mât instrumenté</DOC_DC>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049908</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 11</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un mât émerge de la forêt</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049908__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 11</MF_PAGE>
+<MF_RUBRIQUE>LA PHOTO DU TRIMESTRE</MF_RUBRIQUE>
+<MF_TAILLE>271</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256552</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Guillaume, Anne</DOC_AUTEUR>
+<DOC_AUTEUR>Noblet-Ducoudré, Nathalie de</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>sécurite alimentaire</DOC_DC>
+<DOC_DC>utilisation des sols</DOC_DC>
+<DOC_DC>développement durable</DOC_DC>
+<DOC_DC>stratégie d&apos;attenuation</DOC_DC>
+<DOC_DC>colloque</DOC_DC>
+<DOC_DC>GIEC</DOC_DC>
+<DOC_DEE>réchauffement climatique</DOC_DEE>
+<DOC_DEE>impact</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049909</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 12-18</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Journée scientifique 2019 - Changement climatique, gestion durable des terres et sécurité alimentaire</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049909__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 12-18</MF_PAGE>
+<MF_RUBRIQUE>LA VIE DE METEO ET CLIMAT</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>600</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256553</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Planton, Serge</DOC_AUTEUR>
+<DOC_AUTEUR>Phulpin, Thierry</DOC_AUTEUR>
+<DOC_AUTEUR>Pailleux, Jean</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>Occitanie</DOC_DC>
+<DOC_DC>politique d&apos;atténuation</DOC_DC>
+<DOC_DC>transition énergetique</DOC_DC>
+<DOC_DC>transition écologique</DOC_DC>
+<DOC_DEE>réchauffement climatique</DOC_DEE>
+<DOC_DEE>diffusion scientifique</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049910</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 19-20</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Journée scientifique Occitanie 2019 - Du rapport du Giec sur le réchauffement à 1,5 °C à sa traduction dans les territoires</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049910__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 19-20</MF_PAGE>
+<MF_RUBRIQUE>LA VIE DE METEO ET CLIMAT</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>349</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256554</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>organisation météorologique</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>SMF</DOC_DC>
+<DOC_DC>sondage d&apos;opinion</DOC_DC>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049911</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 22-23</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>L&apos;enquête sur La Météorologie : les résultats</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049911__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 22-23</MF_PAGE>
+<MF_RUBRIQUE>LA VIE DE METEO ET CLIMAT</MF_RUBRIQUE>
+<MF_TAILLE>248</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256555</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Mahfouf, Jean-François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>modèle de surface continentale</DOC_DC>
+<DOC_DC>interaction sol-atmosphère</DOC_DC>
+<DOC_DC>hommage</DOC_DC>
+<DOC_DEE>recherche scientifique</DOC_DEE>
+<DOC_DEE>prévision</DOC_DEE>
+<DOC_DEE>hydrologie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049912</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 24-25</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Introduction</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049912__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 24-25</MF_PAGE>
+<MF_RUBRIQUE>Numero spécial interactions surfaces continentales-atmosphère</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>1622</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256556</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Cet article décrit la riche mais trop brève carrière scientifique de Joël Noilhan. Après une première expérience en micrométéorologie, Joël Noilhan fut recruté par Météo-France pour valoriser les mesures de la campagne Hapex-Mobilhy dans les modèles numériques de prévision et de climat. Ces premiers résultats l&apos;amenèrent à définir un programme de recherche ambitieux en hydrologie, qui a fédéré et inspire encore une partie des acteurs français de cette science. Plusieurs modèles de prévision et produits opérationnels de Météo-France bénéficient aujourd&apos;hui de ces avancées. Tant par ses qualités humaines que par la profondeur de sa vision scientifique, Joël Noilhan a eu une influence considérable sur la recherche en environnement.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Bougeault, Philippe</DOC_AUTEUR>
+<DOC_AUTEUR>André, Jean-Claude</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>micrométéorologie</DOC_DC>
+<DOC_DC>modélisation hydrologique</DOC_DC>
+<DOC_DC>hommage</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>recherche scientifique</DOC_DEE>
+<DOC_DEE>biographie</DOC_DEE>
+<DOC_DEE>campagne de mesure</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Hapex-Mobilhy</DOC_DL>
+<DOC_DL>Isba</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049913</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 26-30</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Joël Noilhan (1953-2010), une carrière scientifique consacrée à la micrométéorologie et à l&apos;hydrologie</DOC_TITRE>
+<DOC_TITRE3>Joël Noilhan (1953-2010): a scientific career devoted to micrometeorology and hydrology</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049913__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>This paper describes the rich but too short scientific career of Joël Noilhan. After a start in micrometeorology, he was hired by Météo-France to insure that observations acquired during the Hapex-Mobilhy field campaign would serve to improve numerical models of weather and climate. Initial results led him to design an ambitious research programme in hydrology, which attracted and still inspires many French actors of this science. Several operational models and products of Météo-France still benef it today from these developments. Due to his human qualities and his deep science insight, Joël Noilhan exerted a considerable influence on environmental research.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>philippe.bougeault@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 26-30</MF_PAGE>
+<MF_RUBRIQUE>HISTOIRE</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/Direction</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>383</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256557</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Cet article décrit les représentations des surfaces continentales dans les modèles atmosphériques disponibles jusque dans les années 1990. Après avoir présenté les concepts de base de l&apos;évaporation de surface, on montre les limitations du « modèle baquet ». Afin de modéliser les effets des désertifications et déforestations, des représentations plus réalistes, décrivant notamment les effets de la végétation (transpiration des plantes et interception de la pluie), ont été développées. On conclut en résumant les besoins en jeux de données (campagnes de mesures, cartographies globales des sols et de la végétation) pour mieux contraindre et valider ces représentations de surface.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Beljaars, Anton</DOC_AUTEUR>
+<DOC_AUTEUR>Mahfouf, Jean-François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>modèle de surfaces continentales</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DC>interaction sol-atmosphère</DOC_DC>
+<DOC_DC>évaporation de surface</DOC_DC>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049914</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 31-37</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les représentations des surfaces continentales dans les modèles atmosphériques : aperçu historique</DOC_TITRE>
+<DOC_TITRE3>Early land surface schemes in atmospheric models: historical perspective</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049914__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>This paper describes land surface schemes available in atmospheric models until the 90&apos;s. After a presentation of the basic concepts on surface evaporation, the limitations of the bucket model are shown. In order to model desertif ications and deforestations, more realistic schemes, including vegetation effects (plant transpiration and rainfall interception) have been developed. One concludes by a summary on the need of data sets (field campaigns, global vegetation and land cover maps) in order to constrain and validate such surface schemes.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean-francois.mahfouf@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 31-37</MF_PAGE>
+<MF_RUBRIQUE>AGROMETEOROLOGIE</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>611</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256558</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Le schéma de surface Isba a été conçu pour représenter aussi simplement que possible des processus complexes d&apos;interactions entre le sol, la végétation et l&apos;atmosphère. Les choix méthodologiques adoptés pour sa construction ont été guidés par son implémentation future dans des modèles atmosphériques de moyenne échelle, de prévision météorologique et de climat. Son développement initial a été grandement facilité par la disponibilité des données d&apos;observation de la campagne Hapex-Mobilhy, permettant de valider les choix méthodologiques et d&apos;ajuster certains des paramètres du schéma. Cette approche de développement s&apos;appuyant sur les données de campagnes de mesures ne s&apos;est pas démentie par la suite.
+</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Planton, Serge</DOC_AUTEUR>
+<DOC_AUTEUR>Mahfouf, Jean-François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>interaction sol-vegetation-atmosphère</DOC_DC>
+<DOC_DC>schéma de surface</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>campagne de mesure</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_DL>Hapex-Mobilhy</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049915</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 38-45</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Une nouvelle description des surfaces continentales pour les modèles de Météo-France : les origines du schéma Isba</DOC_TITRE>
+<DOC_TITRE3>A new description of land surfaces for Météo-France models: origin of the Isba scheme</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049915__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The Isba surface scheme was designed to represent as simply as possible complex interaction process between the soil, the vegetation and the atmosphere. The methodological choices adopted to construct it were guided by its future implementation in mesoscale, weather and climate models. Its initial development was greatly facilitated by the availability of observational data from the Hapex-Mobilhy field, enabling the methodological choices to be validated and some parameters of the scheme to be adjusted. This development approach, based on field campaign data, was maintained later.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean-francois.mahfouf@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 38-45</MF_PAGE>
+<MF_RUBRIQUE>HISTOIRE</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>2154</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256559</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>La synergie entre campagnes de mesures et modélisation numérique a permis de faire fortement progresser notre compréhension des interactions sol-végétation-atmosphère. Ces progrès ont conduit à l&apos;élaboration du modèle de surface Isba développé par Joël Noilhan et utilisé aujourd&apos;hui encore dans les modèles de prévision opérationnelle de Météo-France. Cet article vise à illustrer l&apos;apport des campagnes de mesures dans l&apos;amélioration de nos connaissances des processus en surface à travers trois exemples, Hapex-Mobilhy pour l&apos;étude du bilan hydrique, Carbo-Europe pour l&apos;étude du bilan en carbone et l&apos;étude du brouillard sur l&apos;aéroport Paris-CdG pour l&apos;influence des conditions de surface sur les nuages bas.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Bergot, Thierry</DOC_AUTEUR>
+<DOC_AUTEUR>Bessemoulin, Pierre</DOC_AUTEUR>
+<DOC_AUTEUR>Sarrat, Claire</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>environnement, écologie, échanges biosphère-atmosphère</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>interaction sol-végétation-atmosphère</DOC_DC>
+<DOC_DC>modélisation</DOC_DC>
+<DOC_DC>prévision du brouillard</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>campagne de mesure</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Hapex-Mobilhy</DOC_DL>
+<DOC_DL>Carbo-Europe</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049916</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 46-51</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Apport des campagnes de mesures pour la compréhension des interactions sol-végétation-atmosphère</DOC_TITRE>
+<DOC_TITRE3>Soil-vegetation-atmosphere interactions: experimental field campaigns contributions</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049916__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The synergy between field experiments and numerical modeling has allowed to significantly advance our understanding of soil-vegetation-atmosphere interactions. This progress led to the ISBA surface model developed by Joël Noilhan and used today in Météo-France&apos;s operational forecasting models. This article aims to illustrate the contribution of field experiments in improving our knowledge of surface processes through three examples: Hapex-Mobilhy, Carbo-Europe, and the study of fog at Paris-CdG airport.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>thierry.bergot@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 46-51</MF_PAGE>
+<MF_RUBRIQUE>CAMPAGNE EXPERIMENTALE</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>2745</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256560</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Cet article présente les différentes étapes des développements réalisés au CNRM des années 1990 à nos jours pour spatialiser à diverses échelles les simulations du modèle Isba des surfaces terrestres. Une attention particulière est portée sur l&apos;intégration, dans le modèle, de données satellitaires permettant de caractériser la végétation. Deux façons complémentaires d&apos;introduire de l&apos;information géographique dans Isba sont présentées : cartographie de paramètres statiques et intégration au fil de l&apos;eau dans le modèle de variables observables depuis l&apos;espace.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Calvet, Jean-Christophe</DOC_AUTEUR>
+<DOC_AUTEUR>Champeaux, Jean-Louis</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>environnement, écologie, échanges biosphère-atmosphère</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>modèle de surfaces continentales</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DC>interaction sol-végétation-atmosphère</DOC_DC>
+<DOC_DC>occupation des sols</DOC_DC>
+<DOC_DEE>télédetection satellitaire</DOC_DEE>
+<DOC_DEE>assimilation des données</DOC_DEE>
+<DOC_DEE>cartographie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_DL>Ecoclimap</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049917</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 52-58</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>L&apos;apport de la télédétection spatiale à la modélisation des surfaces continentales</DOC_TITRE>
+<DOC_TITRE3>Remote sensing inputs to land surface modelling</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049917__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>This paper presents successive steps in developments made at CNRM from the 1990s to the present-day in order to spatialize the simulations of the Isba land surface model at various scales. The focus is on the integration in the model of satellite data informative about vegetation. Two complementary ways to integrate geographic information in Isba are presented: mapping of static model parameters and sequential assimilation of variables observable from space.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>jean-christophe.calvet@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 52-58</MF_PAGE>
+<MF_RUBRIQUE>ECOSYSTEMES</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>906</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256561</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>La représentation des processus physiques associés aux surfaces continentales, incluant les échanges de chaleur, d&apos;humidité et de quantité de mouvement avec l&apos;atmosphère, ainsi que l&apos;analyse des conditions initiales pour ses principales variables influencent de manière substantielle la prévision atmosphérique près de la surface, en plus d&apos;avoir un impact sur la production de nuages et des précipitations. Comment les surfaces continentales sont-elles représentées dans les modèles de prévision numérique du temps ? Quelles sont les problématiques propres à la prévision numérique du temps dans cette représentation ? Ces questions sont examinées dans cet article en utilisant des exemples tirées du modèle Isba (Interactions solbiosphère-atmosphère) développé à Météo-France et du système d&apos;assimilation de surface du Service météorologique du Canada.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Bélair, Stéphane</DOC_AUTEUR>
+<DOC_AUTEUR>Boone, Aaron</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>modèle de surfaces continentales</DOC_DC>
+<DOC_DC>interaction sol-végétation-atmosphère</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>prévision numérique</DOC_DEE>
+<DOC_DEE>assimilation des données</DOC_DEE>
+<DOC_DEE>couche limite planétaire</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_DL>prévision canadienne</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049918</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 59-66</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La représentation des surfaces continentales pour la prévision numérique du temps</DOC_TITRE>
+<DOC_TITRE3>Land surface schemes in numerical weather prediction models</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049918__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The representation of physical processes over land, including heat, humidity, and momentum exchanges with the atmosphere, as well as accurate initialisation of its main prognostic variables, has a substantial influence on numerical prediction of the near-surface atmosphere and on the formation of clouds and precipitation. How are continental surfaces represented in numerical weather prediction (NWP) models? What are the scientific issues specif ic to NWP for this representation? These are questions examined in this study using examples from the Isba (Interactions Soil-Biosphere-Atmosphere) land surface scheme developed at Météo-France and the land data assimilation system from the Meteorological Service of Canada.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>stephane.belair@canada.ca</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 59-66</MF_PAGE>
+<MF_RUBRIQUE>PREVISION</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_TAILLE>4945</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256562</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Les surfaces continentales jouent un rôle non négligeable dans le système climatique de la Terre. Elles occupent d&apos;ailleurs une place majeure dans les cycles globaux de l&apos;eau et du carbone. Elles ont été prises en compte dès les premiers modèles numériques de climat et, avec l&apos;évolution des connaissances, des capacités de calcul et de la demande sociétale, leur représentation s&apos;est aujourd&apos;hui considérablement complexifiée. Nous présentons ici une brève histoire de l&apos;évolution du modèle de surfaces Isba (Interactions sol-biosphère-atmosphère) de Météo-France dans son utilisation à l&apos;échelle du globe en la replaçant dans le contexte international de la modélisation climatique.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Decharme, Bertrand</DOC_AUTEUR>
+<DOC_AUTEUR>Delire, Christine</DOC_AUTEUR>
+<DOC_AUTEUR>Boone, Aaron</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>systeme Terre</DOC_DC>
+<DOC_DC>modèle de surfaces continentales</DOC_DC>
+<DOC_DC>interaction sol-végétation-atmosphère</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>modèle climatique</DOC_DEE>
+<DOC_DEE>hydrométéorologie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049920</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 67-76</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La représentation des surfaces continentales dans la modélisation du climat à Météo-France</DOC_TITRE>
+<DOC_TITRE3>Land surface schemes for climate modelling at Météo-France</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049920__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Land surfaces play a significant role in the Earth climate system, and they are a major component of the global carbon and water cycles. The first numerical climate models took them into account in very simple ways. Through time the complexity of their representation has increased a lot owing to improved knowledge, larger computational resources and changing societal demands. We present here a brief history of the ISBA (Interactions Soil-Biosphere-Atmosphere) land surface model developed at Météo-France when used at the global scale and how it evolved in the context of international climate modelling.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>bertrand.decharme@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 67-76</MF_PAGE>
+<MF_RUBRIQUE>CHANGEMENT CLIMATIQUE</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_TAILLE>5181</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256564</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Cet article présente les développements récents au Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) concernant la représentation des surfaces continentales pour la modélisation globale en prévision du temps à diverses échelles (de quelques jours à la saison), ainsi que pour les réanalyses de l&apos;atmosphère. Les représentations de l&apos;hydrologie, de la végétation, de la neige et des lacs ont été améliorées en s&apos;appuyant sur des mesures in situ et des observations de télédétection spatiale. Les progrès récents en vue d&apos;une initialisation réaliste des différentes composantes sont décrits. Plusieurs défis posés par la modélisation du système Terre sont finalement exposés.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Decharme, Bertrand</DOC_AUTEUR>
+<DOC_AUTEUR>Mahfouf, Jean-François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>végétation</DOC_DC>
+<DOC_DC>urbanisation</DOC_DC>
+<DOC_DC>système Terre</DOC_DC>
+<DOC_DC>schéma de surface</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>prévision</DOC_DEE>
+<DOC_DEE>réanalyse</DOC_DEE>
+<DOC_DEE>hydrologie</DOC_DEE>
+<DOC_DEE>manteau neigeux</DOC_DEE>
+<DOC_DEE>lac</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_DL>H-Tessel</DOC_DL>
+<DOC_DL>CEPMMT</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049921</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 77-81</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Les schémas de surface continentale pour le suivi et la prévision du système Terre au CEPMMT</DOC_TITRE>
+<DOC_TITRE3>Land surface schemes for Earth system monitoring and prediction at ECMWF</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049921__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>This paper describes recent developments undertaken at the European Centre for Medium Range Weather Forecasts (ECMWF) regarding the description of land surfaces at global scale for numerical weather prediction at various forecast ranges (from few days to several months) including atmospheric reanalyses. As a result, physical processes describing hydrology, vegetation snow and lakes have been revised and improved using in-situ measurements and space observations. The importance of a realistic initialisation of the various components of the land surface is underlined, including recent progress in this area. Finally, a number of challenges raised by the Earth System Modelling are presented.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>gianpaolo.balsamo@ecmwf.int</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 77-81</MF_PAGE>
+<MF_RUBRIQUE>ENVIRONNEMENT</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMGEC</MF_SERVICE>
+<MF_SERVICE>CNRM/GMAP</MF_SERVICE>
+<MF_TAILLE>2099</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256565</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-14</DATM>
+<DOC_AB>Dans les modèles atmosphériques de prévision numérique du temps et de climat, la surface constitue la condition à la limite inférieure. La grande variété des paysages présents sur l&apos;ensemble du globe et les spécificités de chacun des types de surface rendent complexe sa description dans les modèles. Par ailleurs, l&apos;augmentation constante de la résolution horizontale des modèles nécessite une description fine des surfaces ainsi que des processus mis en jeu lorsqu&apos;atmosphère et surface interagissent. Cet article décrit la plateforme de modélisation Surfex, en particulier comment la grande variété des types de surface est prise en compte, quelles sont les principales paramétrisations physiques et enfin comment est réalisé le couplage à un modèle atmosphérique.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moigne, Patrick</DOC_AUTEUR>
+<DOC_AUTEUR>Minvielle, Marie</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>prévision du temps, prévisibilité</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>interaction sol-atmosphère</DOC_DC>
+<DOC_DC>paramétrisation physique</DOC_DC>
+<DOC_DC>occupation des sols</DOC_DC>
+<DOC_DEE>prévision numérique</DOC_DEE>
+<DOC_DEE>modèles couplés</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>SURFEX</DOC_DL>
+<DOC_DL>ISBA</DOC_DL>
+<DOC_DL>Ecoclimap</DOC_DL>
+<DOC_DL>TEB (Town Energy Balance)</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049922</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 82-87</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Surfex : une plateforme pour simuler les flux des surfaces océaniques et continentales</DOC_TITRE>
+<DOC_TITRE3>Surfex: a modelling platform to simulate fluxes over oceanic and continental surfaces</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049922__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>Surface is the lower boundary condition of numerical weather prediction and climate atmospheric models. Its representation in models is complicated by the large diversity in landscapes over the Earth, and the specificities of each surface type. In addition, the continuous increase in model horizontal resolution requires an accurate description of surfaces as well as the processes involved when surface and atmosphere are coupled. This article describes the Surfex modelling platform, particularly how the large amount of surface types are accounted for, which are the main physical processes represented and how the coupling to an atmospheric model can be achieved.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>patrick.lemoigne@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 82-87</MF_PAGE>
+<MF_RUBRIQUE>PREVISION</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_TAILLE>4340</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256566</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AB>La modélisation hydrométéorologique initiée par Joël Noilhan permet aujourd&apos;hui d&apos;anticiper les risques de crues sur plusieurs jours, l&apos;évolution de la ressource en eau en France sur plusieurs mois et de projeter les tendances sur le XXIe siècle. Pour cela, il a fallu intégrer des processus sous mailles dans le schéma de surface Isba, car ils sont à l&apos;origine de la genèse d&apos;écoulements préférentiels, et affiner la description de la physiographie. Un des co-bénéfices les plus marquants a été la production d&apos;une réanalyse des variables météorologiques de surface sur la France, aujourd&apos;hui disponible sur plus de 60 ans. Les collaborations initiées avec les hydrologues et acteurs de l&apos;eau se sont encore renforcées, afin de co-construire les modèles de prévisions hydrométéorologiques de demain.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Habets, Florence</DOC_AUTEUR>
+<DOC_AUTEUR>Etchevers, Pierre</DOC_AUTEUR>
+<DOC_AUTEUR>Le Moigne, Patrick</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>hydrométéorologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>flux hydrologiques</DOC_DC>
+<DOC_DC>interaction sol-atmosphère</DOC_DC>
+<DOC_DC>projection climatique</DOC_DC>
+<DOC_DC>historique</DOC_DC>
+<DOC_DEE>modèle de prévision hydrométéorologique</DOC_DEE>
+<DOC_DEE>débit fluvial</DOC_DEE>
+<DOC_DEE>ressources en eau</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>SIM (chaîne SAFRAN / ISBA / MODCOU)</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049924</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 88-92</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>La représentation des surfaces continentales pour la prévision hydrologique</DOC_TITRE>
+<DOC_TITRE3>Land surface schemes for hydrological forecasting</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049924__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>The hydrometeorological modeling initiated by Joël Noilhan leads today to short- and medium-range forecast of flood risks, seasonal forecasts of the evolution of the water resource in France and projection of its evolution during the 21st century. To do so, it was necessary to integrate subgrid processes in the land surface scheme ISBA, as they generate preferential flow, and to refine physiographic datasets. One of the most significant co-benef its is the production of a reanalysis of near-surface meteorological variables over France now available over more than 60 years. The initial collaboration with hydrologists and stakeholders has now been strengthened in order to co-design future hydrometeorological forecast models.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>florence.habets@ens.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 88-92</MF_PAGE>
+<MF_RUBRIQUE>HYDROLOGIE</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_SERVICE>DCSC/AVH</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_TAILLE>2847</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256568</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AB>Bien que ce fait soit peu connu, Joël Noilhan a commencé sa carrière non pas dans l&apos;étude de la végétation, mais dans celle du climat urbain. Ses résultats de thèse sur les échanges radiatifs entre les différentes faces d&apos;un bâtiment, le ciel et le sol sont encore utilisés comme hypothèses dans la plupart des modèles de canopée urbaine, comme celui développé au CNRM, Town Energy Balance (TEB). Joël a contribué dans les années 2000 à l&apos;essor de la météorologie urbaine au CNRM. Il a notamment encouragé les collaborations internationales avec l&apos;équipe canadienne du professeur Tim Oke, spécialiste mondial du climat urbain, et initié un volet expérimental dédié à l&apos;urbain sur la ville de Marseille, lors de la campagne Escompte en 2001.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Masson, Valéry</DOC_AUTEUR>
+<DOC_AUTEUR>Lemonsu, Aude</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>environnement, écologie, échanges biosphère-atmosphère</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>climatologie urbaine</DOC_DC>
+<DOC_DC>hommage</DOC_DC>
+<DOC_DEE>campagne de mesure</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>TEB (Town Energy Balance)</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049925</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 93-97</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Comment Joël Noilhan a influencé la modélisation et les études en climat urbain</DOC_TITRE>
+<DOC_TITRE3>How Joël Noilhan influenced modelling and studies on urban climate</DOC_TITRE3>
+<DOC_TYPE>Articles dans des revues avec comité de lecture non répertoriées dans des bases de données internationales</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049925__PDF.txt</FT_SFNAME>
+<MF_AB_ANGLAIS>This is not well known, but Joël Noilhan did not start his career by studying vegetation processes, but rather urban climate. His PhD results on radiative exchanges around a building still form the basis of radiative processes in most urban canopy models such as the Town Energy Balance (TEB) developed at CNRM. In the 2000s, he contributed to the urban climate studies at CNRM. He encouraged an international collaboration with the team of Tim Oke, in Canada, an international expert in urban climate. He also initiated an experimental component dedicated to urban environment over the city of Marseille, during the Escompte campaign in 2001.</MF_AB_ANGLAIS>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_AFFILIATION>CNRM - UMR3589</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_LANG_RESU>anglais</MF_LANG_RESU>
+<MF_MAIL>valery.masson@meteo.fr</MF_MAIL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 93-97</MF_PAGE>
+<MF_RUBRIQUE>ENVIRONNEMENT</MF_RUBRIQUE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_SERVICE>CNRM/GMME</MF_SERVICE>
+<MF_TAILLE>2088</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256569</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_CLASS2>environnement, écologie, échanges biosphère-atmosphère</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>vocabulaire météorologique</DOC_DC>
+<DOC_DC>interaction sol-atmosphère</DOC_DC>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049926</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 98-99</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Glossaire</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049926__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 98-99</MF_PAGE>
+<MF_RUBRIQUE>TERMINOLOGIE</MF_RUBRIQUE>
+<MF_TAILLE>41</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256570</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AB>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base de Dumont d&apos;Urville, située en Terre Adélie. C&apos;est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020.</DOC_AB>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Gourand, François</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie polaire</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>témoignage</DOC_DC>
+<DOC_DC>hivernage</DOC_DC>
+<DOC_DEE>Antarctique</DOC_DEE>
+<DOC_DEE>Terre Adélie</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Base Dumont d&apos;Urville</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049927</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 100-103</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Un an en Terre Adélie</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049927__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_LANG_RESU>français</MF_LANG_RESU>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 100-103</MF_PAGE>
+<MF_RUBRIQUE>RECIT</MF_RUBRIQUE>
+<MF_SERVICE>TAAF/DUMONT</MF_SERVICE>
+<MF_TAILLE>2405</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256571</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Guilyardi, Eric</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>changement climatique, variation du climat, climatologie historique, paléoclimatologie</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>affaires judiciaires</DOC_DC>
+<DOC_DC>politique climatique</DOC_DC>
+<DOC_DEE>réchauffement climatique</DOC_DEE>
+<DOC_DEE>droit</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_DL>Bien commun</DOC_DL>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049928</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_REF_REF>DOC00049574</DOC_REF_REF>
+<DOC_REF_TITRE>Justice pour le climat : les nouvelles formes de mobilisation citoyenne</DOC_REF_TITRE>
+<DOC_SOURCE>p. 104</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Justice pour le climat / par Judith Rochfeld</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049928__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 104</MF_PAGE>
+<MF_RUBRIQUE>LU POUR VOUS</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>45</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256572</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Javelle, Jean-Pierre</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_COMMENT>OUVRAGES : 
+L&apos;Anthropocène décodé pour les humains. Par Nathanaël Wallenhorst / 
+Le tic-tac de l&apos;horloge climatique. Par Christian de Perthuis / 
+La fureur du temps, enquête au coeur du changement climatique. Par Friederike Otto / 
+Agriculture et qualité de l&apos;air, comprendre, évaluer, agir. Sous la direction de Carole Bedos, Sophie Génermont, Jean-François Castell et Pierre Cellier / 
+3 minutes pour comprendre 50 composantes essentielles du climat. Sous la direction de Joanna D. Haigh / 
+Météo 2050, alimentation, santé, transports, habitat, comment vivrons-nous le changement climatique ? Par Laurent Romejko / 
+La météo devient-elle folle ? Enquête au coeur des phénomènes météorologiques extrêmes. Par Chloé Nabédian / 
+Arctique nouvelle frontière. Par Yuri Kozyrev et Kadir van Lohuizen / 
+INTERNET : 
+Édition 2019 du rapport sur l&apos;environnement en France. / 
+La lettre Recherche de l&apos;Ademe. / 
+THESES : 
+Coraline Mattei : Réactivité hétérogène de pesticides adsorbés sur des particules atmosphériques : influence des paramètres environnementaux sur les cinétiques. Thèse de l&apos;université d&apos;Aix-Marseille / 
+Xiaolei Pang : Transport de chaleur et de salinité à travers l&apos;archipel indonésien au cours des 270 000 dernières années : nouveaux enregistrements de
+la dynamique orbitale etmillénaire du flux indonésien et de la zone de convergence intertropicale. Thèse de l&apos;université Paris-Sud / 
+Iris Amata Dion : Glace injectée dans la tropopause par convection profonde. Thèse de l&apos;université de Toulouse / 
+Najda Villefranque : Les effets radiatifs des nuages de couche limite : de leur simulation explicite à leur paramétrisation. Thèse de l&apos;université de Toulouse / 
+Alexane Lovat : Prévision à très courte échéance des crues rapides méditerranéennes. Thèse de l&apos;université de Toulouse / 
+Thomas Drugé : Contribution des aérosols aux scénarios climatiques en Méditerranée pour le 21e siècle à l&apos;échelle régionale. Thèse de l&apos;université de Toulouse / 
+Léo Ducongé : Étude du cycle de vie du brouillard radiatif durant la campagne Lanfex : impact de la dynamique en terrain vallonné et des processus microphysiques. Thèse de l&apos;université de Toulouse / 
+Axel Bouquety : Étude morphométrique de la cryosphère ancienne de Mars : implications paléoclimatiques. Thèse de l&apos;université Paris-Saclay / 
+Margaux Vals : Modélisation numérique des cycles de l&apos;eau et des poussières de la planète Mars et de leurs couplages. Thèse de Sorbonne Université / 
+Baptiste Languille : Caractérisation des variabilités temporelle et spatiale de la pollution en Île-de-France : de la mesure de l&apos;exposition individuelle à la définition des sources. Thèse de l&apos;université Versailles Saint-Quentin-en-Yvelines / 
+Florentin Lemonnier : Les précipitations en Antarctique, observées à l&apos;aide de radars etmodélisées par LMDz dans le cadre du projet APRES3 (Antarctic precipitation Remote sensing from surface and space). Thèse de Sorbonne Université / 
+Henda Guermazi : Télédétection des aérosols sulfatés d&apos;origine volcanique dans l&apos;infrarouge thermique. Thèse de l&apos;université Paris Sciences et Lettres / 
+Marine Goret : Étude des interactions entre le climat urbain et le CO2 : modélisation des flux de CO2 et application à l&apos;échelle d&apos;une ville. Thèse de l&apos;université de Toulouse / 
+César Sauvage : Prévision couplée océanatmosphère des épisodesméditerranéens : impact d&apos;unemeilleure prise en compte des débits des fleuves et de l&apos;état de mer. Thèse de l&apos;université de Toulouse / 
+Sandy Bsaibes : Caractérisation des composés organiques volatils biogéniques (COVB) et leur réactivitéOH dans divers agro-écosystèmes. Thèse de l&apos;université Versailles Saint-Quentin-en-Yvelines / 
+Matteo Ponzano : Prévisibilité des épisodesméditerranéens de pluies intenses à l&apos;aide d&apos;un jeu de données de 30 ans de prévisions rétrospectives. Thèse de l&apos;université de Toulouse / 
+Pierre-Antoine Joulin : Modélisation à fine échelle des interactions entre parcs éoliens etmétéorologie locale. Thèse de l&apos;université de Toulouse / 
+Léo Edel : Vers une meilleure connaissance des précipitations en Arctique : utilisation de la télédétection spatiale micro-ondes. Thèse de l&apos;université Paris-Saclay / 
+Alexandre Devers : Vers une réanalyse hydrométéorologique à l&apos;échelle de la France sur les 150 dernières années par assimilation de données dans des reconstructions ensemblistes. Thèse de l&apos;université Grenoble Alpes / 
+Alice Carret : Étude de la variabilité spatiotemporelle de la circulation en Méditerranée Nord-Occidentale : apport de l&apos;altimétrie spatiale. Thèse de l&apos;université de Toulouse / 
+Quentin Fumière : Impact du changement climatique sur les précipitations extrêmes dans le sud-est de la France : apport des modèles résolvant la convection profonde. Thèse de l&apos;université de Toulouse / 
+Tony Le Bastard : Utilisation des données radar volumiques et d&apos;un modèle de PNT à haute résolution pour une meilleure estimation quantitative des précipitations en plaine et sur les massifs montagneux. Thèse de l&apos;université de Toulouse.</DOC_COMMENT>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049930</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 105-107</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Vient de paraître</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049930__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>-</MF_AFFILIATION>
+<MF_CONTRIB>0</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 105-107</MF_PAGE>
+<MF_RUBRIQUE>VIENT DE PARAITRE</MF_RUBRIQUE>
+<MF_SERVICE>-</MF_SERVICE>
+<MF_TAILLE>389</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256574</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Thibord, Corinne</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>météorologie tropicale</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>tempête tropicale</DOC_DC>
+<DOC_DC>bilan saisonnier</DOC_DC>
+<DOC_DEE>océan Indien sud-ouest</DOC_DEE>
+<DOC_DEE>océan Indien sud-est</DOC_DEE>
+<DOC_DEE>La Réunion</DOC_DEE>
+<DOC_DEE>Madagascar</DOC_DEE>
+<DOC_DEE>Australie</DOC_DEE>
+<DOC_DEE>Indonésie</DOC_DEE>
+<DOC_DEE>cyclone tropical</DOC_DEE>
+<DOC_DEE>trajectoire</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049931</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 108-117</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Océan Indien sud 2018-2019 : Une saison exceptionnelle à l&apos;ouest</DOC_TITRE>
+<DOC_TYPE>Article</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049931__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CODETYP_AERES>ACLN</MF_CODETYP_AERES>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>P. 108-117</MF_PAGE>
+<MF_RUBRIQUE>SAISON CYCLONIQUE</MF_RUBRIQUE>
+<MF_SERVICE>DIRCOM/DOC</MF_SERVICE>
+<MF_TAILLE>2411</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256575</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>poussières de sable</DOC_DC>
+<DOC_DEE>image satellitaire</DOC_DEE>
+<DOC_DEE>nuage lenticulaire</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049932</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 118-119</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Septembre 2019 : Altocumulus lenticularis; Panaches de sable namibien</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049932__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>P. 118-119</MF_PAGE>
+<MF_RUBRIQUE>LES PHOTOS DU MOIS</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>465</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256576</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>poussières de sable</DOC_DC>
+<DOC_DEE>image satellitaire</DOC_DEE>
+<DOC_DEE>onde de gravité</DOC_DEE>
+<DOC_DEE>fumée</DOC_DEE>
+<DOC_DEE>traînée de condensation</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049933</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 120-121</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Octobre 2019 : Phénomènes variés ! ; Traînées de condensation</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049933__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>P. 120-121</MF_PAGE>
+<MF_RUBRIQUE>LES PHOTOS DU MOIS</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>533</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256577</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTEUR>Le Moal, Sylvain</DOC_AUTEUR>
+<DOC_AUTEUR>Rolland, Thomas</DOC_AUTEUR>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_AUTFN>Auteur</DOC_AUTFN>
+<DOC_CLASS2>observation météorologique, réseau de mesures</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DC>effet de lac</DOC_DC>
+<DOC_DEE>image satellitaire</DOC_DEE>
+<DOC_DEE>tempête</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DEE>vague de froid</DOC_DEE>
+<DOC_DEE>Canada</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049934</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 122-123</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Novembre 2019 : Tempête Amélie; Baie d&apos;Hudson</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049934__PDF.txt</FT_SFNAME>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_AFFILIATION>AUTRES</MF_AFFILIATION>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>P. 122-123</MF_PAGE>
+<MF_RUBRIQUE>LES PHOTOS DU MOIS</MF_RUBRIQUE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_SERVICE>DIROP/CMS</MF_SERVICE>
+<MF_TAILLE>527</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256578</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DEE>climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049935</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 124-126</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Septembre 2019</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049935__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 124-126</MF_PAGE>
+<MF_RUBRIQUE>RESUMES CLIMATIQUES</MF_RUBRIQUE>
+<MF_TAILLE>1718</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256579</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DEE>climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049936</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 127-129</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Octobre 2019</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049936__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 127-129</MF_PAGE>
+<MF_RUBRIQUE>RESUMES CLIMATIQUES</MF_RUBRIQUE>
+<MF_TAILLE>1746</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256580</FT_CID>
+</NOTICE>
+<NOTICE>
+<CAT_ACCES>PUBLIC</CAT_ACCES>
+<DATM>2020-02-13</DATM>
+<DOC_AFFICHE>1</DOC_AFFICHE>
+<DOC_ANALYSE>1</DOC_ANALYSE>
+<DOC_AN_EDIT>2020</DOC_AN_EDIT>
+<DOC_AUTFN3>Auteur</DOC_AUTFN3>
+<DOC_AUTMORAL>Météo-France DClim</DOC_AUTMORAL>
+<DOC_CLASS2>climatologie générale, description des climats, statistiques climatiques</DOC_CLASS2>
+<DOC_COTE>P0057C</DOC_COTE>
+<DOC_DAT_CREAT>2020-02-13</DOC_DAT_CREAT>
+<DOC_DEE>climatologie d'un lieu</DOC_DEE>
+<DOC_DEE>France</DOC_DEE>
+<DOC_DIF>interne</DOC_DIF>
+<DOC_ISSN>0026-1181</DOC_ISSN>
+<DOC_LANGUE>français</DOC_LANGUE>
+<DOC_LOC>BCE</DOC_LOC>
+<DOC_NEW>1</DOC_NEW>
+<DOC_PER_DPAR>2020-02-01</DOC_PER_DPAR>
+<DOC_PER_NUMERO>108</DOC_PER_NUMERO>
+<DOC_PER_NUMVOL>8</DOC_PER_NUMVOL>
+<DOC_PER_PARUTION>Février 2020</DOC_PER_PARUTION>
+<DOC_PER_REF>DOC00012430</DOC_PER_REF>
+<DOC_PER_TITRE>La Météorologie [Texte imprimé]</DOC_PER_TITRE>
+<DOC_REF>DOC00049937</DOC_REF>
+<DOC_REFCMPT>30411</DOC_REFCMPT>
+<DOC_SOURCE>p. 130-132</DOC_SOURCE>
+<DOC_SUP>Fichier informatique</DOC_SUP>
+<DOC_SUP>Service en ligne</DOC_SUP>
+<DOC_SUP>Papier</DOC_SUP>
+<DOC_TABLENAME>ILS_DOC</DOC_TABLENAME>
+<DOC_TITRE>Novembre 2019</DOC_TITRE>
+<DOC_TYPE>Rubrique régulière dans publication en série</DOC_TYPE>
+<DOC_VUE>mf_-_article_production</DOC_VUE>
+<FT_DATE>2020-02-13</FT_DATE>
+<FT_FLIST>t</FT_FLIST>
+<FT_SFNAME>doc00049937__PDF.txt</FT_SFNAME>
+<MF_CONTRIB>1</MF_CONTRIB>
+<MF_DOC_ACCES>0</MF_DOC_ACCES>
+<MF_HAL>0</MF_HAL>
+<MF_NOTI_INTEG>1</MF_NOTI_INTEG>
+<MF_ORI_NOTICE>Météo-France</MF_ORI_NOTICE>
+<MF_PAGE>p. 130-132</MF_PAGE>
+<MF_RUBRIQUE>RESUMES CLIMATIQUES</MF_RUBRIQUE>
+<MF_TAILLE>1907</MF_TAILLE>
+<MF_TYPE>Article - Chapitre</MF_TYPE>
+<NIV_ACCES>0</NIV_ACCES>
+<USERM>STMD9</USERM>
+<FT_CID>256581</FT_CID>
+</NOTICE>
+</EXLIBRIS>

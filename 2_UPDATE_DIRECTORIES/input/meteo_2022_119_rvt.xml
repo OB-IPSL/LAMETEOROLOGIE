@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="119">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2022</annee>
+  <mois>11</mois>
+  <numero>119</numero>
+  <url_pdf>meteo_2022_119_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2022-0072</doi>
+  <url_pdf>meteo_2022_119_1.pdf</url_pdf>
+  <citation>Soula, Serge. Éditorial. La Météorologie, 119, 1, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Traccs : un nouveau « programme et équipement prioritaire de recherche » exploratoire</titre>
+  <auteur>Kageyama, Masa</auteur>
+  <auteur>Braconnot, Pascale</auteur>
+  <auteur>Morin, Samuel</auteur>
+  <auteur>Salas y Mélia, David</auteur>
+  <auteur>Anquetin, Sandrine</auteur>
+  <auteur>Durand, Gaël</auteur>
+  <auteur>Boucher, Olivier</auteur>
+  <auteur>Vautard, Robert</auteur>
+  <auteur>Deshayes, Julie</auteur>
+  <auteur>Terray, Laurent</auteur>
+  <auteur>Bouilloud, Ludovic</auteur>
+  <auteur>Doussin, Jean-François</auteur>
+  <auteur>Pontaud, Marc</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>2-3</pages>
+  <doi>10.37053/lameteorologie-2022-0073</doi>
+  <url_pdf>meteo_2022_119_2.pdf</url_pdf>
+  <citation>Kageyama, Masa ; Braconnot, Pascale ; Morin, Samuel ; Salas y Mélia, David ; Anquetin, Sandrine ; Durand, Gaël ; Boucher, Olivier ; Vautard, Robert ; Deshayes, Julie ; Terray, Laurent ; Bouilloud, Ludovic ; Doussin, Jean-François ; Pontaud, Marc. Traccs : un nouveau « programme et équipement prioritaire de recherche » exploratoire. La Météorologie, 119, 2-3, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Programme de recherche, Changement climatique, Services climatiques, Modélisation climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Thinice : campagne de mesure aéroportée dédiée à l'étude des dépressions arctiques et des interactions avec les nuages et la banquise</titre>
+  <auteur>Rivière, Gwendal</auteur>
+  <auteur>Raillard, Léa</auteur>
+  <auteur>Delanoë, Julien</auteur>
+  <auteur>Bounissou, Sophie</auteur>
+  <auteur>Caudoux, Christophe</auteur>
+  <auteur>Cossalter, Laure</auteur>
+  <auteur>Huet, Kevin</auteur>
+  <auteur>Cozzolino, Capucine</auteur>
+  <auteur>Jourdan, Olivier</auteur>
+  <auteur>Gourbeyre, Christophe</auteur>
+  <auteur>Aubry, Clémantyne</auteur>
+  <auteur>Bazile, Eric</auteur>
+  <auteur>Seity, Yann</auteur>
+  <auteur>Douet, Vincent</auteur>
+  <auteur>Trules, Jérémie</auteur>
+  <auteur>Doyle, James D.</auteur>
+  <auteur>Pantillon, Florient</auteur>
+  <auteur>Wimmer, Meryl</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>4-5</pages>
+  <doi>10.37053/lameteorologie-2022-0074</doi>
+  <url_pdf>meteo_2022_119_4.pdf</url_pdf>
+  <citation>Rivière, Gwendal ; Raillard, Léa ; Delanoë, Julien ; Bounissou, Sophie ; Caudoux, Christophe ; Cossalter, Laure ; Huet, Kevin ; Cozzolino, Capucine ; Jourdan, Olivier ; Gourbeyre, Christophe ; Aubry, Clémantyne ; Bazile, Eric ; Seity, Yann ; Douet, Vincent ; Trules, Jérémie ; Doyle, James D. ; Pantillon, Florient ; Wimmer, Meryl. Thinice : campagne de mesure aéroportée dédiée à l'étude des dépressions arctiques et des interactions avec les nuages et la banquise. La Météorologie, 119, 4-5, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Campagne de mesure, Mesure aéroportée, Arctique, Banquise, Microphysique des nuages, Dépression polaire, ATR42</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Suivi du panache de méthane émis par les fuites des gazoducs Nord Stream en mer Baltique</titre>
+  <auteur>Ramonet, Michel</auteur>
+  <auteur>Berchet, Antoine</auteur>
+  <auteur>Pison, Isabelle</auteur>
+  <auteur>Ciais, Philippe</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>6-8</pages>
+  <doi>10.37053/lameteorologie-2022-0075</doi>
+  <url_pdf>meteo_2022_119_6.pdf</url_pdf>
+  <citation>Ramonet, Michel ; Berchet, Antoine ; Pison, Isabelle ; Ciais, Philippe. Suivi du panache de méthane émis par les fuites des gazoducs Nord Stream en mer Baltique. La Météorologie, 119, 6-8, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Baltique, Émission de méthane, Réseau d'observation, Inversion des mesures, Modèle de transport atmosphérique, Icos</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Iccare : un projet pour comprendre le rôle des cristaux de glace dans le développement des orages</titre>
+  <auteur>Barthe, Christelle</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>8-9</pages>
+  <doi>10.37053/lameteorologie-2022-0076</doi>
+  <url_pdf>meteo_2022_119_8.pdf</url_pdf>
+  <citation>Barthe, Christelle. Iccare : un projet pour comprendre le rôle des cristaux de glace dans le développement des orages. La Météorologie, 119, 8-9, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Orage, Cristaux de glace, Modélisation des nuages, Microphysique des nuages, Programme de recherche</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>35e colloque de l'Association internationale de climatologie (AIC)</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>10-12</pages>
+  <doi>10.37053/lameteorologie-2022-0077</doi>
+  <url_pdf>meteo_2022_119_10.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. 35e colloque de l'Association internationale de climatologie (AIC). La Météorologie, 119, 10-12, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Colloque, Observation, Risques climatiques, Adaptation climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Le projet de recherche Climaviation</titre>
+  <auteur>Bellouin, Nicolas</auteur>
+  <auteur>Boucher, Olivier</auteur>
+  <auteur>Dannet, Grégoire</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>12-14</pages>
+  <doi>10.37053/lameteorologie-2022-0078</doi>
+  <url_pdf>meteo_2022_119_12.pdf</url_pdf>
+  <citation>Bellouin, Nicolas ; Boucher, Olivier ; Dannet, Grégoire. Le projet de recherche Climaviation. La Météorologie, 119, 12-14, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Recherche scientifique, Aérosol, Chimie de l'atmosphere, Trainée de condensation, NOx, Aviation, Trafic aérien, Impact climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Paris a accueilli le Salon international de technologie météo 2022</titre>
+  <auteur>Renaut, Didier</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>15</pages>
+  <doi>10.37053/lameteorologie-2022-0079</doi>
+  <url_pdf>meteo_2022_119_15.pdf</url_pdf>
+  <citation>Renaut, Didier. Paris a accueilli le Salon international de technologie météo 2022. La Météorologie, 119, 15, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Observation météorologique, Instrumentation météorologique, Produits météorologiques, Secteur privé</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Le satellite météo MTG-I dévoilé</titre>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>16-18</pages>
+  <doi>10.37053/lameteorologie-2022-0080</doi>
+  <url_pdf>meteo_2022_119_16.pdf</url_pdf>
+  <citation>Le satellite météo MTG-I dévoilé. La Météorologie, 119, 16-18, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie, Satellite géostationnaire, Imageur, Météosat troisième génération</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>19e Forum international de la Météo et du Climat</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Gady, Sonia</auteur>
+  <auteur>Vannier, Christian</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>19-30</pages>
+  <doi>10.37053/lameteorologie-2022-0081</doi>
+  <url_pdf>meteo_2022_119_19.pdf</url_pdf>
+  <citation>Daudier, Morgane ; Gady, Sonia ; Vannier, Christian. 19e Forum international de la Météo et du Climat. La Météorologie, 119, 19-30, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Information des médias, Diffusion scientifique, Éducation, Colloque, Communication, Ateliers pédagogiques, Changement climatique, Neutralité carbone</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>Relevés de température et méthodes d'étalonnage des thermomètres à l'Observatoire de Paris (1683-1732)</titre>
+  <titre_en>Temperature readings and methods of calibration of thermometers at Paris Observatory (1683-1732)</titre_en>
+  <auteur>Chassefière, Éric</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>31-41</pages>
+  <doi>10.37053/lameteorologie-2022-0082</doi>
+  <url_pdf>meteo_2022_119_31.pdf</url_pdf>
+  <citation>Chassefière, Éric. Relevés de température et méthodes d'étalonnage des thermomètres à l'Observatoire de Paris (1683-1732). La Météorologie, 119, 31-41, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Climatologie historique, Étalonnage, Thermomètre à alcool, Séries de temperature, Journaux d'observation, Observatoire de Paris, Comparaison entre séries de mesure</mots_cles>
+  <resume_fr>Cet article présente les mesures de température atmosphérique figurant dans les journaux d'observation des astronomes de l'Observatoire de Paris entre 1683 et 1732, en se focalisant sur le préalable indispensable que constitue l'étalonnage des thermomètres utilisés pour pouvoir convertir les données en degrés Celsius. À cette fin, nous caractérisons chacun des trois thermomètres à alcool utilisés, possédant son propre système de graduations, par deux températures de référence, celle observée dans les caves de l'Observatoire et celle mesurée quand l'eau gèle à proximité du lieu de la mesure. Nous obtenons ainsi une précision absolue sur les températures restituées de l'ordre de ±1 °C entre 0 et 20 °C, ±2 °C aux extrêmes. Une exploration préliminaire des données montre des écarts significatifs entre nos températures restituées et celles des séries historiques existantes, incitant à entreprendre une analyse plus détaillée du jeu de données de l'Observatoire, permettant notamment de combler le chaînon manquant de mesures de température in situ à Paris entre 1713 et 1732.</resume_fr>
+  <resume_en>This article presents the atmospheric temperature measurements in the observation journals of the astronomers of the Paris Observatory between 1683 and 1732, focusing on the indispensable prerequisite of the calibration of the thermometers used to convert the data into °C. To this end, we characterize each of the three alcohol thermometers used, having its own system of graduations, by two reference temperatures, the one observed in the cellars of the Observatory and the one measured when the water freezes in the vicinity of the place of the measurement. We thus obtain an absolute precision on the temperatures returned of the order of ±1 °C between 0 and 20 °C, ±2 °C at the extremes. A preliminary exploration of the data shows significant discrepancies between our reconstructed temperatures and those of the existing historical series, prompting a more detailed analysis of the Observatory's dataset, allowing in particular to fill the missing link of in situ temperature measurements in Paris between 1713 and 1732.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>Lewis Fry Richardson et ses contributions aux mathématiques, à la météorologie et aux modèles de conflits - Partie I</titre>
+  <titre_en>Lewis Fry Richardson and his contributions to mathematics, meteorology and conflict patterns - First part</titre_en>
+  <auteur>Hunt, Julian</auteur>
+  <auteur>Coiffier, Jean</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>42-52</pages>
+  <doi>10.37053/lameteorologie-2022-0083</doi>
+  <url_pdf>meteo_2022_119_42.pdf</url_pdf>
+  <citation>Hunt, Julian ; Coiffier, Jean. Lewis Fry Richardson et ses contributions aux mathématiques, à la météorologie et aux modèles de conflits - Partie I. La Météorologie, 119, 42-52, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Histoire de la météorologie, Biographie, Prévision numerique, Turbulence, Première guerre mondialE, L'usine à prévisions</mots_cles>
+  <resume_fr>La vie et les contributions scientifiques majeures de Lewis Fry Richardson (1881-1953) sont examinées dans cette première partie pour la période allant de 1881 à 1925, en soulignant tout particulièrement son travail de pionnier en analyse numérique, en météorologie, en prévision numérique du temps et en turbulence.</resume_fr>
+  <resume_en>The life and major scientific contributions of Lewis Fry Richardson (1881-1953) are reviewed in this first part for the period 1881-1925, with particular emphasis on his pioneering work in numerical analysis, meteorology, numerical weather prediction, turbulence.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Dispersion des plastiques marins flottants à la surface des océans</titre>
+  <titre_en>Ocean dispersion of floating plastic debris</titre_en>
+  <auteur>Maes, Christophe</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>53-61</pages>
+  <doi>10.37053/lameteorologie-2022-0084</doi>
+  <url_pdf>meteo_2022_119_53.pdf</url_pdf>
+  <citation>Maes, Christophe. Dispersion des plastiques marins flottants à la surface des océans. La Météorologie, 119, 53-61, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Océan, Dispersion des polluants, Pollution plastique, Accumulation des déchets, Modèle global de circulation océanique, Gyres subtropicaux, Transport d'Ekman, Dérive de Stokes, Trajectoire lagrangienne</mots_cles>
+  <resume_fr>Bien que la détection de la pollution plastique en mer ait commencé il y a plusieurs décennies dans des gyres océaniques subtropicaux, des régions éloignées des côtes, nous savons maintenant que les débris plastiques sont omniprésents dans tous les bassins océaniques, écosystèmes, habitats et réseaux trophiques, y compris dans nos aliments et le sel de mer. Outre les travaux visant à mieux comprendre la contamination, le champ d'investigation s'est élargi aux problèmes des sources, du devenir et des cheminements dans l'environnement physique et dynamique de l'océan, avec la volonté de vouloir répondre à une question fondamentale persistante : pourquoi le plastique s'accumule-t-il dans certaines régions des océans ?</resume_fr>
+  <resume_en>Although the detection of plastic pollution at sea began a few decades ago in the subtropical ocean gyres, regions far from any land, we now know that floating plastic debris is ubiquitous in all ocean basins, ecosystems, habitats, and food webs, including in our food and sea salt. In addition to work to better understand contamination, the scope of investigation has broadened to include issues of sources, fate, and pathways in the physical and dynamic environment of the ocean, with a Focus on answering a fundamental and persistent question: why does plastic accumulate in certain regions of the oceans?</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Observation</rubrique>
+  <titre>Observer les nuages au sommet du puy de Dôme</titre>
+  <titre_en>Observing clouds at the top of the puy de Dôme mountain</titre_en>
+  <auteur>Deguillaume, Laurent</auteur>
+  <auteur>Bianco, Angelica</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>62-72</pages>
+  <doi>10.37053/lameteorologie-2022-0085</doi>
+  <url_pdf>meteo_2022_119_62.pdf</url_pdf>
+  <citation>Deguillaume, Laurent ; Bianco, Angelica. Observer les nuages au sommet du puy de Dôme. La Météorologie, 119, 62-72, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Nuage, Chimie de l'atmosphere, Réaction chimique, Mesure in situ, Processus nuageux, Microphysique des nuages, Analyse microbiologique, Spectromètre de masse, Collecteur à nuage, Puy-De-Dôme</mots_cles>
+  <resume_fr>Les nuages représentent un milieu de dissolution de nombreux composés chimiques à la fois sous la forme de gaz et de particules. Ces composés peuvent subir dans cet environnement multiphasique de nombreuses transformations complexes induites par le rayonnement solaire, les processus microphysiques ou encore l'activité des micro-organismes vivants dans les nuages. Cet article présente de façon résumée les activités d'observation et de recherche sur les nuages menées sur le site atelier du puy de Dôme au cours des 20 dernières années. Il se focalise plus particulièrement sur les développements méthodologiques tant en termes de prélèvements que de caractérisations du milieu et des processus de transformation. Ce travail est le résultat de la création d'un consortium unique regroupant des physiciens, des biologistes et des chimistes oeuvrant à une question commune autour du rôle des nuages dans les processus atmosphériques.
+</resume_fr>
+  <resume_en>Many chemical compounds coming from both the gaseous and particulate phases dissolve into cloud droplets. These compounds can undergo in this multiphasic environment many complex transformations induced by light, microphysical processes or even by the activity of microorganisms living in clouds. This article summarizes the observation and research activities on clouds sampled at the puy de Dôme site over the past 20 years. A particular focus is made to highlight methodological developments both in terms of sampling and characterization of the cloud medium and transformation processes occurring within it. This has been achieved by the creation of a unique consortium grouping together physicists, biologists and chemists working on a common question on the role of clouds on atmospheric processes.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Normales climatiques 1991-2020</titre>
+  <titre_en>Climatological normals 1991-2020</titre_en>
+  <auteur>Sorel, Matthieu</auteur>
+  <auteur>Soubeyroux, Jean-Michel</auteur>
+  <auteur>Drouin, Agathe</auteur>
+  <auteur>Jourdain, Sylvie</auteur>
+  <auteur>Kerdoncuff, Maryvonne</auteur>
+  <auteur>Cassaigne, Béatrice</auteur>
+  <auteur>Théron, Marie-Hélène</auteur>
+  <auteur>Josse, Patrick</auteur>
+  <auteur>Lacanal, Christine</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>73-79</pages>
+  <doi>10.37053/lameteorologie-2022-0086</doi>
+  <url_pdf>meteo_2022_119_73.pdf</url_pdf>
+  <citation>Sorel, Matthieu ; Soubeyroux, Jean-Michel ; Drouin, Agathe ; Jourdain, Sylvie ; Kerdoncuff, Maryvonne ; Cassaigne, Béatrice ; Théron, Marie-Hélène ; Josse, Patrick ; Lacanal, Christine. Normales climatiques 1991-2020. La Météorologie, 119, 73-79, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Normales, Moyennes de référence, Dépassement de seuils, Indicateur thermique, Indice d'humidite des sols</mots_cles>
+  <resume_fr>Les normales climatologiques sont des produits statistiques calculés à partir de séries de données sur des périodes de 30 ans. Elles comprennent aussi bien des valeurs moyennes que d'autres paramètres statistiques, les quantiles par exemple. Définies par l'Organisation météorologique mondiale, elles permettent de caractériser le climat sur ces périodes et servent de référence pour analyser les événements climatiques en temps réel. Météo-France a entrepris depuis janvier 2021 le calcul des nouvelles normales climatiques 1991-2020 et les utilise dans l'ensemble de sa production climatologique depuis le 28 juin 2022.
+</resume_fr>
+  <resume_en>Climatological normals are defined as statistical products computed over a 30-year period; they include both mean and other statistical parameters, e.g. quantiles. Defined by the World Meteorological Organization, they are used to define the conditions most likely to be experienced in a given location over a period of time. They also serve as a basis in order to monitor climate events in real time. Météo-France started to compute the new climatological normals 1991-2020 and started to use them in its climatological production from June 28th, 2022.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>Émile Verhaeren en coups de vent...</titre>
+  <auteur>De Moor, Gérard</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>80-82</pages>
+  <doi>10.37053/lameteorologie-2022-0087</doi>
+  <url_pdf>meteo_2022_119_80.pdf</url_pdf>
+  <citation>De Moor, Gérard. Émile Verhaeren en coups de vent.... La Météorologie, 119, 80-82, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Littérature, Extraits, Poésie, Vent</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Quel climat pour vous, vos enfants, vos petits-enfants / par Valérie Masson-Delmotte</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>83</pages>
+  <doi>10.37053/lameteorologie-2022-0088</doi>
+  <url_pdf>meteo_2022_119_83.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Quel climat pour vous, vos enfants, vos petits-enfants / par Valérie Masson-Delmotte. La Météorologie, 119, 83, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Vulgarisation scientifique, Climatologie, Paléoclimatologie, Changement climatique, Réduction des émissions, Gaz a effet de serre, Adaptation climatique, Projection climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Tout comprendre (ou presque) sur le climat / par BonPote, Anne Brès, Claire Marc, sous la direction de Jean-François Doussin</titre>
+  <auteur>Pujol, Olivier</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>84</pages>
+  <doi>10.37053/lameteorologie-2022-0089</doi>
+  <url_pdf>meteo_2022_119_84.pdf</url_pdf>
+  <citation>Pujol, Olivier. Tout comprendre (ou presque) sur le climat / par BonPote, Anne Brès, Claire Marc, sous la direction de Jean-François Doussin. La Météorologie, 119, 84, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Vulgarisation scientifique, Changement climatique, Adaptation climatique, Bande dessinée</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>85-86</pages>
+  <doi>10.37053/lameteorologie-2022-0090</doi>
+  <url_pdf>meteo_2022_119_85.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 119, 85-86, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Climat et civilisation, un défi incontournable. Par Hervé Le Treut / 
+800 jours au ministère de l'impossible, l'écologie à l'épreuve du pouvoir. Par Léo Cohen / 
+Paris face au changement climatique. Par Franck Lirzin / 
+Le devenir du climat, la prise de conscience. Par Dominique Bourg, Jean Jouzel et Hervé Le Treut / 
+Des glaces polaires au climat de la Terre, enquête sur une aventure scientifique. Par Morgan Jouvenet / 
+Les ciels de la Grande Guerre, aquarelles d'André des Gachons (Champagne). Par Martine Tabeaud et Xavier Browaeys / 
+Climat, 30 mots pour comprendre et agir. Par Christain de Perthuis / 
+Voyages en terres australes, Crozet et Kerguelen de leur découverte à nos jours. Par Laëtitia Thérond, Jean-Yves Besselièvre et Lénaïg L'Aot-Lombart / 
+Physique de l'environnement terrestre, matières subtiles et hauteur de l'atmosphère ; conceptions de l'atmosphère et nature de l'air au siècle des Lumières. Par Éric Chassefière / 
+THESES : 
+Antoine Hubans : Influence des paramétrisations physiques sur la qualité des conditions initiales d'un système global de prévision numérique du temps. Thèse de l'Institut national polytechnique de Toulouse / 
+Eleftherios Ioannidis : Local and remote sources of arctic air pollution. Thèse de Sorbonne Université / 
+Bastien François : Approches statistiques multivariées pour l'ajustement des biais des simulations climatiques et l'analyse des événements composés. Thèse de l'université Paris-Saclay / 
+Amal John : Réponse des fortes précipitations et des sécheresses météorologiques à un accroissement du CO2 atmosphérique et au réchauffement global associé. Thèse de l'université de Toulouse / 
+Blanka Balogh : Vers une utilisation de l'intelligence artificielle dans un modèle numérique du climat. Thèse de l'université de Toulouse.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Sud 2021-2022 : Une saison peu intense sous l'égide de la Niña</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>87-92</pages>
+  <doi>10.37053/lameteorologie-2022-0091</doi>
+  <url_pdf>meteo_2022_119_87.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Sud 2021-2022 : Une saison peu intense sous l'égide de la Niña. La Météorologie, 119, 87-92, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique sud, Cyclone tropical, Formation tropicale, Tempête, Trajectoire, Australie, Nouvelle Calédonie, Fidji, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juin 2022 : Poussières africaines ; Vagues atmosphériques</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>93-94</pages>
+  <doi>10.37053/lameteorologie-2022-0092</doi>
+  <url_pdf>meteo_2022_119_93.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Mauss, Adrien. Juin 2022 : Poussières africaines ; Vagues atmosphériques. La Météorologie, 119, 93-94, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Atlantique sud, Stratocumulus, Onde, Poussières désertiques, Afrique australe</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juillet 2022 : Glaces à l'islandaise ; Feux de La Teste-de-Buch</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>95-96</pages>
+  <doi>10.37053/lameteorologie-2022-0093</doi>
+  <url_pdf>meteo_2022_119_95.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Mauss, Adrien. Juillet 2022 : Glaces à l'islandaise ; Feux de La Teste-de-Buch. La Météorologie, 119, 95-96, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Islande, France, Poussières de sable, Feux de forêt, Teste-de-Buch</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Août 2022 : Pointillisme nuageux ; Mar Chiquita</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>97-98</pages>
+  <doi>10.37053/lameteorologie-2022-0094</doi>
+  <url_pdf>meteo_2022_119_97.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Mauss, Adrien. Août 2022 : Pointillisme nuageux ; Mar Chiquita. La Météorologie, 119, 97-98, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Brésil, Cumulus, Lac, Argentine, Nuage de poussière</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Un été 2022 extrêmement chaud</titre>
+  <auteur>Sorel, Matthieu</auteur>
+  <auteur>Mittelberger, Simon</auteur>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>99-106</pages>
+  <doi>10.37053/lameteorologie-2022-0095</doi>
+  <url_pdf>meteo_2022_119_99.pdf</url_pdf>
+  <citation>Sorel, Matthieu ; Mittelberger, Simon ; Kreitz, Michaël. Un été 2022 extrêmement chaud. La Météorologie, 119, 99-106, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, Vague de chaleur, Sécheresse, Record climatique, Situation de blocage, Subsidence</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Juin à août 2022</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2022</annee>
+  <numero>119</numero>
+  <pages>107-115</pages>
+  <doi>10.37053/lameteorologie-2022-0096</doi>
+  <url_pdf>meteo_2022_119_107.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Juin à août 2022. La Météorologie, 119, 107-115, 2022.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2022</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

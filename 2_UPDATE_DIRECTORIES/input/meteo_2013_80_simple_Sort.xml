@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="80">
+  <notice pagedebut="1">
+    <titre>Éditorial</titre>
+    <auteur>Rochas, Michel J.</auteur>
+    <handle>http://hdl.handle.net/2042/48787</handle>
+    <doi>10.4267/2042/48787</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48787/meteo_2013_80_1.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>1</pages>
+    <citation>Rochas, M. J. ; Éditorial, La Météorologie, 2013, N° 80 ; p. 1</citation>
+    <rubrique>Éditorial</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="2">
+    <titre>Échos</titre>
+    <auteur>Blanchet, Guy</auteur>
+    <auteur>Baray, Jean-Luc</auteur>
+    <auteur>Javelle, Jean-Pierre</auteur>
+    <auteur>Bénichou, Françoise</auteur>
+    <auteur>Dupuy, Charles</auteur>
+    <auteur>Renaut, Didier</auteur>
+    <auteur>Poisson, Nathalie</auteur>
+    <auteur>Klein, Patrice</auteur>
+    <handle>http://hdl.handle.net/2042/48788</handle>
+    <doi>10.4267/2042/48788</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48788/meteo_2013_80_2.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>2-9</pages>
+    <citation>Blanchet, G. ; Baray, J.-L. ; Javelle, J.-P. ; Bénichou, F.  ; Dupuy, C. ; Renaut, D. ; Poisson, N. ; Klein, P. ; Échos, La Météorologie, 2013, N° 80 ; p. 2-9</citation>
+    <rubrique>Échos</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="10">
+    <titre>Spectre du Brocken depuis les falaises de Moher</titre>
+    <handle>http://hdl.handle.net/2042/48789</handle>
+    <doi>10.4267/2042/48789</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48789/meteo_2013_80_10.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>10-12</pages>
+    <citation>Spectre du Brocken depuis les falaises de Moher, La Météorologie, 2013, N° 80 ; p. 10-12</citation>
+    <rubrique>La photo du trimestre</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="13">
+    <titre>Remise du prix Prud'homme 2012 à Laure Raynaud</titre>
+    <handle>http://hdl.handle.net/2042/48790</handle>
+    <doi>10.4267/2042/48790</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48790/meteo_2013_80_13.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>13</pages>
+    <citation>Remise du prix Prud'homme 2012 à Laure Raynaud, La Météorologie, 2013, N° 80 ; p. 13</citation>
+    <rubrique>La vie de la SMF-Météo Climat</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="14">
+    <titre>Reconstruction du climat à partir de la composition isotopique de l'oxygène et du carbone des cernes d'arbres</titre>
+    <auteur>Daux, Valérie</auteur>
+    <handle>http://hdl.handle.net/2042/48791</handle>
+    <doi>10.4267/2042/48791</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48791/meteo_2013_80_14.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>14-22</pages>
+    <citation>Daux, V. ; Reconstruction du climat à partir de la composition isotopique de l'oxygène et du carbone des cernes d'arbres, La Météorologie, 2013, N° 80 ; p. 14-22</citation>
+    <rubrique>Paléoclimatologie</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="23">
+    <titre>HyMeX, le cycle de l'eau méditerranéen à la loupe</titre>
+    <auteur>Drobinski, Philippe</auteur>
+    <auteur>Ducrocq, Véronique</auteur>
+    <auteur>Arbogast, Philippe</auteur>
+    <auteur>Basdevant, Claude</auteur>
+    <auteur>Bastin, Sophie</auteur>
+    <auteur>Beguery, Laurent</auteur>
+    <auteur>Belamari, Sophie</auteur>
+    <auteur>Béranger, Karine</auteur>
+    <auteur>Bock, Olivier</auteur>
+    <auteur>Bouin, Marie-Noëlle</auteur>
+    <auteur>Boudevillain, Brice</auteur>
+    <auteur>Bousquet, Olivier</auteur>
+    <auteur>Bouvier, Christophe</auteur>
+    <auteur>Braud, Isabelle</auteur>
+    <auteur>Calvet, Jean-Christophe</auteur>
+    <auteur>Champollion, Cédric</auteur>
+    <auteur>Chanzy, André</auteur>
+    <auteur>Claude, Martin</auteur>
+    <auteur>Cocquerez, Philippe</auteur>
+    <auteur>Coppola, Laurent</auteur>
+    <auteur>Coquillat, Sylvain</auteur>
+    <auteur>Courault, Dominique</auteur>
+    <auteur>Defer, Éric</auteur>
+    <auteur>Delanoë, Julien</auteur>
+    <auteur>Delrieu, Guy</auteur>
+    <auteur>Doerenbecher, Alexis</auteur>
+    <auteur>Dorfliger, Nathalie</auteur>
+    <auteur>Estèves, Michel</auteur>
+    <auteur>Estournel, Claude</auteur>
+    <auteur>Flamant, Cyrille</auteur>
+    <auteur>Fourrié, Nadia</auteur>
+    <auteur>Garrouste, Olivier</auteur>
+    <auteur>Gaume, Éric</auteur>
+    <auteur>Giordani, Hervé</auteur>
+    <auteur>Gomes, Laurent</auteur>
+    <auteur>Roberts, Greg</auteur>
+    <auteur>Jourde, Hervé</auteur>
+    <auteur>Labatut, Laurent</auteur>
+    <auteur>Lambert, Dominique</auteur>
+    <auteur>Le Coz, Jérôme</auteur>
+    <auteur>Ludwig, Wolfgang</auteur>
+    <auteur>Lutoff, Céline</auteur>
+    <auteur>Mahfouf, Jean-François</auteur>
+    <auteur>Martin, Éric</auteur>
+    <auteur>Mastrorillo, Laurence</auteur>
+    <auteur>Mathys, Nicole</auteur>
+    <auteur>Michel, Yann</auteur>
+    <auteur>Nuret, Mathieu</auteur>
+    <auteur>Orain, Françoise</auteur>
+    <auteur>Perez, Sandra</auteur>
+    <auteur>Prigent, Catherine</auteur>
+    <auteur>Radakovitch, Olivier</auteur>
+    <auteur>Ramage, Karim</auteur>
+    <auteur>Richard, Évelyne</auteur>
+    <auteur>Roujean, Jean-Louis</auteur>
+    <auteur>Roussot, Odile</auteur>
+    <auteur>Ruin, Isabelle</auteur>
+    <auteur>Saïd, Frédérique</auteur>
+    <auteur>Schwarzenboeck, Alfons</auteur>
+    <auteur>Sellegri, Karine</auteur>
+    <auteur>Somot, Samuel</auteur>
+    <auteur>Taupier-Letage, Isabelle</auteur>
+    <auteur>Testor, Pierre</auteur>
+    <auteur>van Baelen, Joël</auteur>
+    <auteur>Vandervaere, Jean-Pierre</auteur>
+    <handle>http://hdl.handle.net/2042/48792</handle>
+    <doi>10.4267/2042/48792</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48792/meteo_2013_80_23.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>23-36</pages>
+    <citation>Drobinski, Philippe ; Ducrocq, Véronique ; Arbogast, Philippe ; Basdevant, Claude ; Bastin, Sophie ; Beguery, L. ; Belamari, S. ; Béranger, Karine ; Bock, Olivier ; Bouin, Marie-Noëlle ; Boudevillain, Brice ; Bousquet, Olivier ; Bouvier, Christophe ; Braud, Isabelle ; Calvet, Jean-Christophe ; Champollion, Cédric ; Chanzy, André ; Claude, Martin ; Cocquerez, Philippe ; Coppola, Laurent ; Coquillat, Sylvain ; Courault, Dominique ; Defer, Éric ; Delanoë, Julien ; Delrieu, Guy ; Doerenbecher, Alexis ; Dorfliger, Nathalie ; Estèves, Michel ; Estournel, Claude ; Flamant, Cyrille ; Fourrié, Nadia ; Garrouste, Olivier ; Gaume, Éric ; Giordani, Hervé ; Gomes, Laurent ; Roberts, Greg ; Jourde, Hervé ; Labatut, Laurent ; Lambert, Dominique ; Le Coz, Jérôme ; Ludwig, Wolfgang ; Lutoff, Céline ; Mahfouf, Jean-François  ; Martin, Éric ; Mastrorillo, Laurence ; Mathys, Nicole ; Michel, Yann ; Nuret, Mathieu ; Orain, Françoise ; Perez, Sandra ; Prigent, Catherine ; Radakovitch, Olivier ; Ramage, Karim ; Richard, Évelyne ; Roujean, Jean-Louis ; Roussot, Odile ; Ruin, Isabelle ; Saïd, Frédérique ; Schwarzenboeck, Alfons ; Sellegri, Karine ; Somot, Samuel ; Taupier-Letage, Isabelle ; Testor, Pierre ; van Baelen, Joël ; Vandervaere, Jean-Pierre ; HyMeX, le cycle de l'eau méditerranéen à la loupe, La Météorologie, 2013, N° 80 ; p. 23-36</citation>
+    <rubrique>Hydrologie</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="37">
+    <titre>HyMeX, les campagnes de mesures : focus sur les événements extrêmes en Méditerranée</titre>
+    <auteur>Ducrocq, Véronique</auteur>
+    <auteur>Belamari, Sophie</auteur>
+    <auteur>Boudevillain, Brice</auteur>
+    <auteur>Bousquet, Olivier</auteur>
+    <auteur>Cocquerez, Philippe</auteur>
+    <auteur>Doerenbecher, Alexis</auteur>
+    <auteur>Drobinski, Philippe</auteur>
+    <auteur>Flamant, Cyrille</auteur>
+    <auteur>Labatut, Laurent</auteur>
+    <auteur>Lambert, Dominique</auteur>
+    <auteur>Nuret, Mathieu</auteur>
+    <auteur>Richard, Évelyne</auteur>
+    <auteur>Roussot, Odile</auteur>
+    <auteur>Testor, Pierre</auteur>
+    <auteur>Arbogast, Philippe</auteur>
+    <auteur>Ayral, Pierre-Alain</auteur>
+    <auteur>van Baelen, Joël</auteur>
+    <auteur>Basdevant, Claude</auteur>
+    <auteur>Boichard, Jean-Luc</auteur>
+    <auteur>Bourras, Denis</auteur>
+    <auteur>Bouvier, Christophe</auteur>
+    <auteur>Bouin, Marie-Noëlle</auteur>
+    <auteur>Bock, Olivier</auteur>
+    <auteur>Braud, Isabelle</auteur>
+    <auteur>Champollion, Cédric</auteur>
+    <auteur>Coppola, Laurent</auteur>
+    <auteur>Coquillat, Sylvain</auteur>
+    <auteur>Defer, Éric</auteur>
+    <auteur>Delanoë, Julien</auteur>
+    <auteur>Delrieu, Guy</auteur>
+    <auteur>Didon-Lescot, Jean-François</auteur>
+    <auteur>Durand, Pierre</auteur>
+    <auteur>Estournel, Claude</auteur>
+    <auteur>Fourrié, Nadia</auteur>
+    <auteur>Garrouste, Olivier</auteur>
+    <auteur>Giordani, Hervé</auteur>
+    <auteur>Le Coz, Jérôme</auteur>
+    <auteur>Michel, Yann</auteur>
+    <auteur>Nuissier, Olivier</auteur>
+    <auteur>Roberts, Greg</auteur>
+    <auteur>Saïd, Frédérique</auteur>
+    <auteur>Schwarzenboeck, Alfons</auteur>
+    <auteur>Sellegri, Karine</auteur>
+    <auteur>Taupier-Letage, Isabelle</auteur>
+    <auteur>Vandervaere, Jean-Pierre</auteur>
+    <handle>http://hdl.handle.net/2042/48793</handle>
+    <doi>10.4267/2042/48793</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48793/meteo_2013_80_37.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>37-47</pages>
+    <citation>Ducrocq, Véronique ; Belamari, Sophie ; Boudevillain, Brice ; Bousquet, Olivier ; Cocquerez, Philippe ; Doerenbecher, Alexis ; Drobinski, Philippe ; Flamant, Cyrille ; Labatut, Laurent  ; Lambert, Dominique ; Nuret, Mathieu ; Richard, Évelyne ; Roussot, Odile ; Testor, Pierre ; Arbogast, Philippe  ; Ayral, Pierre-Alain ; van Baelen, Joël ; Basdevant, Claude  ; Boichard, Jean-Luc ; Bourras, Denis ; Bouvier, Christophe ; Bouin, Marie-Noëlle ; Bock, Olivier ; Braud, Isabelle ; Champollion, Cédric ; Coppola, Laurent ; Coquillat, Sylvain ; Defer, Éric ; Delanoë, Julien ; Delrieu, Guy ; Didon-Lescot, Jean-François ; Durand, Pierre ; Estournel, Claude ; Fourrié, Nadia  ; Garrouste, Olivier ; Giordani, Hervé  ; Le Coz, Jérôme  ; Michel, Yann ; Nuissier, Olivier ; Roberts, Greg ; Said, Frédérique ; Schwarzenboeck, Alfons ; Sellegri, Karine ; Taupier-Letage, Isabelle ; Vandervaere, Jean-Pierre ; HyMeX, les campagnes de mesures : focus sur les événements extrêmes en Méditerranée, La Météorologie, 2013, N° 80 ; p. 37-47</citation>
+    <rubrique>Hydrologie</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="48">
+    <titre>Estimation des variances d'erreur de prévision pour l'assimilation de données [prix Prud'homme 2012]</titre>
+    <auteur>Raynaud, Laure</auteur>
+    <handle>http://hdl.handle.net/2042/48794</handle>
+    <doi>10.4267/2042/48794</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48794/meteo_2013_80_48.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>48-58</pages>
+    <citation>Raynaud, L. ; Prix Prud'homme 2012 : Estimation des variances d'erreur de prévision pour l'assimilation de données, La Météorologie, 2013, N° 80 ; p. 48-58</citation>
+    <rubrique>Prévision</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="59">
+    <titre>Évolution de la couche d'ozone sous l'effet du protocole de Montréal et du changement climatique</titre>
+    <auteur>Godin-Beekmann, Sophie</auteur>
+    <handle>http://hdl.handle.net/2042/48795</handle>
+    <doi>10.4267/2042/48795</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48795/meteo_2013_80_59.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>59-66</pages>
+    <citation>Godin-Beekmann, S. ; Évolution de la couche d'ozone sous l'effet du protocole de Montréal et du changement climatique, La Météorologie, 2013, N° 80 ; p. 59-66</citation>
+    <rubrique>Environnement</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="67">
+    <titre>Annonces</titre>
+    <handle>http://hdl.handle.net/2042/48796</handle>
+    <doi>10.4267/2042/48796</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48796/meteo_2013_80_67.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>67</pages>
+    <citation>Annonces, La Météorologie, 2013, N° 80 ; p. 67</citation>
+    <rubrique>Annonces</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="68">
+    <titre>Sur les modifications des nuages - Par Luke Howard</titre>
+    <auteur>Rochas, Michel J.</auteur>
+    <handle>http://hdl.handle.net/2042/48797</handle>
+    <doi>10.4267/2042/48797</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48797/meteo_2013_80_68.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>68</pages>
+    <citation>Rochas, M. J. ; Sur les modifications des nuages, La Météorologie, 2013, N° 80 ; p. 68</citation>
+    <rubrique>Lu pour vous</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="69">
+    <titre>Vient de paraître</titre>
+    <auteur>Javelle, Jean-Pierre</auteur>
+    <handle>http://hdl.handle.net/2042/48798</handle>
+    <doi>10.4267/2042/48798</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48798/meteo_2013_80_69.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>69-71</pages>
+    <citation>Javelle, J.-P. ; VIENT DE PARAITRE, La Météorologie, 2013, N° 80 ; p. 69-71</citation>
+    <rubrique>Vient de paraître</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="72">
+    <titre>Océan Indien sud 2011-2012 : Une saison active et meurtrière surtout à l'ouest du bassin</titre>
+    <auteur>Hirsch, Nathalie</auteur>
+    <handle>http://hdl.handle.net/2042/48799</handle>
+    <doi>10.4267/2042/48799</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48799/meteo_2013_80_72.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>72-75</pages>
+    <citation>Hirsch, N. ; Océan Indien sud 2011-2012 : Une saison active et meurtrière surtout à l'ouest du bassin, La Météorologie, 2013, N° 80 ; p. 72-75</citation>
+    <rubrique>Saison cyclonique</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="76">
+    <titre>Juillet 2012 : Perturbations australes. Feux de Sibérie. Août 2012 : Perturbation ukrainienne. Ouragans et lune bleue. Septembre 2012 : Le cyclone des Açores. Équinoxe d'automne.</titre>
+    <auteur>Donguy, Patrick</auteur>
+    <auteur>Le Lay, Jérôme</auteur>
+    <auteur>Hernandez, Jean-Baptiste</auteur>
+    <handle>http://hdl.handle.net/2042/48800</handle>
+    <doi>10.4267/2042/48800</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48800/meteo_2013_80_76.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>76-81</pages>
+    <citation>Donguy, P. ; Le Lay, J. ; Hernandez, J.-B.  ; Juillet 2012 : Perturbations australes. Feux de Sibérie. Août 2012 : Perturbation ukrainienne. Ouragans et lune bleue. Septembre 2012 : Le cyclone des Açores. Équinoxe d'automne, La Météorologie, 2013, N° 80 ; p. 76-81</citation>
+    <rubrique>Les photos du mois</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="82">
+    <titre>Juillet 2012</titre>
+    <auteur>Météo-France DClim</auteur>
+    <handle>http://hdl.handle.net/2042/48801</handle>
+    <doi>10.4267/2042/48801</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48801/meteo_2013_80_82.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>82-84</pages>
+    <citation>Météo-France DClim ; Juillet 2012, La Météorologie, 2013, N° 80 ; p. 82-84</citation>
+    <rubrique>Résumé climatique</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="85">
+    <titre>Août 2012</titre>
+    <auteur>Météo-France DClim</auteur>
+    <handle>http://hdl.handle.net/2042/48802</handle>
+    <doi>10.4267/2042/48802</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48802/meteo_2013_80_85.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>85-87</pages>
+    <citation>Météo-France DClim ; Août 2012, La Météorologie, 2013, N° 80 ; p. 85-87</citation>
+    <rubrique>Résumé climatique</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="88">
+    <titre>Septembre 2012</titre>
+    <auteur>Météo-France DClim</auteur>
+    <handle>http://hdl.handle.net/2042/48803</handle>
+    <doi>10.4267/2042/48803</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48803/meteo_2013_80_88.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>88-90</pages>
+    <citation>Météo-France DClim ; Septembre 2012, La Météorologie, 2013, N° 80 ; p. 88-90</citation>
+    <rubrique>Résumé climatique</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="91">
+    <titre>Répertoire des articles parus dans La Météorologie 8e série : Numéros 1 à 79 (mars 1993 - novembre 2012)</titre>
+    <handle>http://hdl.handle.net/2042/48804</handle>
+    <doi>10.4267/2042/48804</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48804/meteo_2013_80_91.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>91-99</pages>
+    <citation>Répertoire des articles parus dans La Météorologie 8e série : Numéros 1 à 79 (mars 1993 - novembre 2012), La Météorologie, 2013, N° 80 ; p. 91-99</citation>
+    <rubrique>Répertoires</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="100">
+    <titre>Répertoire des auteurs</titre>
+    <handle>http://hdl.handle.net/2042/48805</handle>
+    <doi>10.4267/2042/48805</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48805/meteo_2013_80_100.pdf</url_pdf>
+    <annee>2013</annee>
+    <numero>80</numero>
+    <pages>100-105</pages>
+    <citation>Répertoire des auteurs, La Météorologie, 2013, N° 80 ; p. 100-105</citation>
+    <rubrique>Répertoires</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+</notices_simples>

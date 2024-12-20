@@ -1,0 +1,16 @@
+perl -p -i -e "s/<titre> /<titre>/g" *
+
+attention 
+
+En xml  « & » doit impérativement être écrit « &amp ; », forme facile à 
+rechercher et remplacer dans vos traitements Python, sans risque d’erreur 
+par excès car il n’y en a pas dans les balises
+
+o   « < » et « > » appartenant aux valeurs texte devraient être écrits &lt ; et &gt ; 
+un peu plus complexe car il y en a bcp d’autres à ne pas transformer, puisque 
+c’est la marque de balisage, donc, comme pour l’instant, je n’en ai pas vu 
+apparaître dans les notices, laissez tomber cette transformation
+
+Preparation des répertoires
+une fois le xml copié dans inputs, 
+changer si besoin yrend dans saison.py et lancer le script process.sh

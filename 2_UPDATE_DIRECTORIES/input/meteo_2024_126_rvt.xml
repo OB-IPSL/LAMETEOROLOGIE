@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="126">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2024</annee>
+  <mois>08</mois>
+  <numero>126</numero>
+  <url_pdf>meteo_2024_126_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Editorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2024-0047</doi>
+  <url_pdf>meteo_2024_126_1.pdf</url_pdf>
+  <citation>Soula, Serge. Editorial. La Météorologie, 126, 1, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>EarthCare ouvre une nouvelle ère pour l'étude des nuages et des aérosols depuis l'espace</titre>
+  <auteur>Noel, Vincent</auteur>
+  <auteur>Chomette, Olivier</auteur>
+  <auteur>Chepfer, Hélène</auteur>
+  <auteur>Delanoë, Julien</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>2-3</pages>
+  <doi>10.37053/lameteorologie-2024-0048</doi>
+  <url_pdf>meteo_2024_126_2.pdf</url_pdf>
+  <citation>Noel, Vincent ; Chomette, Olivier ; Chepfer, Hélène ; Delanoë, Julien. EarthCare ouvre une nouvelle ère pour l'étude des nuages et des aérosols depuis l'espace. La Météorologie, 126, 2-3, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Aérosol, Nuage, Profil vertical, Effet radiatif, Mission spatiale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Atlantique Nord : la saison cyclonique de 2024 sous haute surveillance</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>4-6</pages>
+  <doi>10.37053/lameteorologie-2024-0049</doi>
+  <url_pdf>meteo_2024_126_4.pdf</url_pdf>
+  <citation>Altendorf, Damien. Atlantique Nord : la saison cyclonique de 2024 sous haute surveillance. La Météorologie, 126, 4-6, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Atlantique nord, Prévision probabiliste, Activité cyclonique, Mousson africaine, Oscillation atlantique multidécennale (OAM), La Niña, Anomalie de SST, Couche d'air saharien, Ondes d'est africaines</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Dépassements du seuil 40 °C en France : un marqueur du changement climatique</titre>
+  <auteur>Berne, Christine</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2024-0050</doi>
+  <url_pdf>meteo_2024_126_7.pdf</url_pdf>
+  <citation>Berne, Christine. Dépassements du seuil 40 °C en France : un marqueur du changement climatique. La Météorologie, 126, 7-8, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>France, Vague de chaleur, Température de l'air, Valeur extrême, Dépassement de seuil, Statistiques climatiques, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Accès gratuit aux données de Météo-France</titre>
+  <auteur>Morel, Christophe</auteur>
+  <auteur>Rinck, Rémi</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>8-10</pages>
+  <doi>10.37053/lameteorologie-2024-0051</doi>
+  <url_pdf>meteo_2024_126_8.pdf</url_pdf>
+  <citation>Morel, Christophe ; Rinck, Rémi. Accès gratuit aux données de Météo-France. La Météorologie, 126, 8-10, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Données météorologiques, Données climatologiques, Données publiques, Jeux de données, Mise à disposition, Gratuité, Portail internet, Météo-France, API</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Accumulations de neige tardives</titre>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>11</pages>
+  <doi>10.37053/lameteorologie-2024-0052</doi>
+  <url_pdf>meteo_2024_126_11.pdf</url_pdf>
+  <citation>Accumulations de neige tardives. La Météorologie, 126, 11, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Accumulation de neige</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Le 21e forum international de la météo et du climat accueilli par l'Académie du Climat</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Vannier, Christian</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>12-23</pages>
+  <doi>10.37053/lameteorologie-2024-0053</doi>
+  <url_pdf>meteo_2024_126_12.pdf</url_pdf>
+  <citation>Daudier, Morgane ; Vannier, Christian. Le 21e forum international de la météo et du climat accueilli par l'Académie du Climat. La Météorologie, 126, 12-23, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Diffusion scientifique, Information des médias, Éducation, Sécheresse, Colloque, Communication, Changement climatique, Transition écologique, Exposition, Ateliers pédagogiques, Remise de prix</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Remise du prix Perrin de Brichambaut 2024</titre>
+  <auteur>Cassanet, Jean</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>24</pages>
+  <doi>10.37053/lameteorologie-2024-0054</doi>
+  <url_pdf>meteo_2024_126_24.pdf</url_pdf>
+  <citation>Cassanet, Jean. Remise du prix Perrin de Brichambaut 2024. La Météorologie, 126, 24, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Éducation, Remise de prix</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>La Tournée du Climat et de la Biodiversité continue et évolue !</titre>
+  <auteur>Bluche, Isabelle</auteur>
+  <auteur>Thibert, Fanny</auteur>
+  <auteur>Chami, Maïssoun</auteur>
+  <auteur>Planton, Serge</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>25-27</pages>
+  <doi>10.37053/lameteorologie-2024-0055</doi>
+  <url_pdf>meteo_2024_126_25.pdf</url_pdf>
+  <citation>Bluche, Isabelle ; Thibert, Fanny ; Chami, Maïssoun ; Planton, Serge. La Tournée du Climat et de la Biodiversité continue et évolue !. La Météorologie, 126, 25-27, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Éducation, Vulgarisation scientifique, Exposition, Communication, Ateliers pédagogiques, Changement climatique, Biodiversité</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>Brève histoire de la météorologie opérationnelle</titre>
+  <titre_en>A short history of the operational meteorology</titre_en>
+  <auteur>Lalaurette, François</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>28-35</pages>
+  <doi>10.37053/lameteorologie-2024-0056</doi>
+  <url_pdf>meteo_2024_126_28.pdf</url_pdf>
+  <citation>Lalaurette, François. Brève histoire de la météorologie opérationnelle. La Météorologie, 126, 28-35, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Histoire de la météorologie, Prévision opérationnelle, Réseau météorologique, Observation météorologique, Prévision numérique, Initialisation, Évaluation des prévisions, Techniques numériques, Prévision d'ensemble, Modèles de prise de décision</mots_cles>
+  <resume_fr>La prévision météorologique a longtemps été fille de l'astrologie et n'a été considérée comme faisant partie de la science moderne que bien plus tard. Depuis un siècle environ, une révolution a mené aux prévisions actuelles dont la précision était encore inimaginable il y a un demi-siècle. L'avènement des satellites et des supercalculateurs a été d'une importance capitale, mais cette révolution n'aurait pas eu lieu sans des avancées majeures de la recherche pure et appliquée dans plusieurs domaines : dynamique et physique des fluides, analyse numérique, sociologie, systèmes dynamiques, contrôle optimal et depuis peu intelligence artificielle. Ces avancées ont permis aux scientifiques et aux développeurs de mettre au point des prévisions météorologiques opérationnelles. Le rêve immémorial de prévoir l'évolution du temps dans les heures, jours ou saisons à venir est presque devenu réalité. Ces prévisions permettent de prendre des décisions parfois lourdes de conséquences en matière de sécurité ou d'impact socio-économique. Cette épopée est exemplaire des bénéfices apportés à tous par les progrès des sciences et des technologies, elle mérite d'être racontée aujourd'hui, en particulier aux jeunes.</resume_fr>
+  <resume_en>Weather forecasting has long been related to astrology and was not considered part of modern science until much later. Over the past century or so, this situation has been overturned: weather forecasts have now reached an accuracy that could not be dreamed of even half a century ago. The advent of satellites and supercomputers was of paramount importance, but this would not have taken place without major advances in pure and applied research in a large series of fields: fluid dynamics and physics, numerical analysis, sociology, dynamic systems, optimal control and recently artificial intelligence. These advances were used by scientists and developers for operational weather forecasts. The long-lived dream of predicting how the weather will change in the coming hours, days or seasons has almost become reality. This in turn provides strong guidance for making decisions in a wide range of weather dependent activities. This epic is an example of the benefits brought to all by progress in science and technology, it deserves to be told today, particularly to young people.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>La prévision d'ensemble au coeur de la prévision numérique du temps : état des lieux et perspectives</titre>
+  <titre_en>Ensemble forecasting at the heart of numerical weather prediction : present status and prospects</titre_en>
+  <auteur>Plu, Matthieu</auteur>
+  <auteur>Raynaud, Laure</auteur>
+  <auteur>Brousseau, Pierre</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>36-47</pages>
+  <doi>10.37053/lameteorologie-2024-0057</doi>
+  <url_pdf>meteo_2024_126_36.pdf</url_pdf>
+  <citation>Plu, Matthieu ; Raynaud, Laure ; Brousseau, Pierre. La prévision d'ensemble au coeur de la prévision numérique du temps : état des lieux et perspectives. La Météorologie, 126, 36-47, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Prévision numérique, Incertitude, Assimilation des données, Étude d'évènement particulier, Évolution ensembliste, Prévision d'ensemble, Limites de prévisibilité, Sensibilité des prévisions, Météo-France, Chaîne de prévision, Arpège, Arome</mots_cles>
+  <resume_fr>En juillet 2022, Météo-France a procédé à une évolution majeure de sa chaîne de prévision basée sur Arpege et Arome : les prévisions d'ensemble et les systèmes déterministes ont dorénavant les mêmes caractéristiques. Cette évolution, commune à la plupart des centres de prévision dans le monde, répond à une exigence fondamentale : les modèles atteignent des résolutions qui rendent nécessaire le recours aux ensembles pour pouvoir mieux anticiper les phénomènes météorologiques, y compris aux échéances inférieures à 48 heures. La littérature depuis les années 1960 jusqu'à nos jours aide à comprendre les limites de prévisibilité rencontrées par Arome, ce qui est illustré sur deux systèmes précipitants de l'automne 2020. Si la prévision numérique du temps est désormais ensembliste, il faut penser le futur de la recherche météorologique et de l'utilisation des prévisions dans ce cadre.</resume_fr>
+  <resume_en>In July 2022, Météo-France implemented a major change to its forecasting suite based on the global system Arpege and the limited-area one Arome: the basic characteristics of ensemble forecasts and those of deterministic systems, such as resolution and lead time, are now the same. This development, which has been generalised in most of the world's major forecasting centres, is a response to a fundamental requirement: models are reaching resolutions that make ensembles necessary in order to better anticipate meteorological phenomena, even on time scales shorter than 48 hours. The theoretical understanding of dynamical systems such as the atmosphere from the 1960s to the present day helps us to understand the limits of predictability encountered by Arome, as illustrated with two precipitation systems that occurred during autumn 2020. If numerical weather prediction is now ensemble-based, we need to think about the future of meteorological research and the use of forecasts in this context.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>Prévisions météorologiques reposant sur l'intelligence artificielle : Une révolution peut en cacher une autre</titre>
+  <titre_en>Weather forecasting based on artificial intelligence: a revolution across the board</titre_en>
+  <auteur>Ben Bouallègue, Zied</auteur>
+  <auteur>Clare, Mariana</auteur>
+  <auteur>Chevallier, Matthieu</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>48-52</pages>
+  <doi>10.37053/lameteorologie-2024-0058</doi>
+  <url_pdf>meteo_2024_126_48.pdf</url_pdf>
+  <citation>Ben Bouallègue, Zied ; Clare, Mariana ; Chevallier, Matthieu. Prévisions météorologiques reposant sur l'intelligence artificielle : Une révolution peut en cacher une autre. La Météorologie, 126, 48-52, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Prévision numérique, Étude d'évènement particulier, Évaluation des prévisions, Intelligence artificielle, Réseau de neurones, Réalisme des prévisions, Prévision d'ensemble, CEPMMT, AIFS</mots_cles>
+  <resume_fr>L'intelligence artificielle (IA) bouleverse le monde de la prévision météorologique avec l'utilisation d'algorithmes d'apprentissage profond nourris par des champs de réanalyses. Dans ce contexte, le Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) a décidé de développer un système de prévisions reposant sur l'IA. Ces prévisions, aujourd'hui de type déterministe, montrent des résultats prometteurs. Toutefois, le réalisme de ce type de prévision reposant sur l'IA est souvent questionné. Ici, nous identifions différents types de réalisme et interrogeons notamment le rapport entre réalisme structurel et prévisibilité des événements météorologiques. Une analyse statistique de prévisions déterministes reposant sur l'IA laisse apparaître un dilemme réalisme/performance qu'une approche probabiliste devrait aider à résoudre.</resume_fr>
+  <resume_en>Artificial intelligence (AI), based on deep-learning algorithm using high-quality reanalysis datasets, is showing enormous potential for weather forecasting. In this context, the European Centre for Medium-Range Weather Forecasts (ECMWF) is developing a new forecasting system based on AI. Verification results of deterministic forecast for now are promising. However, the realism of weather forecasts based on AI is often questioned. Here, different types of realism are identified and we discuss, in particular, the relationship between structural realism and predictability of weather events. Furthermore, a statistical analysis of deterministic forecasts based on AI points to a realism/performance dilemma that a probabilistic approach should help to solve.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Changement climatique</rubrique>
+  <titre>À la recherche des bonnes équivalences climatiques entre CO2 et méthane</titre>
+  <titre_en>Looking for right climatic equivalences between CO2 and methane</titre_en>
+  <auteur>Perthuis, Christian de</auteur>
+  <auteur>Couturier, Christian</auteur>
+  <auteur>Szopa, Sophie</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>53-60</pages>
+  <doi>10.37053/lameteorologie-2024-0059</doi>
+  <url_pdf>meteo_2024_126_53.pdf</url_pdf>
+  <citation>Perthuis, Christian de ; Couturier, Christian ; Szopa, Sophie. À la recherche des bonnes équivalences climatiques entre CO2 et méthane. La Météorologie, 126, 53-60, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, CO2, Méthane, Équivalent CO2, Pouvoir de réchauffement global (PRG), Émissions de gaz à effet de serre, Comptabilisation des émissions, Empreinte carbone, Neutralité carbone</mots_cles>
+  <resume_fr>À quantité égale émise, le méthane exerce un réchauffement plus intense que le CO2, mais sur une période plus courte. Cet article se penche sur les différentes métriques permettant de comparer les impacts climatiques des deux gaz qui présentent toutes des limites. Il recommande de maintenir celle en vigueur dans le cadre de la Convention cadre des Nations unies sur les changements climatiques, tout en améliorant son usage à mesure des progrès de la connaissance scientifique.</resume_fr>
+  <resume_en>For the same quantity emitted, methane causes more intense global warming than CO2, but over a shorter period. This article looks at the different metrics used to compare the climate impacts of the two gases, all of which have limits. It recommends maintaining that in force under the United Nations Framework Convention on Climate Change while improving its usage as scientific knowledge progresses.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Pression atmosphérique réduite au niveau de la mer, des valeurs de référence en France métropolitaine et Outre-mer</titre>
+  <titre_en>Reference values for mean sea level pressure, in mainland France and overseas territories</titre_en>
+  <auteur>Bonnin, Pierre</auteur>
+  <auteur>Jourdain, Sylvie</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>61-68</pages>
+  <doi>10.37053/lameteorologie-2024-0060</doi>
+  <url_pdf>meteo_2024_126_61.pdf</url_pdf>
+  <citation>Bonnin, Pierre ; Jourdain, Sylvie. Pression atmosphérique réduite au niveau de la mer, des valeurs de référence en France métropolitaine et Outre-mer. La Météorologie, 126, 61-68, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Baromètre, Histoire de la météorologie, Pression au niveau de la mer, Valeur extrême, Cartographie, Climatologie, France, Territoires ultramarins, Données de référence, Données horaires, Variabilité mensuelle, Évènement extrême</mots_cles>
+  <resume_fr>La pression atmosphérique « réduite au niveau de la mer », Pmer, est un paramètre essentiel en météorologie. Elle n'est pourtant pas mesurée, mais déduite de la pression effectivement mesurée à la station, en tenant compte d'autres paramètres. De plus, la mesure de la pression à la station est restée très longtemps discontinue (au plus 24 données par jour). Cet article définit la méthodologie retenue pour établir des valeurs de référence extrêmes de Pmer et propose une cartographie de ces valeurs, en France métropolitaine et en Outre-mer. Il présente, pour la France métropolitaine, des valeurs de référence minimales et maximales (annuelles et mensuelles) et, pour les territoires ultramarins, des valeurs de référence minimales annuelles.</resume_fr>
+  <resume_en>The Mean Sea Level Pressure, MSLP, is essential in meteorology. However, it is not measured but deduced from the pressure actually measured at the station, taking into account other parameters. Moreover, for a very long time, station pressure measurements have been discontinuous (24 values at most per day). This article describes the methodology used to establish extreme reference values for MSLP and maps these values for mainland France and the French overseas territories. It presents minimum and maximum reference values (annual and monthly) for mainland France, and minimum annual reference values for overseas territories.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>La prise de décision et l'incertitude climatique : apport des prévisions climatiques décennales. Compte rendu de l'atelier du réseau Tackling</titre>
+  <auteur>Reiter, Robin</auteur>
+  <auteur>Swingedouw, Didier</auteur>
+  <auteur>Ogée, Jérome</auteur>
+  <auteur>Mignot, Juliette</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>69-73</pages>
+  <doi>10.37053/lameteorologie-2024-0061</doi>
+  <url_pdf>meteo_2024_126_69.pdf</url_pdf>
+  <citation>Reiter, Robin ; Swingedouw, Didier ; Ogée, Jérome ; Mignot, Juliette. La prise de décision et l'incertitude climatique : apport des prévisions climatiques décennales. Compte rendu de l'atelier du réseau Tackling. La Météorologie, 126, 69-73, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Prévision du climat, Agriculture, Milieu aquatique, Gestion du littoral, Gestion de la forêt, Gestion de l'eau, Changement climatique, Variabilité naturelle, Prévisions décennales, Adaptation climatique, Gestion des risques, Aide à la décision, Services climatiques, Échelle régionale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>Les gouttes froides de mai 2024</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>74-79</pages>
+  <doi>10.37053/lameteorologie-2024-0062</doi>
+  <url_pdf>meteo_2024_126_74.pdf</url_pdf>
+  <citation>Kreitz, Michaël. Les gouttes froides de mai 2024. La Météorologie, 126, 74-79, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Étude d'évènement particulier, Analyse synoptique, Grêle, Printemps, Goutte froide, Cut-off, Anomalie de géopotentiel, Instabilité, Pluies intenses, Orages multicellulaires par fusion, Répartition atypique des températures</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Paris face au changement climatique / par Franck Lirzin</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>80</pages>
+  <doi>10.37053/lameteorologie-2024-0063</doi>
+  <url_pdf>meteo_2024_126_80.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Paris face au changement climatique / par Franck Lirzin. La Météorologie, 126, 80, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Paris, Climat urbain, Changement climatique, Adaptation climatique, Bioclimatologie</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>La théorie du chaos / par Étienne Ghys</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>81</pages>
+  <doi>10.37053/lameteorologie-2024-0064</doi>
+  <url_pdf>meteo_2024_126_81.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. La théorie du chaos / par Étienne Ghys. La Météorologie, 126, 81, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Mathématiques, Histoire des sciences, Théorie scientifique, Chaos, Effet papillon, Attracteur étrange</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Horizons climatiques. Rencontre avec 9 scientifiques du Giec / par Iris Amata-Dion et Xavier Henrion</titre>
+  <auteur>Bécourt, Nathalie</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>82</pages>
+  <doi>10.37053/lameteorologie-2024-0065</doi>
+  <url_pdf>meteo_2024_126_82.pdf</url_pdf>
+  <citation>Bécourt, Nathalie. Horizons climatiques. Rencontre avec 9 scientifiques du Giec / par Iris Amata-Dion et Xavier Henrion. La Météorologie, 126, 82, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Réchauffement climatique, Diffusion scientifique, Impact, Bande dessinée, Changement climatique, Politique climatique, GIEC, Prise de conscience</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Sentinelle du climat / par Heïdi Sevestre</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>83</pages>
+  <doi>10.37053/lameteorologie-2024-0066</doi>
+  <url_pdf>meteo_2024_126_83.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Sentinelle du climat / par Heïdi Sevestre. La Météorologie, 126, 83, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Glacier, Glaciologie, Expédition scientifique, Changement climatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>84-85</pages>
+  <doi>10.37053/lameteorologie-2024-0067</doi>
+  <url_pdf>meteo_2024_126_84.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 126, 84-85, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Les pouvoirs de la forêt - De l'eau et des arbres. Par Katia Laval / Parmi les arbres - Essai de vie commune. Par Alexis Jenni / Gaïa, Terre vivante - Histoire d'une nouvelle conception de la Terre. Par Sébastien Dutreuil / Histoire du climat dans les montagnes du Jura - Écosystèmes et sociétés face à un avenir incertain. Sous la direction de Michel Magny et Hervé Richard / De la grêle et du tonnerre - Histoire médiévale des imaginaires paysans. Par Jean-Pierre Devroey / THESES : William Patiño Rosas : Développement d'un lidar à absorption différentielle intégrée basé sur un spectromètre à double peigne pour la surveillance des gaz à effet de serre. Thèse de l'université de Toulouse / Yulia Yukhymchuk : Characteristics and evolution of aerosol particles in the atmosphere over Ukraine: impact on the energy balance and air quality. Thèse de l'université de Lille / Mégane Ventura : Synergie d'observations actives et passives pour l'évaluation des impacts radiatifs des aérosols : application à la campagne de terrain Aeroclo-SA en Namibie. Thèse de l'université de Lille / Sergio Harb : Impact of the night-time reactivity of biogenic VOCs on air quality in mixed anthropogenic/biogenic air masses. Thèse de l'université Paris-Est / Valentine Bellet : Intelligence artificielle appliquée aux séries temporelles d'images satellites pour la surveillance des écosystèmes. Thèse de l'université de Toulouse / Isma Abdelkader Di Carlo : Lien entre la variabilité tropicale aux échelles interannuelles a&amp;#768; multide&amp;#769;cennales et l'évolution du climat moyen au cours de l'Holocène. Thèse de l'université Paris-Saclay / Guilhem Balvet : Modélisation lagrangienne de la dispersion de polluants gazeux particulaires dans des écoulements atmosphériques stables, neutres et instables. Thèse de l'École des Ponts Paris Tech / Mamadou Thiam : Couplage océan-atmosphère en Atlantique tropical Nord-Est et impact sur les précipitations au Sénégal. Thèse de Sorbonne Université, Paris, et de l'université Gaston Berger de Saint-Louis, Sénégal / Mohamed Foudad : Impact du changement climatique sur la turbulence en ciel clair pour l'aviation. Thèse de l'université de Toulouse / Fernanda Sanchez : Développement d'un système mobile intégré temps réel combinant sondage lidar et photométrie automatiques pour la mesure des aérosols. Thèse de l'université de Lille / Smita Panda : Étude de la conversion du SO2 en aérosols de sulfate dans les panaches volcaniques à partir de l'analyse conjointe des observations satellitaires hyperspectrales et polarimétriques. Thèse de l'université de Lille / Clémantyne Aubry : Restitution synergique radar-lidar multiplateforme pour nuages liquides et de phase mixte. Thèse de l'université Paris-Saclay / Nils Poncet : Impacts du changement climatique sur les crues méditerranéennes : Apport de la modélisation climatique régionale à convection profonde résolue. Thèse de l'université de Toulouse / Omar Gutierrez : Relationship and feedback between LULC changes and hydroclimatic variability in Amazonia. Thèse de Sorbonne Université, Paris / Quentin Desmet : À la recherche des clés pour améliorer la modélisation régionale couplée air-mer vers une compréhension approfondie du climat d'Asie du Sud-Est. Thèse de l'université de Toulouse / Fernand Assene : Modélisation de la marée interne et analyse de son impact sur la structure thermique de l'océan au large de l'Amazone. Thèse de l'université de Toulouse / Matthieu Vida : Modélisation du potentiel oxydant des aérosols : un indicateur du risque sanitaire. Thèse de l'université Paris Cité / Valentin Boulisset : Restitution de l'épaisseur optique des aérosols en milieu urbain par caméra spectrale en temps quasi réel. Thèse de l'université de Toulouse / Théo Defontaine : Prévision des crues par apprentissage automatique à différentes échéances : effet des données restreintes et hétérogènes. Thèse de l'université de Toulouse / Killian Aleau : Développement d'un diffusiomètre supercontinuum pour la caractérisation spectro-polarimétrique des aérosols : application au problème de l'inversion des données lidar. Thèse de l'université de Toulouse / Lambert Delbeke : De l'impact des aérosols sur le cycle de vie des nuages stratiformes au sud de l'Afrique de l'Ouest. Thèse de l'université de Toulouse / Arnaud Forster : Impact des surfaces urbanisées sur la convection en région parisienne : observations et simulations numériques hectométriques. Thèse de l'université de Toulouse / Robin Noyelle : Statistical and dynamical aspects of extreme heatwaves in the mid-latitudes. Thèse de l'université Paris-Saclay / Yoël Zérah : Apprentissage profond de représentations physiques de la végétation à partir de séries temporelles d'images satellite optiques. Thèse de l'université de Toulouse / 
+Théophane Costabloz : Profils verticaux des propriétés microphysiques du brouillard et leur évolution. Thèse de l'université de Toulouse.
+</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Océan Indien Nord 2023 : Une saison très active et particulièrement meurtrière</titre>
+  <auteur>Kapikian, Étienne</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>86-92</pages>
+  <doi>10.37053/lameteorologie-2024-0068</doi>
+  <url_pdf>meteo_2024_126_86.pdf</url_pdf>
+  <citation>Kapikian, Étienne. Océan Indien Nord 2023 : Une saison très active et particulièrement meurtrière. La Météorologie, 126, 86-92, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Cyclone tropical, Trajectoire, Golfe du Bengale, Inde, Birmanie, Océan Indien nord, Mer d'Arabie, Mer D'Andaman, Tempête cyclonique, Bilan saisonnier, Mocha</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Mars 2024 : Glaces et rues de nuages ; Tempête tropicale Filipo</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Coste, Rudy</auteur>
+  <auteur>Désiré, Roxane</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>93-94</pages>
+  <doi>10.37053/lameteorologie-2024-0069</doi>
+  <url_pdf>meteo_2024_126_93.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Coste, Rudy ; Désiré, Roxane. Mars 2024 : Glaces et rues de nuages ; Tempête tropicale Filipo. La Météorologie, 126, 93-94, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Image satellitaire, Mer de Béring, Glace de mer, Mozambique, Rue de cumulus, Aléoutiennes, Nuages d'onde, Tempête tropicale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Avril 2024 : À l'ombre de la Lune ; La tempête Renata</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <auteur>Désiré, Roxane</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>95-96</pages>
+  <doi>10.37053/lameteorologie-2024-0070</doi>
+  <url_pdf>meteo_2024_126_95.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien ; Désiré, Roxane. Avril 2024 : À l'ombre de la Lune ; La tempête Renata. La Météorologie, 126, 95-96, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Image satellitaire, Éclipse de Soleil, Texas, Tempête, France, Vitesse de l'ombre, Ciel de traîne</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Mai 2024 : Perturbation japonaise ; Lacs de Patagonie</titre>
+  <auteur>Mauss, Adrien</auteur>
+  <auteur>Coste, Rudy</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>97-98</pages>
+  <doi>10.37053/lameteorologie-2024-0071</doi>
+  <url_pdf>meteo_2024_126_97.pdf</url_pdf>
+  <citation>Mauss, Adrien ; Coste, Rudy. Mai 2024 : Perturbation japonaise ; Lacs de Patagonie. La Météorologie, 126, 97-98, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Image satellitaire, Mer du Japon, Lac, Glacier, Couleur de l'eau, Perturbation, Patagonie, Sillage brillant</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Mars 2024 à mai 2024</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2024</annee>
+  <numero>126</numero>
+  <pages>99-107</pages>
+  <doi>10.37053/lameteorologie-2024-0072</doi>
+  <url_pdf>meteo_2024_126_99.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Mars 2024 à mai 2024. La Météorologie, 126, 99-107, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>08</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

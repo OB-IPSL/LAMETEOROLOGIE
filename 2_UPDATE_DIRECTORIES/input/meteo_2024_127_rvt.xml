@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="127">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2024</annee>
+  <mois>11</mois>
+  <numero>127</numero>
+  <url_pdf>meteo_2024_127_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Éditorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <auteur>Berthier, Étienne</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2024-0073</doi>
+  <url_pdf>meteo_2024_127_1.pdf</url_pdf>
+  <citation>Soula, Serge ; Berthier, Étienne. Éditorial. La Météorologie, 127, 1, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Les premières observations de l’imageur d’éclairs de la mission MTG</titre>
+  <auteur>Combarnous, Pauline</auteur>
+  <auteur>Soula, Serge</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>2-4</pages>
+  <doi>10.37053/lameteorologie-2024-0074</doi>
+  <url_pdf>meteo_2024_127_2.pdf</url_pdf>
+  <citation>Combarnous, Pauline ; Soula, Serge. Les premières observations de l’imageur d’éclairs de la mission MTG. La Météorologie, 127, 2-4, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Électricité atmosphérique, Imageur d'éclairs, Prévision des orages, Meteosat Troisième Génération (MTG)</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Pluies abondantes au Sahara : des conséquences parfois inattendues</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>4-6</pages>
+  <doi>10.37053/lameteorologie-2024-0075</doi>
+  <url_pdf>meteo_2024_127_4.pdf</url_pdf>
+  <citation>Altendorf, Damien. Pluies abondantes au Sahara : des conséquences parfois inattendues. La Météorologie, 127, 4-6, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Afrique, Saison des pluies, Dégâts dus aux inondations, Atlantique nord, Cyclone tropical, Prévision saisonnière, Onde d'est africaine, Mousson africaine, ZCIT</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La Société météorologique européenne fête ses 25 ans</titre>
+  <auteur>Marbouty, Dominique</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>7</pages>
+  <doi>10.37053/lameteorologie-2024-0076</doi>
+  <url_pdf>meteo_2024_127_7.pdf</url_pdf>
+  <citation>Marbouty, Dominique. La Société météorologique européenne fête ses 25 ans. La Météorologie, 127, 7, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Organisation météorologique, Activités, Société Météorologique Européenne (EMS), Anniversaire</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Quels enseignements tirer du 8e rapport Copernicus sur l’état de l’océan ?</titre>
+  <auteur>von Schuckmann, Karina</auteur>
+  <auteur>Le Traon, Pierre-Yves</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>8-10</pages>
+  <doi>10.37053/lameteorologie-2024-0077</doi>
+  <url_pdf>meteo_2024_127_8.pdf</url_pdf>
+  <citation>von Schuckmann, Karina ; Le Traon, Pierre-Yves. Quels enseignements tirer du 8e rapport Copernicus sur l’état de l’océan ?. La Météorologie, 127, 8-10, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Rapport scientifique, Océan, SST, Hauteur des vagues, Changement climatique, Risques côtiers, Atténuation climatique, Réchauffement des océans, Vague de chaleur marine, Fonte des glaces, Évènement extrême, Prévision océanographique, Source d'énergie renouvelable, Système d'alerte précoce, Copernicus Marine Service, Mercator Ocean International</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Si Noël est au balcon, Pâques sera-t-il au tison ?</titre>
+  <auteur>Jean, Florianne</auteur>
+  <auteur>Mittelberger, Simon</auteur>
+  <auteur>Sorel, Matthieu</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>10-13</pages>
+  <doi>10.37053/lameteorologie-2024-0078</doi>
+  <url_pdf>meteo_2024_127_10.pdf</url_pdf>
+  <citation>Jean, Florianne ; Mittelberger, Simon ; Sorel, Matthieu. Si Noël est au balcon, Pâques sera-t-il au tison ?. La Météorologie, 127, 10-13, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>France, Dicton météorologique, Méthode de vérification, Anomalie thermique, Climatologie statistique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>37e colloque de l’Association internationale de climatologie</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>13-16</pages>
+  <doi>10.37053/lameteorologie-2024-0079</doi>
+  <url_pdf>meteo_2024_127_13.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. 37e colloque de l’Association internationale de climatologie. La Météorologie, 127, 13-16, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Vague de chaleur, Sécheresse, Grêle, Agroclimatologie, Climatologie historique, Manteau neigeux, Hydrométéorologie, Inondations, Adaptation climatique, Stratégie d'adaptation, Climatologie urbaine, Risques climatiques, Biodiversité, Colloque international</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Médailles et distinctions pour les scientifiques français</titre>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>17-20</pages>
+  <doi>10.37053/lameteorologie-2024-0080</doi>
+  <url_pdf>meteo_2024_127_17.pdf</url_pdf>
+  <citation>Médailles et distinctions pour les scientifiques français. La Météorologie, 127, 17-20, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Recherche scientifique, Prix scientifique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Ciel parisien pendant les JO</titre>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>21-22</pages>
+  <doi>10.37053/lameteorologie-2024-0081</doi>
+  <url_pdf>meteo_2024_127_21.pdf</url_pdf>
+  <citation>Ciel parisien pendant les JO. La Météorologie, 127, 21-22, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Jeux olympiques, Photographie, Conditions météorologiques, Vasque olympique, Cérémonie d'ouverture</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Le media workshop 2024 accueilli par Eumetsat à Darmstadt</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Vannier, Christian</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>23-32</pages>
+  <doi>10.37053/lameteorologie-2024-0082</doi>
+  <url_pdf>meteo_2024_127_23.pdf</url_pdf>
+  <citation>Daudier, Morgane ; Vannier, Christian. Le media workshop 2024 accueilli par Eumetsat à Darmstadt. La Météorologie, 127, 23-32, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Information des médias, Diffusion scientifique, Prévision, Changement climatique, Produits satellitaires, Présentateur météo, Communication, Système d'alerte, Eumetsat</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Histoire</rubrique>
+  <titre>La série des températures journalières à Paris de 1658 à 2023</titre>
+  <titre_en>The series of daily temperatures in Paris from 1658 to 2023</titre_en>
+  <auteur>Rousseau, Daniel</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>33-42</pages>
+  <doi>10.37053/lameteorologie-2024-0083</doi>
+  <url_pdf>meteo_2024_127_33.pdf</url_pdf>
+  <citation>Rousseau, Daniel. La série des températures journalières à Paris de 1658 à 2023. La Météorologie, 127, 33-42, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Climatologie historique, Paris, Réchauffement climatique, Séries de température, Longues séries de données, Données quotidiennes, Température moyenne, Homogénéisation des séries, Qualité des estimations, Archives climatologiques, Journaux d'observation, Observateurs</mots_cles>
+  <resume_fr>Depuis 1658, la température est mesurée presque continuellement à Paris. Les enregistrements de ces mesures apparaissent dans des manuscrits, des publications ou des bases de données. Afin de mettre à disposition ce patrimoine unique, ils ont été collectés et numérisés pour constituer une série de températures journalières en degrés Celsius. Les sources de ces données, les conditions de mesure ainsi que les modalités de calcul de la température journalière sont explicitées dans cet article, dont une annexe numérique (en ligne) fournit les moyennes journalières et les moyennes mensuelles des températures à Paris de 1658 à 2023.</resume_fr>
+  <resume_en>Since 1658 the temperature has been measured in Paris almost continuously. The records of these measurements appear in manuscripts, publications or databases. In order to make this unique heritage available, they have been collected and digitized to constitute a series of daily temperatures in degrees Celsius. The sources of these data, the measurement conditions as well as the methods for computing the daily temperature are explained in this article to which is joined an annex providing the daily and monthly averages of temperatures in Paris from 1658 to 2023.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Le marégraphe de Marseille, origine des altitudes continentales françaises et vigie du changement climatique</titre>
+  <titre_en>The Marseille tide gauge, origin of continental French altitudes and watch of climate change</titre_en>
+  <auteur>Chenal, Jonathan</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>43-49</pages>
+  <doi>10.37053/lameteorologie-2024-0084</doi>
+  <url_pdf>meteo_2024_127_43.pdf</url_pdf>
+  <citation>Chenal, Jonathan. Le marégraphe de Marseille, origine des altitudes continentales françaises et vigie du changement climatique. La Météorologie, 127, 43-49, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Marégraphe, Niveau de la mer, Méditerranée, Altitude, Changement climatique, Observatoire, Mesures géodésiques, Historique, Longues séries de données, Projection climatique, Adaptation climatique, Altimétrie satellitaire, Sonel, Gloss</mots_cles>
+  <resume_fr>Le marégraphe de Marseille est à la fois le bâtiment et l'appareil d'observation du niveau de la mer qu'il abrite. Créé en 1885 pour déterminer le niveau moyen de la mer formant l'origine des altitudes continentales françaises, il observe le niveau de la mer depuis cette époque. Classé monument historique et désormais complété d'instruments géophysiques modernes, il forme un observatoire dédié à la géodésie et aux sciences du changement climatique. Sa longue série d'observations témoigne de l'élévation du niveau de la mer dans l'ouest de la Méditerranée, avec une tendance de 1,4 mm/an depuis 1885. Les projections climatiques indiquent que le niveau de la Méditerranée devrait s'élever de plusieurs dizaines de centimètres à plusieurs mètres dans les siècles à venir.</resume_fr>
+  <resume_en>The Marseille tide gauge is both the building and the device dedicated to observing sea level that it holds. Created in 1885 in order to determine the mean sea level as the datum of the french continental height system, it observes sea level since then. Classified as a historical monument and holding new modern geophysical devices, it is now an observatory dedicated to geodesy and climate change sciences. Its long observations time series gives evidence of sea level rise in Western Mediterranean, with a trend of 1.4 mm/yr since 1885. Climate projections indicate that sea level should continue to rise of several tens of centimeters to several meters in next centuries.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Glaciologie</rubrique>
+  <titre>Les plateformes de glace d’Antarctique : De leur découverte à leur désintégration</titre>
+  <titre_en>Antarctic ice shelves: from their discovery to their disintegration</titre_en>
+  <auteur>Jourdain, Nicolas C.</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>50-56</pages>
+  <doi>10.37053/lameteorologie-2024-0085</doi>
+  <url_pdf>meteo_2024_127_50.pdf</url_pdf>
+  <citation>Jourdain, Nicolas C.. Les plateformes de glace d’Antarctique : De leur découverte à leur désintégration. La Météorologie, 127, 50-56, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Antarctique, Fonte des glaciers, Niveau de la mer, Réchauffement climatique, Projection climatique, Plateforme de glace, Désintégration, Modèle de calotte glaciaire, Théories d'instabilité, Expédition polaire, Historique, Barrière de Ross, Ligne d’ancrage, Sondage écho-sismique, île des Pins</mots_cles>
+  <resume_fr>D'abord considérées comme d'immenses barrières empêchant la navigation vers le pôle Sud, les plateformes de glace permirent tout compte fait aux explorateurs de pénétrer au coeur de la calotte Antarctique à l'aube du XXe siècle. Leur cartographie fut progressivement obtenue à l'explosif, jusqu'à ce que les ondes sismiques fissent place aux ondes radar, aéroportées puis satellitaires. Sur la base d'observations et des premiers modèles numériques de climat, la désintégration de plateformes de glace sur la péninsule Antarctique fut annoncée une quinzaine d'années avant d'être observée pour la première fois. En mer d'Amundsen, la déstabilisation des plateformes de glace par l'océan, puis par l'importante accélération de l'écoulement glaciaire en amont, surprit les glaciologues et les enjoignit d'affiner leur théorie et leurs outils numériques.</resume_fr>
+  <resume_en>Initially seen as great barriers preventing navigation to the South Pole, the ice shelves actually helped explorers to penetrate to the heart of the Antarctic Ice Sheet at the dawn of the 20th century. They were gradually mapped using explosives, until seismic waves gave way to airborne and then satellite radar waves. Based on observations and on the first numerical climate models, the disintegration of ice shelves in the Antarctic Peninsula was foretold some fifteen years before it actually started to be observed. In the Amundsen Sea, the destabilisation of ice shelves by the ocean and the subsequent acceleration of the upstream ice flow came as a surprise for glaciologists, forcing them to refine their theory and numerical tools.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>Prévision du brouillard dans la vallée de la Seine par intelligence artificielle</titre>
+  <titre_en>Artificial intelligence fog forecasting in the Seine Valley</titre_en>
+  <auteur>Tournier, Théo</auteur>
+  <auteur>Gibier, Florian</auteur>
+  <auteur>Saint-Aubin, Céline de</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>57-64</pages>
+  <doi>10.37053/lameteorologie-2024-0086</doi>
+  <url_pdf>meteo_2024_127_57.pdf</url_pdf>
+  <citation>Tournier, Théo ; Gibier, Florian ; Saint-Aubin, Céline de. Prévision du brouillard dans la vallée de la Seine par intelligence artificielle. La Météorologie, 127, 57-64, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Prévision numérique, Brouillard, Transport fluvial, Seine, Modèles d'intelligence artificielle, Réseau de neurones, Évaluation des prévisions, Scores, Indices de prévision, Prédicteurs, Machine Learning (apprentissage automatique), Forêts aléatoires, Arome-IFS</mots_cles>
+  <resume_fr>La prévision du brouillard revêt une importance capitale pour le secteur du transport fluvial dans la vallée de la Seine. Alors que les modèles de prévision numérique du temps (PNT) montrent leurs limites dans cette vallée, nous explorons l'utilisation de l'intelligence artificielle (IA) avec des réseaux de neurones et des forêts aléatoires, pour prévoir ce phénomène météorologique complexe. Alimentés par les modèles de PNT à haute résolution Arome et Arome-IFS, et par quelques observations, ces modèles d'IA présentent des performances intéressantes. Les scores sont analysés et comparés aux prévisions des experts mais aussi aux prévisions brutes d'Arome. Finalement, la forêt aléatoire alimentée par Arome-IFS présente les meilleurs résultats : réduction du nombre de non-détections sans augmenter le nombre de fausses alarmes. Mais ces prévisions ont de nombreuses limites qui sont mises en lumière par des études de cas subjectives. Une complémentarité entre les prévisions par IA et l'expertise des prévisionnistes est donc nécessaire pour améliorer la prévision du brouillard dans cette région stratégique pour le transport fluvial.</resume_fr>
+  <resume_en>Fog forecasting is crucial for the river transport sector in the Seine Valley (France). Given the limitations of numerical weather prediction (NWP) models in this region, we explore the use of artificial intelligence (AI) techniques, including neural networks and random forests, to better predict this complex meteorological phenomenon. Fed with high-resolution NWP data from Arome and Arome-IFS and observations, these IA show interesting results. Scores are analyzed and compared to both forecasters and raw Arome predictions. Among them, the random forest model powered by Arome-IFS stands out, showing a reduction in missed detections without an increase in false alarms. However, the predictions still have significant limitations, as highlighted by subjective case studies. Therefore, a combination of AI-based forecasts and expert judgment is essential to enhance fog forecasting in this strategically important region for river transport.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Conférence mondiale des radiocommunications 2023</titre>
+  <auteur>Allaix, Éric</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>65-68</pages>
+  <doi>10.37053/lameteorologie-2024-0087</doi>
+  <url_pdf>meteo_2024_127_65.pdf</url_pdf>
+  <citation>Allaix, Éric. Conférence mondiale des radiocommunications 2023. La Météorologie, 127, 65-68, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Conférence internationale, Télédétection satellitaire, Radiocommunication, Attribution de fréquences, Protection des attributions, Sondeur radar, Observation passive, Météorologie de l'espace, Température de surface de la mer</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>La tempête Ciarán</titre>
+  <auteur>Guida, Nino</auteur>
+  <auteur>Kreitz, Michaël</auteur>
+  <auteur>Liquet, Sylvain</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>69-80</pages>
+  <doi>10.37053/lameteorologie-2024-0088</doi>
+  <url_pdf>meteo_2024_127_69.pdf</url_pdf>
+  <citation>Guida, Nino ; Kreitz, Michaël ; Liquet, Sylvain. La tempête Ciarán. La Météorologie, 127, 69-80, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Étude d évènement particulier, Analyse synoptique, Tempête, Trajectoire, Rafale, Record climatique, Dégâts dus au vent, Région Bretagne, Hauteur des vagues, Évaluation des prévisions, Cycle de vie, Sting jet, Supercellule tornadique, Prévisibilité d'un événement, Indice de sévérité, Shapiro-Keyser, Ciaran</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Chaleur humaine, 18 réponses à la menace climatique / par Nabil Wakim</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>81</pages>
+  <doi>10.37053/lameteorologie-2024-0089</doi>
+  <url_pdf>meteo_2024_127_81.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Chaleur humaine, 18 réponses à la menace climatique / par Nabil Wakim. La Météorologie, 127, 81, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Ressources en eau, Énergie renouvelable, Réduction des émissions, Neutralité carbone, Politique climatique, Sobriété énergétique, Éco-gestes, Habillement, Trafic aérien, Changement des comportements, Éco-anxiété</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Carbone fossile, carbone vivant. Vers une nouvelle économie du climat / par Christian de Perthuis</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>82</pages>
+  <doi>10.37053/lameteorologie-2024-0090</doi>
+  <url_pdf>meteo_2024_127_82.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Carbone fossile, carbone vivant. Vers une nouvelle économie du climat / par Christian de Perthuis. La Météorologie, 127, 82, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Crise climatique, Transition énergétique, Limites de la planète, Biodiversité, Agroclimatologie, Politique climatique, Scénarios climatiques, Économie du « donut »</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>83-84</pages>
+  <doi>10.37053/lameteorologie-2024-0091</doi>
+  <url_pdf>meteo_2024_127_83.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 127, 83-84, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES :La grande histoire du climat – Comment les humains s'adaptent depuis 3 millions d'années. Par Lucas Pacotte et Clothilde Chamussy /Green IA – L'intelligence artificielle au service du climat. Par Gilles Babinet /Manuel de la grande transition. Sous la direction de Cécile Renouard, Rémi Beau, Christophe Goupil et Christian Koenig /REVUES :Météo et climat - Le temps qu'il fera demain. Sciences et avenir, numéro spécial 217, avril-juin 2024 /Climats de l'Ouest. 303 Arts, recherche, créations, numéro 181, juin 2024 /THESES :Eulalie Boucher : Conception de modèles d'apprentissage profond pour les inversions de surface et atmosphériques à partir du sondeur infrarouge Iasi. Thèse de Sorbonne Université /Mathilde Ropiquet : Les croûtes noires des monuments, des archives de la pollution atmosphérique ancienne. Thèse de l'université Paris-Est /Ludovico Di Antonio : Propriétés, distribution et effet radiatif des aérosols en Île-de-France par une approche couplée mesure-modélisation. Thèse de l'université Paris-Est /Vincent Forcadell : Détection de la grêle par apprentissage profond appliqué aux observations radar polarimétriques. Thèse de l'université de Toulouse /Alan Demortier : Utilisation des données de capteurs météorologiques connectés pour la prévision numérique à courte échéance de phénomènes de méso-échelle. Thèse de l'Institut national polytechnique de Toulouse /Romain Pic : Post-traitement statistique des prévisions d'ensemble : théorie, application en météorologie et vérification. Thèse de l'université Bourgogne Franche-Comté /Suzanne Baur : Couplage physique de la modification du rayonnement solaire avec les énergies renouvelables et le captage du carbone. Thèse de l'université de Toulouse /Zacharie Barrou Dumont : Reconstruction par imagerie satellite de la surface enneigée des Alpes et des Pyrénées au cours des 38 dernières années (1986-2023). Thèse de l'université de Toulouse /Vibolroth Sambath : Apprentissage profond non-supervisé pour l'analyse de séries chronologiques d'observations spatiales : application aux données GPM. Thèse de l'université Paris-Saclay /Timothée Corchia : Apport de l'apprentissage automatique pour l'intégration d'observations satellitaires dans un modèle global du système sol-plante. Thèse de l'université de Toulouse /Juliette Bernard : Estimation des émissions de méthane des zones humides à l'échelle mondiale à partir de la télédétection : variabilités à long terme et interannuelles. Thèse de Sorbonne Université /Alexis Squarcioni : Modélisation numérique multi-échelle de la qualité de l'air pour le milieu urbain. Thèse de l'École des Ponts Paris Tech /Gabriel Arnould : Approche objet pour la détection, le suivi et la prévision à très courte échéance des systèmes convectifs de mésoéchelle. Thèse de l'université de Toulouse.</description>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Juin 2024 : Poussières désertiques ; Perturbation estivale</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <auteur>Désiré, Roxane</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>85-86</pages>
+  <doi>10.37053/lameteorologie-2024-0092</doi>
+  <url_pdf>meteo_2024_127_85.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien ; Désiré, Roxane. Juin 2024 : Poussières désertiques ; Perturbation estivale. La Météorologie, 127, 85-86, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Espagne, Occlusion, Manche, Perturbation, Poussières désertiques, Bloom phytoplanctonique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Juillet 2024 : Tresses de fumées ; Une barrière aux nuages</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <auteur>Burin, Camille</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>87-88</pages>
+  <doi>10.37053/lameteorologie-2024-0093</doi>
+  <url_pdf>meteo_2024_127_87.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien ; Burin, Camille. Juillet 2024 : Tresses de fumées ; Une barrière aux nuages. La Météorologie, 127, 87-88, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Afrique du sud, Incendie de forêt, Svalbard, Stratus, Onde de relief, Panache de fumée</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vu de l'espace</rubrique>
+  <titre>Août 2024 : Une barrière de corail ; Orages près de Valence</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <auteur>Désiré, Roxane</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>89-90</pages>
+  <doi>10.37053/lameteorologie-2024-0094</doi>
+  <url_pdf>meteo_2024_127_89.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien ; Désiré, Roxane. Août 2024 : Une barrière de corail ; Orages près de Valence. La Météorologie, 127, 89-90, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Espagne, Valence - province, Cumulonimbus, Orage, Australie, Rue de cumulus, Grande Barrière de corail</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Juin à août 2024</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2024</annee>
+  <numero>127</numero>
+  <pages>91-99</pages>
+  <doi>10.37053/lameteorologie-2024-0095</doi>
+  <url_pdf>meteo_2024_127_91.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Juin à août 2024. La Météorologie, 127, 91-99, 2024.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2024</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>

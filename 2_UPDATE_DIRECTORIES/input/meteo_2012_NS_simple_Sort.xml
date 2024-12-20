@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="NS AMMA">
+  <notice pagedebut="1">
+    <titre>Éditorial</titre>
+    <auteur>Flaud, Jean-Marie</auteur>
+    <handle>http://hdl.handle.net/2042/48124</handle>
+    <doi>10.4267/2042/48124</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48124/Meteo_2012_SP_1.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>1</pages>
+    <citation>Flaud, Jean-Marie ; Éditorial,  La Météorologie, 2012, N° NS AMMA ; p. 1</citation>
+    <rubrique>Éditorial</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="2">
+    <titre>La mousson ouest-africaine : introduction à quelques contributions du programme d'étude multidisciplinaire AMMA</titre>
+    <auteur>Janicot, Serge</auteur>
+    <auteur>Redelsperger, Jean-Luc</auteur>
+    <auteur>Lebel, Thierry</auteur>
+    <handle>http://hdl.handle.net/2042/48125</handle>
+    <doi>10.4267/2042/48125</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48125/Meteo_2012_SP_2.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>2-8</pages>
+    <citation>Janicot, Serge ; Redelsperger, Jean-Luc ; Lebel, Thierry ; La mousson ouest-africaine : introduction à quelques contributions du programme d'étude multidisciplinaire AMMA,  La Météorologie, 2012, N° NS AMMA ; p. 2-8</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Article</type>
+  </notice>
+  <notice pagedebut="10">
+    <titre>La photo du numéro AMMA</titre>
+    <auteur>Guichard, Françoise</auteur>
+    <auteur>Kergoat, Laurent</auteur>
+    <handle>http://hdl.handle.net/2042/48126</handle>
+    <doi>10.4267/2042/48126</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48126/Meteo_2012_SP_10.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>10</pages>
+    <citation>Guichard, Françoise ; Kergoat, Laurent ; AMMA,  La Météorologie, 2012, N° NS AMMA ; p. 10</citation>
+    <rubrique>La photo du trimestre</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="11">
+    <titre>Évolution de notre compréhension du système de mousson ouest-africain</titre>
+    <auteur>Lafore, Jean-Philippe</auteur>
+    <auteur>Asencio, Nicole</auteur>
+    <auteur>Bouniol, Dominique</auteur>
+    <auteur>Couvreux, Fleur</auteur>
+    <auteur>Flamant, Cyrille</auteur>
+    <auteur>Guichard, Françoise</auteur>
+    <auteur>Hall, Nicholas</auteur>
+    <auteur>Janicot, Serge</auteur>
+    <auteur>Kocha, Cécile</auteur>
+    <auteur>Lavaysse, Christophe</auteur>
+    <auteur>Leroux, Stéphanie</auteur>
+    <auteur>Poan, Emmanuel</auteur>
+    <auteur>Peyrillé, Philippe</auteur>
+    <auteur>Roca, Rémy</auteur>
+    <auteur>Roehrig, Romain</auteur>
+    <auteur>Roux, Frank</auteur>
+    <auteur>Saïd, Frédérique</auteur>
+    <handle>http://hdl.handle.net/2042/48127</handle>
+    <doi>10.4267/2042/48127</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48127/Meteo_2012_SP_11.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>11-16</pages>
+    <citation>Lafore, Jean-Philippe ; Asencio, Nicole ; Bouniol, Dominique ; Couvreux, Fleur ; Flamant, Cyrille ; Guichard, Françoise ; Hall, Nicholas ; Janicot, Serge ; Kocha, Cécile ; Lavaysse, Christophe ; Leroux, Stéphanie ; Poan, Emmanuel ; Peyrillé, Philippe ; Roca, Rémy ; Roehrig, Romain ; Roux, Frank ; Saïd, Frédérique ; Évolution de notre compréhension du système de mousson ouest-africain,  La Météorologie, 2012, N° NS AMMA ; p. 11-16</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="17">
+    <titre>Les avancées d'AMMA sur les interactions océan-atmosphère</titre>
+    <auteur>Caniaux, Guy</auteur>
+    <auteur>Giordani, Hervé</auteur>
+    <auteur>Redelsperger, Jean-Luc</auteur>
+    <auteur>Wade, Malick</auteur>
+    <auteur>Bourlès, Bernard</auteur>
+    <auteur>Bourras, Denis</auteur>
+    <auteur>de Coëtlogon, Gaëlle</auteur>
+    <auteur>du Penhoat, Yves</auteur>
+    <auteur>Janicot, Serge</auteur>
+    <auteur>Key, Érica</auteur>
+    <auteur>Koffi, Urbain</auteur>
+    <auteur>Kolodziejczyk, Nicolas</auteur>
+    <auteur>Eymard, Laurence</auteur>
+    <auteur>Jouanno, Julien</auteur>
+    <auteur>Lazar, Alban</auteur>
+    <auteur>Leduc-Leballeur, Marion</auteur>
+    <auteur>Lefèvre, Nathalie</auteur>
+    <auteur>Marin, Frédéric</auteur>
+    <auteur>Nguyen, Hanh</auteur>
+    <auteur>Parard, Gaëlle</auteur>
+    <handle>http://hdl.handle.net/2042/48128</handle>
+    <doi>10.4267/2042/48128</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48128/Meteo_2012_SP_17.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>17-24</pages>
+    <citation>Caniaux, Guy ; Giordani, Hervé ; Redelsperger, Jean-Luc ; Wade, Malick ; Bourlès, Bernard ; Bourras, Denis ; de Coëtlogon, Gaëlle ; du Penhoat, Yves ; Janicot, Serge ; Key, Érica ; Koffi, Urbain ; Kolodziejczyk, Nicolas ; Eymard, Laurence ; Jouanno, Julien ; Lazar, Alban ; Leduc-Leballeur, Marion ; Lefèvre, Nathalie ; Marin, Frédéric ; Nguyen, Hanh ; Parard, Gaëlle ; Les avancées d'AMMA sur les interactions océan-atmosphère,  La Météorologie, 2012, N° NS AMMA ; p. 17-24</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="25">
+    <titre>Interactions entre surface et convection au Sahel</titre>
+    <auteur>Guichard, Françoise</auteur>
+    <auteur>Kergoat, Laurent</auteur>
+    <auteur>Taylor, Christopher M.</auteur>
+    <auteur>Cappelaere, Bernard</auteur>
+    <auteur>Chong, Michel</auteur>
+    <auteur>Cohard, Jean-Martial</auteur>
+    <auteur>Couvreux, Fleur</auteur>
+    <auteur>Dione, Cheikh</auteur>
+    <auteur>Gounou, Amanda</auteur>
+    <auteur>Lohou, Fabienne</auteur>
+    <auteur>Lothon, Marie</auteur>
+    <handle>http://hdl.handle.net/2042/48129</handle>
+    <doi>10.4267/2042/48129</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48129/Meteo_2012_SP_25.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>25-32</pages>
+    <citation>Guichard, Françoise ; Kergoat, Laurent ; Taylor, Christopher M. ; Cappelaere, Bernard ; Chong, Michel ; Cohard, Jean-Martial ; Couvreux, Fleur ; Dione, Cheikh ; Gounou, Amanda ; Lohou, Fabienne ; Lothon, Marie ; Interactions entre surface et convection au Sahel,  La Météorologie, 2012, N° NS AMMA ; p. 25-32</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="33">
+    <titre>Le cycle des aérosols terrigènes au Sahel : ce qu'AMMA nous a appris</titre>
+    <auteur>Rajot, Jean-Louis</auteur>
+    <auteur>Touré, Amadou Abdourhamane</auteur>
+    <auteur>Desboeufs, Karine</auteur>
+    <auteur>Formenti, Paola</auteur>
+    <auteur>Marticorena, Béatrice</auteur>
+    <auteur>Sow, Mamadou</auteur>
+    <handle>http://hdl.handle.net/2042/48130</handle>
+    <doi>10.4267/2042/48130</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48130/Meteo_2012_SP_33.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>33-40</pages>
+    <citation>Rajot, Jean-Louis ; Touré, Amadou Abdourhamane ; Desboeufs, Karine ; Formenti, Paola ; Marticorena, Béatrice ; Sow, Mamadou ; Le cycle des aérosols terrigènes au Sahel : ce qu'AMMA nous a appris,  La Météorologie, 2012, N° NS AMMA ; p. 33-40</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="41">
+    <titre>Variabilité pluviométrique, changement climatique et régionalisation en région de mousson africaine</titre>
+    <auteur>Fontaine, Bernard</auteur>
+    <auteur>Roucou, Pascal</auteur>
+    <auteur>Camara, Moctar</auteur>
+    <auteur>Vigaud, Nicolas</auteur>
+    <auteur>Konaré, Abdourahamane</auteur>
+    <auteur>Sanda, Seidou Ibrah</auteur>
+    <auteur>Diedhiou, Arona</auteur>
+    <auteur>Janicot, Serge</auteur>
+    <handle>http://hdl.handle.net/2042/48131</handle>
+    <doi>10.4267/2042/48131</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48131/Meteo_2012_SP_41.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>41-48</pages>
+    <citation>Fontaine, Bernard ; Roucou, Pascal ; Camara, Moctar ; Vigaud, Nicolas ; Konaré, Abdourahamane ; Sanda, Seidou Ibrah ; Diedhiou, Arona ; Janicot, Serge ; Variabilité pluviométrique, changement climatique et régionalisation en région de mousson africaine,  La Météorologie, 2012, N° NS AMMA ; p. 41-48</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="49">
+    <titre>Les leçons de l'expérience AMMA en matière de prévision numérique du temps</titre>
+    <auteur>Karbou, Fatima</auteur>
+    <auteur>Beucher, Florent</auteur>
+    <auteur>Bock, Olivier</auteur>
+    <auteur>Lafore, Jean-Philippe</auteur>
+    <auteur>Mumba, Ziloré</auteur>
+    <auteur>Ngamini, Jean-Blaise</auteur>
+    <auteur>Nuret, Mathieu</auteur>
+    <auteur>Rabier, Florence</auteur>
+    <auteur>Redelsperger, Jean-Luc</auteur>
+    <handle>http://hdl.handle.net/2042/48132</handle>
+    <doi>10.4267/2042/48132</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48132/Meteo_2012_SP_49.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>49-54</pages>
+    <citation>Karbou, Fatima ; Beucher, Florent ; Bock, Olivier ; Lafore, Jean-Philippe ; Mumba, Ziloré ; Ngamini, Jean-Blaise ; Nuret, Mathieu ; Rabier, Florence ; Redelsperger, Jean-Luc ; Les leçons de l'expérience AMMA en matière de prévision numérique du temps,  La Météorologie, 2012, N° NS AMMA ; p. 49-54</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="55">
+    <titre>Le cycle de l'eau dans le système de mousson d'Afrique de l'Ouest</titre>
+    <auteur>Peugeot, Christophe</auteur>
+    <auteur>Bock, Olivier</auteur>
+    <auteur>Boone, Aaron</auteur>
+    <auteur>Cappelaere, Bernard</auteur>
+    <auteur>Gosset, Marielle</auteur>
+    <auteur>Meynadier, Rémi</auteur>
+    <auteur>Séguis, Luc</auteur>
+    <auteur>Lebel, Thierry</auteur>
+    <auteur>Redelsperger, Jean-Luc</auteur>
+    <handle>http://hdl.handle.net/2042/48133</handle>
+    <doi>10.4267/2042/48133</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48133/Meteo_2012_SP_55.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>55-63</pages>
+    <citation>Peugeot, Christophe ; Bock, Olivier ; Boone, Aaron ; Cappelaere, Bernard ; Gosset, Marielle ; Meynadier, Rémi ; Séguis, Luc ; Lebel, Thierry ; Redelsperger, Jean-Luc ; Le cycle de l'eau dans le système de mousson d'Afrique de l'Ouest,  La Météorologie, 2012, N° NS AMMA ; p. 55-63</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="64">
+    <titre>La question de la vulnérabilité et de l'adaptation de l'agriculture sahélienne au climat au sein du programme AMMA</titre>
+    <auteur>Sultan, Benjamin</auteur>
+    <auteur>Alhassane, Agali</auteur>
+    <auteur>Barbier, Bruno</auteur>
+    <auteur>Baron, Christian</auteur>
+    <auteur>Bella-Medjo Tsogo, Marthe</auteur>
+    <auteur>Berg, Alexis</auteur>
+    <auteur>Dingkuhn, Michael</auteur>
+    <auteur>Fortilus, Jeanne</auteur>
+    <auteur>Kouressy, Mamoutou</auteur>
+    <auteur>Leblois, Antoine</auteur>
+    <auteur>Marteau, Romain</auteur>
+    <auteur>Muller, Bertrand</auteur>
+    <auteur>Oettli, Pascal</auteur>
+    <auteur>Quirion, Philippe</auteur>
+    <auteur>Roudier, Philippe</auteur>
+    <auteur>Traoré, Seydou B.</auteur>
+    <auteur>Vaksmann, Michel</auteur>
+    <handle>http://hdl.handle.net/2042/48134</handle>
+    <doi>10.4267/2042/48134</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48134/Meteo_2012_SP_64.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>64-72</pages>
+    <citation>Sultan, Benjamin ; Alhassane, Agali ; Barbier, Bruno ; Baron, Christian ; Bella-Medjo Tsogo, Marthe ; Berg, Alexis ; Dingkuhn, Michael ; Fortilus, Jeanne ; Kouressy, Mamoutou ; Leblois, Antoine ; Marteau, Romain ; Muller, Bertrand ; Oettli, Pascal ; Quirion, Philippe ; Roudier, Philippe ; Traoré, Seydou B. ; Vaksmann, Michel ; La question de la vulnérabilité et de l'adaptation de l'agriculture sahélienne au climat au sein du programme AMMA,  La Météorologie, 2012, N° NS AMMA ; p. 64-72</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="73">
+    <titre>Le climat, un facteur de risque pour la santé en Afrique de l'Ouest</titre>
+    <auteur>Martiny, Nadège</auteur>
+    <auteur>Dessay, Nadine</auteur>
+    <auteur>Yaka, Pascal</auteur>
+    <auteur>Toure, Ousmane</auteur>
+    <auteur>Sultan, Benjamin</auteur>
+    <auteur>Rebaudet, Stanislas</auteur>
+    <auteur>Broutin, Hélène</auteur>
+    <auteur>Piarroux, Renaud</auteur>
+    <auteur>Chiapello, Isabelle</auteur>
+    <auteur>Sagara, Issaka</auteur>
+    <auteur>Fontaine, Bernard</auteur>
+    <auteur>Sissoko, Mahamadou</auteur>
+    <auteur>Jeanne, Isabelle</auteur>
+    <auteur>Doumbo, Ogobara</auteur>
+    <auteur>Gaudart, Jean</auteur>
+    <handle>http://hdl.handle.net/2042/48135</handle>
+    <doi>10.4267/2042/48135</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48135/Meteo_2012_SP_73.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>73-79</pages>
+    <citation>Martiny, Nadège ; Dessay, Nadine ; Yaka, Pascal ; Toure, Ousmane ; Sultan, Benjamin ; Rebaudet, Stanislas ; Broutin, Hélène ; Piarroux, Renaud ; Chiapello, Isabelle ; Sagara, Issaka ; Fontaine, Bernard ; Sissoko, Mahamadou ; Jeanne, Isabelle ; Doumbo, Ogobara ; Gaudart, Jean ; Le climat, un facteur de risque pour la santé en Afrique de l'Ouest,  La Météorologie, 2012, N° NS AMMA ; p. 73-79</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="80">
+    <titre>L'observation spatiale dans le programme AMMA</titre>
+    <auteur>Eymard, Laurence</auteur>
+    <auteur>Baron, Christian</auteur>
+    <auteur>Caniaux, Guy</auteur>
+    <auteur>Flamant, Cyrille</auteur>
+    <auteur>Kergoat, Laurent</auteur>
+    <auteur>Karbou, Fatima</auteur>
+    <auteur>Ndione, Jacques André</auteur>
+    <auteur>Pellarin, Thierry</auteur>
+    <auteur>Martiny, Nadège</auteur>
+    <auteur>Ramarohetra, Johanna</auteur>
+    <auteur>Vintrou, Élodie</auteur>
+    <auteur>Roca, Rémy</auteur>
+    <handle>http://hdl.handle.net/2042/48136</handle>
+    <doi>10.4267/2042/48136</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48136/Meteo_2012_SP_80.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>80-89</pages>
+    <citation>Eymard, Laurence ; Baron, Christian ; Caniaux, Guy ; Flamant, Cyrille ; Kergoat, Laurent ; Karbou, Fatima ; Ndione, Jacques André ; Pellarin, Thierry ; Martiny, Nadège ; Ramarohetra, Johanna ; Vintrou, Élodie ; Roca, Rémy ; L'observation spatiale dans le programme AMMA,  La Météorologie, 2012, N° NS AMMA ; p. 80-89</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="90">
+    <titre>Le système d'information AMMA</titre>
+    <auteur>Fleury, Laurence</auteur>
+    <auteur>Asencio, Nicole</auteur>
+    <auteur>Boichard, Jean-Luc</auteur>
+    <auteur>Brissebrat, Guillaume</auteur>
+    <auteur>Cloché, Sophie</auteur>
+    <auteur>Eymard, Laurence</auteur>
+    <auteur>Favot, Florence</auteur>
+    <auteur>Mastrorillo, Laurence</auteur>
+    <auteur>Moulaye, Oumarou</auteur>
+    <auteur>Ramage, Karim</auteur>
+    <auteur>Roussot, Odile</auteur>
+    <handle>http://hdl.handle.net/2042/48137</handle>
+    <doi>10.4267/2042/48137</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48137/Meteo_2012_SP_90.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>90-93</pages>
+    <citation>Fleury, Laurence ; Asencio, Nicole ; Boichard, Jean-Luc ; Brissebrat, Guillaume ; Cloché, Sophie ; Eymard, Laurence ; Favot, Florence ; Mastrorillo, Laurence ; Moulaye, Oumarou ; Ramage, Karim ; Roussot, Odile ; Le système d'information AMMA,  La Météorologie, 2012, N° NS AMMA ; p. 90-93</citation>
+    <rubrique>AMMA</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+  <notice pagedebut="94">
+    <titre>Bibliographie générale</titre>
+    <handle>http://hdl.handle.net/2042/48138</handle>
+    <doi>10.4267/2042/48138</doi>
+    <url_pdf>http://documents.irevues.inist.fr/bitstream/handle/2042/48138/Meteo_2012_SP_94.pdf</url_pdf>
+    <annee>2012</annee>
+    <numero>NS AMMA</numero>
+    <pages>94-105</pages>
+    <citation>Bibliographie générale,  La Météorologie, 2012, N° NS AMMA ; p. 94-105</citation>
+    <rubrique>Autres</rubrique>
+    <type>Rubrique régulière dans publication en série</type>
+  </notice>
+</notices_simples>

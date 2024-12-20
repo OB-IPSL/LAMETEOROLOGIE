@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="109">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2020</annee>
+  <mois>05</mois>
+  <numero>109</numero>
+  <url_pdf>meteo_2020_109_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Editorial</rubrique>
+  <titre>Editorial</titre>
+  <auteur>Boucher, Olivier</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2020-0034</doi>
+  <url_pdf>meteo_2020_109_1.pdf</url_pdf>
+  <citation>Boucher, Olivier. Editorial. La Météorologie, 109, 01, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>2019, deuxième année la plus chaude dans le monde</titre>
+  <auteur>Blanchet, Guy</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>2-4</pages>
+  <doi>10.37053/lameteorologie-2020-0035</doi>
+  <url_pdf>meteo_2020_109_2.pdf</url_pdf>
+  <citation>Blanchet, Guy. 2019, deuxième année la plus chaude dans le monde. La Météorologie, 109, 02-4, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Réchauffement climatique, Record climatique, Activité cyclonique, Fonte de la banquise, Inondations, Feux de forêts</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Amélioration de la qualité de l'air durant le confinement</titre>
+  <auteur>Clerbaux, Cathy</auteur>
+  <auteur>Boynard, Anne</auteur>
+  <auteur>Viatte, Camille</auteur>
+  <auteur>George, Maya</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>5-6</pages>
+  <doi>10.37053/lameteorologie-2020-0036</doi>
+  <url_pdf>meteo_2020_109_5.pdf</url_pdf>
+  <citation>Clerbaux, Cathy ; Boynard, Anne ; Viatte, Camille ; George, Maya. Amélioration de la qualité de l'air durant le confinement. La Météorologie, 109, 05-6, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Pollution atmosphérique, Télédétection satellitaire, Santé publique, Chine, Europe, Paris, Qualité de l'air, Impact du confinement</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>La réduction du trafic aérien affecterait la qualité des prévisions météorologiques</titre>
+  <auteur>ECMWF</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2020-0037</doi>
+  <url_pdf>meteo_2020_109_7.pdf</url_pdf>
+  <citation>ECMWF. La réduction du trafic aérien affecterait la qualité des prévisions météorologiques. La Météorologie, 109, 07-8, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Observations météorologiques, Mesure aéroportée, Trafic aérien, Qualité des prévisions, Impact du confinement</mots_cles>
+  <description>Cet article est une version traduite et adaptée d'un article d'abord publié sur le site web du CEPMMT le 24 mars 2020. Il est republié avec l'accord du CEPMMT.
+&lt;a href=&quot;https://www.ecmwf.int/en/about/media-centre/news/2020/drop-aircraft-observations-could-have-impact-weather-forecasts&quot; target = &quot;_blank&quot;&gt;https://www.ecmwf.int/en/about/media-centre/news/2020/drop-aircraft-observations-could-have-impact-weather-forecasts&lt;/a&gt;</description>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Une nouvelle version de SimClimat pour ordinateurs et smartphones</titre>
+  <auteur>Risi, Camille</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>9-10</pages>
+  <doi>10.37053/lameteorologie-2020-0038</doi>
+  <url_pdf>meteo_2020_109_9.pdf</url_pdf>
+  <citation>Risi, Camille. Une nouvelle version de SimClimat pour ordinateurs et smartphones. La Météorologie, 109, 09-10, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Education, Changement climatique, Simulation climatique, Logiciel informatique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Echos</rubrique>
+  <titre>Prix et récompenses pour les scientifiques français</titre>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>10-11</pages>
+  <doi>10.37053/lameteorologie-2020-0039</doi>
+  <url_pdf>meteo_2020_109_10.pdf</url_pdf>
+  <citation>Prix et récompenses pour les scientifiques français. La Météorologie, 109, 10-11, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Prix scientifique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Iceberg strié</titre>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>12</pages>
+  <doi>10.37053/lameteorologie-2020-0040</doi>
+  <url_pdf>meteo_2020_109_12.pdf</url_pdf>
+  <citation>Iceberg strié. La Météorologie, 109, 12, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Iceberg, Antarctique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>L'assemblée générale 2020 de Météo et Climat</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>13-15</pages>
+  <doi>10.37053/lameteorologie-2020-0041</doi>
+  <url_pdf>meteo_2020_109_13.pdf</url_pdf>
+  <citation>Daudier, Morgane. L'assemblée générale 2020 de Météo et Climat. La Météorologie, 109, 13-15, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Activités, Bilan annuel, SMF</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Neige et glace</rubrique>
+  <titre>Les glaciers noirs à l'épreuve du climat (Prix Prud'homme 2019)</titre>
+  <titre_en>Influence of debris on the mass balance of high mountain Asia glaciers</titre_en>
+  <auteur>Brun, Fanny</auteur>
+  <auteur>Berthier, Etienne</auteur>
+  <auteur>Wagnon, Patrick</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>16-22</pages>
+  <doi>10.37053/lameteorologie-2020-0042</doi>
+  <url_pdf>meteo_2020_109_16.pdf</url_pdf>
+  <citation>Brun, Fanny ; Berthier, Etienne ; Wagnon, Patrick. Les glaciers noirs à l'épreuve du climat (Prix Prud'homme 2019). La Météorologie, 109, 16-22, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>0</open_access>
+  <type>Article</type>
+  <mots_cles>Glacier de montagne, Réchauffement climatique, Fonte des glaciers, Débris rocheux</mots_cles>
+  <resume_fr>Les glaciers noirs, dont la langue est couverte de débris rocheux, ont un équilibre avec le climat qui diffère de celui des glaciers blancs, en raison du caractère isolant de leur couverture détritique. L'objectif est ici d'observer les changements récents (sur des périodes de 3 à 16 ans) de certains glaciers noirs pour mieux comprendre les processus qui déterminent leur fonte et pour comparer leur évolution à celle des glaciers blancs.</resume_fr>
+  <resume_en>Debris covered glaciers respond differently from debris-free glaciers to climate change, due to the insulation properties of debris. Here we observe recent and short (3 to 16 years) changes of selected debris-covered glaciers. We aim to better understand melting processes and compare the evolution of debris-free and debris-covered glacier changes.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Paléoclimatologie</rubrique>
+  <titre>Comprendre la dynamique atmosphérique pour mieux reconstituer l'altitude passée des chaînes de montagnes</titre>
+  <titre_en>Understanding atmospheric dynamics to better reconstruct past mountain elevation</titre_en>
+  <auteur>Botsyun, Svetlana</auteur>
+  <auteur>Sepulchre, Pierre</auteur>
+  <auteur>Risi, Camille</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>23-28</pages>
+  <doi>10.37053/lameteorologie-2020-0043</doi>
+  <url_pdf>meteo_2020_109_23.pdf</url_pdf>
+  <citation>Botsyun, Svetlana ; Sepulchre, Pierre ; Risi, Camille. Comprendre la dynamique atmosphérique pour mieux reconstituer l'altitude passée des chaînes de montagnes. La Météorologie, 109, 23-28, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Paléoclimatologie, Altitude, Chaîne de montagnes, Plateau du tibet, Précipitations, Modèle de circulation générale, Composition isotopique, Altimétrie, LMDZ-iso</mots_cles>
+  <resume_fr>Comprendre la dynamique de soulèvement d'une chaîne de montagne nécessite d'en estimer l'altitude passée. C'est le but de la paléoaltimétrie. La méthode la plus répandue utilise la composition isotopique en oxygène des roches carbonatées formées dans les sols et à partir des sédiments lacustres. Celle-ci reflète la composition de la pluie passée qui, dans le monde actuel et dans la plupart des chaînes de montagnes, s'appauvrit progressivement en isotopes lourds avec l'altitude. En supposant que cet appauvrissement reste valide dans le passé, l'altitude du plateau tibétain à l'Éocène (il y a environ 42 millions d'années) est estimée à 4 000 m environ. Mais d'autres marqueurs de l'altitude passée indiquent au contraire des altitudes inférieures à 2 000 m. La relation entre composition isotopique des pluies et altitude observée aujourd'hui s'applique-t-elle à l'Éocène ? C'est ce que nous avons essayé de vérifier en utilisant un modèle de circulation générale atmosphérique, LMDZ-iso. On trouve qu'à l'Éocène la circulation atmosphérique et les processus hydrologiques étaient tellement différents de l'actuel que les observations isotopiques dans les roches carbonatées se trouvent finalement être cohérentes avec des altitudes relativement faibles. Les différentes méthodes de paléo-altimétrie se retrouvent ainsi réconciliées et en accord avec un soulèvement récent (post-Éocène) du plateau tibétain.
+</resume_fr>
+  <resume_en>Understanding the uplift dynamics of a mountain range requires estimating past altitude. This is the purpose of the paleo-altimetry. The most commonly applied paleo-altimetry method is based on the isotopic oxygen composition of the carbonate archives. It reflects the composition of past rain, which at present-day and in the most mountain ranges becomes progressively more depleted in heavy isotopes with altitude. Assuming that this depletion remains valid in the past, the elevation of the Tibetan Plateau in the Eocene (about 42 millions years ago) is estimated to be about 4 000 m. However, other proxy data indicate on the contrary low altitudes. Is the relationship between the rain isotopic composition and the altitude that is observed today applicable to the Eocene? This is what we tried to verify using an atmospheric general circulation model, LMDZ-iso. We find that in the Eocene, the atmospheric circulation and hydrological processes were so different to the present-day that the isotopic observations in the Eocene carbonates are actually consistent with relatively low altitudes of the Plateau. This allows us to reconcile different methods of paleo-altimetry in agreement with more recent (post-Eocene) uplift of the Tibetan Plateau.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Le Service national d'observation de la salinité de surface de la mer : 50 ans de mesures océaniques globales</titre>
+  <titre_en>The French Sea Surface Salinity Observation Service: 50 years of measurements in the global ocean</titre_en>
+  <auteur>Alory, Gaël</auteur>
+  <auteur>Téchiné, Philippe</auteur>
+  <auteur>Delcroix, Thierry</auteur>
+  <auteur>Diverrès, Denis</auteur>
+  <auteur>Varillon, David</auteur>
+  <auteur>Donguy, Jean-René</auteur>
+  <auteur>Reverdin, Gilles</auteur>
+  <auteur>Morrow, Rosemary</auteur>
+  <auteur>Grelet, Jacques</auteur>
+  <auteur>Gouriou, Yves</auteur>
+  <auteur>Jacquin, Stéphane</auteur>
+  <auteur>Kestenare, Elodie</auteur>
+  <auteur>Bachelier, Céline</auteur>
+  <auteur>DiMattéo, Angelo</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>29-39</pages>
+  <doi>10.37053/lameteorologie-2020-0044</doi>
+  <url_pdf>meteo_2020_109_29.pdf</url_pdf>
+  <citation>Alory, Gaël ; Téchiné, Philippe ; Delcroix, Thierry ; Diverrès, Denis ; Varillon, David ; Donguy, Jean-René ; Reverdin, Gilles ; Morrow, Rosemary ; Grelet, Jacques ; Gouriou, Yves ; Jacquin, Stéphane ; Kestenare, Elodie ; Bachelier, Céline ; DiMattéo, Angelo. Le Service national d'observation de la salinité de surface de la mer : 50 ans de mesures océaniques globales. La Météorologie, 109, 29-39, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Salinité de l'eau, Interaction océan-atmosphère, Réseau de mesures, Surface de la mer, Mesures à bord d'un navire, Traitement des données, Validation de mesures, Modélisation d'ENSO</mots_cles>
+  <resume_fr>La salinité de surface de la mer (SSS : Sea Surface Salinity) influence la dynamique océanique et porte la signature du cycle de l'eau à l'interface océan-atmosphère. Pour mieux comprendre ses variations, le Service national d'observation SSS (SNO SSS) du Laboratoire d'études en géophysique et océanographie spatiales (Legos, Toulouse) gère un réseau global de navires d'opportunité équipés de thermosalinographes, initié il y a 50 ans. La maintenance des instruments est effectuée aux ports de Nouméa et du Havre par l'Institut de recherche pour le développement (IRD). Les données sont transmises en temps réel pour la surveillance des instruments et l'océanographie opérationnelle. Après correction des dérives instrumentales en temps différé, les données sont mises à disposition de la communauté scientifique internationale, et permettent d'étudier des processus océaniques et climatiques d'échelle régionale à globale, ou de valider modèles et données satellitaires.</resume_fr>
+  <resume_en>Sea Surface Salinity (SSS) affects the ocean dynamics and bears the signature of the water cycle at the ocean-atmosphere interface. To better understand its variations, the French SSS Observation Service from the Laboratory for Studies in Geophysics and Spatial Oceanography (LEGOS, Toulouse, France) manages a global network of voluntary observing ships equipped with thermosalinographs (TSG), initiated 50 years ago. The instruments are regularly serviced at harbour calls in New Caledonia and mainland France by the French National Research Institute for Sustainable Development (IRD). Data are transmitted in real time for instrument monitoring and operational oceanography. After correction of instrumental drifts in delayed time, data are freely distributed to the international research community, and used for process-oriented climate studies from regional to global scale, or for validation of models and satellite data.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Le voilier OceanoScientific Explorer Boogaloo : Une campagne péri-antarctique en 2017</titre>
+  <auteur>Reverdin, Gilles</auteur>
+  <auteur>Metzl, Nicolas</auteur>
+  <auteur>Reynaud, Thierry</auteur>
+  <auteur>Poli, Paul</auteur>
+  <auteur>Griboval, Yvan</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>40-47</pages>
+  <doi>10.37053/lameteorologie-2020-0045</doi>
+  <url_pdf>meteo_2020_109_40.pdf</url_pdf>
+  <citation>Reverdin, Gilles ; Metzl, Nicolas ; Reynaud, Thierry ; Poli, Paul ; Griboval, Yvan. Le voilier OceanoScientific Explorer Boogaloo : Une campagne péri-antarctique en 2017. La Météorologie, 109, 40-47, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Campagne de mesures, Navigation à voile, Données océanographiques, Antarctique</mots_cles>
+  <resume_fr>L'utilisation de voiliers comme pourvoyeurs de données océanographiques et météorologiques de qualité scientifique a été testée dans le cadre du programme OceanoScientific et en particulier lors de la navigation péri-antarctique en solitaire du voilier OceanoScientific Explorer Boogaloo début 2017. Les caractéristiques du système et les données océanographiques recueillies (température, salinité, fluorescence de la chlorophylle A, pression partielle de dioxyde de carbone) sont présentées, illustrant le succès de l'approche, malgré quelques contraintes qui sont évoquées.</resume_fr>
+  <resume_en>Using sailing vessels to provide surface oceanographic and meteorological data for operational and scientific use has been promoted in the OceanoScientific programme. It has been tested during the circum-Antarctic sailing of the Explorer OceanoScientific Boogaloo in early 2017. The instrumentation, data acquisition, processing and transmission characteristics are described. Then, the ocean data collected (temperature, salinity, fluorescence of Chlorophyll-A, partial pressure of carbon dioxide) are presented, illustrating the success of the approach, but also some constraints that were encountered.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Récit</rubrique>
+  <titre>Un an en Terre Adélie (2)</titre>
+  <auteur>Gourand, François</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>48-51</pages>
+  <doi>10.37053/lameteorologie-2020-0046</doi>
+  <url_pdf>meteo_2020_109_48.pdf</url_pdf>
+  <citation>Gourand, François. Un an en Terre Adélie (2). La Météorologie, 109, 48-51, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Antarctique, Terre Adélie, Témoignage, Hivernage, Base Dumont d'Urville</mots_cles>
+  <resume_fr>Durant cinq numéros de La Météorologie, nous vous proposons un carnet de voyage, une immersion au sein de la base Dumont-d'Urville, située en Terre Adélie. C'est le responsable de la station météorologique, François Gourand, qui nous en propose le récit pendant son séjour de décembre 2019 à décembre 2020. Ce deuxième article est consacré à l'organisation de la base.</resume_fr>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Cap Horn à la voile et La Longue route / par Bernard Moitessier</titre>
+  <auteur>Hontarrède, Michel</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>52-53</pages>
+  <doi>10.37053/lameteorologie-2020-0047</doi>
+  <url_pdf>meteo_2020_109_52.pdf</url_pdf>
+  <citation>Hontarrède, Michel. Cap Horn à la voile et La Longue route / par Bernard Moitessier. La Météorologie, 109, 52-53, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Navigation maritime, Récit, Météorologie marine, Jet-stream, Vagues scélérates</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>54-55</pages>
+  <doi>10.37053/lameteorologie-2020-0048</doi>
+  <url_pdf>meteo_2020_109_54.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 109, 54-55, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Le jardin météorologique. Par Philippe Rahm / 
+Dumont d'Urville. Par François Bellec / 
+Louis Pouzin, l'un des pères de l'Internet. Par Chantal Lebrument et Fabien Soyez / 
+Climatiser le monde. Par Stefan Aykut / 
+Un monde sans rivage. Par Hélène Gaudy / 
+Air-écologie : la démocratie a échoué, l'heure de la dictature est venue. Par Bertil Scali et Raphaël De Andreis / 
+REVUES : 
+Climat-Océan, les grands défis Arcades en Nouvelle-Aquitaine, numéro spécial, novembre 2019 / 
+THESES : 
+Aurore Dupré : Sizing of a short term wind forecasting system. Thèse de l'Institut polytechnique de Paris / 
+Jan Vatant d'Ollone : Modélisation numérique des variations saisonnières de l'atmosphère de Titan. Thèse de Sorbonne Université / 
+Ludivine Conte : Émissions océaniques de gaz d'intérêt pour la chimie atmosphérique : modélisation des dynamiques océaniques du CO, de l'isoprène et du DMS. Thèse de l'université Paris-Saclay / 
+Kristan Cuny-Guirriec : Le rapport Li-Mg dans les coraux scléractiniaires : un nouveau et puissant traceur des paléotempératures des océans ? Thèse de l'université Paris-Saclay / 
+Mathis Neuhauser : Étude des lois d'échelle multifractales caractérisant les observations satellitaires des surfaces continentales. Thèse de l'université de Toulouse / 
+Yuan Zhang : Impacts of anthropogenic aerosols on the terrestrial carbon cycle. Thèse de Sorbonne Université.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Nord-Est et central, 2019</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>56-62</pages>
+  <doi>10.37053/lameteorologie-2020-0049</doi>
+  <url_pdf>meteo_2020_109_56.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Nord-Est et central, 2019. La Météorologie, 109, 56-62, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique nord-est, Cyclone tropical, Tempête, Trajectoire, Incidence humaine, Dégâts dus au vent, Dégâts dus aux inondations, Pacifique central, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Nord-Ouest, 2019</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>63-70</pages>
+  <doi>10.37053/lameteorologie-2020-0050</doi>
+  <url_pdf>meteo_2020_109_63.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Nord-Ouest, 2019. La Météorologie, 109, 63-70, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique nord-ouest, Cyclone tropical, Tempête, Trajectoire, Incidence humaine, Dégâts dus au vent, Dégâts dus aux inondations, Bilan saisonnier, Typhon</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Décembre 2019 : Au feu ! ; La glace du lac Balkhach</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>71-72</pages>
+  <doi>10.37053/lameteorologie-2020-0051</doi>
+  <url_pdf>meteo_2020_109_71.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Décembre 2019 : Au feu ! ; La glace du lac Balkhach. La Météorologie, 109, 71-72, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Australie, Vague de chaleur, Kazakhstan, Lac, Manteau neigeux, Glace, Feux de forêts</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Janvier 2020 : Gloria ! ; Nuages actiniformes</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <auteur>Rolland, Thomas</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>73-74</pages>
+  <doi>10.37053/lameteorologie-2020-0052</doi>
+  <url_pdf>meteo_2020_109_73.pdf</url_pdf>
+  <citation>Le Moal, Sylvain ; Rolland, Thomas. Janvier 2020 : Gloria ! ; Nuages actiniformes. La Météorologie, 109, 73-74, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Tempête, Océan indien, Episode méditerranéen, Stratocumulus marins, Nuage actiniforme, Gloria</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Février 2020 : Comme neige au soleil... ; Tempête Dennis</titre>
+  <auteur>Le Moal, Sylvain</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>75-76</pages>
+  <doi>10.37053/lameteorologie-2020-0053</doi>
+  <url_pdf>meteo_2020_109_75.pdf</url_pdf>
+  <citation>Le Moal, Sylvain. Février 2020 : Comme neige au soleil... ; Tempête Dennis. La Météorologie, 109, 75-76, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, France, Fonte des neiges, Tempête, Atlantique, Cyclogénèse explosive, Dennis</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Décembre 2019</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>77-79</pages>
+  <doi>10.37053/lameteorologie-2020-0054</doi>
+  <url_pdf>meteo_2020_109_77.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Décembre 2019. La Météorologie, 109, 77-79, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Janvier 2020</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>80-82</pages>
+  <doi>10.37053/lameteorologie-2020-0055</doi>
+  <url_pdf>meteo_2020_109_80.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Janvier 2020. La Météorologie, 109, 80-82, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Février 2020</titre>
+  <auteur>Météo-France DClim</auteur>
+  <annee>2020</annee>
+  <numero>109</numero>
+  <pages>83-85</pages>
+  <doi>10.37053/lameteorologie-2020-0056</doi>
+  <url_pdf>meteo_2020_109_83.pdf</url_pdf>
+  <citation>Météo-France DClim. Résumé climatique, Février 2020. La Météorologie, 109, 83-85, 2020.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>05</mois>
+   <annee>2020</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France</mots_cles>
+ </notice>
+</notices_simples>

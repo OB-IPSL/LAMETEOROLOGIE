@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notices_simples numero="123">
+ <notice>
+  <rubrique>Couverture</rubrique>
+  <annee>2023</annee>
+  <mois>11</mois>
+  <numero>123</numero>
+  <url_pdf>meteo_2023_123_couv.pdf</url_pdf>
+ </notice>
+ <notice>
+  <rubrique>Éditorial</rubrique>
+  <titre>Editorial</titre>
+  <auteur>Soula, Serge</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>1</pages>
+  <doi>10.37053/lameteorologie-2023-0083</doi>
+  <url_pdf>meteo_2023_123_1.pdf</url_pdf>
+  <citation>Soula, Serge. Editorial. La Météorologie, 123, 1, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La mission spatiale Atmosphere Observing System (AOS)</titre>
+  <auteur>Brogniez, Hélène</auteur>
+  <auteur>Cuesta, Juan</auteur>
+  <auteur>Noël, Vincent</auteur>
+  <auteur>Deschamps, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>2-4</pages>
+  <doi>10.37053/lameteorologie-2023-0084</doi>
+  <url_pdf>meteo_2023_123_2.pdf</url_pdf>
+  <citation>Brogniez, Hélène ; Cuesta, Juan ; Noël, Vincent ; Deschamps, Adrien. La mission spatiale Atmosphere Observing System (AOS). La Météorologie, 123, 2-4, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Lidar, Radar doppler, Radiomètre micro-ondes, Processus convectifs, Qualité de l'air, Nuages, Mission spatiale, Orbite inclinée, EarthCare</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Mission spatiale Aeolus : bilan fructueux et prometteur pour l'étude de l'atmosphère et la prévision météorologique</titre>
+  <auteur>Dabas, Alain</auteur>
+  <auteur>Pourret, Vivien</auteur>
+  <auteur>Mahfouf, Jean-François</auteur>
+  <auteur>Payan, Christophe</auteur>
+  <auteur>Chambon, Philippe</auteur>
+  <auteur>Bénichou, Hervé</auteur>
+  <auteur>Khaykin, Sergey</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>5-6</pages>
+  <doi>10.37053/lameteorologie-2023-0085</doi>
+  <url_pdf>meteo_2023_123_5.pdf</url_pdf>
+  <citation>Dabas, Alain ; Pourret, Vivien ; Mahfouf, Jean-François ; Payan, Christophe ; Chambon, Philippe ; Bénichou, Hervé ; Khaykin, Sergey. Mission spatiale Aeolus : bilan fructueux et prometteur pour l'étude de l'atmosphère et la prévision météorologique. La Météorologie, 123, 5-6, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Télédétection satellitaire, Lidar doppler, Profil de vent, Aérosol, Assimilation des données, Prévision opérationnelle, Mission spatiale, Aeolus</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Aero-HdF : une campagne aéroportée dédiée aux aérosols et à la préparation de la mission spatiale européenne 3MI</titre>
+  <auteur>Waquet, Fabien</auteur>
+  <auteur>Chiapello, Isabelle</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>7-8</pages>
+  <doi>10.37053/lameteorologie-2023-0086</doi>
+  <url_pdf>meteo_2023_123_7.pdf</url_pdf>
+  <citation>Waquet, Fabien ; Chiapello, Isabelle. Aero-HdF : une campagne aéroportée dédiée aux aérosols et à la préparation de la mission spatiale européenne 3MI. La Météorologie, 123, 7-8, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Campagne de mesure, Aérosol, Polluant atmosphérique, Mesure aéroportée, Mesure in situ, Télédétection, Hauts-de-France, Mesure optique, Imageur polarimétrique, Mission spatiale, Osiris, 3MI, ATR-42</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>La banquise antarctique est-elle entrée dans un nouveau régime ?</titre>
+  <auteur>Altendorf, Damien</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>9-11</pages>
+  <doi>10.37053/lameteorologie-2023-0087</doi>
+  <url_pdf>meteo_2023_123_9.pdf</url_pdf>
+  <citation>Altendorf, Damien. La banquise antarctique est-elle entrée dans un nouveau régime ?. La Météorologie, 123, 9-11, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Antarctique, Glace de mer, Interaction océan-atmosphère, Réchauffement des océans, Océan austral, Extension de la banquise, Déficit de banquise</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>36e colloque de l'Association internationale de climatologie</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>11-14</pages>
+  <doi>10.37053/lameteorologie-2023-0088</doi>
+  <url_pdf>meteo_2023_123_11.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. 36e colloque de l'Association internationale de climatologie. La Météorologie, 123, 11-14, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie, Hydrologie, Précipitations, Sécheresse, Colloque, Ilot de chaleur urbain, Qualité de l'air</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Échos</rubrique>
+  <titre>Élections à la tête du groupe I du Giec</titre>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>14-16</pages>
+  <doi>10.37053/lameteorologie-2023-0089</doi>
+  <url_pdf>meteo_2023_123_14.pdf</url_pdf>
+  <citation>Élections à la tête du groupe I du Giec. La Météorologie, 123, 14-16, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Organisation météorologique, GIEC</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La photo du trimestre</rubrique>
+  <titre>Filtrage atmosphérique</titre>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>17-18</pages>
+  <doi>10.37053/lameteorologie-2023-0090</doi>
+  <url_pdf>meteo_2023_123_17.pdf</url_pdf>
+  <citation>Filtrage atmosphérique. La Météorologie, 123, 17-18, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Photographie de phénomène, Poussières désertiques, Coucher du Soleil</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>La vie de Météo et Climat</rubrique>
+  <titre>Forum international de la Météo et du Climat : Une 20e édition couronnée de succès</titre>
+  <auteur>Daudier, Morgane</auteur>
+  <auteur>Gady, Sonia</auteur>
+  <auteur>Vannier, Christian</auteur>
+  <auteur>Sylvain, Loucas</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>19-31</pages>
+  <doi>10.37053/lameteorologie-2023-0091</doi>
+  <url_pdf>meteo_2023_123_19.pdf</url_pdf>
+  <citation>Daudier, Morgane ; Gady, Sonia ; Vannier, Christian ; Sylvain, Loucas. Forum international de la Météo et du Climat : Une 20e édition couronnée de succès. La Météorologie, 123, 19-31, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Diffusion scientifique, Information des médias, Éducation, Communication, Colloque, Changement climatique, Transition écologique, Exposition, Ateliers pédagogiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Prévision</rubrique>
+  <titre>Les usagers professionnels des prévisions météorologiques probabilistes : des rapports à l'incertitude variés</titre>
+  <titre_en>Professional users of probabilistic weather forecasts: different relationships to uncertainty</titre_en>
+  <auteur>Breton, Éléanor</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>32-38</pages>
+  <doi>10.37053/lameteorologie-2023-0092</doi>
+  <url_pdf>meteo_2023_123_32.pdf</url_pdf>
+  <citation>Breton, Éléanor. Les usagers professionnels des prévisions météorologiques probabilistes : des rapports à l'incertitude variés. La Météorologie, 123, 32-38, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Information météorologique, Incertitude de la prévision, Prévision probabiliste, Météo-sensibilité, Perception du risque, Usagers professionnels, Approche sociologique</mots_cles>
+  <resume_fr>Le rapport à l'incertitude des événements météorologiques et au risque qu'ils peuvent constituer pour les biens et les personnes est un enjeu devenu essentiel dans le contexte de dérèglement climatique que nous connaissons. Il est ainsi intéressant d'ouvrir la boîte noire des relations entretenues par les usagers professionnels météo-sensibles à l'égard de l'incertitude des prévisions afin d'en mesurer la complexité. Nous proposons ici de les envisager depuis la perspective sociologique, rarement empruntée sur ce terrain, comparativement aux approches psychologiques et économiques, en mettant en évidence certaines variables clés (météo-sensibilité continue ou segmentée, métier, expertise, rapport au risque, rapport au marché notamment). Les combinaisons singulières de ces variables produisent des rapports différents à l'information météorologique en fonction des usagers, utiles pour saisir leurs dispositions à s'approprier les prévisions probabilistes.</resume_fr>
+  <resume_en>The relationship between the uncertainty of meteorological events and the risk they can pose to people and property has become an essential issue in the context of climate disruption. It is therefore interesting to open the black box of the relationships maintained by weather-sensitive professional users with regard to forecast uncertainty, in order to measure their complexity. We propose here to consider these relationships from a sociological perspective, which is rarely used in this field compared to psychological and economic approaches, by highlighting certain key variables (continuous or segmented weather-sensitivity, profession, expertise, relationship to risk, relationship to the market, etc.). The singular combinations of these variables produce different relationships to meteorological information, depending on the user, which is useful for grasping their disposition to appropriate probabilistic forecasts.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Océanographie</rubrique>
+  <titre>Les courants jets sous-marins : enjeux climatiques et défis scientifiques</titre>
+  <titre_en>Underwater jet streams: climate stakes and scientific challenges</titre_en>
+  <auteur>Delpech, Audrey</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>39-48</pages>
+  <doi>10.37053/lameteorologie-2023-0093</doi>
+  <url_pdf>meteo_2023_123_39.pdf</url_pdf>
+  <citation>Delpech, Audrey. Les courants jets sous-marins : enjeux climatiques et défis scientifiques. La Météorologie, 123, 39-48, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Courant océanique, Océan profond, Région équatoriale, Courant jet, Zones de minimum d'oxygène (OMZ), Biais des modèles, Énergie turbulente, Mélange océanique, Onde de Rossby, Flotteurs Argo</mots_cles>
+  <resume_fr>Les courants océaniques jouent un rôle important dans le système climatique global grâce à leur capacité à transporter et redistribuer la chaleur et divers éléments chimiques à l'échelle mondiale. Cependant, l'océan profond étant difficile d'accès, notre connaissance des courants marins au-delà de 200 mètres de profondeur est très lacunaire. De récentes observations ont mis en lumière la présence de forts courants, appelés courants jets, entre 200 et 2 000 mètres dans les régions équatoriales. À partir d'une approche mêlant observations, modélisation et théorie, nous montrons le rôle de ces courants jets dans le mélange et la ventilation océaniques, ainsi que les processus physiques à l'origine de leur formation, validant ainsi, pour la première fois dans l'océan, des théories issues de disciplines connexes.</resume_fr>
+  <resume_en>Oceanic currents play an important role in the climate system through their ability to transport and redistribute heat and various chemical elements on a global scale. However, because the deep ocean is difficult to access, our knowledge of ocean currents below 200 m is poor. Recent observations have highlighted the presence of strong currents, known as jets, between 200 m and 2000 m depth, in the equatorial regions. Using an approach combining observations, modelling and theory, we have shown the role of these jets in oceanic mixing and ventilation, as well as the physical processes underlying their formation, validating theories from other disciplines for the first time in the ocean.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Hydrologie</rubrique>
+  <titre>Retour d'expérience de l'inondation de Gaklé (Extrême-Nord au Cameroun) du 24 au 25 juillet 2018</titre>
+  <titre_en>Hydrometeorological framework of the floods of July-24-25, 2018 in the locality of Gaklé (Far-North Cameroon)</titre_en>
+  <auteur>Bouba, Lucas</auteur>
+  <auteur>Samba Assomo, Philippe</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>49-58</pages>
+  <doi>10.37053/lameteorologie-2023-0094</doi>
+  <url_pdf>meteo_2023_123_49.pdf</url_pdf>
+  <citation>Bouba, Lucas ; Samba Assomo, Philippe. Retour d'expérience de l'inondation de Gaklé (Extrême-Nord au Cameroun) du 24 au 25 juillet 2018. La Météorologie, 123, 49-58, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Étude d'évènement particulier, Afrique, Cameroun, Hydrométéorologie, Humidité du sol, Géomorphologie, Causes des inondations, Reconstitution des paramètres météorologiques</mots_cles>
+  <resume_fr>Les analyses des données issues d'un observatoire hydrométéorologique, une reconnaissance des facteurs géomorphologiques environnants, ainsi qu'une analyse de l'évolution spatio-temporelle de l'orage grâce à l'imagerie satellitaire de Météosat, ontpermis de reconstituer les causes de l'inondation catastrophique survenue du 24 au 25 juillet 2018 à Gaklé dans l'Extrême-Nord au Cameroun. La combinaison de plusieurs facteurs peut expliquer l'inondation : (i) un contexte climatique caractérisé par une fréquence élevée des événements pluviométriques journaliers de classe P3 (cumul &gt; 40 mm) ayant entraîné une forte humidité des sols ; (ii) une localisation de l'orage dans sa phase la plus sévère, dans un contexte de morphologie de terrain favorable à la crue de la rivière qui traverse Gaklé. En définitive, le retour d'expérience de cette inondation a permis de fournir à l'opinion des informations nécessaires pour améliorer la connaissance des facteurs d'occurrence des inondations dans la partie soudano-sahélienne du Cameroun.</resume_fr>
+  <resume_en>Data from a hydrometeorological observatory subjected to statistical analyzes of time series, recognition of surrounding geomorphological factors, as well as an analysis of the spatio-temporal evolution of the storm using Meteosat satellite imagery, made it possible to reconstruct the causes of the catastrophic flood that occurred from July 24 to 25, 2018 in Gaklé in the peri-urban area of Maroua in the Far-North of Cameroon. The combination of several factors can explain the flooding: (i) a climatic context characterized by a high frequency of daily rainfall events of class P3 (with a cumulative &gt; 40 mm) resulting in high soil humidity; (ii) location of the storm in its most severe phase in a context of land morphology favourable to the flooding of the river that crosses Gaklé. Ultimately, the experience feedback from this flood has made it possible to provide public opinion with the information necessary to improve knowledge of the factors of occurrence of floods in the Sudano-Sahelian part of Cameroon.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Dossier</rubrique>
+  <titre>Concordia : une station scientifique dans le froid extrême de l'Antarctique</titre>
+  <titre_en>The Concordia Antarctic station</titre_en>
+  <auteur>Ricaud, Philippe</auteur>
+  <auteur>Sonneville, Aude</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>59-65</pages>
+  <doi>10.37053/lameteorologie-2023-0095</doi>
+  <url_pdf>meteo_2023_123_59.pdf</url_pdf>
+  <citation>Ricaud, Philippe ; Sonneville, Aude. Concordia : une station scientifique dans le froid extrême de l'Antarctique. La Météorologie, 123, 59-65, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Antarctique, Recherche scientifique, Installations, Observation météorologique, Chimie de l'atmosphere, Observation astronomique, Forage glaciaire, Recherche biomédicale, Coopération internationale, Institut polaire français, Système Concordia, Dôme C</mots_cles>
+  <resume_fr>La station Concordia (75,1° S ; 123,35° E) est située sur le plateau antarctique oriental à 3 233 mètres d'altitude et à peu près 1 100 km de la côte. Ouverte en 2005, elle est cogérée par la France (Institut Paul-Émile Victor, Ipev) et l'Italie (Programme national antarctique italien, PNRA). Comme les stations américaine Amundsen-Scott du pôle Sud et russe de Vostok à l'intérieur du continent, elle est ouverte toute l'année. Du fait de sa situation exceptionnelle, de nombreux projets scientifiques y sont déployés, notamment sur les sciences de l'univers (météorologie, climatologie, glaciologie, astronomie, géophysique, etc.) et la biologie médicale liée à l'altitude élevée, aux températures extrêmes, au confinement, etc. Ces projets exigent une organisation logistique exceptionnelle au sein du « système Concordia » : 1) la station Robert Guillard sur la côte continentale au voisinage de la station Dumont d'Urville, 2) les raids logistiques terrestres de Robert Guillard à Concordia et 3) Concordia. Une rénovation et des actions pour réduire son empreinte carbone sont planifiées pour les années à venir afin que la station reste une vigie dans les questionnements clés des sciences de l'univers, du climat et des activités biomédicales liées aux vols habités interplanétaires.</resume_fr>
+  <resume_en>The Concordia Station (75,1° S ; 123,35° E) is located on the East Antarctic Plateau at an altitude of 3 233 m and approximately 1 100 km from the coast. Opened in 2005, it is co-managed by France (Paul-Émile Victor French Polar Institute, Ipev) and Italy (Italian National Antarctic Program, PNRA). Like the American Amundsen-Scott South Pole and Russian Vostok stations inside the continent, it is open all year round. Due to its exceptional location, numerous scientific projects are deployed there, particularly on the sciences of the universe (meteorology, climatology, glaciology, astronomy, geophysics, etc.) and medical biology linked to high altitude, extreme temperatures, confinement, etc. These projects require an exceptional logistical organization within the &quot;Concordia System&quot;: 1) the Robert Guillard station on the continental coast near the Dumont d'Urville station, 2) logistical traverses from Robert Guillard's station to Concordia, and 3) Concordia. A renovation and actions to reduce its carbon footprint are planned for the years to come so that the station remains a lookout in key questions in the sciences of the universe, climate and biomedical activities linked to interplanetary manned flights.</resume_en>
+ </notice>
+ <notice>
+  <rubrique>Le temps des écrivains</rubrique>
+  <titre>La météorologie dans les aventures de Tintin, oeuvres de Hergé</titre>
+  <auteur>Leduc, Richard</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>66-68</pages>
+  <doi>10.37053/lameteorologie-2023-0096</doi>
+  <url_pdf>meteo_2023_123_66.pdf</url_pdf>
+  <citation>Leduc, Richard. La météorologie dans les aventures de Tintin, oeuvres de Hergé. La Météorologie, 123, 66-68, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Bande dessinée, Épisodes météorologiques, Tintin</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Géopolitique du climat. Les relations internationales dans un monde en surchauffe / par François Gemenne</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>69</pages>
+  <doi>10.37053/lameteorologie-2023-0097</doi>
+  <url_pdf>meteo_2023_123_69.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Géopolitique du climat. Les relations internationales dans un monde en surchauffe / par François Gemenne. La Météorologie, 123, 69, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, Politique climatique, Négociation internationale, Migrations climatiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Lu pour vous</rubrique>
+  <titre>Giec, la voix du climat / par Kari de Pryck</titre>
+  <auteur>Juvanon du Vachat, Régis</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>70</pages>
+  <doi>10.37053/lameteorologie-2023-0098</doi>
+  <url_pdf>meteo_2023_123_70.pdf</url_pdf>
+  <citation>Juvanon du Vachat, Régis. Giec, la voix du climat / par Kari de Pryck. La Météorologie, 123, 70, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Changement climatique, GIEC, Fonctionnement, Négociation internationale</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Vient de paraître</rubrique>
+  <titre>Vient de paraître</titre>
+  <auteur>Javelle, Jean-Pierre</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>71-72</pages>
+  <doi>10.37053/lameteorologie-2023-0099</doi>
+  <url_pdf>meteo_2023_123_71.pdf</url_pdf>
+  <citation>Javelle, Jean-Pierre. Vient de paraître. La Météorologie, 123, 71-72, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <description>OUVRAGES : 
+Climats terrestres, architectes des beautés de la nature. Par Martin Beniston / 
+Le changement climatique. Par Mark Maslin / 
+Philosophie du changement climatique : éthique, politique, nature. Textes réunis, introduits et traduits par M. Bourban, L. Broussois et A. Fragnière / 
+Dictionnaire juridique du changement climatique. Sous la direction de M. Torre-Schaub, A. Jézéquel, B. Lormeteau, A. Michelot / 
+Les grands défis économiques. Par Olivier Blanchard et Jean Tirole / 
+Tsunami. Par Marc Dugain / 
+Les solastalgiques. Par Martin Hirsch / 
+INTERNET : 
+Acter l'urgence, engager les moyens. Résumé du rapport annuel 2022 du Haut conseil pour le climat / 
+THESES : 
+Raphaël Lebrun : Modélisation du recouvrement vertical des nuages et impacts sur le rayonnement. Thèse de Sorbonne Université / 
+Marie-Laure Roussel : Les précipitations au-dessus de la calotte Antarctique, une approche conjointe observations et modélisation. Thèse de l'Institut polytechnique de Paris / 
+Alexandre Barboni : Surface and subsurface evolution of mesoscale eddies under atmospheric forcings : case study in the Mediterranean sea. Thèse de l'Institut polytechnique de Paris / 
+Matthieu Baron : Modélisation des régimes thermiques du sol dans les milieux ouverts d'altitude des Alpes françaises, influence du transport de neige par le vent et de la végétation. Thèse de l'université Grenoble Alpes.</description>
+ </notice>
+ <notice>
+  <rubrique>Saison cyclonique</rubrique>
+  <titre>Pacifique Sud 2022-2023 : Une saison très courte</titre>
+  <auteur>Thibord, Corinne</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>73-77</pages>
+  <doi>10.37053/lameteorologie-2023-0100</doi>
+  <url_pdf>meteo_2023_123_73.pdf</url_pdf>
+  <citation>Thibord, Corinne. Pacifique Sud 2022-2023 : Une saison très courte. La Météorologie, 123, 73-77, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Pacifique sud, Cyclone tropical, Formation tropicale, Tempête, Trajectoire, Australie, Nouvelle Calédonie, Fidji, Vanuatu, Bilan saisonnier</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juin 2023 : Fumées voyageuses ; Le Québec entre feux et glace</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>78-79</pages>
+  <doi>10.37053/lameteorologie-2023-0101</doi>
+  <url_pdf>meteo_2023_123_78.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Juin 2023 : Fumées voyageuses ; Le Québec entre feux et glace. La Météorologie, 123, 78-79, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Incendie de forêt, Fumée, Canada, Québec</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Juillet 2023 : La tempête Poly ; Plumes de poussière</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>80-81</pages>
+  <doi>10.37053/lameteorologie-2023-0102</doi>
+  <url_pdf>meteo_2023_123_80.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Juillet 2023 : La tempête Poly ; Plumes de poussière. La Météorologie, 123, 80-81, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Pays-Bas, Tempête, Namibie, Perturbation, Poussières désertiques</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Les photos du mois</rubrique>
+  <titre>Août 2023 : L'oeil de Khanun ; Aquarelle de plancton</titre>
+  <auteur>Hernandez, Jean-Baptiste</auteur>
+  <auteur>Mauss, Adrien</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>82-83</pages>
+  <doi>10.37053/lameteorologie-2023-0103</doi>
+  <url_pdf>meteo_2023_123_82.pdf</url_pdf>
+  <citation>Hernandez, Jean-Baptiste ; Mauss, Adrien. Août 2023 : L'oeil de Khanun ; Aquarelle de plancton. La Météorologie, 123, 82-83, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Image satellitaire, Oeil du cyclone, Mer de Barents, Mur de l'oeil, Efflorescence planctonique</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Retour sur...</rubrique>
+  <titre>L'été et le début d'automne 2023</titre>
+  <auteur>Kreitz, Michaël</auteur>
+  <auteur>Sorel, Matthieu</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>84-90</pages>
+  <doi>10.37053/lameteorologie-2023-0104</doi>
+  <url_pdf>meteo_2023_123_84.pdf</url_pdf>
+  <citation>Kreitz, Michaël ; Sorel, Matthieu. L'été et le début d'automne 2023. La Météorologie, 123, 84-90, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Article</type>
+  <mots_cles>Vague de chaleur, France, Europe, Méditerranée, Étude d'évènement particulier, Analyse synoptique, Record climatique, Évènement extrême, Médicane, Poussières désertiques, Dôme de chaleur, Blocage en oméga</mots_cles>
+ </notice>
+ <notice>
+  <rubrique>Résumés climatiques</rubrique>
+  <titre>Juin à août 2023</titre>
+  <auteur>Météo-France/DCSC</auteur>
+  <auteur>Mercator Océan</auteur>
+  <annee>2023</annee>
+  <numero>123</numero>
+  <pages>91-99</pages>
+  <doi>10.37053/lameteorologie-2023-0105</doi>
+  <url_pdf>meteo_2023_123_91.pdf</url_pdf>
+  <citation>Météo-France/DCSC ; Mercator Océan. Résumé climatique, Juin à août 2023. La Météorologie, 123, 91-99, 2023.</citation>
+  <pub_date>
+   <jour>01</jour>
+   <mois>11</mois>
+   <annee>2023</annee>
+  </pub_date>
+  <open_access>2</open_access>
+  <type>Rubrique régulière dans publication en série</type>
+  <mots_cles>Climatologie d'un lieu, France, Régime de temps, Anomalie climatique, Oscillations océaniques, Température de surface de la mer, Extension de la banquise, Bilan climatique</mots_cles>
+ </notice>
+</notices_simples>
